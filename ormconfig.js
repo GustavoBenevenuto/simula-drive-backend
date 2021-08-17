@@ -1,12 +1,13 @@
 console.log("✨DOTENV >>> " + process.env.DATABASE_URL);
 module.exports = {
     "type": "postgres",
-    "url": process.env.DATABASE_URL+'?ssl=true',
+    "url": process.env.DATABASE_URL,
     //   "host": "localhost",
     //   "port": 5432,
     //   "username": "postgres",
     //   "password": "postgres",
     //   "database": "simula_drive",
+    "ssl": { "rejectUnauthorized": false },
     "entities": [
         "./dist/models/*.js"
     ],
