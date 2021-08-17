@@ -1,0 +1,2092 @@
+[
+    {
+        "pergunta": "Numa via de mão única, o condutor deverá sinalizar e deslocar-se com antecedência, ir para a  faixa mais à esquerda para:",
+        "imagem": null,
+        "respA": "a) Entrar à esquerda.",
+        "respB": "b) Mudar de faixa de trânsito.",
+        "respC": "c) Fazer uma ultrapassagem.",
+        "respD": "d) Aumentar a velocidade.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Dirigindo um veículo em uma via de trânsito  rápido, com várias faixas de trânsito no mesmo sentido, você poderá...",
+        "imagem": null,
+        "respA": "a) Manter seu veículo na faixa da esquerda em velocidade mais reduzida.",
+        "respB": "b) Fazer um retorno utilizando o acostamento.",
+        "respC": "c) Entrar em uma rua lateral à esquerda ou à direita, desde que se obedeça  as regras de preferência.",
+        "respD": "d) Ultrapassar outro veículo pela esquerda quando as condições forem favoráveis.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Verificar se o espaço é suficiente, sinalizar com antecedência e retomar a posição anterior, são procedimentos para executar uma...",
+        "imagem": null,
+        "respA": "a) Executar uma frenagem brusca.",
+        "respB": "b) Ultrapassagem a outro veículo em movimento.",
+        "respC": "c) Entrada em via arterial.",
+        "respD": "d) Passagem a outro veículo em movimento.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Nas vias urbanas, os ciclistas devem circular:",
+        "imagem": null,
+        "respA": "a) Pela esquerda da via, junto ao meio fio, em sentido contrário aos demais veículos.",
+        "respB": "b) Pela direita da via, junto ao meio-fio, em sentido contrário aos demais veículos.",
+        "respC": "c) Pelo centro da pista de rolamento.",
+        "respD": "d) Pela direita da via, junto ao meio-fio no mesmo sentido.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao  regular a velocidade, o condutor deverá observar constantemente:",
+        "imagem": null,
+        "respA": "a) A condição física da via, do veículo e da carga, as condições meteorológicas e intensidade do trânsito.",
+        "respB": "b) Sinalização somente.",
+        "respC": "c) Somente a intensidade do trânsito.",
+        "respD": "d) Obedecer somente aos limites de velocidade.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O pedestre tem preferência sobre o veículo, quando:",
+        "imagem": null,
+        "respA": "a) Tiver iniciado a travessia, mesmo que inexista a sinalização para o mesmo.",
+        "respB": "b) Somente quando for idoso.",
+        "respC": "c) Somente nas portas de escolas.",
+        "respD": "d) Em todas as situações.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor,  para virar à esquerda em interseção de vias de sentido duplo de trânsito, no perímetro urbano, deve:",
+        "imagem": null,
+        "respA": "a) Aproximar-se o máximo da margem esquerda da via.",
+        "respB": "b) Apenas reduzir a velocidade e entrar rápidamente.",
+        "respC": "c) Aproximar-se o máximo possível de seu eixo da linha divisória.",
+        "respD": "d) Aproximar-se o máximo da margem direita da via.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Assinale a alternativa que responda a questão: Os ciclomotores devem ser conduzidos pela direita da pista de rolamento, preferencialmente, no _____ da faixa mais à direita ou no bordo direito da pista, sempre que não houver ______ ou faixa própria a eles destinada.",
+        "imagem": null,
+        "respA": "a) Acostamento , circulação.",
+        "respB": "b) Trânsito, bordo.",
+        "respC": "c) Centro, acostamento.",
+        "respD": "d) Bordo, pista de rolamento.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao se aproximar de qualquer tipo de cruzamento, sinalizado ou não, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Ter domínio do veículo e parar sempre.",
+        "respB": "b) Ser prudente e reduzir a velocidade.",
+        "respC": "c) Ter segurança e acelerar rapidamente.",
+        "respD": "d) Parar obrigatoriamente.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A faixa destinada para se fazer ultrapassagem e circular em maior velocidade é:",
+        "imagem": null,
+        "respA": "a) A sinalizada com linhas amarelas.",
+        "respB": "b) Do centro.",
+        "respC": "c) A que estiver mais livre.",
+        "respD": "d) Da esquerda.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É dever do condutor de transporte coletivo:",
+        "imagem": null,
+        "respA": "a) Parar para embarque somente nos locais estabelecidos.",
+        "respB": "b) Parar para embarque em qualquer local.",
+        "respC": "c) Cumprimentar os passageiros.",
+        "respD": "d) Aumentar a velocidade quando em atraso.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando o sinal está aberto para o seu veículo e um pedestre atravessa na sua frente, você:",
+        "imagem": null,
+        "respA": "a) Dá-lhe uma bronca.",
+        "respB": "b) Desce do veículo e o ajuda na travessia.",
+        "respC": "c) Buzina para apressar o pedestre.",
+        "respD": "d) Aguarda que ele faça a travessia,",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É dever de todo condutor de veículo:",
+        "imagem": null,
+        "respA": "a) Dar passagem, pela esquerda, quando solicitado.",
+        "respB": "b) Buzinar ao cruzar uma faixa de pedestres.",
+        "respC": "c) Obedecer somente a sinalização de placas e ao sinal luminoso.",
+        "respD": "d) Circular somente pela faixa da direita.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando o pedestre estiver atravessando a via transversal em que o veículo for entrar, o condutor deverá:",
+        "imagem": null,
+        "respA": "a) Transitar com velocidade reduzida.",
+        "respB": "b) Dar preferência ao pedestre.",
+        "respC": "c) Mudar de direção.",
+        "respD": "d) Sinalizar a sua intenção para passar.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Por fluxos que se cruzam, o veículo que vier a direita do outro, terá preferência de passagem quando:",
+        "imagem": null,
+        "respA": "a) Transportando passageiros.",
+        "respB": "b) Transportando cargas.",
+        "respC": "c) Transitando em avenidas.",
+        "respD": "d) Transitando em local não sinalizado.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Em uma pista com várias faixas no mesmo sentido, são as da __________ destinadas ao deslocamento dos veículos mais __________ e de maior porte, quando não houver faixa especial a eles destinadas:",
+        "imagem": null,
+        "respA": "a) Direita; rápidos.",
+        "respB": "b) Esquerda; lentos.",
+        "respC": "c) Esquerda; rápidos.",
+        "respD": "d) Direita; lentos.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor deve sinalizar e deslocar com antecedência seu veículo para a faixa mais a direita da sua mão de direção para:",
+        "imagem": null,
+        "respA": "a) Entrar à direita.",
+        "respB": "b) Mudar de faixa de trânsito.",
+        "respC": "c) Para retornar pela mesma via.",
+        "respD": "d) Entrar à esquerda.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A transposição de faixas, movimentos de conversão à direita e retornos denomina-se:",
+        "imagem": null,
+        "respA": "a) Interseção.",
+        "respB": "b) Logradouro.",
+        "respC": "c) Cruzamento.",
+        "respD": "d) Deslocamento lateral.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Todo o condutor de veículo deve dar preferência de passagem ao pedestre:",
+        "imagem": null,
+        "respA": "a) Somente quando se tratar de deficiente físico.",
+        "respB": "b) Somente quando se tratar de crianças e idosos.",
+        "respC": "c) Em qualquer situação.",
+        "respD": "d) Somente nas faixas de segurança.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Os condutores de motocicletas, motonetas e ciclomotores só poderão circular nas vias:",
+        "imagem": null,
+        "respA": "a) Usando vestuário de proteção quando transitar por rodovias.",
+        "respB": "b) Fazendo uso do facho de luz alta nos túneis providos de iluminação pública.",
+        "respC": "c) Utilizando capacete de segurança com viseira ou óculos protetor.",
+        "respD": "d) Segurando o guidão com apenas uma das mãos.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao passar sobre um ponto de alagamento e perceber que o freio começa a apresentar falhas, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Acelerar utilizando somente uma marcha.",
+        "respB": "b) Engrenar a primeira marcha para manter o motor acelerado.",
+        "respC": "c) Manter a velocidade constante até chegar ao destino.",
+        "respD": "d) Reduzir a velocidade, testar o freio e, se necessário, sinalizar, parar e procurar socorro.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Costuma acontecer em regiões próximas ao litoral ou regiões próximas à rios e represas:",
+        "imagem": null,
+        "respA": "a) Granizo.",
+        "respB": "b) Neblina.",
+        "respC": "c) Garoa.",
+        "respD": "d) Pista escorregadia.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Em capacetes que não possuam viseira será obrigatório o uso de:",
+        "imagem": null,
+        "respA": "a) Óculos de proteção.",
+        "respB": "b) Óculos de sol.",
+        "respC": "c) Óculos de grau.",
+        "respD": "d) Lentes de contato.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O freio de estacionamento, geralmente atua:",
+        "imagem": null,
+        "respA": "a) Nas rodas dianteiras.",
+        "respB": "b) Na transmissão.",
+        "respC": "c) Nas rodas traseiras.",
+        "respD": "d) No eixo cardã.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Dentre os veículos a seguir, qual tem prioridade de passagem:",
+        "imagem": null,
+        "respA": "a) De transporte de carga.",
+        "respB": "b) Ambulância com os dispositivos luminosos e sonoros acionados.",
+        "respC": "c) Motocicleta.",
+        "respD": "d) Transporte coletivo de passageiros.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O pedestre tem preferência no trânsito:",
+        "imagem": null,
+        "respA": "a) Em qualquer situação, exceto quando a luz verde do semáforo para os veículos estiver acesa.",
+        "respB": "b) Somente quando a luz vermelha do semáforo para os veículos estiver acesa.",
+        "respC": "c) Somente quando for idoso.",
+        "respD": "d) Quando na faixa de pedestres, desprovida de sinalização.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O trânsito sobre passeio e calçadas é permitido para:",
+        "imagem": null,
+        "respA": "a) Fugir de estacionamento.",
+        "respB": "b) Apanhar passageiros.",
+        "respC": "c) Cortar caminho.",
+        "respD": "d) Acesso a estacionamento e/ou imóveis.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta. Frenagem de emergência é:",
+        "imagem": null,
+        "respA": "a) Travamento das rodas.",
+        "respB": "b) Arrastamento dos pneus, sem deixar marcas no solo.",
+        "respC": "c) Redução moderada da velocidade do veículo.",
+        "respD": "d) Redução imediata da velocidade do veículo no menor tempo possível.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando é permitido o tráfego pelo acostamento de uma estrada?",
+        "imagem": null,
+        "respA": "a) Quando a pista estiver congestionada.",
+        "respB": "b) Quando, devido a problema mecânico, o seu veículo estiver lento.",
+        "respC": "c) Para acessar a lotes lindeiros ou fazer conversões.",
+        "respD": "d) Para rebocar um veículo acidentado ou com problemas mecânicos.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao atravessar uma passagem de nível com uma ferrovia, sem cancela, você deve:",
+        "imagem": null,
+        "respA": "a) Reduzir a velocidade e atravessar a via férrea.",
+        "respB": "b) Parar o veículo, olhar para ambos os lados e efetuar o cruzamento com segurança.",
+        "respC": "c) Buzinar antes de atravessar.",
+        "respD": "d) Acender os faróis do veículo.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta. Sobre conversões podemos afirmar:",
+        "imagem": null,
+        "respA": "a) À direita - devemos manter à direita.",
+        "respB": "b) À esquerda em mão única - devemos deslocar totalmente à esquerda.",
+        "respC": "c) À esquerda em rodovia - devemos utilizar o acostamento da esquerda quando não houver local apropriado.",
+        "respD": "d) À esquerda, mão dupla - deslocar para linha divisória da pista.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Mão de direção é:",
+        "imagem": null,
+        "respA": "a) O lado da pista que o condutor deve evitar.",
+        "respB": "b) O lado da pista que o condutor deve transitar.",
+        "respC": "c) O lado da pista que o condutor normalmente deve ultrapassar.",
+        "respD": "d) O lado da pista que o condutor deve rejeitar.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Os veículos destinados a socorro, como polícia e ambulância, tem:",
+        "imagem": null,
+        "respA": "a) Dever de passagem.",
+        "respB": "b) Preferência de passagem.",
+        "respC": "c) Prioridade de passagem.",
+        "respD": "d) Nenhuma das alternativas.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Um veículo com a intenção de entrar em uma rodovia, estando a direita terá:",
+        "imagem": null,
+        "respA": "a) Preferência de passagem.",
+        "respB": "b) Prioridade de passagem.",
+        "respC": "c) Que dar preferência ao veículo que circula pela rodovia.",
+        "respD": "d) Nenhuma das questões.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Não jogue pontas de cigarro nas estradas. Elas podem provocar:",
+        "imagem": null,
+        "respA": "a) Derrapagem.",
+        "respB": "b) Incêndios florestais.",
+        "respC": "c) Contaminação das águas.",
+        "respD": "d) Explosão em contato com o asfalto.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É comportamento inadequado do condutor de veículo no trânsito:",
+        "imagem": null,
+        "respA": "a) Preservar o meio ambiente.",
+        "respB": "b) Manter regulados o motor e o escapamento.",
+        "respC": "c) Jogar pontas de cigarro nas estradas.",
+        "respD": "d) Evitar jogar lixo nas vias públicas.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "São deveres do condutor, exceto:",
+        "imagem": null,
+        "respA": "a) Não avançar o sinal vermelho.",
+        "respB": "b) Respeitar as leis de trânsito e o demais condutores.",
+        "respC": "c) Respeitar as autoridades de trânsito.",
+        "respD": "d) Estacionar em fila dupla.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando ocorre a aquaplanagem?",
+        "imagem": null,
+        "respA": "a) Quando se transita em pouca velocidade.",
+        "respB": "b) Quando se transita em pista irregular.",
+        "respC": "c) Quando se transita em pista alagada.",
+        "respD": "d) Quando se forma uma fina camada de água entre a pista e o pneu, desestabilizando o veículo.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao atravessarmos por locais onde haja fumaça devemos:",
+        "imagem": null,
+        "respA": "a) Diminuir a velocidade, somente.",
+        "respB": "b) Aumentar a velocidade.",
+        "respC": "c) Fechar os vidros e ligar os faróis alto.",
+        "respD": "d) Fechar os vidros, diminuir a velocidade e ligar os faróis baixo.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Nos trechos onde houver sinalização permitindo a ultrapassagem, como se deve proceder para ultrapassar um veículo com segurança?",
+        "imagem": null,
+        "respA": "a) Sempre buzinar para o veículo a ser ultrapassado.",
+        "respB": "b) Conservar distância lateral mínima de 50 centímetros do veículo a ser ultrapassado.",
+        "respC": "c) Só ultrapassar se a faixa no sentido contrário do fluxo estiver livre.",
+        "respD": "d) Mudar de faixa e retornar logo em seguida à faixa normal de tráfego, visualizando o veículo ultrapassado pelo espelho retrovisor.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Havendo sinalização por semáforo num cruzamento, em que condições o condutor poderá fazer a travessia com a luz amarela?",
+        "imagem": null,
+        "respA": "a) Em nenhuma hipótese.",
+        "respB": "b) Somente quando não houver redutores de velocidade.",
+        "respC": "c) Quando a luz amarela for acionada depois que o condutor já tiver entrado no cruzamento.",
+        "respD": "d) Sempre que desejar, pois somente a luz vermelha o obriga a parar.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Onde não houver sinalização regulamentadora, a velocidade máxima nas vias arteriais será de:",
+        "imagem": null,
+        "respA": "a) 70 km/h.",
+        "respB": "b) 40 km/h.",
+        "respC": "c) 60 km/h.",
+        "respD": "d) 80 km/h.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Onde não houver sinalização regulamentadora, a velocidade máxima nas vias de Trânsito Rápido será de:",
+        "imagem": null,
+        "respA": "a) 60 km/h.",
+        "respB": "b) 80 km/h.",
+        "respC": "c) 90 km/h.",
+        "respD": "d) 110 km/h.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando os veículos, transitando por fluxos que se cruzem, se aproximarem de local não sinalizado, terá preferência de passagem:",
+        "imagem": null,
+        "respA": "a) Veículos que estiver à direita.",
+        "respB": "b) Os veículos que estiverem desenvolvendo maior velocidade.",
+        "respC": "c) No caso de rotatória, aquele que for ingressar nela.",
+        "respD": "d) Os veículos destinados a transporte de passageiros.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Marque a alternativa verdadeira: Toda via não sinalizada é considerada:",
+        "imagem": null,
+        "respA": "a) Mão única.",
+        "respB": "b) Pista dupla.",
+        "respC": "c) Mão dupla.",
+        "respD": "d) Preferencial.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Não constitui exemplo de condições adversas no contexto viário:",
+        "imagem": null,
+        "respA": "a) Trânsito com fluxo lento.",
+        "respB": "b) Trecho da rodovia submetido a obras de restauração do pavimento.",
+        "respC": "c) Motociclista conduzindo uma motocicleta, pela manhã, rumo ao seu trabalho.",
+        "respD": "d) Estação chuvosa e fria.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando, dirigindo um veículo em uma via de mão única com retorno ou entrada à esquerda, o condutor que estiver à frente indicar, por sinal,  que vai entrar para esse lado,você poderá:",
+        "imagem": null,
+        "respA": "a) Fazer um retorno.",
+        "respB": "b) Acelerar o veículo.",
+        "respC": "c) Ultrapassar pela direita.",
+        "respD": "d) Ultrapassar pela esquerda.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Nos seis primeiros meses de 2008, o índice de aumento de acidentes envolvendo motocicletas no anel rodoviário de Belo Horizonte aumentou em 23%, em relação ao mesmo período do ano anterior. Como medida de segurança, o motociclista deve:",
+        "imagem": null,
+        "respA": "a) Utilizar sempre farol aceso, mesmo durante o dia.",
+        "respB": "b) Ao ultrapassar, ter consciência da fragilidade do veículo.",
+        "respC": "c) Manter equipamentos obrigatórios em bom estado.",
+        "respD": "d) Todas as alternativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Cabe aos usuários das vias, exceto:",
+        "imagem": null,
+        "respA": "a) Abster-se de todo ato que possa constituir perigo para o trânsito de veículos.",
+        "respB": "b) Abster-se de todo ato que possa constituir perigo para o trânsito de animais.",
+        "respC": "c) Abster-se de dirigir com os cuidados indispensáveis à segurança do trânsito.",
+        "respD": "d) Assegurar-se da existência de combustível suficiente.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Qual deve ser a atitude de um condutor ao cruzar com outro veículo com os faróis altos?",
+        "imagem": null,
+        "respA": "a) Utilizar luz baixa, evitando a guerra de faróis.",
+        "respB": "b) Piscar o farol do seu carro para alertar o outro condutor.",
+        "respC": "c) Desviar o seu olhar para direita da pista evitando o ofuscamento.",
+        "respD": "d) Todas as alternativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Em relação ao uso do capacete, é incorreto afirmar:",
+        "imagem": null,
+        "respA": "a) Obrigatório tanto para o condutor quanto para o garupa.",
+        "respB": "b) Deve ter faixas refletivas de segurança.",
+        "respC": "c) Deve ser utilizado com a viseira abaixada.",
+        "respD": "d) No caso de modelo aberto, utilize qualquer modelo de óculos de proteção.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Qual é a alternativa incorreta sobre como agir ao transportar outra pessoa em motocicleta?",
+        "imagem": null,
+        "respA": "a) Deve-se conduzir a motocicleta em velocidade reduzida.",
+        "respB": "b) Oriente o garupa quanto à inclinação correta nas curvas.",
+        "respC": "c) O garupa deve segurar nas alças ou na cintura do condutor.",
+        "respD": "d) Nessa situação, a motocicleta necessita de mais torque e também de maior espaço de frenagem.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A ultrapassagem é um movimento de passar à frente de outro veículo que se desloca no mesmo sentido em menor velocidade e na mesma faixa de tráfego. Antes de ultrapassar o condutor deve certificar-se de que:",
+        "imagem": null,
+        "respA": "a) Nenhum condutor que vem atrás haja começado uma manobra  para ultrapassá-lo.",
+        "respB": "b) Quem precede na mesma faixa não haja indicado o propósito de ultrapassar um terceiro.",
+        "respC": "c) A faixa que vai tomar esteja livre para realizar a manobra com segurança.",
+        "respD": "d) Todas afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O bom condutor sabe como se comportar em uma situação de emergência. Saber como e de que forma reduzir a velocidade do veículo pode evitar ou amenizar os de riscos de uma colisão iminente. Sobre frear motocicleta podemos afirmar que:",
+        "imagem": null,
+        "respA": "a) A roda dianteira deve receber maior potencial de frenagem que a traseira",
+        "respB": "b) Na frenagem de emergência é comum travar a roda traseira.",
+        "respC": "c) Os freios devem ser usados simultaneamente.",
+        "respD": "d) Todas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Não obstruir a marcha normal dos veículos, sem causa justificada. Estamos falando sobre:",
+        "imagem": null,
+        "respA": "a) Direção Defensiva.",
+        "respB": "b) Normas de circulação.",
+        "respC": "c) Procedimentos adotados.",
+        "respD": "d) Procedimentos adotados somente nas estradas.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ultrapassagem e transposição de faixas são manobras que devem ser efetuadas com segurança. Sobre elas, é incorreto afirmar que:",
+        "imagem": null,
+        "respA": "a) A transposição de faixas pode ser realizada tanto pela faixa da esquerda, quanto pela a da direita.",
+        "respB": "b) Em vias com múltiplas faixas, ao perceber que outro veículo que o segue quer ultrapassá-lo, o condutor deve manter-se em sua faixa.",
+        "respC": "c) O condutor deve indicar a manobra com antecedência.",
+        "respD": "d) Só ultrapassar pela direita se o condutor à sua frente tiver a intenção  de entrar à esquerda.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A troca de luz baixa e alta, de forma intermitente, só poderá ser utilizada para advertir a intenção de ___ o veículo que segue à frente ou indicar a existência de risco à segurança para veículos em sentido contrário.",
+        "imagem": null,
+        "respA": "a) Passar.",
+        "respB": "b) Pedir passagem.",
+        "respC": "c) Ultrapassar.",
+        "respD": "d) Todas estão corretas.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Á noite, ao cruzar com outro veículo, utilize a luz baixa, evite a guerra de faróis, e em caso de ofuscamento, desvie sua visão para:",
+        "imagem": null,
+        "respA": "a) Faixa central.",
+        "respB": "b) A faixa da direita.",
+        "respC": "c) A faixa da esquerda.",
+        "respD": "d) O painel do veículo.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A prioridade de passagem na via e no cruzamento deverá se dar em velocidade:",
+        "imagem": null,
+        "respA": "a) Normal.",
+        "respB": "b) Máxima permitida para o local.",
+        "respC": "c) Reduzida e com os devidos cuidados de segurança.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Este tipo de colisão pode trazer sérias consequências para veículo, além de propiciar o \"efeito chicote\". Estamos falando de colisão:",
+        "imagem": null,
+        "respA": "a) Com o veículo de trás.",
+        "respB": "b) Nos cruzamentos.",
+        "respC": "c) Frente a frente.",
+        "respD": "d) Com o veículo da frente.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Regula fluxos de sentidos opostos, delimitação de espaços proibidos para estacionamento e/ou parada a sinalização horizontal de cor:",
+        "imagem": null,
+        "respA": "a) Vermelha.",
+        "respB": "b) Azul.",
+        "respC": "c) Branca.",
+        "respD": "d) Amarela.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando uma via comportar várias faixas no mesmo sentido, as da direita serão destinadas:",
+        "imagem": null,
+        "respA": "a) Aos veículos mais lentos e de maior porte.",
+        "respB": "b) Aos veículos mais rápidos.",
+        "respC": "c) Aos veículos que desejam realizar ultrapassagens.",
+        "respD": "d) Todas as alternativas.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando o condutor deve utilizar o pisca alerta?",
+        "imagem": null,
+        "respA": "a) Em algumas imobilizações.",
+        "respB": "b) Em situações de emergência.",
+        "respC": "c) Quando a regulamentação da via assim o determinar.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Se a situação persistir, desvie sua visão para a linha lateral direita da via. Este procedimento se refere a qual das condições adversas?",
+        "imagem": null,
+        "respA": "a) Luz.",
+        "respB": "b) Tempo.",
+        "respC": "c) Veículo.",
+        "respD": "d) Trânsito.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Recomenda-se que esta manobra seja evitada, sempre que possível:",
+        "imagem": null,
+        "respA": "a) Marcha à ré.",
+        "respB": "b) Conversão.",
+        "respC": "c) Baliza.",
+        "respD": "d) Ultrapassagem.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A regulagem correta da luz é de muita importância para a segurança do condutor. Na luz baixa, o farol do lado direito deve ter uma elevação de quinze graus em relação ao farol do lado esquerdo. Esse desnível permite:",
+        "imagem": null,
+        "respA": "a) Iluminar a margem direita da via.",
+        "respB": "b) Tornar visível as placas de sinalização.",
+        "respC": "c) Ter um alcance de até 750 metros.",
+        "respD": "d) Melhorar a visão do acostamento pelo condutor.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao ser ultrapassado, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Manter-se à esquerda.",
+        "respB": "b) Aumentar a velocidade.",
+        "respC": "c) Se estiver na faixa da esquerda, deslocar-se para a da direita.",
+        "respD": "d) Reduzir a velocidade.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Para prática do bom comportamento no trânsito, você precisa:",
+        "imagem": null,
+        "respA": "a) Entender que seus direitos não tem limites.",
+        "respB": "b) Ser intolerante e incompreensivo com os erros dos outros condutores e /ou pedestres.",
+        "respC": "c) Evitar cometimento de infrações e comportamentos agressivos em benefício de todos que estão no trânsito.",
+        "respD": "d) Não abrir mão dos próprios direitos.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É comportamento seguro do motociclista ao parar no semáforo:",
+        "imagem": null,
+        "respA": "a) Sinalizar, fazendo gesto regulamentar do braço.",
+        "respB": "b) Observar, pelo retrovisor, se o condutor de trás está parado.",
+        "respC": "c) Frear gradativamente.",
+        "respD": "d) Todas as afirmativas estão corretas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Todo condutor de veículo deve dar preferência de passagem ao pedestre:",
+        "imagem": null,
+        "respA": "a) Em qualquer situação.",
+        "respB": "b) Somente nas faixas de segurança.",
+        "respC": "c) Somente quando se tratar de deficiente físico.",
+        "respD": "d) Somente quando se tratar de idosos e crianças.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor estando em uma via urbana com iluminação pública, deve:",
+        "imagem": null,
+        "respA": "a) Manter as luzes do veículo apagadas para facilitar a visão dos outros condutores.",
+        "respB": "b) Manter acesas apenas as luzes dos faroletes para facilitar a visão dos outros condutores.",
+        "respC": "c) Usar o farol alto noturno, e opcionalmente, o diurno.",
+        "respD": "d) Usar o farol baixo desde o pôr-do-sol até o amanhecer.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao aproximar-se de qualquer tipo de cruzamento, o condutor deve, exceto:",
+        "imagem": null,
+        "respA": "a) Manter a velocidade.",
+        "respB": "b) Transitar em velocidade reduzida.",
+        "respC": "c) Transitar em velocidade moderada.",
+        "respD": "d) Dar passagem a pedestres.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Entende-se por deslocamento lateral:",
+        "imagem": null,
+        "respA": "a) Movimento gerado por vento lateral.",
+        "respB": "b) Manobras de marcha à ré.",
+        "respC": "c) Transposição de faixas, conversões e retornos.",
+        "respD": "d) Sentido duplo de trânsito.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Assinale a alternativa verdadeira:",
+        "imagem": null,
+        "respA": "a) Toda interseção não sinalizada, é considerada mão única.",
+        "respB": "b) Toda interseção não sinalizada, é considerada pista dupla.",
+        "respC": "c) Toda interseção não sinalizada, é considerada mão dupla.",
+        "respD": "d) Toda interseção não sinalizada, é considerada preferencial.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Todo cruzamento em nível, entroncamento ou bifurcação, denomina-se:",
+        "imagem": null,
+        "respA": "a) Bordo de pista.",
+        "respB": "b) Cruzamento.",
+        "respC": "c) Interseção.",
+        "respD": "d) Faixa de trânsito.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta: para conduzir um trator de rodas na via pública é necessário:",
+        "imagem": null,
+        "respA": "a) A CNH, por ser máquina agrícola.",
+        "respB": "b) Estar habilitado em qualquer categoria, inclusive a A.",
+        "respC": "c) Basta possuir uma permissão para dirigir ou CNH a partir da categoria B.",
+        "respD": "d) Estar habilitado, no mínimo, nas categorias: C, D ou E.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Verificar se o espaço é suficiente, sinalizar com antecedência e retornar á posição anterior, são procedimentos para executar uma:",
+        "imagem": null,
+        "respA": "a) Passagem por outro veículo em movimento.",
+        "respB": "b) Deslocamento lateral.",
+        "respC": "c) Ultrapassagem por outro veículo em movimento.",
+        "respD": "d) Entrada em via arterial.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "À noite, ao cruzar com o veículo ou ao segui-lo, o condutor deverá:",
+        "imagem": null,
+        "respA": "a) Ligar o pista alerta.",
+        "respB": "b) Usar luz baixa.",
+        "respC": "c) Usar luz alta.",
+        "respD": "d) Piscar o farol baixo e alto sucessivamente.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta que completa a questão: Quando uma pista de rolamento comportar várias faixas de circulação no mesmo sentido, as da esquerda são destinadas à ___ e ao ___ dos veículos de maior velocidade.",
+        "imagem": null,
+        "respA": "a) Parada; estacionamento.",
+        "respB": "b) Ultrapassagem; cruzamento.",
+        "respC": "c) Passagem; retorno.",
+        "respD": "d) Ultrapassagem; deslocamento.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao sair pela esquerda de uma via sem acostamento e sentido duplo de circulação, o condutor deverá:",
+        "imagem": null,
+        "respA": "a) Em pista com circulação nos dois sentidos não é permitido sair pelo lado esquerdo.",
+        "respB": "b) Aproximar-se o máximo possível de seu eixo da linha divisória da pista.",
+        "respC": "c) Aproximar-se o máximo possível do bordo esquerdo e executar a manobra no menor espaço possível.",
+        "respD": "d) Aproximar-se do acostamento e executar a manobra no maior de tempo.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O motociclista circulando em piso molhado ou cheio de areia, deve:",
+        "imagem": null,
+        "respA": "a) Utilizar os freios traseiros e dianteiros de forma brusca.",
+        "respB": "b) Utilizar somente o freio traseiro.",
+        "respC": "c) Utilizar os freios traseiros e dianteiros simultaneamente.",
+        "respD": "d) Utilizar somente o freio dianteiro.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Você está conduzindo seu veículo e um pedestre surge atravessando a via de forma inesperada. A decisão segura a ser tomada pelo condutor é:",
+        "imagem": null,
+        "respA": "a) Buzinar, de forma prolongada, para alertar o pedestre.",
+        "respB": "b) Fazer sinais de braço, alertando o pedestre.",
+        "respC": "c) Piscar os faróis para alertar o pedestre.",
+        "respD": "d) Frear o veículo, sinalizando para o condutor que vem atrás, que vai diminuir a marcha e parar.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É conduta inadequada do condutor:",
+        "imagem": null,
+        "respA": "a) Atirar do veículo ou abandonar objetos ou substâncias nas vias.",
+        "respB": "b) Dirigir com atenção difusa.",
+        "respC": "c) Prestar socorro à vítima de acidentes de trânsito.",
+        "respD": "d) Respeitar o pedestre.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Sobre preferência é falso afirmar:",
+        "imagem": null,
+        "respA": "a) No caso de rotatória, o que estiver circulando por ela terá preferência",
+        "respB": "b) Os veículos que se deslocam sobre trilhos têm preferência sobre os demais.",
+        "respC": "c) Em um cruzamento não sinalizado, a preferência é de quem estiver na rodovia.",
+        "respD": "d) Veículos que transitam à esquerda da via, e que forem virar à direita, têm preferência.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A transposição de faixas pode ser realizada pela faixa:",
+        "imagem": null,
+        "respA": "a) Da esquerda.",
+        "respB": "b) Da direita ou da esquerda.",
+        "respC": "c) Da direita.",
+        "respD": "d) Central.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando, dirigindo um veículo numa via de mão única com retorno ou entrada à esquerda, o condutor que estiver à frente indicar por sinal que vai entrar para este lado, você poderá:",
+        "imagem": null,
+        "respA": "a) Ultrapassar pela direita.",
+        "respB": "b) Ultrapassar pela esquerda.",
+        "respC": "c) Fazer um retorno.",
+        "respD": "d) Acelerar o veículo.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta: Estacionamento é:",
+        "imagem": null,
+        "respA": "a) Uma parada pelo tempo necessário para fazer uma manobra com segurança.",
+        "respB": "b) Manter o veículo antes da faixa de retenção para aguardar a luz verde do semáforo.",
+        "respC": "c) Imobilização dos veículos por tempo superior ao necessário para embarque e desembarque de passageiros.",
+        "respD": "d) Imobilização de veículos durante o tempo necessário para o embarque ou desembarque de passageiros.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A velocidade máxima permitida para motocicleta transitar em rodovias, onde não existir sinalização regulamentadora, é de:",
+        "imagem": null,
+        "respA": "a) 80k/h",
+        "respB": "b) 90km/h",
+        "respC": "c) 60km/h",
+        "respD": "d) 110km/h",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Em um cruzamento, o veículo que se aproximar pela via à sua direita, terá preferência apenas se:",
+        "imagem": null,
+        "respA": "a) Estiver transitando em maior velocidade.",
+        "respB": "b) O cruzamento não for sinalizador.",
+        "respC": "c) Estiver transportando passageiro.",
+        "respD": "d) O cruzamento for sinalizador com semáforo ou placa.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Antes de efetuar uma ultrapassagem, o condutor deverá certificar-se de que:",
+        "imagem": null,
+        "respA": "a) De quem o precede na mesma faixa não tenha indicado o mesmo propósito.",
+        "respB": "b) A faixa esteja livre numa extensão suficiente.",
+        "respC": "c) Não vai colocar em perigo quem vai ser ultrapassado.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Sobre rodovia é falso afirmar:",
+        "imagem": null,
+        "respA": "a) É uma via rural não pavimentada.",
+        "respB": "b) Tem velocidade máxima de 80km por hora.",
+        "respC": "c) Não possibilita o acesso aos lotes lindeiros.",
+        "respD": "d) Todas as afirmativas acima.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Nas vias urbanas, a operação de retorno deverá ser feita:",
+        "imagem": null,
+        "respA": "a) Utilizando-se do acostamento.",
+        "respB": "b) Nos locais determinados ou apropriados.",
+        "respC": "c) Nas passagens de nível.",
+        "respD": "d) Nas pontes.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Veículos transitando por fluxos que se cruzem, ao se aproximarem de local não sinalizado, a preferência é:",
+        "imagem": null,
+        "respA": "a) De quem vem pela direita.",
+        "respB": "b) De quem vem em linha reta.",
+        "respC": "c) De quem desloca pela  linha de fluxo mais intensa de veículos.",
+        "respD": "d) Do ônibus por transportar um maior número de passageiros.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Em vias não iluminadas, o uso de luzes em veículo obedecerá a seguinte determinação:",
+        "imagem": null,
+        "respA": "a) O condutor deverá usar, permanentemente, a luz alta.",
+        "respB": "b) O condutor deverá trocar de luz baixa e alta, de forma intermitente e por curto período de tempo.",
+        "respC": "c) O condutor deverá usar, permanentemente, a luz baixa.",
+        "respD": "d) O condutor deverá usar luz alta exceto ao cruzar com outro veículo ou ao segui-lo.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Para fazer uma conversão à esquerda ou um retorno, em vias rurais sem acostamento, o condutor deverá:",
+        "imagem": null,
+        "respA": "a) Parar à direita da pista e efetuar a manobra.",
+        "respB": "b) Sinalizar e efetuar a manobra.",
+        "respC": "c) Todas as alternativas estão corretas.",
+        "respD": "d) Prosseguir até encontrar um local apropriado.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Os veículos mais lentos, quando em fila, deverão:",
+        "imagem": null,
+        "respA": "a) Aumentar a velocidade.",
+        "respB": "b) Manter-se à esquerda.",
+        "respC": "c) Manter distância entre si.",
+        "respD": "d) Manter a velocidade.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "São veículos sem prioridade de passagem:",
+        "imagem": null,
+        "respA": "a) Os procedimentos de batedores.",
+        "respB": "b) Os destinados a socorro de salvamento.",
+        "respC": "c) Os prestadores de serviço de utilidade pública.",
+        "respD": "d) Os de operação de trânsito.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao notar a rápida aproximação de um veículo em caráter de urgência, você deve:",
+        "imagem": null,
+        "respA": "a) Encostar o seu veículo mais a direita da pista liberando a passagem para o veículo em caráter de urgência.",
+        "respB": "b) Acelerar e procurar um local melhor para ceder a passagem.",
+        "respC": "c) Manter a marcha.",
+        "respD": "d) Todas as alternativas acima estão corretas.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Dirigindo um veículo, o condutor que encontrar crianças, pessoas idosas ou deficientes físicos atravessando a via deve:",
+        "imagem": null,
+        "respA": "a) Diminuir a velocidade, buzinar e seguir em frente.",
+        "respB": "b) Parar o veículo e facilitar a travessia.",
+        "respC": "c) Diminuir a velocidade, dar um sinal de luz e seguir em frente.",
+        "respD": "d) Diminuir a velocidade, desviar e seguir em frente.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor de veículo com braço estendido para fora horizontalmente, a mão fazendo movimento para cima e para baixo, indica:",
+        "imagem": "circulacao_simu_1321188796.png",
+        "respA": "a) Que pode passar.",
+        "respB": "b) Que vai dobrar à direita.",
+        "respC": "c) Que vai dobrar à esquerda.",
+        "respD": "d) Diminuir a marcha ou vai parar.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Nas vias providas de acostamentos e sem locais apropriados para manobras de retorno, o condutor deverá:",
+        "imagem": null,
+        "respA": "a) Seguir em frente até encontrar um cruzamento.",
+        "respB": "b) Fazer sinal regulamentar de braço, diminuir a velocidade na faixa da direita e convergir com a segurança.",
+        "respC": "c) Aguardar o acostamento à direita para cruzar a pista com segurança.",
+        "respD": "d) Aproximar-se do eixo central da pista sem atingir a contramão de direção e convergir com segurança.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A velocidade máxima permitida para motocicleta transitar em rodovias (pista dupla), onde não existe sinalização regulamentadora, é de:",
+        "imagem": null,
+        "respA": "a) 90km/h.",
+        "respB": "b) 60km/h.",
+        "respC": "c) 110km/h.",
+        "respD": "d) 80km/h.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Dirigindo um veículo na via pública, antes de entrar em outra via, todo condutor deverá:",
+        "imagem": null,
+        "respA": "a) Somente ligar a seta e convergir.",
+        "respB": "b) Certificar-se de que pode realizar a manobra sem perigo para os demais usuários da via.",
+        "respC": "c) Dar um toque breve na buzina e convergir.",
+        "respD": "d) Diminuir a velocidade, buzinar e convergir.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É falso afirmar que, para melhor ser notado no trânsito, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Acender os faróis ou lanternas externas nos períodos de lusco-fusco.",
+        "respB": "b) Utilizar o pisca alerta quando parado às margens de estradas.",
+        "respC": "c) Manter o capô aberto e o triângulo de segurança posicionado corretamente atrás do veículo quando este apresentar defeito mecânico.",
+        "respD": "d) Ligar o limpador de pára-brisas frequentemente.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "os veículos em missão de emergência , com as sirenes ligadas e os dispositivos de luzes ligadas intermitentes, têm preferência de passagem quando:",
+        "imagem": null,
+        "respA": "a) Cruzam veículos  que transportam passageiros.",
+        "respB": "b) Cruzam veículos  que trafegam em via não pavimentada",
+        "respC": "c) Cruzam veículo que se aproximar pela esquerda em se tratando de cruzamento não sinalizado.",
+        "respD": "d) Cruzam veículos  que trafegam nas vias utilizadas pelas linhas de ônibus.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O tempo gasto entre o momento da visão do perigo até a parada definitiva do veículo, chama-se:",
+        "imagem": null,
+        "respA": "a) Tempo médio de reação.",
+        "respB": "b) Tempo de parada.",
+        "respC": "c) Tempo de reação.",
+        "respD": "d) Tempo de frenagem.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "De acordo com as regras gerais de circulação, quando o condutor tem preferência de passagem em um cruzamento?",
+        "imagem": null,
+        "respA": "a) Quando cruzar com veículos em missão de urgência.",
+        "respB": "b) Quando for adentrar em uma rodovia.",
+        "respC": "c) Quando em cruzamento não sinalizado e este seguir à direita do outro condutor.",
+        "respD": "d) Todas as alternativas estão erradas.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando inexistir uma faixa especial, um veículo em movimento deverá ocupar:",
+        "imagem": null,
+        "respA": "a) A faixa mais à esquerda da pista de rolamento.",
+        "respB": "b) A faixa central da pista de rolamento.",
+        "respC": "c) Qualquer faixa, desde que facilite o trânsito.",
+        "respD": "d) A faixa mais à direita da pista de rolamento.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É dever de todo condutor de veículo:",
+        "imagem": null,
+        "respA": "a) Transitar em velocidade compatível com a segurança nos cruzamentos sem sinalização.",
+        "respB": "b) Dar passagem pela direita quando solicitado.",
+        "respC": "c) Manter acesa a luz alta dos faróis nas vias com iluminação pública.",
+        "respD": "d) Usar buzina para chamar alguém.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A velocidade mínima permitida em uma via de trânsito rápido sem sinalização é de:",
+        "imagem": null,
+        "respA": "a) 30km/h.",
+        "respB": "b) 40km/h.",
+        "respC": "c) 50km/h.",
+        "respD": "d) 60km/h.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor deve sinalizar e deslocar com antecedência o seu veículo para a faixa mais á esquerda da sua mão de direção para:",
+        "imagem": "circulacao_simu_1321126682.png",
+        "respA": "a) Entrar à direita.",
+        "respB": "b) Entrar à esquerda.",
+        "respC": "c) Mudar de faixa de trânsito.",
+        "respD": "d) Fazer uma ultrapassagem.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Chama-se passagem de nível:",
+        "imagem": null,
+        "respA": "a) Todo cruzamento no mesmo nível.",
+        "respB": "b) Cruzamento sobre pontes e viadutos.",
+        "respC": "c) Todo cruzamento de nível rodoferroviário.",
+        "respD": "d) Todo limite lateral de uma pista de rolamento.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Você volta cansado do trabalho, transitando por uma via de tráfego intenso. Nessa situação você:",
+        "imagem": null,
+        "respA": "a) Buzina para abrir caminho.",
+        "respB": "b) Mantêm-se na faixa da esquerda.",
+        "respC": "c) Redobra a atenção e concentra-se no tráfego.",
+        "respD": "d) Dirige depressa para chegar logo em casa.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Lembre-se que o uso da seta é obrigatório. Utilize o farol aceso durante o dia. Facilite sua visualização posicionando-se na posição onde outros condutores percebam sua presença. Estamos falando:",
+        "imagem": null,
+        "respA": "a) Do motociclista.",
+        "respB": "b) Do motociclista e do motorista.",
+        "respC": "c) Do volante.",
+        "respD": "d) Do guidon.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao entrar em outra via o condutor deve:",
+        "imagem": null,
+        "respA": "a) Aumentar a velocidade e verificar o movimento dos veículos.",
+        "respB": "b) Dar um toque rápido na buzina.",
+        "respC": "c) Ligar o dispositivo luminoso indicador de mudança de direção e assegurar-se de que pode fazer a manobra com segurança.",
+        "respD": "d) Ligar o dispositivo luminoso indicador de mudança de direção e deslocar sempre para a direita da via.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É dever de todo condutor de veículo:",
+        "imagem": null,
+        "respA": "a) Nas vias urbanas, deslocar com antecedência o veículo  via quando for entrar para esquerda.",
+        "respB": "b) Circular com o veículo somente pela faixa da direita",
+        "respC": "c) Portar e exibir quando solicitado pela autoridade de trânsito os documentos exigidos por lei.",
+        "respD": "d) Ultrapassar outro veículo em movimento somente pela direita.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A remoção do veículo ocorrerá quando o condutor:",
+        "imagem": null,
+        "respA": "a) Transitar com o veículo sem nova vistoria, após acidente.",
+        "respB": "b) Estacionar quando houver guia da calçada rebaixada, para entrada ou saída de veículo.",
+        "respC": "c) Parar o veículo fora da posição estabelecida.",
+        "respD": "d) Estacionar na frente de qualquer escola.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor, ao trafegar em vias rurais pavimentadas ou vias de trânsito rápido e vias preferenciais em regiões pouco urbanizadas,  pode encontrar placas alertando-o da existência de perigo na via. Estas placas são de:",
+        "imagem": null,
+        "respA": "a) Advertência.",
+        "respB": "b) Regulamentação.",
+        "respC": "c) Atrativos turísticos.",
+        "respD": "d) Indicação.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor deve observar as placas de advertência para:",
+        "imagem": null,
+        "respA": "a) Evitar danos ao veículo.",
+        "respB": "b) Fazer ultrapassagem.",
+        "respC": "c) Evitar multas.",
+        "respD": "d) Saber quais os perigos que existem nas vias e sua natureza.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Agir com cortesia e solidariedade no trânsito significa:",
+        "imagem": null,
+        "respA": "a) Fazer novos amigos.",
+        "respB": "b) Respeitar os direitos dos outros usuários das vias e ser tolerante.",
+        "respC": "c) Dar passagem aos outros condutores, ainda que o sinal esteja aberto para você.",
+        "respD": "d) Sair do veículo e ajudar os pedestres a atravessar a rua.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Nas vias providas de acostamento, quando não houver locais apropriados para fazer a conversão à esquerda ou a operação de retorno, o condutor deverá:",
+        "imagem": null,
+        "respA": "a) Aguardar no acostamento à direita para cruzar a pista com segurança.",
+        "respB": "b) Fazer a conversão sem utilizar o acostamento.",
+        "respC": "c) Fazer a operação de retorno sem utilizar o acostamento.",
+        "respD": "d) Nenhuma das respostas está correta.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A transposição de faixas denomina-se:",
+        "imagem": null,
+        "respA": "a) Deslocamento lateral.",
+        "respB": "b) Interseção.",
+        "respC": "c) Logradouro.",
+        "respD": "d) Cruzamento.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O veículo que tem prioridade de passagem é:",
+        "imagem": "circulacao_simu_1339716982.png",
+        "respA": "a) Transporte de carga.",
+        "respB": "b) Veículos em emergência, quando devidamente identificados por dispositivos regulamentares de alarme sonoro e iluminação vermelha intermitente.",
+        "respC": "c) Motocicleta.",
+        "respD": "d) Automóvel.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Entre os veículos 2 e 3 de quem é a preferência?",
+        "imagem": "circulacao_simu_1315696935.png",
+        "respA": "a) Do veículo 2, pois está trafegando à esquerda.",
+        "respB": "b) Do veículo 3, pois está trafegando à direita do 2.",
+        "respC": "c) Do veículo 4 pois está trafegando à direita do 3.",
+        "respD": "d) Do veículo 1, pois está trafegando à direita do 4.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Na rotatória, a preferência é:",
+        "imagem": "circulacao_simu_1315698456.png",
+        "respA": "a) Do veículo 2.",
+        "respB": "b) Do veículo que estiver chegando.",
+        "respC": "c) Do veículo que estiver à direita.",
+        "respD": "d) Do veículo 1 que já está circulando.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O veículo que tem prioridade de passagem sinalizado corretamente é:",
+        "imagem": "circulacao_simu_1315698926.png",
+        "respA": "a) O veículo 2, pois está à direita do veículo 1.",
+        "respB": "b) O veículo 1, quando estiver em caráter de emergência.",
+        "respC": "c) O veículo 3.",
+        "respD": "d) O veículo 1, pois é uma ambulância.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Onde não existir sinalização regulamentadora, a velocidade máxima na via coletora será de:",
+        "imagem": null,
+        "respA": "a) 60km/h.",
+        "respB": "b) 30km/h.",
+        "respC": "c) 40km/h.",
+        "respD": "d) 50km/h.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "As crianças que devem ser transportadas nos bancos traseiros dos veículos automotores são aquelas com idade inferior a:",
+        "imagem": null,
+        "respA": "a) 9 anos.",
+        "respB": "b) 8 anos. ",
+        "respC": "c) 7 anos.",
+        "respD": "d) 10 anos.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É proibida a circulação dos ciclomotores em:",
+        "imagem": null,
+        "respA": "a) Vias arteriais e sobre as calçadas das vias urbanas. ",
+        "respB": "b) Somente sobre as calçadas das vias urbanas.",
+        "respC": "c) Vias locais de pista dupla.",
+        "respD": "d) Vias de trânsito rápido e sobre as calçadas das vias urbanas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A velocidade máxima permitida em uma via coletora sem sinalização é de:",
+        "imagem": null,
+        "respA": "a) 30 km/h",
+        "respB": "b) 40 km/h",
+        "respC": "c) 50 km/h",
+        "respD": "d) 60 km/h",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao se aproximar de um cruzamento, uma forma segura de agir é:",
+        "imagem": null,
+        "respA": "a) Manter a mesma velocidade.",
+        "respB": "b) Aumentar a velocidade.",
+        "respC": "c) Parar o veículo.",
+        "respD": "d) Reduzir a velocidade",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Nas vias urbanas, a operação de retorno deverá ser feita:",
+        "imagem": null,
+        "respA": "a) Nos locais determinados ou que ofereçam condições de segurança e fluidez.",
+        "respB": "b) Nas passagens de nível.",
+        "respC": "c) Nas pontes.",
+        "respD": "d) Utilizando-se de acostamento. ",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Por fluxos que se cruzam, o veículo que vier à direita do outro, terá preferência de passagem quando:",
+        "imagem": null,
+        "respA": "a) Transportando passageiros.",
+        "respB": "b) Transportando cargas.",
+        "respC": "c) Transitando em avenidas.",
+        "respD": "d) Transitando em local não sinalizado. ",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando uma pista comportar várias faixas no mesmo sentido, são as da ----------- destinadas ao deslocamento dos veículos mais------------- e de maior porte, quando não houver faixa especial a eles destinadas:",
+        "imagem": null,
+        "respA": "a) Direita; rápidos.",
+        "respB": "b) Esquerda; lentos.",
+        "respC": "c) Esquerda; rápidos.",
+        "respD": "d) Direita; lentos. ",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando em via de mão única, dotada de duas ou mais faixas de trânsito, o condutor que estiver à sua frente sinalizar e posicionar o veículo corretamente para a esquerda, você poderá:",
+        "imagem": null,
+        "respA": "a) Diminuir, porque é proibido ultrapassar nos cruzamentos.",
+        "respB": "b) Ultrapassar pela direita.",
+        "respC": "c) Ultrapassar pela esquerda.",
+        "respD": "d) Utilizar a área de acomodação.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O procedimento do pedestre diante da sinalização semafórica, identificada na cartela pelo código SS-07 é:",
+        "imagem": "ss07_1339614304.png",
+        "respA": "a) Atenção.",
+        "respB": "b) Pode seguir",
+        "respC": "c) Pare o veículo.",
+        "respD": "d) Não pode atravessar. ",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando o condutor de veículo coloca o braço esquerdo para fora do veículo, horizontalmente, e o antebraço e a mão para cima, na vertical, está indicando que vai:",
+        "imagem": "circulacao_simu_1329847607.png",
+        "respA": "a) Parar o seu veículo.",
+        "respB": "b) Dobrar à direita.",
+        "respC": "c) Dobrar à esquerda.",
+        "respD": "d) Diminuir a velocidade. ",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Marque a alternativa incorreta:",
+        "imagem": null,
+        "respA": "a) A circulação será feita pelo lado direito da via.",
+        "respB": "b) Nenhum condutor deverá frear bruscamente seu veículo, salvo por razões de segurança.",
+        "respC": "c) O embarque e desembarque deve ocorrer apenas pelo lado da calçada, incluindo o motorista.",
+        "respD": "d) O condutor e os passageiros não deverão abrir  a porta do veículo, deixá-la aberta ou descer do veículo. sem antes se certificarem de que isso não constitui perigo para eles e para outros usuários da via.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Observe o desenho abaixo e responda: a qual veículo pertence a preferência.",
+        "imagem": "circulacao_simu_1339617624.png",
+        "respA": "a) 2 sobre o 1.",
+        "respB": "b) 3 sobre o 2.",
+        "respC": "c) 1 e 2 tem preferência.",
+        "respD": "d) 1 sobre o 2.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A atitude prudente para se livrar de veículos \"colados\" na retaguarda é:",
+        "imagem": null,
+        "respA": "a) Desviar para a esquerda, alertando o outro condutor.",
+        "respB": "b) Aumentar a velocidade em relação ao outro veículo.",
+        "respC": "c) Acender o pisca alerta, fazendo sinal de braço para o outro condutor.",
+        "respD": "d) Encostar para a direita da pista, reduzindo a velocidade se necessário, dando passagem para o veículo.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É dever de todos os condutores de veículos:",
+        "imagem": null,
+        "respA": "a) Ultrapassar outro veículo.",
+        "respB": "b) Quando se tratar de transporte coletivo, parar o veículo para atender ao sinal do passageiro em qualquer local.",
+        "respC": "c) Acionar dispositivo luminoso indicador (luz de seta) antes de mudar de direção.",
+        "respD": "d) Ultrapassar outro veículo em interseções.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor deve sinalizar e deslocar com antecedência o seu veículo para a faixa mais à esquerda da sua mão de direção para:",
+        "imagem": null,
+        "respA": "a) Aumentar a velocidade.",
+        "respB": "b) Entrar à esquerda.",
+        "respC": "c) Mudar de faixa de trânsito.",
+        "respD": "d) Fazer uma ultrapassagem.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "o condutor, ao assumir o volante do veículo automotor, deve:",
+        "imagem": null,
+        "respA": "a) Adotar atitudes agressivas.",
+        "respB": "b) Agir corretamente, somente quando lhe for conveniente.",
+        "respC": "c) Respeitar as leis de trânsito.",
+        "respD": "d) Descarregar suas frustrações e angústias.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "o trânsito de veículos sobre passeios, calçadas e nos acostamentos, só poderá ocorrer:",
+        "imagem": null,
+        "respA": "a) Somente para adentrar ou sair de imóveis.",
+        "respB": "b) Para se adentrar ou sair de imóveis ou em áreas especiais de estacionamento.",
+        "respC": "c) Quando o condutor julgar necessário.",
+        "respD": "d) Em nenhuma hipótese.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O procedimento do condutor ao ser ultrapassado em uma rodovia é:",
+        "imagem": null,
+        "respA": "a) Sinalizar, diminuir a velocidade, deslocando para o acostamento.",
+        "respB": "b) Deslocar-se para a faixa da direita e acelerar a marcha.",
+        "respC": "c) Facilitar a ultrapassagem.",
+        "respD": "d) Somente diminuir a velocidade.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Para realizar uma conversão à esquerda, em via de mão única, o condutor deve deslocar o veículo...",
+        "imagem": null,
+        "respA": "a) Totalmente para o bordo esquerdo da pista.",
+        "respB": "b) Para a direita atingindo o centro do cruzamento.",
+        "respC": "c) Para a esquerda, atingindo o centro do cruzamento e saindo na sua mão de direção.",
+        "respD": "d) Para a direita, observando e dando preferência a quem de direito, convergir, e saindo na sua mão de direção.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Você dirige em uma via de mão única com fluxo intenso, quando percebe que o semáforo mudou para a cor amarela e o condutor de trás está muito perto do seu pára-choque. Nessa situação você...",
+        "imagem": null,
+        "respA": "a) Dá sinal de braço para que ele pare a tempo, freia com intermitência para piscar as luzes e tenta parar antes da faixa de segurança.",
+        "respB": "b) Freia bruscamente em cima da faixa de segurança.",
+        "respC": "c) Continua com segurança, acelerando para avançar o semáforo.",
+        "respD": "d) Fica atento apenas, na sua ação de parar.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É falso afirmar que, para melhor ser notado no trânsito, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Manter o capô do motor aberto e o triângulo posicionado corretamentecorretamente atrás do veículo quando este apresentar defeito mecânico.",
+        "respB": "b) Limpar o limpador de pára-brisas frequentemente.",
+        "respC": "c) Acender os faróis ou lanternas externas nos períodos de \"lusco-fusco\" (amanhecer e entardecer).",
+        "respD": "d) Sinalizar com seta quando for mudar de direção. ",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Para andar em grupos, onde podem trafegar os motociclistas?",
+        "imagem": null,
+        "respA": "a) À direita em fila única (indiana).",
+        "respB": "b) À esquerda em fila única.",
+        "respC": "c) À direita em fila dupla.",
+        "respD": "d) À esquerda em fila indiana.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quais veículos que gozam de livre trânsito e estacionamento quando em serviço de urgência?",
+        "imagem": null,
+        "respA": "a) Todos os veículos equipados com luzes de emergência.",
+        "respB": "b) Ambulância, polícia e bombeiros, quando em serviços normais.",
+        "respC": "c) Ambulância, polícia e bombeiros, com dispositivos sonoros e luminosos de emergência ligados.",
+        "respD": "d) Qualquer veículo com pisca alerta acionado.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Segundo estatísticas, é local onde ocorrem um terço dos acidentes de trânsito: ",
+        "imagem": null,
+        "respA": "a) Nas ultrapassagens.",
+        "respB": "b) Nos cruzamentos.",
+        "respC": "c) Nas retas.",
+        "respD": "d) Nas curvas.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Está provado que mais de 90% (porcento) dos acidentes de trânsito são causados por falhas humanas. Quais as principais causas dos acidentes?",
+        "imagem": null,
+        "respA": "a) Imperícia.",
+        "respB": "b) Negligência.",
+        "respC": "c) Imprudência.",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Sobre a distância de segurança, é falso afirmar:",
+        "imagem": null,
+        "respA": "a) Que o condutor deverá estar atento às condições climáticas.",
+        "respB": "b) O condutor deverá guardar distância frontal e lateral.",
+        "respC": "c) O condutor deverá guardar distância em relação ao bordo da via.",
+        "respD": "d) Que a condição do local não é importante.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Não é procedimento para virar à direita:",
+        "imagem": null,
+        "respA": "a) Deslocar-se para a linha divisória da pista.",
+        "respB": "b) Deslocar-se para o bordo direito.",
+        "respC": "c) Observar a preferência de veículos e pedetres.",
+        "respD": "d) Efetuar a manobra no menor espaço possível.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Qual opção proíbe o condutor de realizar as manobras de retorno à esquerda?",
+        "imagem": null,
+        "respA": "a) R-19 - Velocidade máxima permitida.",
+        "respB": "b) R-4a - Proibido virar à esquerda.",
+        "respC": "c) R-5a - Proibido retornar à esquerda.",
+        "respD": "d) R-25a - Siga em frente ou à esquerda.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Para reduzir a frequência e a gravidade nos acidentes de trânsito é necessário:",
+        "imagem": null,
+        "respA": "a) Treinamento e ajustamento pessoal.",
+        "respB": "b) Uso de E.P.I. (Equipamento de Proteção Individual).",
+        "respC": "c) Educação para o trânsito.",
+        "respD": "d) Todas as afirmativas estão corretas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O pedestre deve:",
+        "imagem": null,
+        "respA": "a) Andar no meio da rua.",
+        "respB": "b) Andar no acostamento das vias.",
+        "respC": "c) Permanecer ou andar nas pistas de rolamento.",
+        "respD": "d) Obedecer a sinalização, manter-se atento, andar sobre a calçada e cruzar a pista na faixa própria.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "As calçadas e os passeios públicos são espaços do pedestre. O seu uso por veículos é permitido para:",
+        "imagem": null,
+        "respA": "a) Acesso a estacionamento ou garagens.",
+        "respB": "b) Estacionamento de moocicletas a 45°.",
+        "respC": "c) Circulação de ciclomotores.",
+        "respD": "d) Carga e descarga de qualquer tipo de mercadoria.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Numa pista de rolamento com várias faixas de trânsito no mesmo sentido, são destinadas aos veículos de maior velocidade e às ultrapassagens as faixas:",
+        "imagem": null,
+        "respA": "a) Do centro.",
+        "respB": "b) da direita.",
+        "respC": "c) Da esquerda.",
+        "respD": "d) Próximas ao acostamento.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor poderá ultrapassar outro veículo pela direita quando:",
+        "imagem": null,
+        "respA": "a) A via for de mão única com retorno ou entrada à esquerda e o condutor do veículo que estiver  esquerda indicar, por sinal, que vai entrar para esse lado.",
+        "respB": "b) A via for de mão única com retorno ou entrada à direita.",
+        "respC": "c) A via for de mão dupla com retorno á direita.",
+        "respD": "d) O veículo à frente estiver desenvolvendo baixa velocidade.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A ultrapassagem de outro veículo em movimento deverá ser feita pela esquerda, observando-se a seguinte regra:",
+        "imagem": null,
+        "respA": "a) Ao ser ultrapassado, o condutor deverá aumentar a velocidade do seu veículo.",
+        "respB": "b) Após ultrapassar, o condutor deverá buzinar avisando que completou a ultrapassagem.",
+        "respC": "c) Para ultrapassar, o condutor deverá ligar os faróis altos.",
+        "respD": "d) Para ultrapassar, o condutor deverá ter certeza de que dispôe de espaço suficiente.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Foi criado por lei federal para o controle de emissão de poluentes por veículos automotores:",
+        "imagem": null,
+        "respA": "a) CONAMA.",
+        "respB": "b) IBAMA.",
+        "respC": "c) SISNAMA.",
+        "respD": "d) PROCONVE.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Por estacionamento entende-se:",
+        "imagem": null,
+        "respA": "a) A parada do veículo durante o tempo necessário para embarque/ desembarque de passageiro.",
+        "respB": "b) Uma parada obrigatória por tempo necessário para fazer uma manobra com segurança.",
+        "respC": "c) Manter o veículo antes da faixa de retenção para aguardar a luz verde do semáforo.",
+        "respD": "d) Manter o veículo no mesmo lugar por tempo superior ao necessário para embarque/desembarque de pessoas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Qual veículo está posicionado corretamente para convergir à esquerda?",
+        "imagem": "circulacao_simu_1339716106.png",
+        "respA": "a) O veículo 3.",
+        "respB": "b) O veículo 1.",
+        "respC": "c) Os veículos 2 e 3.",
+        "respD": "d) Apenas o veículo 2.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A anulação dos efeitos do uso de cinto de segurança resulta de:",
+        "imagem": null,
+        "respA": "a) Todas estão corretas.",
+        "respB": "b) Fixação de presilhas.",
+        "respC": "c) Regulagem incorreta do banco.",
+        "respD": "d) Sua utilização por mais de um passageiro.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Estando o condutor na direção do veículo e este se apresentando com os pneus gastos, freios desregulados, luz deficiente, significa exemplo de condição adversa do:",
+        "imagem": null,
+        "respA": "a) Condutor.",
+        "respB": "b) Trânsito.",
+        "respC": "c) Equipamento de segurança.",
+        "respD": "d) Veículo.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É dever de todo condutor de veículo:",
+        "imagem": null,
+        "respA": "a) Usar a buzina para chamar alguém.",
+        "respB": "b) Dar passagem pela direita, quando solicitado.",
+        "respC": "c) Fazer uso da luz baixa dos faróis no período noturno nas vias com iluminação pública e nas rodovias.",
+        "respD": "d) Parar sempre nas faixas de pedestres.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Dar passagem, pela esquerda, quando solicitado:",
+        "imagem": null,
+        "respA": "a) É uma opção do condutor.",
+        "respB": "b) Só deve ser permitido quando se tratar de motocicletas.",
+        "respC": "c) É apenas uma questão de educação do condutor.",
+        "respD": "d) É dever de todo condutor de veículo automotor.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Dirigir com apenas uma das mãos é:",
+        "imagem": null,
+        "respA": "a) Permitido em qualquer situação.",
+        "respB": "b) Proibido em qualquer situação.",
+        "respC": "c) Permitido quando o condutor já tem experiência.",
+        "respD": "d) Permitido quando o condutor faz sinais de braço ou mudanças de marchas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando um condutor está dirigindo à frente de outro veículo e o mesmo pede passagem, o comportamento correto do condutor da frente será:",
+        "imagem": null,
+        "respA": "a) Facilitar a passagem pelo lado esquerdo da via.",
+        "respB": "b) Somente diminuir a velocidade.",
+        "respC": "c) Aumentar a velocidade.",
+        "respD": "d) Manter-se na mesma faixa.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Se o veículo começar a falhar à noite no trânsito, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Deixar o veículo onde está, com o motor ligado.",
+        "respB": "b) Desligar o motor e ligar uma das lanternas.",
+        "respC": "c) Acelerar mais, para que o motor não \"morra\".",
+        "respD": "d) Sinalizar, parar à direita da via e ligar o pisca-alerta.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Você percebe que o freio do seu veículo está \"baixo\". O comportamento seguro é:",
+        "imagem": null,
+        "respA": "a) Procurar imediatamente uma oficina mecânica.",
+        "respB": "b) Resolver o problema do freio depois.",
+        "respC": "c) Manter-se confiante e seguir seu trajeto normal.",
+        "respD": "d) Continuar circulando, mas com velocidade reduzida.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Um veículo que estava estacionado dá a partida e ameaça entrar na sua frente. Nessa situação você...",
+        "imagem": null,
+        "respA": "a) Continua em frente, com o olhar fixo no semáforo.",
+        "respB": "b) Muda de faixa imediatamente.",
+        "respC": "c) Dá uma freada rápida.",
+        "respD": "d) Olha pelo retrovisor, pára e dá passagem ao veículo.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Assinale a afirmativa correta: Cidadão consciente é, geralmente, um condutor responsável?",
+        "imagem": null,
+        "respA": "a) Não, porque cidadão consciente é antônimo de condutor responsável",
+        "respB": "b) Sim, pois na maioria dos casos, os cidadãos conscientes utilizam-se dos seus princípios na ação de dirigir.",
+        "respC": "c) Não, porque o cidadão consciente é, geralmente, o maior causador de acidentes de trânsito.",
+        "respD": "d) Sim, porque o cidadão consciente é aquele que se habilitou no melhor centro de formação de condutores.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Após aguardar a abertura do semáforo em um cruzamento, você faz a conversão à direita e encontra um pedestre efetuando a travessia da via. Nessa situação você:",
+        "imagem": null,
+        "respA": "a) Aguarda o pedestre concluir a travessia.",
+        "respB": "b) Buzina para apressar o pedestre.",
+        "respC": "c) Pisca os faróis para alertar o pedestre que você vai passar.",
+        "respD": "d) Freia bruscamente para dar um susto no pedestre.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Você está dirigindo em uma via e percebe um grupo de crianças jogando futebol no passeio. Nessa situação você...",
+        "imagem": null,
+        "respA": "a) Buzina insistentemente para avisar que você vai passar.",
+        "respB": "b) Reduz a velocidade, mantendo a atenção nas crianças.",
+        "respC": "c) Dirige normalmente, sem prestar atenção nas crianças.",
+        "respD": "d) Pára o veículo e avisa que vai passar.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A utilização correta do guia da cidade proporciona deslocamentos seguros, economia de tempo e de combustível. Logo, você deve:",
+        "imagem": null,
+        "respA": "a) Guardar o guia em casa.",
+        "respB": "b) Decorar o nome de todas as vias da cidade.",
+        "respC": "c) Manter o guia no porta-malas, junto com as ferramentas.",
+        "respD": "d) Manter o guia no porta-luvas, utilizando-o de acordo com as instruções nele contidas.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Dirigindo-se um veículo na via pública urbana, o condutor que tenha o propósito de entrar à esquerda deverá:",
+        "imagem": null,
+        "respA": "a) Sinalizar e deslocar com antecedência o veículo para a linha divisória a esquerda.",
+        "respB": "b) Sinalizar e aguardar no acostamento a oportunidade de realizar a manobra com segurança.",
+        "respC": "c) Sinalizar e deslocar com antecedência o veículo para a esquerda ou mais à direita da sua mão de direção.",
+        "respD": "d) Sinalizar, observar e deslocar sempre com antecedência para a direita considerando sua mão de direção.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Para garantir a estabilidade da motocicleta nas curvas, o condutor deverá solicitar ao \"carona\" que:",
+        "imagem": null,
+        "respA": "a) A posição do \"carona\" não interfere na estabilidade da motocicleta.",
+        "respB": "b) Movimentar o corpo da mesma maneira que o condutor.",
+        "respC": "c) Movimentar o corpo em sentido contrário ao do condutor.",
+        "respD": "d) Manter-se em posição reta.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Os veículos de transporte coletivo regular de passageiros, quando circularem em faixas próprias a eles destinadas, e os ciclos motorizados, deverão utilizar-se de farol de:",
+        "imagem": null,
+        "respA": "a) Luz baixa durante o dia e a noite.",
+        "respB": "b) Luz baixa somente durante o dia.",
+        "respC": "c) Luz alta durante o dia e a noite.",
+        "respD": "d) Luz baixa durante o dia e luz alta durante a noite.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A faixa de trânsito destinada a se fazer ultrapassagem e circular em maior velocidade é:",
+        "imagem": null,
+        "respA": "a) Da direita.",
+        "respB": "b) Qualquer uma.",
+        "respC": "c) A sinalização com linhas amarelas.",
+        "respD": "d) Da esquerda.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Em via de mão dupla. a circulação pela contramão é:",
+        "imagem": null,
+        "respA": "a) Possivel, quando for ultrapassar outro veículo e somente pelo espaço necessário a esse fim.",
+        "respB": "b) Possivel, quando a sinalização permitir.",
+        "respC": "c) Possivel, quando houver pouca movimentação de veículos na via em sentido contrário.",
+        "respD": "d) Sempre proibida.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Para ultrapassar e somente, pelo espaço necessário para esse fim, o condutor do veículo automotor poderá:",
+        "imagem": null,
+        "respA": "a) Circular pelo acostamento, quando existir.",
+        "respB": "b) Circular pela contramão, desde que a sinalização assim o permita.",
+        "respC": "c) Circular em marcha-à-ré.",
+        "respD": "d) Forçar passagem entre dois veículos que circulam em sentido contrário.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Para melhorar o convívio e a qualidade de vida, existem alguns princípios que devem ser a base das nossas relações no trânsito. Indique abaixo qual princípio pode melhorar a nossa convivência no trânsito.",
+        "imagem": null,
+        "respA": "a) Co-responsabilidade pela vida social: Valoriza comportamentos necessários à segurança no trânsitoe à efetivação do direito de mobilidade a todos os cidadãos.",
+        "respB": "b) Dignidade da pessoa humana: Princípio que não valoriza os direitos humanos e as atitudes fundamentais.",
+        "respC": "c) Igualdade de direitos: Visa garantir à iguadade e não se preocupa com a solidariedade.",
+        "respD": "d) Participação: Mobilização das pessoas onde os problemas de trânsito não são de fundamental importância.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Com relação ao movimento efetuado pelo veículo 1, é correto dizer que:",
+        "imagem": "1562_circulacao_1399301515.jpg",
+        "respA": "a) É uma manobra permitida, desde que a segunda linha à sua esquerda seja pontilhada.",
+        "respB": "b) É uma ultrapassagem proibida, pois a manobra é efetuada sobre linha contínua.",
+        "respC": "c) É uma ultrapassagem perigosa, porém é permitida se for feita com segurança.",
+        "respD": "d) É uma ultrapassagem perfeita, pois o veículo retoma sua faixa de origem.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor, no trânsito, deve ter percepção e respeito às expectativas das pessoas, adotando uma postura adequada, sendo...",
+        "imagem": null,
+        "respA": "a) Agressivo e rápido.",
+        "respB": "b) Decidido e agressivo.",
+        "respC": "c) Cuidadoso e ligeiro.",
+        "respD": "d) Cuidadoso e atento.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Observe o desenho abaixo e assinale a alternativa certa.",
+        "imagem": "circulacao_simu_1340232911.png",
+        "respA": "a) O veiculo 2 está certo para convergir à esquerda.",
+        "respB": "b) O cruzamento ao lado é considerado mão única.",
+        "respC": "c) O veículo 2 tem preferência sobre o veículo 1.",
+        "respD": "d) O veículo 1 está posicionado corretamente para convergir à esquerda.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A qual veículo pertence a preferência?",
+        "imagem": "circulacao_simu_1340233360.png",
+        "respA": "a) Ao veículo que vier pela direita.",
+        "respB": "b) Ao veículo que virar à esquerda.",
+        "respC": "c) Ao veículo 1, que está à direita do 2.",
+        "respD": "d) Ao veículo 2, porque o veículo 1 vai virar à esquerda.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É um acidente que envolve apenas um veículo:",
+        "imagem": null,
+        "respA": "a) Colisão misteriosa.",
+        "respB": "b) Colisão frente-a-frente.",
+        "respC": "c) Saída de pista.",
+        "respD": "d) Aquaplanagem.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Analise o desenho e marque a preferência:",
+        "imagem": "circulacao_simu_1340236030.png",
+        "respA": "a) Do veículo 2, porque trafega numa via de mão única.",
+        "respB": "b) Do veículo 1, pois trafega à direita dos demais.",
+        "respC": "c) Do veículo 3, pois trafega à direita dos demais veículos.",
+        "respD": "d) Do veículo 1, porque trafega à direita do veículo 2.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Como o condutor deve se comportar nas curvas?",
+        "imagem": null,
+        "respA": "a) Dimnuir a velocidade com antecedência, usando o  freio e, se necessário, reduza a marcha antes de entrar na curva e de iniciar o movimento do volante.",
+        "respB": "b) Acelerar ao iniciar o trajeto.",
+        "respC": "c) Pisar bruscamente no freio no inicio da curva.",
+        "respD": "d) Fazer sempre movimentos bruscos.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor, para ver e ser visto nas diferentes situações de trânsito, deve:",
+        "imagem": null,
+        "respA": "a) Manter as janelas do veículo abertas.",
+        "respB": "b) Ligar a luz da placa traseira.",
+        "respC": "c) Manter acesas as luzes externas do veículo e usar farol baixo desde o pôr-so-sol até o amanhecer.",
+        "respD": "d) Acionar, no período noturno, as luzes de emergência (pisca-alerta).",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Para que o condutor tenha um comportamento seguro na via, é necessário:",
+        "imagem": null,
+        "respA": "a) Ter conhecimento da Legislação de Trânsito.",
+        "respB": "b) Fazer a revisão de seu veículo a cada dois meses.",
+        "respC": "c) Ter dirigido, no minimo, 150.000 (cento e cinquenta mil) quilômetros.",
+        "respD": "d) Ter dirigido, no mínimo, 100.000 (cem mil) quilômetros.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor que dirige com segurança é aquele que:",
+        "imagem": null,
+        "respA": "a) Circula em alta velocidade em qualquer situação.",
+        "respB": "b) Ultrapassa outro veículo pela direita.",
+        "respC": "c) Circula com velocidade adequada à via.",
+        "respD": "d) Ultrapassa nos viadutos e pontes.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Em uma via onde existir dificuldade de deslocamentos com rapidez, devido ao engarrafamento no trânsito, o condutor deverá:",
+        "imagem": null,
+        "respA": "a) Mudar de faixa de rolamento.",
+        "respB": "b) Manter-se calmo.",
+        "respC": "c) Desligar o veículo.",
+        "respD": "d) Buzinar sem parar.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Um condutor, trafegando com seu veículo a 90 km/h numa rodovia em trecho reto, fica, de repente, sem freios. A atitude correta, nesse caso, é:",
+        "imagem": null,
+        "respA": "a) Acionar as luzes de emergência e puxar o freio de mão com bastante força.",
+        "respB": "b) Reduzir as marchas sucessivamente, até chegar à primeira, e puxar o freio de mão suavemente.",
+        "respC": "c) Deixar qualquer marcha, desligar a chave do contato e puxar o freio suavemente.",
+        "respD": "d) Puxar o freio de mão imediatamente.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "É dever de todo condutor de veículo:",
+        "imagem": null,
+        "respA": "a) Transitar em velocidade compatível com a segurança nos cruzamentos sem sinalização.",
+        "respB": "b) Dar passagem, pela direita, quando solicitado.",
+        "respC": "c) Manter acesa a luz alta dos faróis nas vias com iluminação pública.",
+        "respD": "d) Usar buzina para chamar alguém.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor que estiver circulando pela faixa da esquerda, ao perceber que outro veículo que o segue tem o propósito de ultrapassá-lo, deverá:",
+        "imagem": null,
+        "respA": "a) Deslocar-se para a faixa da direita, acelerando a marcha.",
+        "respB": "b) Não deixar ultrapassar.",
+        "respC": "c) Nenhuma das respostas está correta.",
+        "respD": "d) Deslocar para a faixa da direita, sem acelerar a marcha.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Em relação à circulação de veículos automotores nas vias terrestres, podemos afirmar que:",
+        "imagem": null,
+        "respA": "a) Os veículos que se deslocam sobre trilhos terão preferência de passagem sobre os demais, respeitadas as normas de circulação.",
+        "respB": "b) A prioridade de passagem na via e no cruzamento não deverá ser reduzida, pois acarreta perigo aos veículos que transitam à retaguarda.",
+        "respC": "c) A preferência de passagem será, sempre, do veículo que vier à direita do outro.",
+        "respD": "d) O condutor deverá frear bruscamente seu veículo nas vias urbanas.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "O condutor de veículo ao se aproximar de um trecho da via com fumaça proveniente de queimadas, deverá:",
+        "imagem": null,
+        "respA": "a) Redobrar atenção, reduzir a velocidade, ligar a luz baixa do farol.",
+        "respB": "b) Reduzir a velocidade, parar o veículo e aguardar.",
+        "respC": "c) Reduzir a velocidade e ligar a luz alta do farol.",
+        "respD": "d) Rodobrar a atenção e aumentar a velocidade.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Você está numa via de trânsito rápido com fluxo grande, a uma velocidade média de 60 km/h. O veículo à sua frente derrapa e freia bruscamente. Nessa situação, você...",
+        "imagem": null,
+        "respA": "a) Mantém-se tranquilo e freia bruscamente.",
+        "respB": "b) Fica irritado com o ocorrido e desvia pela direita.",
+        "respC": "c) Muda imediatamente de faixa.",
+        "respD": "d) Reduz a velocidade aos poucos e sinaliza para o condutor de trás.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "A cidadania no trânsito pode ser definida como:",
+        "imagem": null,
+        "respA": "a) Ato de transitar na via pública, comportando-se como lhe convier.",
+        "respB": "b) Acesso ilimitado ao direitos estabelecidos, sem observar os deveres impostos.",
+        "respC": "c) O exercício dos direitos que o Código de Trãnsito Brasileiro lhe proporciona, bem como o respeito aos deveres impostos.",
+        "respD": "d) Comportamento humano que não causa prejuízos a terceiros, mesmo que contrário à legislação vigente.",
+        "correta": "C",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Observe a movimentação dos veículos 1, 2 e 3 e responda de quem é a preferência:",
+        "imagem": "circulacao_simu_1341272293.png",
+        "respA": "a) Do veículo 3 em relação ao 1 e ao 2.",
+        "respB": "b) Do veículo 2 em relação ao 3.",
+        "respC": "c) Do veículo 1 em relação ao 3.",
+        "respD": "d) Do veículo 4.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Toda situação de trânsito na via depende:",
+        "imagem": null,
+        "respA": "a) Apenas na manutenção dos veículos.",
+        "respB": "b) Do comportamento dos elementos nela envolvidos.",
+        "respC": "c) Apenas da atenção dos condutores.",
+        "respD": "d) Apenas da sinalização das vias.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Ao ser ultrapassado, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Deslocar-se, obrigatóriamente, para o acostamento, para que o veiculo possa efeturar a ultrapassagem com segurança.",
+        "respB": "b) Desviar-se para a direita, resuzir ou manter a velocidade.",
+        "respC": "c) Reduzir bastante a velocidade.",
+        "respD": "d) Não se preocupar, porque a responsabilidade é de quem ultrapassa.",
+        "correta": "B",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Quando não houver faixa especial a eles destinados, os ciclomotores devem ser conduzidos:",
+        "imagem": null,
+        "respA": "a) Pela direita da pista de rolamento, preferencialmente no centro da faixa mais à direita.",
+        "respB": "b) No sentido contrário do fluxo de veículos.",
+        "respC": "c) Pela direita da pista de rolamento, quando se tratar de vias de transito rápido.",
+        "respD": "d) Na faixa mais à esquerda da pista de rolamento.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Em cruzamento, o veículo que se aproximar pela via à sua direita, terá preferência apenas se:",
+        "imagem": null,
+        "respA": "a) O cruzamento não for sinalizado.",
+        "respB": "b) Estiver transportando passageiros.",
+        "respC": "c) O cruzamento for sinalizado com semáforo ou placa \"PARE\".",
+        "respD": "d) Estiver tranasitando em maior velocidade.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta:",
+        "imagem": null,
+        "respA": "a) O ato de dirigir é sempre dinâmico, onde as situações modificam-se constantemente.",
+        "respB": "b) Automatismo são gestos e ações efetuados pelo condutor de forma inconsciente.",
+        "respC": "c) Automatismos são reflexos adquiridos na prática da direção veicular.",
+        "respD": "d) A força centrípeta tende a jogar o veículo para fora da curva.",
+        "correta": "D",
+        "modulo" : "normas_e_condutas"
+    },
+    {
+        "pergunta": "Todo condutor pode realizar avaliação visual em seu veículo: por meio da observação visual e do acionamento de diversos comandos e componentes, verificando o funcionamento adequado ou a existência de ruidos, vibrações anormais, desgastes, vazamentos ou qualquer outra irregulaidade que possa provocar condições de perigo duarante a circulaçao. Trata-se:",
+        "imagem": null,
+        "respA": "a) Inspeção visual simples e manutenção periódica preventiva.",
+        "respB": "b) Inspeção mecanizada, por meio de profissionais.",
+        "respC": "c) Inspeção veicular obrigatória para licenciamento de veículos.",
+        "respD": "d) Inspeção veicular exigida por seguradoras de autos.",
+        "correta": "A",
+        "modulo" : "normas_e_condutas"
+    }
+]

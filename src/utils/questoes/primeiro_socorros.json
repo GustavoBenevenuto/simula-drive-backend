@@ -1,0 +1,1622 @@
+[
+    {
+        "pergunta": "Em caso de acidente com veículo transportando produtos inflamáveis, o procedimento correto do condutor é:",
+        "imagem": null,
+        "respA": "a) Providenciar, o mais rápido possível, o escoamento do produto.",
+        "respB": "b) Sinalizar o local com tochas de fogo.",
+        "respC": "c) Efetuar, primeiramente, a limpeza do veículo.",
+        "respD": "d) A via deve ser interditada e todo local evacuado.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O melhor local no corpo para se verificar a pulsação é:",
+        "imagem": null,
+        "respA": "a) Na canela.",
+        "respB": "b) Na perna.",
+        "respC": "c) Na nuca.",
+        "respD": "d) No pulso.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Num acidente observamos que o ferimento de uma vítima esguicha sangue no mesmo ritmo de sua pulsação. Conclui-se que ocorreu o corte de:",
+        "imagem": null,
+        "respA": "a) Uma veia.",
+        "respB": "b) Uma artéria.",
+        "respC": "c) Um músculo.",
+        "respD": "d) Um nervo.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "A contaminação pelo vírus da AIDS ocorre de várias maneiras. NÃO ocorre risco de contaminação quem:",
+        "imagem": null,
+        "respA": "a) Socorre a vítima usando luvas.",
+        "respB": "b) Se alimenta bem e toma vitaminas.",
+        "respC": "c) Está tomando antibióticos.",
+        "respD": "d) Está com as vacinas em dia.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em caso de hemorragia, o uso de uma compressa limpa serve para:",
+        "imagem": null,
+        "respA": "a) Estancar hemorragia interna.",
+        "respB": "b) Imobilizar a fratura.",
+        "respC": "c) Manter a temperatura normal do corpo.",
+        "respD": "d) Estancar hemorragia externa.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Você percebe uma temperatura elevada na vítima. Qual a melhor atitude?",
+        "imagem": null,
+        "respA": "a) Forçá-la a beber muita água.",
+        "respB": "b) Abaná-la.",
+        "respC": "c) Aplicar compressas frias sobre a testa.",
+        "respD": "d) Dar um analgésico e um antitérmico.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "SAMU significa:",
+        "imagem": null,
+        "respA": "a) Seção de atendimento médio urbano.",
+        "respB": "b) Serviço de auxilio médico de urgência.",
+        "respC": "c) Seção de auxilio móvel ao usuário.",
+        "respD": "d) Serviço de atendimento móvel de urgência.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O que é fratura exposta?",
+        "imagem": null,
+        "respA": "a) Quando um pedaço do osso atravessa a pele, ficando exposto externamente.",
+        "respB": "b) Luxação externa.",
+        "respC": "c) Lesão onde o músculo aparece entre a pele.",
+        "respD": "d) Fratura parcial dos ossos.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Um motorista, ao realizar a troca de um dos seus pneus, é atropelado por uma motocicleta. Nessa situação, como conduta de primeiros socorros, o motociclista deve:",
+        "imagem": null,
+        "respA": "a) Explicar aos curiosos que se aproximam o ocorrido.",
+        "respB": "b) Procurar um guarda de trânsito para fazer um boletim de ocorrências.",
+        "respC": "c) sinalizar adequadamente o local e providenciar socorro médico especializado.",
+        "respD": "d) Transportar a vítima ao posto de saúde mais próximo com a ajuda de outro motorista.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "A hemorragia nasal é muito freqüente em acidentes de trânsito e pode indicar:",
+        "imagem": null,
+        "respA": "a) Parada respiratória.",
+        "respB": "b) Traumatismo craniano.",
+        "respC": "c) Estado de choque.",
+        "respD": "d) Lesões na medula.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Enquanto se aguarda por socorro especializado para atender a vítima que apresenta queimaduras, o  procedimento adequado  consiste em aplicar:",
+        "imagem": null,
+        "respA": "a) Algodão embebido em álcool.",
+        "respB": "b) Algodão embebido em óleo mineral.",
+        "respC": "c) Pomada curativa e anestésica.",
+        "respD": "d) Compressas de água fria com pano limpo.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em acidente envolvendo motociclista, o procedimento adequado é:",
+        "imagem": null,
+        "respA": "a) Remover o capacete somente em caso de muita dor.",
+        "respB": "b) Mudar a posição do motociclista para acomodá-lo melhor.",
+        "respC": "c) Remover o capacete para facilitar a respiração.",
+        "respD": "d) Aguardar socorro especializado e não remover o capacete.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O melhor local no corpo para se verificar a pulsação é:",
+        "imagem": null,
+        "respA": "a) No pé.",
+        "respB": "b) No pescoço e punho.",
+        "respC": "c) No braço.",
+        "respD": "d) Atrás do joelho.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Vítima de acidente pede água para beber. O que fazer?",
+        "imagem": null,
+        "respA": "a) Mantê-la de jejum.",
+        "respB": "b) Dar bastante líquido para hidratar a vítima.",
+        "respC": "c) Dar um copo, no máximo.",
+        "respD": "d) Não forçar, deixar tomar apenas o que quiser.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em acidente onde haja derramamento de combustível você deverá, para reduzir perigo de incêndio:",
+        "imagem": null,
+        "respA": "a) Cobrir o combustível com terra, areia ou cal.",
+        "respB": "b) Apenas lavar a pista.",
+        "respC": "c) Cobrir o combustível com lona plástica.",
+        "respD": "d) Espalhar o combustível.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Ao acionar o serviço de atendimento, o socorrista não deverá passar as seguintes informações:",
+        "imagem": null,
+        "respA": "a) Endereço e número de telefone da vítima.",
+        "respB": "b) Gravidade aparente do acidente.",
+        "respC": "c) Nome da rua ou rodovia e número próximo.",
+        "respD": "d) Tipo de acidente, e se envolve carro, motocicleta, colisão, atropelamento etc.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Uma pessoa foi atropelada e está caída no meio da rua. O que fazer em primeiro lugar?",
+        "imagem": null,
+        "respA": "a) Remover a pessoa para a calçada.",
+        "respB": "b) Anotar a chapa ou correr atrás do carro que atropelou.",
+        "respC": "c) Tentar chamar algum parente da vítima.",
+        "respD": "d) Sinalizar o local e evitar outros acidentes.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O SAMU foi criado para dar atendimento a qualquer tipo de emergência relacionada:",
+        "imagem": null,
+        "respA": "a) Exclusivamente aos acidentes de trabalho.",
+        "respB": "b) À saúde, excluíndo os acidentes de trânsito.",
+        "respC": "c) Exclusivamente às pessoas que passam mal dentro do veículo.",
+        "respD": "d) À saúde, incluindo acidentes de trânsito.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em um acidente com um caminhão que transporta produto químico, você constata que há um grande vazamento. O que deve ser feito?",
+        "imagem": null,
+        "respA": "a) Aproximar-se do veículo e sinalizar o local, independente do produto derramado na pista.",
+        "respB": "b) Joga na pista, sobre o derramamento, serragem, areia ou outro produto similar.",
+        "respC": "c) Para o seu veículo perto do acidente.",
+        "respD": "d) Ir embora do local, sem prestar nenhuma ajuda.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Você sabe quais as providências iniciais que devem ser tomadas em um acidente. Quais maneiras abaixo são mais adequadas na tentativa de assumir a liderança?",
+        "imagem": null,
+        "respA": "a) Apenas ficar mandando as pessoas fazerem as coisas.",
+        "respB": "b) Pagar pela ajuda recebida.",
+        "respC": "c) Sempre motivar a todos, elogiando e agradecendo cada ação bem sucedida.",
+        "respD": "d) Agir sempre sozinho, não perder tempo.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Respirar profundamente algumas vezes, observar o seu próprio corpo em busca de ferimentos e confortar os ocupantes do seu veículo, são providências que devem ser tomadas para:",
+        "imagem": null,
+        "respA": "a) Manter-se respirando.",
+        "respB": "b) Saber o que aconteceu.",
+        "respC": "c) Redobrar a calma.",
+        "respD": "d) Manter-se vivo.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Na maioria das regiões do Brasil, os telefones dos Bombeiros, SAMU- Serviço de Atendimento Móvel de Urgência e Polícia Militar, respectivamente são:",
+        "imagem": null,
+        "respA": "a) Bombeiros: 193;  SAMU: 192 e Polícia: 190.",
+        "respB": "b) Bombeiros: 190.",
+        "respC": "c) Polícia: 130.",
+        "respD": "d) Resgate: 911.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Vitima da acidente pede água para beber. O quê fazer?",
+        "imagem": null,
+        "respA": "a) Mantê-la em jejum.",
+        "respB": "b) Dar bastante água para hidratar a vítima.",
+        "respC": "c) Dar um copo de água no máximo.",
+        "respD": "d) Forçá-la a tomar bastante água.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Uma vítima de acidente de trânsito está gritando com muita dor. O que fazer?",
+        "imagem": null,
+        "respA": "a) Dar remédio para dor.",
+        "respB": "b) Levar imediatamente para o hospital.",
+        "respC": "c) Esperar a chegada do resgate.",
+        "respD": "d) Fazer compressa geladas no local da dor.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Assinale a opção incorreta. O pulso representa a regularidade da contração do coração.",
+        "imagem": null,
+        "respA": "a) Sua freqüência varia com a idade.",
+        "respB": "b) Um ritimo irregular pode ser patalógico.",
+        "respC": "c) Com um pulso fraco pode estar ocorrendo uma hemorragia.",
+        "respD": "d) Ao verificar um pulso usamos os dedos polegar e indicador sobre a artéria.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Ao observar uma pessoa tendo convulsões deve-se:",
+        "imagem": null,
+        "respA": "a) Não intervir, porque isto passa espontaneamente.",
+        "respB": "b) Abrir a boca da vítima, colocar um pano entre os dentes para evitar que ela morda a língua.",
+        "respC": "c) Pedir ajuda de outras pessoas, tentar imobilizá-la, segurando-a firmemente, contra o chão.",
+        "respD": "d) Proteger a cabeça da pessoa contra traumas e virá-la de lado em caso de vômitos.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em acidente de trânsito, afastar os curiosos,  desligar o motor dos veículos envolvidos e orientar para que não fumem no local. É uma ação do socorrista em caso de:",
+        "imagem": null,
+        "respA": "a) Atropelamento.",
+        "respB": "b) Óleo e/ou obstáculo na pista.",
+        "respC": "c) Cabos de eletricidade caindo no local.",
+        "respD": "d) Risco de incêndio.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Um motociclista sofreu acidente e encontra-se caído com o capacete na cabeça. O que fazer?",
+        "imagem": null,
+        "respA": "a) Remover imediatamente o capacete.",
+        "respB": "b) Remover o capacete somente se ele estiver consciente.",
+        "respC": "c) Ajudá-lo a erguer-se do chão.",
+        "respD": "d) Sinalizar o local, chamar o resgate e verificar a respiração.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em que tipo de situação devemos retirar a vítima do veículo, antes da chegada de socorro profissional?",
+        "imagem": null,
+        "respA": "a) Quando estiver chovendo.",
+        "respB": "b) Quando houver perigo de incêndio ou outros riscos evidentes.",
+        "respC": "c) Em qualquer situação.",
+        "respD": "d) Quando o acidente ocorrer à noite.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Para atendimento em um acidente de trânsito, quais  são as ações básicas que devemos tomar?",
+        "imagem": null,
+        "respA": "a) Manter a calma, controlar a situação, garantir a segurança, acionar o socorro profissional e iniciar o socorro às vítimas.",
+        "respB": "b) Retirar as vítimas de dentro dos veículos o mais rápido possível.",
+        "respC": "c) Dar água para as vítimas.",
+        "respD": "d) Não parar, pois você não está preparado para ajudar.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Somente poderá ser removida uma vítima de acidente se:",
+        "imagem": null,
+        "respA": "a) Ela pedir.",
+        "respB": "b) Ela estiver consciente.",
+        "respC": "c) Ela estiver correndo risco de morte.",
+        "respD": "d) Ela estiver desmaiada.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Um motociclista acidentado encontra-se caído com o capacete na cabeça. O que fazer:",
+        "imagem": null,
+        "respA": "a) Ajudá-lo a se levantar.",
+        "respB": "b) Remover imediatamente o capacete.",
+        "respC": "c) Se ele estiver consciente remover o capacete.",
+        "respD": "d) Sinalizar o local, chamar o resgate e verificar a respiração.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Na presença de sangramento abundante, qual o cuidado indicado?",
+        "imagem": null,
+        "respA": "a) Garrotear (usar garrote).",
+        "respB": "b) Fazer compressão no local do sangramento.",
+        "respC": "c) Dar bastante liquido para a pessoa ir tomando.",
+        "respD": "d) Jogar bastante água oxigenada para coagular e limpar o ferimento.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Assinale a resposta certa: São tipos de hemorragia:",
+        "imagem": null,
+        "respA": "a) Externa e interna.",
+        "respB": "b) Aberta e fechada.",
+        "respC": "c) Externa e aberta.",
+        "respD": "d) Interna e fechada.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Um acidentado está com um pedaço de vidro encravado no olho. Como proceder nesse caso?",
+        "imagem": null,
+        "respA": "a) Retirar o vidro com os dedos.",
+        "respB": "b) Retirar o vidro com uma pinça.",
+        "respC": "c) Pingar colírio anestésico/desinfetante.",
+        "respD": "d) Cobrir o olho e encaminhá -lo ao hospital.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Que atitude você deve tomar quando uma vítima sai andando após um acidente?",
+        "imagem": null,
+        "respA": "a) Deixá-la ir para onde quiser.",
+        "respB": "b) Segurar a vítima.",
+        "respC": "c) Não fazer nada e deixá-la a vontade.",
+        "respD": "d) Aconselhá-la a parar de se movimentar e aguardar o socorro em local seguro.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Uma pessoa bateu a cabeça, perdeu a consciência e depois acordou dizendo estar bem. O que fazer?",
+        "imagem": null,
+        "respA": "a) Neste caso, não há necessidade de ir ao hospital.",
+        "respB": "b) Recomendar que a pessoa fique acordada 24hs.",
+        "respC": "c) Sempre levar a pessoa ao hospital.",
+        "respD": "d) Levar ao hospital somente se tiver que fazer curativo.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Vítima de acidente apresenta corpo estranho  em seu corpo. O que fazer?",
+        "imagem": null,
+        "respA": "a) Retirar imediatamente o corpo estranho.",
+        "respB": "b) Verificar a respiração, não tentar remover o corpo estranho e aguardar o resgate.",
+        "respC": "c) Retirar o corpo estranho e comprimir o local com gaze.",
+        "respD": "d) Retirar o corpo estranho se este estiver causando dor.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O que caracteriza uma hemorragia externa?",
+        "imagem": null,
+        "respA": "a) Sangramento pelo nariz.",
+        "respB": "b) Sangue saindo do corpo através de um ferimento.",
+        "respC": "c) Sangramento não visível.",
+        "respD": "d) Convulsões.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "No caso de um acidentado que sofreu queimaduras, o procedimento que devemos tomar é: ",
+        "imagem": null,
+        "respA": "a) Esfriar a área com água corrente.",
+        "respB": "b) Passar pasta de dente no local.",
+        "respC": "c) Cobrir o ferimento com gaze.",
+        "respD": "d) Dar bastante leite para a pessoa tomar.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Num acidente de trânsito deverá receber os primeiros socorros, primeiramente a vítima que estiver:",
+        "imagem": null,
+        "respA": "a) Respirando com muita dificuldade.",
+        "respB": "b) Gritando, com muita dor.",
+        "respC": "c) Xingando, com muitas ameaças.",
+        "respD": "d) Com muitas fraturas.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Qual atitude você deve tomar, no atendimento a uma vítima, ao prever a possibilidade dela ser portador de doença infectocontagiosa?",
+        "imagem": null,
+        "respA": "a) Chamar o resgate somente.",
+        "respB": "b) Deixar de dar socorro, priorizando sua própria segurança.",
+        "respC": "c) Atender a vítima, sem maiores preocupações.",
+        "respD": "d) Atender a vítima, evitando contato direto com o sangue ou fluidos orgânicos, preferencialmente usando luvas.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Análise secundária é o tratamento dado à vítima consciente e capaz de se expressar. Nesta fase socorrista deve examinar:",
+        "imagem": null,
+        "respA": "a) Sinais vitais como pulso e respiração.",
+        "respB": "b) Dilatação e reatividade das pupilas.",
+        "respC": "c) Ferimentos, fraturas e hemorragias.",
+        "respD": "d) Temperatura da vítima.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Os sangramentos podem ocorrer devido a cortes e outros fatores que rompem vasos capilares, veias e artérias. Nos pequenos sangramentos devemos:",
+        "imagem": null,
+        "respA": "a) Pressionar a ferida com pano limpo.",
+        "respB": "b) Elevar o membro acima do nível do coração.",
+        "respC": "c) Em caso de corte, unir os dois lados com os dedos.",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O trabalho de remoção de um acidentado deve ser feito por pessoal especializado e com equipamentos apropriados. Mas, se numa emergência, esse transporte precisar ser feito por você, qual procedimento pode ser considerado inadequado?",
+        "imagem": null,
+        "respA": "a) Verificar se há deformações na coluna vertebral.",
+        "respB": "b) Improvisar uma marca para transporte do acidentado.",
+        "respC": "c) Remover a vítima do local de maneira mais rápida possível, pois esta necessita de atendimento urgente.",
+        "respD": "d) Orientar o condutor sobre freadas bruscas e excesso de velocidade que podem agravar o estado da vítima.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Qual é a alternativa incorreta em primeiros socorros em relação à contusões e entorses?",
+        "imagem": null,
+        "respA": "a) São lesões bem comuns em acidentes de trânsito.",
+        "respB": "b) Nas contusões, o músculo é comprimido para o osso.",
+        "respC": "c) Em caso de contusão, deve-se aplicar água quente.",
+        "respD": "d) A entorse é uma torção nas articulações.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Complete a frase. Nos casos de parada cardíaca os lábios tendem a ficar azulados (cianoze), as pupilas encontram-se  ___ e a vítima apresenta palidez acentuada.",
+        "imagem": null,
+        "respA": "a) Contraídas.",
+        "respB": "b) Enrijecidas.",
+        "respC": "c) Dilatadas.",
+        "respD": "d) Rígidas.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Localize a metade inferior do osso Esterno, subindo dois dedos a partir do início da costela. Esse é um dos procedimentos para executar a massagem cardíaca que deve ser repetida a cerca de ___ por minuto:",
+        "imagem": null,
+        "respA": "a) 12 a 15 vezes.",
+        "respB": "b) 30 a 60 vezes.",
+        "respC": "c) 100 vezes.",
+        "respD": "d) 60 a 120 vezes.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Nos casos  em que a vítima, além de não respirar, sofre parada cardíaca, deve-se proceder como:",
+        "imagem": null,
+        "respA": "a) Respiração boca a boca.",
+        "respB": "b) Massagem cardíaca.",
+        "respC": "c) Reanimação cardiorrespiratória.",
+        "respD": "d) Somente aguardar a chegada do socorro especializado.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Sabemos portanto que  a ressuscitação cardiopulmonar funciona melhor quando executada:",
+        "imagem": null,
+        "respA": "a) Nos primeiros 15 minutos.",
+        "respB": "b) Após 5 minutos.",
+        "respC": "c) Nos primeiros 5 minutos.",
+        "respD": "d) Após 15 minutos.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "A parada respiratória é um fato grave, pois sabemos que a pessoa sem respirar pode morrer em poucos minutos. Qual o procedimento correto ao socorrer uma pessoa cuja respiração parou?",
+        "imagem": null,
+        "respA": "a) Procurar remover objetos que estejam na boca da vítima.",
+        "respB": "b) Inclinar a cabeça da vítma ao máximo para trás para soltar a lingua do fundo da garganta.",
+        "respC": "c) Utilizar o método boca a boca.",
+        "respD": "d) Todas as alternativas acima estão corretas.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "A parada cardio-respiratória acontece nos casos em que a vítima, além de não respirar, sofre parada cardíaca. Para ajudar uma pessoa nessa condição, o socorrista deve executar:",
+        "imagem": null,
+        "respA": "a) A massagem cardíaca.",
+        "respB": "b) A respiração artificial.",
+        "respC": "c) O método boca -a-boca.",
+        "respD": "d) A massagem cardíaca associada à respiração artificial.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Observar se existem ferimentos na cabeça, tórax, abdômen, queimadura, fraturas e se há lesão na coluna. Ao efetuar estes procedimentos, o socorrista está realizando uma análise:",
+        "imagem": null,
+        "respA": "a) Primária.",
+        "respB": "b) De risco.",
+        "respC": "c) Secundária.",
+        "respD": "d) De rotina.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "É considerada a primeira etapa nos cuidados essenciais prestado a vítima de acidente de trânsito:",
+        "imagem": null,
+        "respA": "a) Massagem cardíaca.",
+        "respB": "b) Análise secundária.",
+        "respC": "c) Análise primária.",
+        "respD": "d) Primeiros socorros.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "As situações de emergência não são sempre iguais uma às outras e os procedimentos a serem adotados dependem de vários fatores, tais como:",
+        "imagem": null,
+        "respA": "a) O nível de conhecimento.",
+        "respB": "b) A prática e os recursos dos quais de dispõe.",
+        "respC": "c) O tempo estimado para a chegada de ajuda profissional.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Orientar ao local, a gravidade do ocorrido, o número de veículos envolvidos e, se possível, o estado das vítimas é atitude que corresponde:",
+        "imagem": null,
+        "respA": "a) As ações realizadas por agentes qualificados.",
+        "respB": "b) Ao acionamento de recursos.",
+        "respC": "c) A primeira opção do socorrista.",
+        "respD": "d) À atitude dos auxiliares.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Vítima apresenta quadro de parada respiratória. O que fazer, nesse caso?",
+        "imagem": null,
+        "respA": "a) Colocar a vítima em pé e realizar expiração e inspiração.",
+        "respB": "b) Elevação e compressão com a vítima consciente.",
+        "respC": "c) Deitar a vítima, desobstruir as vias aéreas e, com os devidos cuidados, manter seu pescoço estendido.",
+        "respD": "d) Expiração e compressão.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Ao socorrer uma vítima de acidente de trânsito, qual das providências abaixo é incorreta?",
+        "imagem": null,
+        "respA": "a) Não se preocupar com a distância a ser sinalizada. Está perto da vítima é o mais importante.",
+        "respB": "b) Se o motor de um dos veículos estiver funcionando, desligue-o imediatamente.",
+        "respC": "c) Acione o freio de estacionamento.",
+        "respD": "d) Ligue o pisca-alerta do veículo.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Ao visualizar um acidente, o socorrista não deve:",
+        "imagem": null,
+        "respA": "a) Iluminar o local, acendendo fósforos.",
+        "respB": "b) Preocupar-se primeiro com sua segurança.",
+        "respC": "c) Estacionar preferencialmente após o local do acidente.",
+        "respD": "d) Analisar o estado de saúde das vítimas.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Manter a cabeça mais alta que o corpo é socorro prestado à vítima:",
+        "imagem": null,
+        "respA": "a) Em estado de choque.",
+        "respB": "b) Com ferimentos na cabeça.",
+        "respC": "c) Com as pupilas dilatadas.",
+        "respD": "d) Com temperatura baixa.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Palidez, sede e calafrios, são sintomas:",
+        "imagem": null,
+        "respA": "a) Hemorragia.",
+        "respB": "b) Lesão na cabeça.",
+        "respC": "c) Queimadura.",
+        "respD": "d) Fratura.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Primeiros socorros são ações de emergência objetivando amenizar sofrimento e evitar um problema ainda maior. Ao socorrer, o que não fazer?",
+        "imagem": null,
+        "respA": "a) Sinalizar o local.",
+        "respB": "b) Análise primária e secundária das vítimas envolvidas.",
+        "respC": "c) Parar o mais próximo possível do veículo acidentado.",
+        "respD": "d) Solicitar uma equipe de resgate.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Não entre em pânico. Pensar é tão importante quanto agir! Essa fase refere-se:",
+        "imagem": null,
+        "respA": "a) A direção defensiva.",
+        "respB": "b) A direção preventiva.",
+        "respC": "c) Prestação de socorros.",
+        "respD": "d) Ao acionamento de recursos.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Assinale a definição correta de drogas psicoativas:",
+        "imagem": null,
+        "respA": "a) Substâncias que alteram o sistema nervoso.",
+        "respB": "b) Bebida com alto teor alcoólico.",
+        "respC": "c) Substância que provocam sonolência.",
+        "respD": "d) Bebidas alcoólicas misturadas.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Ao socorrer uma vítima com estilhaços de vidro no olho, você deve:",
+        "imagem": null,
+        "respA": "a) Pingar colírio anestésico.",
+        "respB": "b) Retira com pinça os estilhaços de vidro.",
+        "respC": "c) Tampar o olho donde está o estilhaço.",
+        "respD": "d) Cobrir os dois olhos da vítima.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Qual é a prioridade ao socorrer uma vítima de acidentes?",
+        "imagem": null,
+        "respA": "a) Sinalizar o local e chamar o resgate.",
+        "respB": "b) Verificar fraturas.",
+        "respC": "c) Verificar estado de choque.",
+        "respD": "d) Transportar a vítima.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O que não se deve fazer em um acidente de trânsito?",
+        "imagem": null,
+        "respA": "a) Abandonar a vítima de acidente, com pretexto de fugir do flagrante.",
+        "respB": "b) Omitir socorro.",
+        "respC": "c) Remover a vítima das ferragens.",
+        "respD": "d) Todas as afirmativas estão corretas.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em caso de acidente com veículo transportando produtos inflamáveis, o procedimento correto do condutor é:",
+        "imagem": null,
+        "respA": "a) Providenciar, o mais rápido possível o escoamento do produto.",
+        "respB": "b) Sinalizar o local com tochas de fogo.",
+        "respC": "c) Efetuar, primeiramente a limpeza do veículo.",
+        "respD": "d) Isolar o local.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O procedimento correto com o acidentado que sofreu queimaduras é:",
+        "imagem": null,
+        "respA": "a) Esfrie a área com água corrente.",
+        "respB": "b) Passar pasta de dente na ferida.",
+        "respC": "c) Cobrir a ferida com gaze.",
+        "respD": "d) Dar leite para a pessoa tomar.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "São ações na realização da ressuscitação cardiopulmonar:",
+        "imagem": null,
+        "respA": "a) Observar o corpo estranho na boca.",
+        "respB": "b) Manter o ritmo de 12 a 15 respirações por minuto.",
+        "respC": "c) Ver, ouvir e sentir a respiração e movimentação do tórax.",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "É falso afirmar: ao perceber um acidente o socorrista deve:",
+        "imagem": null,
+        "respA": "a) À noite, iluminar o local acendendo fósforos.",
+        "respB": "b) Preocupar-se primeiro com a sua segurança.",
+        "respC": "c) Só deixar descer do veículo quem tem condições de ajudar.",
+        "respD": "d) Sinalizar o local com o triângulo.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Vítima de acidente apresenta corpo estranho (parte metálica) encravado em seu corpo. Nessa situação você deve:",
+        "imagem": null,
+        "respA": "a) Só retirar o corpo estranho se estiver causando dor.",
+        "respB": "b) Não remover o corpo estranho e monitorar os sinais vitais da vítima.",
+        "respC": "c) Retirar imediatamente o corpo estranho.",
+        "respD": "d) Retirar o corpo estranho e comprimir o local com gaze.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Na impossibilidade da presença do resgate, o socorrista deve observar, no acidentado, primeiramente:",
+        "imagem": null,
+        "respA": "a) Lesões contundentes.",
+        "respB": "b) Queimaduras de primeiro grau.",
+        "respC": "c) Hemorragia.",
+        "respD": "d) Sinalizar o local.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Uma pessoa que tem uma parada cardio-respiratória morrerá caso a respiração não seja restabelecida em:",
+        "imagem": null,
+        "respA": "a) De 3 a 5 minutos.",
+        "respB": "b) De 10 a 15 minutos.",
+        "respC": "c) De 2 a 4 minutos.",
+        "respD": "d) De 5 a 10 minutos.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Indica incapacidade de movimentar pernas e braços após um acidente:",
+        "imagem": null,
+        "respA": "a) Traumatismo craniano.",
+        "respB": "b) Politraumatismo.",
+        "respC": "c) Lesão na coluna.",
+        "respD": "d) Lesão na cabeça.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O procedimento correto com o acidentado que sofreu queimaduras é:",
+        "imagem": null,
+        "respA": "a) Esfriar a área com água corrente.",
+        "respB": "b) Passar pasta de dente na ferida.",
+        "respC": "c) Cobrir a ferida com gaze.",
+        "respD": "d) Dar leite para a pessoa tomar.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Diante de uma vítima de trânsito, não sendo possível a presença do profissional socorrista, deve-se primeiramente, verificar se:",
+        "imagem": null,
+        "respA": "a) Ocorreu sangramento abundante.",
+        "respB": "b) Ocorreram  fraturas.",
+        "respC": "c) A vítima consegue ficar em pé e andar sozinha.",
+        "respD": "d) Ocorreu a obstrução de vias aéreas.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em um acidente de trânsito em que haja fios de rede elétrica sobre o veículo, você deve:",
+        "imagem": null,
+        "respA": "a) Instruir os ocupantes para que saiam do veículo.",
+        "respB": "b) Tentar remover os fios com pedaço de pau.",
+        "respC": "c) Instruir os ocupantes para que permaneçam dentro do veículo e chamar o resgate.",
+        "respD": "d) Retirar os ocupantes do veículo imediatamente.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Assinale a opção incorreta: Quanto a ferimentos abdominais abertos:",
+        "imagem": null,
+        "respA": "a) Encaminhar imediatamente, para o hospital após o atendimento.",
+        "respB": "b) Se ocorrer exposição de intestino e estômago colocar novamente na cavidade.",
+        "respC": "c) Não tocar o ferimento com os dedos ou material sujo.",
+        "respD": "d) Cobrir com compressas úmidas o órgão exposto.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Para evitar agravamento do acidente de trânsito como novas colisões, atropelamento ou incêndios, deve-se de imediato tomar a seguinte providência:",
+        "imagem": null,
+        "respA": "a) Sinalizar o local.",
+        "respB": "b) Retirar a vítima do veículo.",
+        "respC": "c) Retirar o veículo do local.",
+        "respD": "d) Verificar a situação das vítimas.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em caso de ferimentos nos olhos, não se deve:",
+        "imagem": null,
+        "respA": "a) Lavar o olho com água limpa.",
+        "respB": "b) Retirar corpos estranhos encravados.",
+        "respC": "c) Cobrir o olho ferido com gaze ou pano limpo.",
+        "respD": "d) Pedir que a vítima feche o outro olho.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "No traumatismo craniano as pupilas:",
+        "imagem": null,
+        "respA": "a) Apresentam-se contraídas.",
+        "respB": "b) Ficam sem reflexo.",
+        "respC": "c) Uma apresenta-se dilatada e paralisada enquanto a outra  fica sem reflexo.",
+        "respD": "d) Apresentam-se dilatadas e não reagem à luz.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em que situação o socorrista deve usar a pressão digital na artéria?",
+        "imagem": null,
+        "respA": "a) Em pequenos sangramentos.",
+        "respB": "b) Nas entroses.",
+        "respC": "c) Nas contusões.",
+        "respD": "d) Nos grandes sangramentos.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Quando há sinais claros que a vítima não tem respiração ou pulsação e não há mais tempo a perder, e portanto, deve-se:",
+        "imagem": null,
+        "respA": "a) Virar a vítima de bruço e tentar comprimir suas costas.",
+        "respB": "b) Colocar a vítima de costas sobre uma superfície rígida ou no chão e iniciar manobras de reanimação.",
+        "respC": "c) Não adianta fazer mais nada.",
+        "respD": "d) Removê-la rapidamente para um pronto socorro mais próximo.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Uma pessoa foi atropelada e está caída no meio da rua. O que fazer em primeiro lugar?",
+        "imagem": null,
+        "respA": "a) Remover a pessoa para a calçada.",
+        "respB": "b) Anotar a chapa ou correr atrás do carro que atropelou.",
+        "respC": "c) Tentar achar algum parente da vítima.",
+        "respD": "d) Sinalizar o local para evitar outros acidentes.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Uma pessoa ao fechar a porta do carro, teve seu dedo amputado. O que fazer com o dedo?",
+        "imagem": null,
+        "respA": "a) Desprezar o dedo amputado e socorrer a vítima.",
+        "respB": "b) Recolher o dedo e colocá-lo imediatamente no gelo.",
+        "respC": "c) Recolher o dedo e colocá-lo no álcool.",
+        "respD": "d) Embrulhar o dedo em gaze estéril ou saco plastico seco e levá-lo junto com a pessoa para o hospital.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em caso de acidente:",
+        "imagem": null,
+        "respA": "a) É obrigação de todos sempre prestar auxílio à vítima, mesmo que não saiba fazer.",
+        "respB": "b) É obrigação de todos prestarem auxílio desde que não corra o risco pessoal.",
+        "respC": "c) É obrigação de todos prestarem  auxílio, mesmo com risco pessoal.",
+        "respD": "d) Não existe obrigação legal em socorrer.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em acidente automobilístico envolvendo veículo com passageiros e fio elétrico caído sobre o veículo, os passageiros deverão, até ser desligada a energia...",
+        "imagem": null,
+        "respA": "a) Serem retirados imediatamente.",
+        "respB": "b) Sair um a um do veículo.",
+        "respC": "c) Afastar o veículo do fio elétrico.",
+        "respD": "d) Permanecer no veículo.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Ao transportar uma vítima é incorreto:",
+        "imagem": null,
+        "respA": "a) Transportar a vitima imobilizada.",
+        "respB": "b) Manter as vias aéreas livres, desobstruidas.",
+        "respC": "c) Manter a qualquer custo a vítima acordada.",
+        "respD": "d) Manter a vítima em jejum.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Vitima que usava cinto de segurança está inconsciente dentro do veículo. O que fazer em primeiro lugar?",
+        "imagem": null,
+        "respA": "a) Sinalizar o local e chamar o resgate.",
+        "respB": "b) Retirar o cinto de segurança.",
+        "respC": "c) Retirar a vítima do veículo e deitá-lo.",
+        "respD": "d) Esperar que recobre a consciência.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Vítima apresenta fratura exposta (osso quebrado está para fora). O que fazer?",
+        "imagem": null,
+        "respA": "a) Garrotear o membro fazendo um torniquete.",
+        "respB": "b) Empurrar aquele osso para dentro.",
+        "respC": "c) Ir jogando água gelada até chegar o resgate.",
+        "respD": "d) Observar se a vítima está respirando, imobilizar o membro e acalmar a vítima enquanto espera o resgate.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Os Primeiros Socorros envolvem:",
+        "imagem": null,
+        "respA": "a) O atendimento, após a chegada do socorro profissional.",
+        "respB": "b) O atendimento inicial e temporário realizado por profissional especializado.",
+        "respC": "c) As técnicas que somente pessoa treinada pode realizar.",
+        "respD": "d) O atendimento inicial e temporário, até a chegada de um socorro profissional.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Quanto a remoção da vítima, assinale a opção correta:",
+        "imagem": null,
+        "respA": "a) A remoção deve ser feita imediatamente.",
+        "respB": "b) Não é necessário imobilizar a vítima com suspeita de fratura.",
+        "respC": "c) O socorrista só deve providenciar a remoção, depois da vítima ter recebido atendimento no local.",
+        "respD": "d) Não é necessário preocupar com as vias aéreas.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em um acidente de trânsito em que haja fios de rede elétrica sobre o veículo, você deve:",
+        "imagem": null,
+        "respA": "a) Instruir os ocupantes para que saiam do veículo.",
+        "respB": "b) Tentar remover os fios com pedaços de galhos.",
+        "respC": "c) Instruir os ocupantes para que permaneçam dentro do veículo e chamar o resgate.",
+        "respD": "d) Retirar os ocupantes do veículo imediatamente.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em um acidente, para realizar a ação de movimentar a vítima inconsciente e identificação de uma parada respiratória ou cardíaca, exige-se do socorrista:",
+        "imagem": null,
+        "respA": "a) Fazer respiração boca a boca.",
+        "respB": "b) Movimentar a vítima para que a mesma recupere a consciência.",
+        "respC": "c) Fazer ressuscitação cardiopulmonar.",
+        "respD": "d) Treinamento prático e específico.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Prevenir-se ao prestar socorro a alguém significa:",
+        "imagem": null,
+        "respA": "a) Somente socorrer se estiver acompanhado por alguém.",
+        "respB": "b) Evitar riscos pessoais e acidentes secundários.",
+        "respC": "c) Socorrer somente durante o dia.",
+        "respD": "d) Somente socorrer quando não houver sangramento.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em um acidente de trânsito, deverá receber os primeiros socorros, primeiramente, a vitima que estiver:",
+        "imagem": null,
+        "respA": "a) Gritando com muita dor.",
+        "respB": "b) Com muitas fraturas. ",
+        "respC": "c) Presa às ferragens.",
+        "respD": "d) Respirando com dificuldade.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Porque devemos sinalizar o local de um acidente?",
+        "imagem": null,
+        "respA": "a) Porque é obrigatório.",
+        "respB": "b) Para evitar colisão traseira.",
+        "respC": "c) Para alertar os outros motoristas sobre a existência de um perigo.",
+        "respD": "d) Para avisar o SAMU.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Ao examinar uma vitima de acidente, você detecta que ela apresenta temperatura elevada. Nessa situação, não se deve:",
+        "imagem": null,
+        "respA": "a) Colocar compressas úmidas nas axilas.",
+        "respB": "b) Aquecer com cobertores para diminuir calafrios.",
+        "respC": "c) Fazer banhos de imersão à temperatura corporal.",
+        "respD": "d) Aplicar compressas frias sobre a testa.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O SAMU foi criado com qual finalidade?",
+        "imagem": null,
+        "respA": "a) Para atender vitimas de acidentes de trânsito.",
+        "respB": "b) Para assistência a saúde e à acidentes em geral.",
+        "respC": "c) Para atender apenas acidentes gravíssimos.",
+        "respD": "d) Para substituir os bombeiros.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Uma pessoa foi atropelada e está caída no meio da rua. O que fazer? ",
+        "imagem": null,
+        "respA": "a) Remover a pessoa para calçada.",
+        "respB": "b) Anotar a placa do veículo.",
+        "respC": "c) Verificar os sinais vitais da pessoa e sinalizar o local.",
+        "respD": "d) Chamar o SAMU.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Na presença de sangramento abundante, qual o cuidado indicado? ",
+        "imagem": null,
+        "respA": "a) Fazer um torniquete.",
+        "respB": "b) Fazer compressão no local do ferimento.",
+        "respC": "c) Jogar água limpa para limpar o ferimento.",
+        "respD": "d) Colocar açúcar para parar o sangramento.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Porque devemos sinalizar o local de um acidente?",
+        "imagem": null,
+        "respA": "a) Para evitar novos acidentes.",
+        "respB": "b) Para prestar socorro as vítimas com segurança. ",
+        "respC": "c) Para proteger as vitimas e usuários da via de novos acidentes.",
+        "respD": "d) Todas as alternativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Qual a distância correta para iniciar a sinalização em uma avenida com velocidade máxima permitida de 60km/h, em caso de um acidente?",
+        "imagem": null,
+        "respA": "a) 60 passos largos.",
+        "respB": "b) 100 passos largos.",
+        "respC": "c) 120 passos.",
+        "respD": "d) 80 passos.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em caso de hemorragia, o uso de uma compressa limpa serve para:",
+        "imagem": null,
+        "respA": "a) Estancar hemorragia interna",
+        "respB": "b) Imobilizar a fratura.",
+        "respC": "c) Manter a temperatura normal do corpo.",
+        "respD": "d)  Estancar hemorragia externa. ",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": " Não é correto adotar a seguinte conduta para imobilização em caso de fratura:",
+        "imagem": null,
+        "respA": "a) Manter a vítima deitada.",
+        "respB": "b) O comprimento de uma tala deverá ser suficiente para imobilizar, também, a articulação.",
+        "respC": "c) Antes de imobilizar, puxar o membro colocando-o na posição natural.",
+        "respD": "d) Aplicar panos limpos sobre as fraturas expostas. ",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Entre as regras fundamentais para sinalizar o local do acidente de trânsito, destaca-se a de:",
+        "imagem": null,
+        "respA": "a) Permitir que pessoas parem na pista.",
+        "respB": "b) Não é necessário sinalizar nos dois sentidos.",
+        "respC": "c) Iniciar a sinalização num ponto em que os condutores ainda não possam ver o acidente.",
+        "respD": "d) Manter o tráfego parado nos dois sentidos. ",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em caso de primeiros socorros, o colar cervical serve para:",
+        "imagem": null,
+        "respA": "a) Liberar o movimento cervical.",
+        "respB": "b) Limitar os movimentos das pernas.",
+        "respC": "c) Imobilizar a coluna cervical.",
+        "respD": "d) Estancar hemorragia.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Embora cada acidente tenha suas circunstâncias peculiares, algumas medidas devem ser tomadas pelo socorrista, dentre elas:",
+        "imagem": null,
+        "respA": "a) Aliviar a dor, oferecendo analgésico à vitima.",
+        "respB": "b) Transportar a vítima em qualquer situação.",
+        "respC": "c) Oferecer líquido à vítima.",
+        "respD": "d) Assumir a situação de emergência.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Ao se deparar com acidente identificado como colisão frontal, o socorrista suspeitará, primeiramente, que as vítimas tiveram:",
+        "imagem": null,
+        "respA": "a) Queimadura.",
+        "respB": "b) Escoriação.",
+        "respC": "c) Fratura de membros inferiores e lesões na coluna cervical.",
+        "respD": "d) Afogamento.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Quais os sintomas de uma lesão na coluna vertebral?",
+        "imagem": null,
+        "respA": "a) Dor muito intensa, perda dos movimentos, perda da sensibilidade ou formigamento em membros.",
+        "respB": "b) Hemorragia interna.",
+        "respC": "c) Aumento da pressão arterial.",
+        "respD": "d) Dores de cabeça.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Que atitude você deve tomar ao atender uma vítima que é portadora de doença infecto-contagiosa?",
+        "imagem": null,
+        "respA": "a) Chamar o resgate apenas.",
+        "respB": "b) Deixar de dar socorro à vítima.",
+        "respC": "c) Atender a vítima normalmente.",
+        "respD": "d) Atender a vítima, evitando contato direto com o sangue ou fluido orgânico, usando luvas.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Sobre ferimentos abertos no abdômen, não devemos:",
+        "imagem": null,
+        "respA": "a) Tentar recolocar no lugar os órgãos expostos.",
+        "respB": "b) Manter os órgãos expostos no lugar.",
+        "respC": "c) Cobrir os órgãos expostos com compressa úmida.",
+        "respD": "d) Prender os órgãos expostos levemente com uma atadura.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Você está medindo a distância para sinalizar o local do acidente, mas existe uma curva antes de completar a medida necessária. O quê deverá fazer?",
+        "imagem": null,
+        "respA": "a) Continua a contagem da curva.",
+        "respB": "b) Parar a contagem, caminhar até o final da curva e recomeçar a contagem a partir do zero.",
+        "respC": "c) Aumenta 10 passos por causa da curva.",
+        "respD": "d) Aumenta 20 passos na contagem.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "A fratura pode ser fechada ou exposta. Quando ocorre cada um desses casos?",
+        "imagem": null,
+        "respA": "a) Quando o osso se quebrou mas a pele não foi perfurada, chama-se fratura fechada.",
+        "respB": "b) Quando o osso se quebrou e a pele estiver envermelhada e não rompida, chama-se fratura exposta.",
+        "respC": "c) Quando o osso se quebrou e a pele estiver rompida, chama-se fratura exposta.",
+        "respD": "d) As alternativas \"A\" e \"C\" estão corretas.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em um acidente, deve-se evitar atitudes que possam colocar a vítima em perigo ocasionando maiores danos. Qual das atitudes está incorreta?",
+        "imagem": null,
+        "respA": "a) Levar a vítima imediatamente ao hospital, não perder mais tempo.",
+        "respB": "b) Verificar sua respiração, pulsação e sangramento.",
+        "respC": "c) Sinalizar o local para evitar outros acidentes.",
+        "respD": "d) Prestar auxílio e chamar resgate.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Porque é importante termos algum treinamento em Primeiros Socorros?",
+        "imagem": null,
+        "respA": "a) Porque são diversas as situações em que uma ação imediata e por vezes simples, pode melhorar a chance de sobre vida de uma vítima ou evitar que ela fique com graves sequelas.",
+        "respB": "b) Porque é obrigatório.",
+        "respC": "c) Apenas para termos uma noção do que fazer em acidentes com vítima,",
+        "respD": "d) Não fazer nada de imediato.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Correntes elétricas podem ocasionar queimaduras, mesmo que a pele aparente estar normal. Nesta situação, recomenda-se:",
+        "imagem": null,
+        "respA": "a) Observar a evoluçao, sem fazer nada.",
+        "respB": "b) Levar a vítima para o hospital.",
+        "respC": "c) Umedecer a região com algum creme hidratante.",
+        "respD": "d) Lavar a região e cobrir com gaze.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Quanto ao uso de torniquete, podemos afirmar que:",
+        "imagem": null,
+        "respA": "a) É utilizado apenas por profissionais e, mesmo assim, em caráter de exceção.",
+        "respB": "b) É utilizado em qualquer caso de hemorragia.",
+        "respC": "c) Quando ocorre uma distenção.",
+        "respD": "d) É um método eficaz para conter sangramentos.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em um acidente a vítima está dentro do veículo que tem fumaça em seu interior. Nesta situação, o que fazer após chegar à conclusão de que não há risco pessoal?",
+        "imagem": null,
+        "respA": "a) Retirar a pessoa de dentro do carro, após imobilizá-la da melhor forma possível.",
+        "respB": "b) Deixar a vítima sentada dentro do veículo e oferecer muito leite a ela, aguardando a dissipação da fumaça.",
+        "respC": "c) Afastar-se rapidamente chamando o resgate.",
+        "respD": "d) Jogar água no veículo e até na  vítima para resfriar o local.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O que é hemorragia interna?",
+        "imagem": null,
+        "respA": "a) È a visível perda de sangue através de um ferimento localizado na superfície corporal.",
+        "respB": "b) É uma fratura do osso.",
+        "respC": "c) É a perda de sangue por um ferimento.",
+        "respD": "d) É a consequencia de um ferimento profundo com lesão de órgãos internos ou rompimento de veias ou artérias.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Quando precisamos, por meios próprios, transportar uma vítima que está gritando de dor, a atitude correta é:",
+        "imagem": null,
+        "respA": "a) Acionar a buzina e dirigir em alta velocidade.",
+        "respB": "b) Dirigir em baixa velocidade para não machucar a vítima.",
+        "respC": "c) Imobilizar a vítima antes do transporte.",
+        "respD": "d) Deitá-la rapidamente no banco de trás do véiculo.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Qual sinal vital não varia conforme a idade?",
+        "imagem": null,
+        "respA": "a) Temperatura.",
+        "respB": "b) Batimentos cardíacos.",
+        "respC": "c) Altura.",
+        "respD": "d) Peso.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Ao examinar uma vítima, você detecta que ela não respira e não tem pulso. Nessa situação você deve:",
+        "imagem": null,
+        "respA": "a) Aplicar compressas frias sobra a testa.",
+        "respB": "b) Aquecer cobertores para diminuir calafrios.",
+        "respC": "c) Iniciar imediatamente a manobra de RCP.",
+        "respD": "d) Não fazer nada até chegar o socorro.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "o que fazer no local com o acidentado que sofreu queimaduras?",
+        "imagem": null,
+        "respA": "a) Passar desinfetante na ferida.",
+        "respB": "b) Cobrir a ferida com qualquer pano.",
+        "respC": "c) Dar leite para a pessoa tomar.",
+        "respD": "d) Lavar com água limpa sem pressão.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Por que um motorista deve conhecer noções de Primeiros Socorros relacionados aos acidentes de trânsito?",
+        "imagem": null,
+        "respA": "a) Para se proteger em caso de acidente.",
+        "respB": "b) Apenas para ter noção.",
+        "respC": "c) Pare reduzir alguns riscos e prestar auxilio inicial em um acidente de trânsito.",
+        "respD": "d) Para proteger os acidentados.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Assinale a opção incorreta:",
+        "imagem": null,
+        "respA": "a) Paralisia é a incapacidade de movimentação dos membros.",
+        "respB": "b) A dormência nas extremidades pode ocorrer após lesões na coluna cervical.",
+        "respC": "c) Sensibilidade é a capacidade de não sentir dor.",
+        "respD": "d) O manuseio incorreto da vítima pode agravar a situação.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Você, como cidadão, motorista ou socorrista, deve:",
+        "imagem": null,
+        "respA": "a) Apenas preservar o local do acidente.",
+        "respB": "b) Fazer apenas o erstiver ao seu alcance, sem jamais colocar sua vida, sua segurança ou a de outras pessoas em risco.",
+        "respC": "c) Prestar socorro imediato sem se preocupar com seus limites.",
+        "respD": "d) Apenas chamar o resgate.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em que situação e como você deve soltar o cinto de segurança de uma vítima que sofreu um acidente?",
+        "imagem": null,
+        "respA": "a) Quando o cinto de segurança dificultar a respiração, solte-o sem movimentar o corpo da vítima.",
+        "respB": "b) Movimenta a vítima para soltar o cinto.",
+        "respC": "c) Remove imediatamente o cinto.",
+        "respD": "d) Nunca devemos mexer no cinto.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Segurar a cabeça da vítima, pressionando a região das orelhas é procedimento para:",
+        "imagem": null,
+        "respA": "a) Impedir que a vítima movimente a cabeça.",
+        "respB": "b) Impedir que a vítima respire.",
+        "respC": "c) É quando a vítima transpira em excesso.",
+        "respD": "d) É quando a vítima apresenta pele arroxeada.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Vítima se apresenta desmaiada na via pública. É procedimento incorreto:",
+        "imagem": null,
+        "respA": "a) Jogar água na vítima para acordá-la.",
+        "respB": "b) Sinalizar o local do acidente protegendo a vítima.",
+        "respC": "c) Chamar pela vítima tentando acordá-la e avaliar o ABC.",
+        "respD": "d) Verificar os sinais vitais e avaliar o estado da vítima.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Ao prestar auxílio em um acidente, deve-se seguir uma sequencia de procedimentos. A ordem correta das ações é:",
+        "imagem": null,
+        "respA": "a) 1º) Chamar imediatamente o resgate. 2º) Avaliar o estado da vítima. 3º) Remover a vítima para o acostamento. 4º) Isolar e sinalizar a área.",
+        "respB": "b) 1º) Avaliar a situação. 2º) Socorrer imediatamente o ferido. 3º) Remover a vítima para o acostamento. 4º) Chamar o resgate.",
+        "respC": "c) 1º) Isolar e sinalizar a área. 2º) Avaliar o estado da vítima. 3º) Chamar o resgate.",
+        "respD": "d) 1º) Resgatar a vítima. 2º) Isolar e sinalizar a área. 3º) Avaliar o estado da vítima. 4º) Chamar o resgate.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Indique abaixo uma das técnicas que podem ser adotadas para conter uma hemorragia externa quando não for possível a presença do resgate:",
+        "imagem": null,
+        "respA": "a) Fazer compressão no ferimento, utilizando gaze ou pano limpo.",
+        "respB": "b) Aplicar torniquete.",
+        "respC": "c) Fazer compressão utilizando as mãos diretamente no ferimento.",
+        "respD": "d) Movimentar a vítima imediatamente.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "As lesões da coluna vertebral são algumas das principais consequências dos acidentes de trânsito. O quê fazer para não agravá-las?",
+        "imagem": null,
+        "respA": "a) Remover a pessoa para a calçada.",
+        "respB": "b) Anotar a placa ou correr atrás do carro que atropelou.",
+        "respC": "c) Tentar chamar algum parente da vítima.",
+        "respD": "d) Não movimentar a vítima e aguardar o socorro profissional.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Qual é o procedimento mais adequado se você não estiver treinado e encontrar uma vítima inconsciente (desmaiada) após acidente de trânsito?",
+        "imagem": null,
+        "respA": "a) Desprezar o fato de não estar treinado e socorrer a vítima imediatamente movimentando-a para um local seguro.",
+        "respB": "b) Espera a vítima acordar.",
+        "respC": "c) Não sai de perto da vítima nem para chamar socorro.",
+        "respD": "d) Ligar novamente para o serviço de emergência, se a ligação já estiver sido feita, completar as informações e depois indagar entre as pessoas que estão no local, se existe alguém treinado e preparado para atuar nesta situação.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Sempre que auxiliar vítimas que estejam sangrando, é aconselhável que:",
+        "imagem": null,
+        "respA": "a) Utilize uma luva de borracha ou similar.",
+        "respB": "b) Faça conpressa fria.",
+        "respC": "c) Faça torniquete.",
+        "respD": "d) Faça garrote.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em qual situação devemos retirar uma vítima do veículo, antes da chegada do socorro profissional?",
+        "imagem": null,
+        "respA": "a) Em qualquer situação.",
+        "respB": "b) Quando for conveniente.",
+        "respC": "c) Quando houver perigo imediato de incêndio ou outros riscos evidentes.",
+        "respD": "d) Para liberar a pista.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O que você pode fazer para controlar uma hemorragia externa de um ferimento?",
+        "imagem": null,
+        "respA": "a) Garrote.",
+        "respB": "b) Torniquetes.",
+        "respC": "c) Deixar o sangue sair.",
+        "respD": "d) fazer uma compressão no local do ferimento com gaze ou pano limpo.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Como proceder diante de um motociclista acidentado:",
+        "imagem": null,
+        "respA": "a) Tirar o capacete imediatamente.",
+        "respB": "b) Não retirar o capacete, porque movimentar a cabeça pode agravar uma lesão na coluna, e esperar o resgate.",
+        "respC": "c) Mover o motociclista para o passeio.",
+        "respD": "d) Dar água para passar o susto.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Quais são os aspectos que você deve ter em mente ao fazer contato com a vítima?",
+        "imagem": null,
+        "respA": "a) Perguntar o nome.",
+        "respB": "b) Contar sobre a gravidade das lesões.",
+        "respC": "c) Não deixar a vítima falar.",
+        "respD": "d) Informar, ouvir, aceitar e ser solidário.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Uma boa sequencia no atendimento ou auxilio inicial em caso de acidente é:",
+        "imagem": null,
+        "respA": "a) Sinalizar o local.",
+        "respB": "b) Avaliar o acidente.",
+        "respC": "c) Chamar o resgate.",
+        "respD": "d) Todas as afirmativas acima.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "A análise primária (a técnica de suporte básico de vida definida como ABC) consiste em uma avaliação para se detectar entre outras coisas:",
+        "imagem": null,
+        "respA": "a) Ferimentos nos membros inferiores.",
+        "respB": "b) O nível de consciência do acidentado.",
+        "respC": "c) Problemas clínicos.",
+        "respD": "d) Ferimentos nos membros superiores.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Não constitui procedimento correto com uma vítima em estado de choque:",
+        "imagem": null,
+        "respA": "a) Dar bastante líquido à vítima inconsciente que vomitou.",
+        "respB": "b) Manter a vítima deitada com as pernas elevadas, se não houver fratura dos membros.",
+        "respC": "c) Afrouxar suas roupas.",
+        "respD": "d) Manter a respiração; se necessário usar respiração de socorro.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em um acidente com vítimas, quando possível, devemos manter o tráfego fluindo por vários motivos. Para a vítima, o motivo mais importante é:",
+        "imagem": null,
+        "respA": "a) Não atrapalhar os usuários da via.",
+        "respB": "b) Não congestiar a via.",
+        "respC": "c) Não atrasar os compromissos dos motoristas.",
+        "respD": "d) Possibilitar a chegada mais rápida de uma equipe de socorro.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Se você estiver sozinho com uma vítima de trânsito e precisa fazer o socorro da mesma, como proceder?",
+        "imagem": null,
+        "respA": "a) Somente iniciar o socorro se conseguir alguém para ajudar.",
+        "respB": "b) Verificar as vias aéreas e imobilizá-la para o transporte.",
+        "respC": "c) Apenas colocar a vítima no carro e correr para o hospital.",
+        "respD": "d) Pedir para balançar a cabeça e os membros para ver se não quebrou nada.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Uma das regras fundamentais de primeiros socorros é:",
+        "imagem": null,
+        "respA": "a) Oferecer alimentos com sal para o acidentado.",
+        "respB": "b) Deixar o acidentado com o mínimo possível de roupa.",
+        "respC": "c) Não agir por impulso ou por instinto..",
+        "respD": "d) Oferecer bebida quente ao acidentado.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "É necessário contar 60 passos longos para sinalizar o local de um acidente. Quando estava na contagem de 30 passos longos, a pessoa que estava sinalizando encontra uma curva. Nessa situação, ela deve:",
+        "imagem": null,
+        "respA": "a) Parar a contagem, caminhar até o fim da curva e recomeçar a contagem a partir do zero.",
+        "respB": "b) Continuar a contagem normalmente.",
+        "respC": "c) Aumentar mais 10 passos na contagem.",
+        "respD": "d) Após a curva, recomeçar a contar os 60 passos.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Ao atender as vítimas de uma colisão entre dois carros, a pessoa que socorre deverá soltar o cinto de segurança, sem movimentar o corpo delas. Apenas quando:",
+        "imagem": null,
+        "respA": "a) As vítimas se queixarem de dor no corpo todo.",
+        "respB": "b) O cinto de segurança está dificultando a respiração. ",
+        "respC": "c) Achar que deve.",
+        "respD": "d) O cinto for de 3 pontos.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta: o que causa a parada respiratória é:",
+        "imagem": null,
+        "respA": "a) Soterramento.",
+        "respB": "b) Afogamento.",
+        "respC": "c) Perfuração no pulmão.",
+        "respD": "d) Fratura no fêmur.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Assinale a opção incorreta: o pulso representa a regularidade da contração do coração:",
+        "imagem": null,
+        "respA": "a) Ao verificar um pulso, usamos os dedos polegar e indicador sobre a artéria.",
+        "respB": "b) Sua frequencia varia com a idade.",
+        "respC": "c) Um ritmo irregular pode ser patológico.",
+        "respD": "d) Com um pulso fraco, pode estar ocorrendo uma hemorragia.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Para sinalizar o local de acidentes de trânsito, podem ser utilizados os seguintes materiais:",
+        "imagem": null,
+        "respA": "a) À noite,ou com neblina, usar lanternas, pisca-alerta e faróis.",
+        "respB": "b) Galhos de árvores, latas, pedaços de madeira.",
+        "respC": "c) Triângulo de segurança do seu veículo e os dos veículos que estiverem no local.",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "São fundamentos da prevenção de acidentes:",
+        "imagem": null,
+        "respA": "a) Interação, atenção, previsão e decisão.",
+        "respB": "b) Conhecimento, habilidade, interação e decisão.",
+        "respC": "c) Previsão, atenção, conhecimento, decisão e habilidade.",
+        "respD": "d) Previsão, atenção, segurança e inabilidade.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O procedimento correto na impossibilidade da presença do resgate, quando a vítima apresenta objeto empalado no ferimento de acidente de trânsito é:",
+        "imagem": null,
+        "respA": "a) Remover o objeto empalado e controlar o sangramento.",
+        "respB": "b) Remover o objeto empalado e lavar o ferimento com água e sabão.",
+        "respC": "c) Proteger o ferimento com bandagens e não retirar o objeto.",
+        "respD": "d) Proteger o ferimento com bandagens e retirar o objeto.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Não constitui medida básica para prestar assistência à vítima de acidente, após ter sinalizado o local:",
+        "imagem": null,
+        "respA": "a) Verificar, primeiramente, os sinais vitais.",
+        "respB": "b) Determinar que o acidentado busque socorro.",
+        "respC": "c) Assumir a situação.",
+        "respD": "d) Proteger o acidentado.",
+        "correta": "B",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Constituem alguns equipamentos e sistemas do veículo importantes para evitar situações de perigo que podem levar a acidentes de trânsito:",
+        "imagem": null,
+        "respA": "a) Suspensão e sistema de direção.",
+        "respB": "b) Iluminação e lanternas indicadoras de direção.",
+        "respC": "c) Freios e pneus.",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Sabe-se que o primeiro trauma é aquele que ocorre no acidente e o segundo é aquele que ocorre quando não socorremos com cuidado. É incorreto afirmar que:",
+        "imagem": null,
+        "respA": "a) O uso do colar cervical ajuda a evitar o segundo trauma.",
+        "respB": "b) Deve-se, sempre, evitar gestos bruscos no atendimento à vítima.",
+        "respC": "c) Deve-se, sempre, colocar a vítima assentada.",
+        "respD": "d) O cinto de segurança e o capacete evitam que o primeiro trauma seja mais grave.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Para transportar, por meios próprios, uma vítima que está gritando de dor, a atitude correta é:",
+        "imagem": null,
+        "respA": "a) Acionar a buzina e dirigir em alta velocidade.",
+        "respB": "b) Dirigir em baixa velocidade para não machucar a vítima.",
+        "respC": "c) Imobilizar a vítima antes do transporte.",
+        "respD": "d) Jamais deitá-la, pois ela poderá desfalecer.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Em acidente automobilístico envolvendo veículo com passageiros e fio elétricos caídos sobre os veículos, os passageiros, até ser desligada a energia, deverão:",
+        "imagem": null,
+        "respA": "a) Sair um a um do veiculo.",
+        "respB": "b) Afastar o veículo do fio elétrico.",
+        "respC": "c) Permanecer no veículo.",
+        "respD": "d) Ser retirados imediatamente.",
+        "correta": "C",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "Os primeiros socorros envolvem:",
+        "imagem": null,
+        "respA": "a) O atendimento inicial e temporário, até a chegada do socorro profissional.",
+        "respB": "b) O atendimento, após a chegada do socorro profissional.",
+        "respC": "c) O atendimento inicial e temporário realizado por profissional especializado.",
+        "respD": "d) As técnicas que somente uma pessoa treinada pode realizar.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O acidente é considerado evitável quando:",
+        "imagem": null,
+        "respA": "a) Ocorre porque o condutor deixou de fazer tudo que poderia ter feito para evitá-lo.",
+        "respB": "b) O veículo colide, mesmo estando com velocidade reduzida.",
+        "respC": "c) As condições adversas não interferiram.",
+        "respD": "d) O condutor fez tudo que era razoavelmente possivel fazer.",
+        "correta": "A",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O procedimento correto, quando um motociclista está caído com o capacete na cabeça é:",
+        "imagem": null,
+        "respA": "a) Remover o capacete se ele estiver consciente.",
+        "respB": "b) Remover o capacete se ele estiver inconsciente.",
+        "respC": "c) Ajudá-lo a erguer-se do chão.",
+        "respD": "d) Sinalizar o local, chamar o resgate e verificar a respiração.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    },
+    {
+        "pergunta": "O que deve ser levado em consideração, como prioridade, para socorrer corretamente uma vítima de acidente?",
+        "imagem": null,
+        "respA": "a) O sangramento das feridas.",
+        "respB": "b) Uma possível fratura do osso.",
+        "respC": "c) Uma possível parada cardíaca.",
+        "respD": "d) A obstrução das vias aéreas.",
+        "correta": "D",
+        "modulo" : "primeiro_socorros"
+    }
+]

@@ -1,0 +1,1632 @@
+[
+    {
+        "pergunta": "O sistema responsável pelo acionamento dos equipamentos de sinalização do veículo é o:",
+        "imagem": null,
+        "respA": "a) Transmissão.",
+        "respB": "b) Suspensão.",
+        "respC": "c) Elétrico.",
+        "respD": "d) Freios.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Instrumento do painel que indica a temperatura do motor:",
+        "imagem": null,
+        "respA": "a) Amperímetro.",
+        "respB": "b) Termômetro.",
+        "respC": "c) Odômetro.",
+        "respD": "d) Manômetro.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Mesmo sabendo ser uma infração, muitas pessoas cortam as molas do veículo para deixá-lo mais baixo. Esse procedimento prejudica diretamente:",
+        "imagem": null,
+        "respA": "a) A estabilidade do veículo.",
+        "respB": "b) O desempenho das lonas.",
+        "respC": "c) As peças móveis do motor.",
+        "respD": "d) A vida útil do disco de fricção.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Quando o painel do seu veículo acusar problema no sistema de arrefecimento, o procedimento correto é:",
+        "imagem": null,
+        "respA": "a) Continuar a viagem.",
+        "respB": "b) Desligar o manômetro.",
+        "respC": "c) Parar o veículo e verificar o nível de água.",
+        "respD": "d) Parar o veículo e verificar o nível de óleo.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O nível de óleo lubrificante do motor deve ser verificado com o motor:",
+        "imagem": null,
+        "respA": "a) Funcionando em rotação de marcha lenta.",
+        "respB": "b) Funcionando em 1500 rpm.",
+        "respC": "c) Parado e frio, antes da primeira partida do dia.",
+        "respD": "d) Quente, mais ou menos dez minutos após ter sido desligado.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A verificação de eventual complementação do nível de água do radiador deve ser feita:",
+        "imagem": null,
+        "respA": "a) Em qualquer hora do dia.",
+        "respB": "b) Com motor quente.",
+        "respC": "c) Com o motor frio.",
+        "respD": "d) No final de sua jornada diária.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Fazem parte do sistema elétrico do veículo, EXCETO:",
+        "imagem": null,
+        "respA": "a) Bateria.",
+        "respB": "b) Alternador.",
+        "respC": "c) Sistema ABS.",
+        "respD": "d) Relé.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Os ruídos emitidos pelo funcionamento do motor de um veículo são reduzidos pelo:",
+        "imagem": null,
+        "respA": "a) Carburador.",
+        "respB": "b) Radiador.",
+        "respC": "c) Catalisador.",
+        "respD": "d) Silenciador.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Após dirigir o dia inteiro você percebeu que precisa completar a água do radiador. Então deve-se:",
+        "imagem": null,
+        "respA": "a) Desligar o carro e completar o nível com água fria;",
+        "respB": "b) Ligar o carro e completar o nível com água fria;",
+        "respC": "c) Ligar o carro e completar o nível com água fervendo;",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "É equipamento dos veículos que reduz a emissão de gases poluentes:",
+        "imagem": null,
+        "respA": "a) Catalisador.",
+        "respB": "b) Cano de descarga.",
+        "respC": "c) Nebulizador.",
+        "respD": "d) Ar condicionado.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "São peças fixas do motor, exceto:",
+        "imagem": null,
+        "respA": "a) Bloco do motor.",
+        "respB": "b) Cilindros.",
+        "respC": "c) Cabeçote.",
+        "respD": "d) Biela.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A falta de conservação e a desregulagem dos veículos provoca:",
+        "imagem": null,
+        "respA": "a) Poluição atmosférica.",
+        "respB": "b) Poluição sonora.",
+        "respC": "c) Desgaste do veículo.",
+        "respD": "d) Todas as alternativas acima.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A baixa calibragem do pneu:",
+        "imagem": null,
+        "respA": "a) Aumenta a sua vida útil.",
+        "respB": "b) Facilita as manobras.",
+        "respC": "c) Traz maior conforto aos ocupantes do veículo.",
+        "respD": "d) Causa seu desgaste prematuro.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Peça móvel acoplada à biela que se desloca no interior do cilindro é:",
+        "imagem": null,
+        "respA": "a) Árvore de manivela.",
+        "respB": "b) Volante do motor.",
+        "respC": "c) Válvulas.",
+        "respD": "d) Pistão.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Um dos cuidados que se deve ter periodicamente com o veículo é:",
+        "imagem": null,
+        "respA": "a) Verificar o nível do óleo do motor.",
+        "respB": "b) Lavar os tapetes para evitar ferrugem.",
+        "respC": "c) Trocar a água do radiador mensalmente.",
+        "respD": "d) Lavar os pneus para evitar derrapagem.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Problemas com a suspensão do veículo podem ocasionar:",
+        "imagem": null,
+        "respA": "a) Perda de velocidade.",
+        "respB": "b) Menor consumo de combustível.",
+        "respC": "c) Perda de controle sobre o veículo.",
+        "respD": "d) Maior consumo de combustível.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O sistema  elétrico é responsável pelo acionamento de:",
+        "imagem": null,
+        "respA": "a) Cabo de embreagem.",
+        "respB": "b) Válvulas de admissão.",
+        "respC": "c) Partida de veículo.",
+        "respD": "d) Freio de pedal.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A finalidade da válvula termostática é:",
+        "imagem": null,
+        "respA": "a) Diminuir o fluxo da água.",
+        "respB": "b) Impedir a passagem da água do radiador para o carburador.",
+        "respC": "c) Indicar a temperatura quando o fluxo de água diminuir.",
+        "respD": "d) Permitir a passagem de água do motor para o radiador quando a temperatura ideal for atingida.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O aparecimento de trepidação sentida no volante de direção, ao alcançar uma determinada velocidade, é sinal da necessidade de manutenção indicado com:",
+        "imagem": null,
+        "respA": "a) Balanceamento das rodas.",
+        "respB": "b) Troca do fluído de freios.",
+        "respC": "c) Lubrificação da caixa de direção.",
+        "respD": "d) Verificação dos valores de cambagem.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Quais são os ciclos de um motor?",
+        "imagem": null,
+        "respA": "a) Entrada, saída e escapamento.",
+        "respB": "b) Admissão, compressão, explosão (ou combustão), exaustão ou escape (ou exaustão).",
+        "respC": "c) Entrada, injeção e queima.",
+        "respD": "d) Injeção, queima e admissão.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual o sistema do veículo que transmite o movimento do volante para as rodas?",
+        "imagem": null,
+        "respA": "a) Sistema de transmissão.",
+        "respB": "b) Sistema de arrefecimento.",
+        "respC": "c) Sistema de rodízio.",
+        "respD": "d) Sistema de direção.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Não é equipamento obrigatório para veículos automotores:",
+        "imagem": null,
+        "respA": "a) Trava anti-furto na direção.",
+        "respB": "b) Freio de estacionamento.",
+        "respC": "c) Limpador de para-brisa.",
+        "respD": "d) Luzes indicadoras de direção (setas).",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "São elementos do sistema de freio:",
+        "imagem": null,
+        "respA": "a) Disco de fricção, aditivo, lonas de freio.",
+        "respB": "b) Cabo primário, cabo secundário, travas.",
+        "respC": "c) Cilindro mestre, disco, tambor.",
+        "respD": "d) Coroa/ pinhão e lonas.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual é a peça mais pesada do motor?",
+        "imagem": null,
+        "respA": "a) O bloco.",
+        "respB": "b) O cabeçote.",
+        "respC": "c) O Pistão.",
+        "respD": "d) O cilindro.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "É equipamento obrigatório para as motocicletas, exceto:",
+        "imagem": null,
+        "respA": "a) Faróis dianteiros de cor branca ou amarela.",
+        "respB": "b) Espelhos retrovisores.",
+        "respC": "c) Pára-brisa.",
+        "respD": "d) Capacete com viseira ou óculos protetor.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Em condições normais de funcionamento e com o cuidado adequado, o veículo proporcionará desempenho satisfatório se você:",
+        "imagem": null,
+        "respA": "a) Verificar o nível do líquido de arrefecimento diariamente.",
+        "respB": "b) Verificar diariamente o nível do fluído de freio.",
+        "respC": "c) Lavar o motor do veículo semanalmente.",
+        "respD": "d) Encerar a pintura mensalmente.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O dispositivo destinado a controle de ruído do motor é equipamento obrigatório para veículos dotados de:",
+        "imagem": null,
+        "respA": "a) Carroçaria blindada para transporte de valores.",
+        "respB": "b) Motor a combustão.",
+        "respC": "c) Freios.",
+        "respD": "d) Transmissão.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Para aumentar a vida útil da embreagem,você deve:",
+        "imagem": null,
+        "respA": "a) Segurar o veículo com a embreagem, quando tiver que parar em um aclive.",
+        "respB": "b) Apoiar o pé no pedal da embreagem, quando tiver que parar em um aclive.",
+        "respC": "c) Regular o cabo em todas as trocas de óleo.",
+        "respD": "d) Dirigir sem apoiar o pé no pedal da embreagem.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual sistema do veículo permite a comunicação com os outros usuários da via, ao indicar conversões, freadas ou marcha a ré:",
+        "imagem": null,
+        "respA": "a) De suspensão.",
+        "respB": "b) De direção.",
+        "respC": "c) De transmissão.",
+        "respD": "d) Elétrico.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O movimento das rodas dianteiras, colocando lateralmente o veículo na direção desejada pelo condutor, é possível através do sistema de:",
+        "imagem": null,
+        "respA": "a) Suspensão.",
+        "respB": "b) Direção.",
+        "respC": "c) Freios.",
+        "respD": "d) Transmissão.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O catalizador é um dispositivo localizado:",
+        "imagem": null,
+        "respA": "a) Junto ao escapamento do veículo.",
+        "respB": "b) Junto ao tanque de combustível.",
+        "respC": "c) No interior do motor do automóvel.",
+        "respD": "d) Logo após a saída das válvulas de descarga.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Observe as alternativas abaixo e assinale a incorreta sobre o funcionamento do motor:",
+        "imagem": null,
+        "respA": "a) A energia produzida pela queima da mistura ar-combustível é convertida em energia mecânica.",
+        "respB": "b) A ignição desloca a energia do motor para as rodas .",
+        "respC": "c) A mistura ar-gasolina é levada para dentro dos cilindros onde é comprimida e queimada.",
+        "respD": "d) Nos motores a diesel, somente o ar é comprimido na câmara de combustão.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Não é causa para ocorrência de principio de incêndio em veículo automotor:",
+        "imagem": null,
+        "respA": "a) Erro ou falha humana.",
+        "respB": "b) A manutenção periódica do veículo e seus componentes.",
+        "respC": "c) A negligência de condutores e proprietários.",
+        "respD": "d) Consertos ou instalações mal realizados.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Uma das consequências geradas pelo funcionamento do motor é o aquecimento de suas partes internas, mas existem peças cuja finalidade é atenuar esse aquecimento. Com o motor frio, esta peça permanece fechada. Estamos falando:",
+        "imagem": null,
+        "respA": "a) Da ventoinha.",
+        "respB": "b) Da válvula termostática.",
+        "respC": "c) Do radiador.",
+        "respD": "d) Da bomba dágua.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Distribuidor, velas de ignição e bobina são dispositivos dispensáveis nos veículos cujo motor funciona à base de combustível ___________:",
+        "imagem": null,
+        "respA": "a) Álcool.",
+        "respB": "b) Diesel.",
+        "respC": "c) Gás natural veicular.",
+        "respD": "d) Gasolina.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A válvula termostato fica localizada entre o radiador e o motor, ajudando a controlar o calor produzido pela queima da mistura ar-combustível. Esta peça é componente do sistema de:",
+        "imagem": null,
+        "respA": "a) De ignição.",
+        "respB": "b) De arrefecimento.",
+        "respC": "c) Elétrico.",
+        "respD": "d) De alimentação.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Alguns dispositivos existentes em seu veículo têm a finalidade de diminuir a poluição lançada ao ambiente. Isso é feito através da redução do consumo de combustível e melhor controle na emissão de gases poluentes. Qual dispositivo não agrega as funções acima mencionadas?",
+        "imagem": null,
+        "respA": "a) A injeção eletrônica.",
+        "respB": "b) A sonda lambda.",
+        "respC": "c) O catalisador.",
+        "respD": "d) O carburador.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Boa parte dos veículos modernos possuem dispositivos que auxiliam nas manobras, aumentando a segurança e o conforto do condutor. Ajuda a reduzir em até 80% o esforço de quem está dirigindo a direção:",
+        "imagem": null,
+        "respA": "a) Servo-assistida.",
+        "respB": "b) Automática.",
+        "respC": "c) Hidráulica.",
+        "respD": "d) Transversal.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A injeção eletrônica é uma das inovações da década de 90 e veio para substituir o \"velho\" carburador. Sobre ela, marque a incorreta:",
+        "imagem": null,
+        "respA": "a) Sua manutenção deve ser feita periodicamente.",
+        "respB": "b) Os bicos injetores são os elementos que mais precisam de reparos.",
+        "respC": "c) Por ser um componente eletrônico, dispensa manutenção periódica.",
+        "respD": "d) Agrega mais eficiência ao sistema de alimentação.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O veículo está funcionando - você coloca a primeira marcha, acelera, solta a embreagem e o veículo não sai do lugar. O defeito pode estar no sistema de:",
+        "imagem": null,
+        "respA": "a) Arrefecimento.",
+        "respB": "b) Transmissão.",
+        "respC": "c) Ignição.",
+        "respD": "d) Suspensão.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Esse componente dura aproximadamente dez mil quilômetros, mas quem trafega em vias empoeiradas, deve trocá-lo com mais frequência. Estamos referindo a:",
+        "imagem": null,
+        "respA": "a) À bateria.",
+        "respB": "b) Ao fluído de freio.",
+        "respC": "c) Ao filtro de ar.",
+        "respD": "d) À palheta dos limpadores.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual a função do sistema de ignição?",
+        "imagem": null,
+        "respA": "a) Preparar e transportar o combustível.",
+        "respB": "b) Provocar faísca no sistema de escape.",
+        "respC": "c) Provocar uma faísca na (centelha) na câmaras de combustão do motor,  para que ocorra a queima da mistura explosiva.",
+        "respD": "d) Evitar o desgaste prematuro do motor.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Os sistemas de arrefecimento existentes podem ser:",
+        "imagem": null,
+        "respA": "a) Somente a ar.",
+        "respB": "b) Somente a água.",
+        "respC": "c) Somente água e álcool.",
+        "respD": "d) Somente ar e água.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Não é causa para ocorrência de princípio de incêndio em veículo automotor:",
+        "imagem": null,
+        "respA": "a) Erro ou falha humana.",
+        "respB": "b) A manutenção periódica do seu veículo e seus componentes.",
+        "respC": "c) A negligência de condutores e proprietários.",
+        "respD": "d) Consertos ou instalações mal realizadas.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Antes de colocar o veículo em circulação nas vias públicas, o condutor deverá verificar:",
+        "imagem": null,
+        "respA": "a) A existência de equipamentos obrigatórios.",
+        "respB": "b) O bom estado de funcionamento do veículo.",
+        "respC": "c) O funcionamento do equipamento de segurança.",
+        "respD": "d) Todas as afirmativas acima.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Arfagem é defeito comum no sistema de:",
+        "imagem": null,
+        "respA": "a) Suspensão.",
+        "respB": "b) Transmissão.",
+        "respC": "c) Elétrico.",
+        "respD": "d) Direção.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Tem a função de controlar o calor do motor o sistema de...",
+        "imagem": null,
+        "respA": "a) Ignição.",
+        "respB": "b) Arrefecimento.",
+        "respC": "c) Lubrificação.",
+        "respD": "d) Elétrico.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "As peças que compõem o motor necessitam de lubrificação para:",
+        "imagem": null,
+        "respA": "a) O veículo funcionar facilmente de manhã.",
+        "respB": "b) Engatar melhor as marchas.",
+        "respC": "c) Aumentar a sua potência.",
+        "respD": "d) Reduzir seu desgaste e aquecimento.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A energia mecânica necessária para movimentar um veículo é gerada pelo:",
+        "imagem": null,
+        "respA": "a) Motor.",
+        "respB": "b) Sistema de transmissão.",
+        "respC": "c) Motor de arranque.",
+        "respD": "d) Bateria.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Absorve os vapores de gasolina:",
+        "imagem": null,
+        "respA": "a) Injeção eletrônica.",
+        "respB": "b) Cânister.",
+        "respC": "c) Canalizador.",
+        "respD": "d) Todas as afirmativas acima.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O processo que verifica vários ângulos da suspensão e evita desgaste prematuro dos pneus e dos componentes do sistema de direção é chamado de:",
+        "imagem": null,
+        "respA": "a) Alinhamento das rodas.",
+        "respB": "b) Calibragem dos pneus.",
+        "respC": "c) Balanceamento das rodas.",
+        "respD": "d) Todas afirmativas estão corretas.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Evita o desgaste excessivo do motor:",
+        "imagem": null,
+        "respA": "a) Sistema de ignição.",
+        "respB": "b) Sistema de arrefecimento.",
+        "respC": "c) Sistema de lubrificação",
+        "respD": "d) Sistema elétrico.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Se o veículo começar a puxar para um dos lados fazendo com que o condutor perca o seu controle, é  indício de:",
+        "imagem": null,
+        "respA": "a) Folgas no sistema de direção.",
+        "respB": "b) Folga nos sistemas de freio.",
+        "respC": "c) Folga nos amortecedores.",
+        "respD": "d) Falta de balanceamento nos pneus.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A função básica do sistema de suspensão nos veículos automotores é:",
+        "imagem": null,
+        "respA": "a) Absorver os balanços do veículo, somente quando está fazendo uma curva.",
+        "respB": "b) Melhorar o controle do carro em pistas escorregadias.",
+        "respC": "c) Absorver os choques provocados pelo piso irregular com o veículo em movimento.",
+        "respD": "d) Absorver impactos no momento de um acidente.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O motociclista sente que a sua motocicleta está puxando para um lado. Significa que:",
+        "imagem": null,
+        "respA": "a) Todas as alternativas estão corretas.",
+        "respB": "b) Braços oscilantes empenado.",
+        "respC": "c) Rodas desalinhadas.",
+        "respD": "d) Amortecedor traseiro defeituoso.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Em caso de mau funcionamento do motor ou sua parada total, os dois sistemas que devemos diagnosticar primeiramente são:",
+        "imagem": null,
+        "respA": "a) Alimentação e ignição.",
+        "respB": "b) Lubrificação e de frenagem.",
+        "respC": "c) Arrefecimento e de lubrificação.",
+        "respD": "d) Alimentação e de iluminação.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O filtro de ar tem como função:",
+        "imagem": null,
+        "respA": "a) Filtrar o combustível.",
+        "respB": "b) Filtrar o óleo lubrificante.",
+        "respC": "c) Filtrar o ar que vai para a câmara de explosão do motor.",
+        "respD": "d) Filtrar o ar que refrigera o motor.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "São sujeitos a combustão espontânea:",
+        "imagem": null,
+        "respA": "a) Sólidos inflamáveis.",
+        "respB": "b) Gases comprimidos.",
+        "respC": "c) Substâncias orgânicas.",
+        "respD": "d) Substâncias tóxicas.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O bom funcionamento do veículo depende de manutenções trocas de vários componentes líquidos e lubrificantes. Indique abaixo os itens que devem ser verificados com maior frequência.",
+        "imagem": null,
+        "respA": "a) Filtro de combustível e bomba dágua.",
+        "respB": "b) Filtro de ar e velas de ignição.",
+        "respC": "c) Nível de óleo, de água e calibragem dos pneus.",
+        "respD": "d) Nível de óleo da caixa de câmbio e lonas de freio.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O que mais provoca estouro dos pneus?",
+        "imagem": null,
+        "respA": "a) Transitar em pistas com buracos.",
+        "respB": "b) Excesso de calibragem.",
+        "respC": "c) Baixa calibragem.",
+        "respD": "d) Amortecedores velhos.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Os principais sistemas do veículo são:",
+        "imagem": null,
+        "respA": "a) Motor, câmbio, diferencial, freio.",
+        "respB": "b) Motor, transmissão, direção, suspensão, freio.",
+        "respC": "c) Motor, embreagem, cardã, eixo motriz, semi-árvore.",
+        "respD": "d) motor, molas, amortecedores, pneus.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O sistema de freios desgasta com o uso do veículo e sua eficiência. Indique as principais razões de perda de eficiência:",
+        "imagem": null,
+        "respA": "a) Discos de pastilhas gastos.",
+        "respB": "b) Lonas gastas.",
+        "respC": "c) Nível de fluído baixo e vazamento.",
+        "respD": "d) Todas as respostas estão corretas.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Antes de efetuar uma viagem, o condutor deverá verificar os itens:",
+        "imagem": null,
+        "respA": "a) Luzes identificativas de direção e luz de freio.",
+        "respB": "b) Nível de óleo lubrificante e água do radiador.",
+        "respC": "c) Palhetas do limpador de pára-brisa e funcionamento dos faróis.",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A função do sistema de freios montados nos veículos é:",
+        "imagem": null,
+        "respA": "a) Provocar a moderação da marcha , a parada completa e imobilização do veículo.",
+        "respB": "b) Distribuir de forma  homogênea  a rotação do motor para as rodas.",
+        "respC": "c) Aumentar o atrito entre as rodas, travando-as, ao ser acionado.",
+        "respD": "d) Parar e acelerar o veículo.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Os veículos que apresentam maior potencial de poluição do ar são aqueles:",
+        "imagem": null,
+        "respA": "a) Que utilizam como combustíveis a gasolina e o diesel.",
+        "respB": "b) Que utilizam o sistema elétrico.",
+        "respC": "c) Movidos a tração animal.",
+        "respD": "d) Que utilizam gás natural.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Fazem parte do sistema de suspensão de um veículo:",
+        "imagem": null,
+        "respA": "a) Cilindro mestre, estabilizador.",
+        "respB": "b) Molas, caixa de direção.",
+        "respC": "c) Coroa/pinhão e pastilhas.",
+        "respD": "d) Molas, amortecedores.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Os amortecedores têm por função, exceto:",
+        "imagem": null,
+        "respA": "a) Evitar o atrito dos pneus com o solo.",
+        "respB": "b) Auxiliar a mudança de direção nas curvas.",
+        "respC": "c) Reduzir os movimentos bruscos da mola.",
+        "respD": "d) Aumentar a vida dos pneus da tração.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O procedimento que verifica vários ângulos da suspensão e evita desgaste prematuro dos pneus e dos componentes do sistema é chamado de:",
+        "imagem": null,
+        "respA": "a) Alinhamento de rodas.",
+        "respB": "b) Calibragem dos pneus.",
+        "respC": "c) Balanceamento das rodas.",
+        "respD": "d) Todas as afirmativas estão corretas.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Evita o desgaste excessivo do motor:",
+        "imagem": null,
+        "respA": "a) Sistema de ignição.",
+        "respB": "b) Sistema do arrefecimento.",
+        "respC": "c) Sistema de lubrificação.",
+        "respD": "d) Sistema elétrico.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A função do sistema de suspensão nos veículos automotores é:",
+        "imagem": null,
+        "respA": "a) Absolver  os balanços do veículo somente, quando está fazendo uma curva.",
+        "respB": "b) Melhorar o controle do carro em pista escorregadia.",
+        "respC": "c) Absorver por meio dos seus componentes todas as irregularidades do solo e não permite que trancos e solavancos cheguem até os usuários.",
+        "respD": "d) Absolver impactos no momento de um acidente.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O desgaste anormal dos pneus pode indicar:",
+        "imagem": null,
+        "respA": "a) Desalinhamento das rodas.",
+        "respB": "b) Folga nos rolamentos.",
+        "respC": "c) Falta de balanceamento das rodas.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Em caso de mau funcionamento do motor ou sua parada total, os sistemas que devemos diagnosticar primeiramente são:",
+        "imagem": null,
+        "respA": "a) Alimentação e ignição.",
+        "respB": "b) Lubrificação e de frenagem.",
+        "respC": "c) Arrefecimento e lubrificação.",
+        "respD": "d) Alimentação e de iluminação.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O filtro de ar tem como função:",
+        "imagem": null,
+        "respA": "a) Filtrar o combustível.",
+        "respB": "b) Filtrar o óleo lubrificante.",
+        "respC": "c) Filtrar o ar que vai para a câmara de explosão do motor.",
+        "respD": "d) Filtrar o ar que refrigera o motor.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O que fazer para assegurar a visibilidade do motociclista e com isto evitar fechadas bruscas e acidentes:",
+        "imagem": null,
+        "respA": "a) Manter limpo o visor do capacete.",
+        "respB": "b) Fugir dos pontos cegos do veículo",
+        "respC": "c) Ver e ser visto.",
+        "respD": "d) Todas as respostas estão corretas.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O bom funcionamento do veículo depende de manutenção e trocas de vários componentes líquidos e lubrificantes. Indique abaixo os itens que devem ser verificados com maior frequência:",
+        "imagem": null,
+        "respA": "a) Filtro de combustível e bomba d'água",
+        "respB": "b) Filtro de ar e velas de ignição.",
+        "respC": "c) Nível de óleo, de água e calibragem dos pneus.",
+        "respD": "d) Nível de óleo da caixa de câmbio e lonas de freio.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Conversor catálico (catalisador), instalado no coletor de escapamento do veículo, é um:",
+        "imagem": null,
+        "respA": "a) Transformador de gases tóxicos em gases não nocivos ao meio ambiente.",
+        "respB": "b) Filtro dos gases do escapamento.",
+        "respC": "c) Acelerador de molécula binárias, oposto aos gases de escapamento.",
+        "respD": "d) Filtro dos gases do escapamento, que separa o vapor d'água dos gases.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A faixa de travessia de pedestre é um tipo de marca denominada:",
+        "imagem": null,
+        "respA": "a) Controle de estacionamento.",
+        "respB": "b) Transversal.",
+        "respC": "c) Longitudinal.",
+        "respD": "d) Canalização.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Os sistema de arrefecimento existentes podem ser:",
+        "imagem": null,
+        "respA": "a) Diesel.",
+        "respB": "b) Ar e/ou água.",
+        "respC": "c) Fluído.",
+        "respD": "d) Álcool e gasolina.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "No sistema de arrefecimento não se utiliza o seguinte componente:",
+        "imagem": null,
+        "respA": "a) Bomba dágua",
+        "respB": "b) Ventoinha ou ventilador.",
+        "respC": "c) Radiador.",
+        "respD": "d) Filtro de óleo.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A bobina tem a função de:",
+        "imagem": null,
+        "respA": "a) Condensar a corrente elétrica.",
+        "respB": "b) Diminuir a tensão da corrente elétrica.",
+        "respC": "c) Transformar a corrente elétrica de baixa para alta tensão.",
+        "respD": "d) Distribuir a corrente elétrica.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "No sistema de arrefecimento não se utiliza o seguinte componente: ",
+        "imagem": null,
+        "respA": "a) Bomba d`água.",
+        "respB": "b) Ventoinha ou ventilador.",
+        "respC": "c) Radiador.",
+        "respD": "d) Filtro de ar.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual a função do sistema de ignição?",
+        "imagem": null,
+        "respA": "a) Fornecer a energia para o funcionamento do motor.",
+        "respB": "b) Melhorar a mistura ar combustível.",
+        "respC": "c) Melhorar a aceleração do veículo em baixa rotação.",
+        "respD": "d) Melhorar o desempenho do carburador.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Nos Veículos mais modernos, o carburador vem sendo substituído por:",
+        "imagem": null,
+        "respA": "a) Ignição eletrônica.",
+        "respB": "b) Injeção eletrônica.",
+        "respC": "c) Bobina eletrônica.",
+        "respD": "d) Bico injetor.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Lubrificação do motor é realizada por:",
+        "imagem": null,
+        "respA": "a) Óleo Lubrificante especifico para o veículo. ",
+        "respB": "b) Bomba de óleo. ",
+        "respC": "c) Carter do motor. ",
+        "respD": "d) Canaletas de lubrificação.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "É equipamento obrigatório que oferece ao condutor segurança ao efetuar manobras:",
+        "imagem": null,
+        "respA": "a) Faróis principais dianteiros de cor branca ou amarela.",
+        "respB": "b) Seta e luz de ré.",
+        "respC": "c) Luzes de posição dianteiras.",
+        "respD": "d) Lanternas de posição traseiras de cor vermelha.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O conjunto que atua nas curvas fazendo com que uma roda gire mais  ou menos do que a outra, chama-se...",
+        "imagem": null,
+        "respA": "a) Embreagem.",
+        "respB": "b) Árvore de transmissão.",
+        "respC": "c) Diferencial.",
+        "respD": "d) Caixa de câmbio.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual o tipo de retrovisor das motocicletas?",
+        "imagem": null,
+        "respA": "a) Convexo.",
+        "respB": "b) Revexo.",
+        "respC": "c) Côncavo.",
+        "respD": "d) Nenhuma das alternativas.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "É equipamento dos veículos que reduz a emissão de gases poluentes:",
+        "imagem": null,
+        "respA": "a) Catalizador.",
+        "respB": "b) Cano de descarga.",
+        "respC": "c) Nebolisador.",
+        "respD": "d) Ar condicionado.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Não faz parte dos órgãos fixos do motor:",
+        "imagem": null,
+        "respA": "a) Bloco do motor.",
+        "respB": "b) Cilindros.",
+        "respC": "c) Cabeçote.",
+        "respD": "d) Biela.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Assinale a alternativa que corresponde à questão: Os veículos de tração animal serão conduzidos pela ________ da pista, junto à guia da calçada (meio-fio) ou ___________ sempre que não houver faixa especial a eles destinadas.",
+        "imagem": null,
+        "respA": "a) Direita, meio-fio.",
+        "respB": "b) Esquerda, meio-fio.",
+        "respC": "c) Direita, esquerda.",
+        "respD": "d) Direita, acostamento.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta:",
+        "imagem": null,
+        "respA": "a) A parada \"embarque de passageiros\" não poderá ser feita quando proibido o estacionamento na via.",
+        "respB": "b) Em nenhuma hipótese será permitida a circulação de bicicletas nos passeios.",
+        "respC": "c) Os animais isolados ou em grupos não poderão circular nas vias urbanas ou rurais.",
+        "respD": "d) O condutor e o passageiro não deverão abrir a porta do veículo, sem antes certificar-se que isso não constitui perigo para eles e outros usuários da via.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O condutor que estiver circulando pela faixa do meio, em uma via de três faixas, ao perceber que outro que o segue tem o propósito de ultrapassá-lo, deverá:",
+        "imagem": null,
+        "respA": "a) Deslocar-se para a faixa da direita, acelerando a marcha.",
+        "respB": "b) Deslocar-se para a faixa da esquerda, acelerando acelerando a marcha.",
+        "respC": "c) Manter-se na pista, acelerando a marcha.",
+        "respD": "d) Manter-se na faixa que está circulando, sem acelerar a marcha.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Assinale, quanto às normas de circulação, a alternativa errada:",
+        "imagem": null,
+        "respA": "a) A circulação será feita pelo lado direito da via, admitidas exceções devidamente sinalizadas.",
+        "respB": "b) Os veículos precedidos de batedores terão peioridade de passagem.",
+        "respC": "c) Os veículos de socorro têm prioridade de passagem, quando identificados por alarme sonoro e iluminação vermelha intermitente.",
+        "respD": "d) A ultrapassagem deve ser feita somente pela direita.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A placa identificada na cartela pelo código A-1b, assinala que, à frente o condutor irá...",
+        "imagem": "a-1b_1339616144.jpg",
+        "respA": "a) Deparar-se com uma curva acentuada à direita.",
+        "respB": "b) Deparar-se com uma estrada à direita.",
+        "respC": "c) Virar à esquerda.",
+        "respD": "d) Deparar-se com uma curva de grande raio.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A placa identificada na cartela pelo código TAR-03, indica:",
+        "imagem": "tar-03_1339617378.jpg",
+        "respA": "a) Praia.",
+        "respB": "b) Parque urbano.",
+        "respC": "c) Área de estacionamento.",
+        "respD": "d) Patrimônio natural.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O condutor, ao efetuar uma manobra de ultrapassagem, para retornar a faixa de trânsito de origem, deverá, dentro dos procedimentos exigidos, ter uma ampla visão através de:",
+        "imagem": null,
+        "respA": "a) Retrovisor interno à direita.",
+        "respB": "b) Retrovisores interno e externo.",
+        "respC": "c) Somente o retrovisor interno à esquerda.",
+        "respD": "d) Somente o retrovisor externo esquerdo.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A condição insegura refere-se:",
+        "imagem": null,
+        "respA": "a) Caracteristicas fisicas do condutor.",
+        "respB": "b) Caracteristicas emocionais do condutor.",
+        "respC": "c) Caracteristicas das penalidades.",
+        "respD": "d) Condição do meio ambiente, não relacionada ao condutor.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Transbordo em excesso de carga é uma medida administrativa que ocorre quando a carga:",
+        "imagem": null,
+        "respA": "a) Está sendo transportada juntamente com passageiros.",
+        "respB": "b) Excede no peso ou na capacidade de tração.",
+        "respC": "c) Está sendo transportada sem a cobertura necessária.",
+        "respD": "d) Está acarretando risco de acidente.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O sistema responsável pelo acionamento dos equipamentos de sinalização do veículo é o:",
+        "imagem": null,
+        "respA": "a) Transmissão.",
+        "respB": "b) Suspensão.",
+        "respC": "c) Elétrico.",
+        "respD": "d) Freios.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "É falso afirmar que, para melhor ser notado no trânsito, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Ligar o limpador de pára-brisas frequentemente.",
+        "respB": "b) Acender os faróis ou lanternas externas nos períodos de \"lusco-fusco\" (amanhecer e entardecer).",
+        "respC": "c) Utilizar o pisca alerta quando parado às margens de estradas.",
+        "respD": "d) Manter o capô do motor aberto e triângulo de segurança posicionado corretamente atrás do veículo, quando este apresentar defeito mecânico.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Ao utilizar um veículo com motor ainda frio, deve-se:",
+        "imagem": null,
+        "respA": "a) Pressionar o acelerador até o assoalho do veículo antes de dar a partida.",
+        "respB": "b) Acelerar bastante para atingir a temperatura ideal.",
+        "respC": "c) Evitar acelerações bruscas até o motor atingir a temperatura ideal.",
+        "respD": "d) Aguardar a temperatura ideal dos pneus antes de sair.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A cabeça do motociclista, mesmo quando o corpo for inclinado, deverá permanecer sempre na posição:",
+        "imagem": null,
+        "respA": "a) Vertical.",
+        "respB": "b) Não exige posição correta.",
+        "respC": "c) Horizontal.",
+        "respD": "d) Contrária à inclinação do corpo.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Quanto maior velocidade ou menor o raio da curva, a inclinação do corpo do motociclista deverá ser:",
+        "imagem": null,
+        "respA": "a) Igual.",
+        "respB": "b) Nenhuma das alternativas.",
+        "respC": "c) Maior.",
+        "respD": "d) Menor.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta:",
+        "imagem": null,
+        "respA": "a) Aderência é a capacidade de atrito do pneu com o solo.",
+        "respB": "b) Derrapagem é o deslocamento do veículo de sua trajetória.",
+        "respC": "c) Força centrípeta é aquela que puxa o veículo para dentro da curva.",
+        "respD": "d) Transferência de massa é a movimentação do corpo dentro do veículo.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A estrutura metálica sobre a qual fica montada toda a carroçaria e cabine dos veículos automotores chama-se:",
+        "imagem": null,
+        "respA": "a) Chassi.",
+        "respB": "b) Suspensão.",
+        "respC": "c) Rodas.",
+        "respD": "d) Caixa de direção.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Amperímetro, hodômetro, botão de luzes e do limpador de para-brisas são...",
+        "imagem": null,
+        "respA": "a) Componentes externos do painel.",
+        "respB": "b) Órgãos auxiliares do motor.",
+        "respC": "c) Equipamentos obrigatórios.",
+        "respD": "d) Instrumentos do painel.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta: os ciclomotores poderão circular...",
+        "imagem": null,
+        "respA": "a) Nas vias de transito rápido.",
+        "respB": "b) Nas vias arteriais.",
+        "respC": "c) Nas vias coletoras.",
+        "respD": "d) Nos acostamentos das rodovias e, na falta deste, pelos bordos.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A bicicleta quanto à tração é:",
+        "imagem": null,
+        "respA": "a) Veículo automotor.",
+        "respB": "b) Propulsão humana.",
+        "respC": "c) Reboque.",
+        "respD": "d) Tração animal.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual a principal causa de corrosão dos veículos?",
+        "imagem": null,
+        "respA": "a) Geada.",
+        "respB": "b) Neve.",
+        "respC": "c) Efeito estufa.",
+        "respD": "d) Chuva ácida.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "É um sistema que tem como função provocar uma faísca na câmara de combustão:",
+        "imagem": null,
+        "respA": "a) De ignição.",
+        "respB": "b) De arrefecimento.",
+        "respC": "c) De alimentação.",
+        "respD": "d) De direção.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A indústria automobilística está em constante aperfeiçoamento nos veículos modernos; a direção que ajuda a diminuir o esforço físico é: ",
+        "imagem": null,
+        "respA": "a) Dinâmica.",
+        "respB": "b) Normal.",
+        "respC": "c) Elétrica.",
+        "respD": "d) Mecânica.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Atualmente são adotados no Brasil três tipos de cinto de segurança. Qual deles oferece maior proteção?",
+        "imagem": null,
+        "respA": "a) O transversal.",
+        "respB": "b) O abdominal.",
+        "respC": "c) O de três pontos.",
+        "respD": "d) Todos os cintos oferecem proteção com a mesma intensidade.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual sistema tem por finalidade transmitir a força do motor às rodas?",
+        "imagem": null,
+        "respA": "a) De transmissão.",
+        "respB": "b) De direção.",
+        "respC": "c) Sistema de alimentação.",
+        "respD": "d) Sistema de freios.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A principal finalidade da Inspeção de Segurança  Veicular é garantir que os veículos:",
+        "imagem": null,
+        "respA": "a) Estejam em condições de segurança para circular.",
+        "respB": "b) Estejam com boa aparência.",
+        "respC": "c) Possuam pneus novos.",
+        "respD": "d) Possuem vidros elétricos.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A obrigatoriedade da Inspeção se Segurança Veicular tem por objetivo:",
+        "imagem": null,
+        "respA": "a) Verificar os documentos do condutor.",
+        "respB": "b) Contribuir para a segurança do trânsito.",
+        "respC": "c) Retirar de circulação os veículos de carga.",
+        "respD": "d) Retirar de circulação os veículos com mais de cinco anos de uso.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Fazem parte do sistema elétrico:",
+        "imagem": null,
+        "respA": "a) Radiador e ventoinha.",
+        "respB": "b) Carborador e filtro de ar.",
+        "respC": "c) Cabeçote, cilindros e pistão.",
+        "respD": "d) Bateria, distribuidor e bobina.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A finalidade do carburador é:",
+        "imagem": null,
+        "respA": "a) Bombear o combustível para o motor.",
+        "respB": "b) Pressionar o ar para a câmara de combustão.",
+        "respC": "c) Manter a temperatura do ar limpo e aquecido.",
+        "respD": "d) Misturar o ar com o combustível na proporção recomendada.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Nos veículos mais modernos, o carburador vem sendo substituído por:",
+        "imagem": null,
+        "respA": "a) Ignição eletrônica.",
+        "respB": "b) Distribuidor e bobina.",
+        "respC": "c) Ligação direta.",
+        "respD": "d) Injeção eletrônica.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Fazem parte da embreagem:",
+        "imagem": null,
+        "respA": "a) Platô, disco de fricção,e rolamento da embreagem.",
+        "respB": "b) Junta homocinética e pivôs.",
+        "respC": "c) Pedal e câmbio.",
+        "respD": "d) Molas e amortecedores.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A finalidade do filtro de ar é:",
+        "imagem": null,
+        "respA": "a) Reter as impurezas do ar.",
+        "respB": "b) Aumentar o fluxo de combustível.",
+        "respC": "c) Evitar o excesso de combustível.",
+        "respD": "d) Reter as impurezas do combustível.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A finalidade da sangria no sistema de freios é:",
+        "imagem": null,
+        "respA": "a) Aumentar a pressão do pedal de freio.",
+        "respB": "b) Melhorar a sua lubrificação.",
+        "respC": "c) Manter a altura do pedal constante.",
+        "respD": "d) Eliminar bolhas de ar do sistema de freios.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Os tipos de freios são:",
+        "imagem": null,
+        "respA": "a) Mecânico, hidráulico.",
+        "respB": "b) Hidráulico, hidramático.",
+        "respC": "c) Mecânico, eletromagnético.",
+        "respD": "d) Mecânico, elétrico.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Os amortecedores têm por função:",
+        "imagem": null,
+        "respA": "a) Evitar o atrito dos pneus com o solo.",
+        "respB": "b) Auxiliar a mudança de direção nas curvas.",
+        "respC": "c) Reduzir os movimentos bruscos da mola.",
+        "respD": "d) Aumentar a vida dos pneus da tração.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "São dispensados da placa dianteira, os veículos:",
+        "imagem": null,
+        "respA": "a) Duas e três rodas.",
+        "respB": "b) Quatro rodas.",
+        "respC": "c) Mais de quatro rodas.",
+        "respD": "d) Todos os veículos são obrigados a ter placa dianteira.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O distribuidor faz parte do sistema:",
+        "imagem": null,
+        "respA": "a) Elétrico.",
+        "respB": "b) Arrefecimento.",
+        "respC": "c) Transmissão.",
+        "respD": "d) Direção.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Banda de rodagem, carcaça de lonas, talões e flancos fazem parte do:",
+        "imagem": null,
+        "respA": "a) Motor.",
+        "respB": "b) Freio.",
+        "respC": "c) Roda.",
+        "respD": "d) Pneu.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O atrito entre os freios e a roda é responsável pela frenagem:",
+        "imagem": null,
+        "respA": "a) Do conjunto rodas e motocicleta.",
+        "respB": "b) Nenhuma das alternativas.",
+        "respC": "c) Das rodas.",
+        "respD": "d) Da motocicleta.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O que pode provocar vibrações no volante?",
+        "imagem": null,
+        "respA": "a) Falta de balanceamento das rodas.",
+        "respB": "b) Excesso de calibragem.",
+        "respC": "c) Baixa calibragem.",
+        "respD": "d) Amortecedores velhos.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O defeito mais comum no carburador caracteriza-se por:",
+        "imagem": null,
+        "respA": "a) Velas queimadas.",
+        "respB": "b) Filtro de ar furado.",
+        "respC": "c) Entupimento.",
+        "respD": "d) tanque de combustível furado.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A circulação da água entre o motor e o radiador é forçada:",
+        "imagem": null,
+        "respA": "a) Pelo carburador.",
+        "respB": "b) Pela bomba d´água.",
+        "respC": "c) Pela bomba de óleo.",
+        "respD": "d) Pela roda d´água.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Em que tipo de motor a combustão é provocada por uma faísca?",
+        "imagem": null,
+        "respA": "a) À diesel.",
+        "respB": "b) À vapor.",
+        "respC": "c) À gasolina.",
+        "respD": "d) Elétrico.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual tipo de freio não se altera com os efeitos da água?",
+        "imagem": null,
+        "respA": "a) À tambor.",
+        "respB": "b) Hidráulico.",
+        "respC": "c) À disco.",
+        "respD": "d) Freio mecânico.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Quais as funções dos pneus?",
+        "imagem": null,
+        "respA": "a) Impulsionar.",
+        "respB": "b) Frear.",
+        "respC": "c) Manter a dirigibilidade total do veículo.",
+        "respD": "d) Todas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Recebe o impulso direto do sistema de partida:",
+        "imagem": null,
+        "respA": "a) Piston.",
+        "respB": "b) Biela.",
+        "respC": "c) Árvore de manivelas.",
+        "respD": "d) Volante do motor.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O extintor de incêndio de um veículo sempre deverá estar posicionado...",
+        "imagem": null,
+        "respA": "a) Em um local de fácil acesso para o motorista, sem que ele precise sair do veículo.",
+        "respB": "b) No porta-malas.",
+        "respC": "c) Embaixo do banco.",
+        "respD": "d) Perto do tanque de combustível.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "As duas válvulas permanecem fechadas em qual dos tempos do motor?",
+        "imagem": null,
+        "respA": "a) Admissão.",
+        "respB": "b) Explosão.",
+        "respC": "c) Compressão.",
+        "respD": "d) As afirmativas \"b\" e \"c\" estão corretas.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual a peça mais pesada do motor?",
+        "imagem": null,
+        "respA": "a) O bloco.",
+        "respB": "b) O cabeçote.",
+        "respC": "c) O pistão.",
+        "respD": "d) O cilindro.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual é o equipamento obrigatório destinado a indicar aos demais usuários da via que o condutor tem o propósito de mudar de direção?",
+        "imagem": null,
+        "respA": "a) Dispositivo de sinalização luminosa ou refletora de emergência.",
+        "respB": "b) Espelhos retrovisores.",
+        "respC": "c) Lanternas indicadoras de direção.",
+        "respD": "d) Lanternas de posição traseira.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta em relação itens que pertencem ao sistema de partida do veículo:",
+        "imagem": null,
+        "respA": "a) Bateria, motor de partida, chave de ignição e chave eletromagnética.",
+        "respB": "b) Motor de partida, alternador e bateria. ",
+        "respC": "c) Alternador, bateria e motor de partida.",
+        "respD": "d) Gerador, acumulador de energia e motor de partida.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A função da caixa de câmbio é:",
+        "imagem": null,
+        "respA": "a) Aumentar ou diminuir o aquecimento do motor.",
+        "respB": "b) Diminuir o atrito dos pneus nas curvas.",
+        "respC": "c) Diminuir o desgaste da embreagem.",
+        "respD": "d) Aumentar ou diminuir a força ou a velocidade do veículo.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Em quantos circuitos são divididos o sistema elétrico?",
+        "imagem": null,
+        "respA": "a) 3.",
+        "respB": "b) 1.",
+        "respC": "c) 4.",
+        "respD": "d) 2.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Onde é admitida e queima a mistura de combustível?",
+        "imagem": null,
+        "respA": "a) No cárter.",
+        "respB": "b) No cabeçote.",
+        "respC": "c) Na tampa de válvulas.",
+        "respD": "d) Nos cilindros.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Serve como reservatório e coletor de óleo:",
+        "imagem": null,
+        "respA": "a) Piston.",
+        "respB": "b) Bloco.",
+        "respC": "c) Cárter.",
+        "respD": "d) As alternativas A e B estão corretas.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Qual o tipo de retrovisor das motocicletas?",
+        "imagem": null,
+        "respA": "a) Convexo.",
+        "respB": "b) Revexo.",
+        "respC": "c) Concovo.",
+        "respD": "d) Nenhuma das alternativas acima.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A maioria dos acidentes está associada à condição adversa do condutor; a grande maioria deles é causada por:",
+        "imagem": null,
+        "respA": "a) Falhas mecãnicas.",
+        "respB": "b) Deficiência da via.",
+        "respC": "c) Falta de sinalização.",
+        "respD": "d) Falhas humanas.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O painel de instrumentos do veículo serve para:",
+        "imagem": null,
+        "respA": "a) Indicar todo e qualquer tipo de defeito do veículo.",
+        "respB": "b) Indicar os caminhos alternativos no trânsito.",
+        "respC": "c) Orientar o condutor sobre as condições gerais do veículo.",
+        "respD": "d) Completar a decoração interna do veículo.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Para reduzir o consumo de combustível e a poluição do meio ambiente, é recomendável:",
+        "imagem": null,
+        "respA": "a) Manter o sistema de alimentação regulado.",
+        "respB": "b) Efetuar troca das pastilhas de freios.",
+        "respC": "c) Efetuar troca de óleo lubrificante.",
+        "respD": "d) Verificar a carga da bateria.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta: frenagem de emergência é:",
+        "imagem": null,
+        "respA": "a) Travamento das rodas.",
+        "respB": "b) Arrastamento dos pneus, sem deixar marcas no solo.",
+        "respC": "c) Redução moderada da velocidade do veículo.",
+        "respD": "d) Redução imediata da velocidade do veículo no menor tempo possivel.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Um motor em funcionamento gera calor que precisa ser dissipado, para que não haja superaquecimento. Indique abaixo o procedimento correto para mantê-lo em boas condições de uso:",
+        "imagem": null,
+        "respA": "a) Verificar constantemente o nível de água no reservatório.",
+        "respB": "b) Abrir imediatamente a tampa do reservatório de água, completando-o.",
+        "respC": "c) Continuar rodando, mesmo com o motor superaquecido.",
+        "respD": "d) Completar a água do reservatório com o veículo em movimento.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Em uma curva, a diminuição brusca da velocidade provoca transferência de massa fazendo com quê o eixo dianteiro fique mais...",
+        "imagem": null,
+        "respA": "a) Pesado que o eixo traseiro, tendendo a \"desgarrar a traseira\".",
+        "respB": "b) Leve que o eixo traseiro, tendendo a \"desgarrar a dianteira\".",
+        "respC": "c) Pesado que o eixo traseiro, tendendo a \"desgarrar a dianteira\".",
+        "respD": "d) Leve que o eixo traseiro tendendo a \"desgarrar a traseira\".",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O equipamento elétrico mecânico que tem a função de proporcionar os primeiros movimentos de rotação do motor chama-se:  ",
+        "imagem": null,
+        "respA": "a) Freio hidráulico.",
+        "respB": "b) Caixa de câmbio.",
+        "respC": "c) Embreagem.",
+        "respD": "d) Motor de arranque.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "o sistema, cuja finalidade é absorver os choques provocados pela irregularidades da pavimentação chama-se:",
+        "imagem": null,
+        "respA": "a) Suspensão.",
+        "respB": "b) Diferencial.",
+        "respC": "c) Direção.",
+        "respD": "d) Transmissão.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Os sulcos ou os frisos encontrados na banda de rodagem dos pneus de um veículo tem a seguinte finalidade:",
+        "imagem": null,
+        "respA": "a) Evitar aquaplanagem.",
+        "respB": "b) Permitir o balanceamento estático.",
+        "respC": "c) Aumentar a distancia entre o veículo e o solo.",
+        "respD": "d) Impedir o superaquecimento dos rolamentos.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta:",
+        "imagem": null,
+        "respA": "a) Amperímetro: indica o nível da água no radiador.",
+        "respB": "b) Hodômetro: indica o nível de combustível.",
+        "respC": "c) Tacógrafo: registra a pressão dos pneus.",
+        "respD": "d) Manômetro: indica a pressão do óleo do motor.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Fator que não altera a aderência é:",
+        "imagem": null,
+        "respA": "a) Clima.",
+        "respB": "b) Calibragem dos pneus.",
+        "respC": "c) Tipo de combustível.",
+        "respD": "d) Tipo de solo.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O modelo novo do extintor de incêndio tem validade de:",
+        "imagem": null,
+        "respA": "a) 5 anos.",
+        "respB": "b) 10 anos.",
+        "respC": "c) 1 ano.",
+        "respD": "d) Tempo indeterminado.",
+        "correta": "A",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A finalidade do filtro de combustível é:",
+        "imagem": null,
+        "respA": "a) Reter as impurezas do ar.",
+        "respB": "b) Reter as impurezas do combustível.",
+        "respC": "c) Controlar a pressão do combustível.",
+        "respD": "d) Evitar o excesso de combustível.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Ao acionar a chave de ignição e o motor do veículo não dar sinal de partida, o defeito pode ser:",
+        "imagem": null,
+        "respA": "a) Falta de combustível.",
+        "respB": "b) Falta de água no radiador.",
+        "respC": "c) Na bateria ou motor de arranque.",
+        "respD": "d) Entupimento no carburador.",
+        "correta": "C",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "O instrumento do painel que indica a velocidade desenvolvida pelo veículo é o:",
+        "imagem": null,
+        "respA": "a) Monômetro.",
+        "respB": "b) Velocímetro.",
+        "respC": "c) Hodômetro.",
+        "respD": "d) Tacógrafo.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "É equipamento obrigatório que ofereçe ao condutor segurança ao efetuar manobras:",
+        "imagem": null,
+        "respA": "a) Faróis principais dianteiros de cor branca ou amarela.",
+        "respB": "b) Seta e luz de ré.",
+        "respC": "c) Luzes de posição dianteiras.",
+        "respD": "d) Lanternas de posição traseiras de cor vermelha.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Para garantir boa manutenção, os pneus devem ser calibrados:",
+        "imagem": null,
+        "respA": "a) Semanalmente, com os pneus aquecidos.",
+        "respB": "b) Semanalmente, com os pneus frios.",
+        "respC": "c) Mensalmente, com os pneus frios.",
+        "respD": "d) Diariamente, com os pneus aquecidos.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "A estabilidade do veículo também está condicionada aos pneus. O condutor deve conferir periódicamente e regularmente...",
+        "imagem": null,
+        "respA": "a) A calibragem dos pneus.",
+        "respB": "b) O desgaste dos pneus.",
+        "respC": "c) A existência de possíveis deformações na carcaça.",
+        "respD": "d) Todas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "mecaninca"
+    },
+    {
+        "pergunta": "Para saber se a bateria do veículo está descarregada, deve-se observar o(a):",
+        "imagem": null,
+        "respA": "a) Radiador.",
+        "respB": "b) Luz indicadora no painel acesa ou o voltímetro.",
+        "respC": "c) Veículo afogado.",
+        "respD": "d) Motor com muita vibração.",
+        "correta": "B",
+        "modulo" : "mecaninca"
+    }
+]

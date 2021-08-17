@@ -1,0 +1,1272 @@
+[
+    {
+        "pergunta": "A contaminação do ar por partículas originadas pela atividade humana significa:",
+        "imagem": null,
+        "respA": "a) Poluição atmosférica.",
+        "respB": "b) Poluição sonora.",
+        "respC": "c) Meio de transporte.",
+        "respD": "d) Ocorrência de fenômenos naturais.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A poluição característica dos veículos movidos a óleo diesel é a forte emissão de:",
+        "imagem": null,
+        "respA": "a) Fumaça preta.",
+        "respB": "b) Monóxido de carbono.",
+        "respC": "c) Ozônio.",
+        "respD": "d) Gás carbônico.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta: Dos elementos abaixo citados, não contribui para a poluição do ar:",
+        "imagem": null,
+        "respA": "a) Fuligem.",
+        "respB": "b) Queimadas.",
+        "respC": "c) Monóxidos de carbono.",
+        "respD": "d) Vapor de água.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Conversor catalítico (catalisador), instalado no coletor de escapamento do veículo, é um:",
+        "imagem": null,
+        "respA": "a) Acelerador de moléculas binárias opostas aos gases de escapamento.",
+        "respB": "b) Filtro dos gases do escapamento que separa o vapor dos gases.",
+        "respC": "c) Transforma os gases tóxicos mais nocivos.",
+        "respD": "d) Transformador dos gases tóxicos em gases não-nocivos ao meio ambiente.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Nos automóveis modernos, usa-se o catalisador, que tem como principal função:",
+        "imagem": null,
+        "respA": "a) Diminuir a emissão de gases poluentes.",
+        "respB": "b) Refrigerar o motor.",
+        "respC": "c) Reduzir o barulho do escapamento.",
+        "respD": "d) Aumentar a potência do motor.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A pressão sonora máxima permitida em decibéis é de:",
+        "imagem": null,
+        "respA": "a) 90 dB",
+        "respB": "b) 120 dB",
+        "respC": "c) 80 dB",
+        "respD": "d) Nenhuma das respostas acima",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Para reduzir a emissão de poluentes do ar, causados pelos veículos, é incorreto afirmar que se deve:",
+        "imagem": null,
+        "respA": "a) Fazer uso de dispositivo de controle de emissão de gases (catalisador).",
+        "respB": "b) Incentivar o uso de gás natural.",
+        "respC": "c) Regular periodicamente o motor do veículo.",
+        "respD": "d) Incentivar o transporte individual por veículos automotivos.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "No interior de túneis muito longos, é aconselhável instalar exaustores porque nesse ambiente acumula-se:",
+        "imagem": null,
+        "respA": "a) Gases e partículas de fumaça.",
+        "respB": "b) Partículas de fumaça, somente.",
+        "respC": "c) Gases tóxicos, somente.",
+        "respD": "d) Partículas de vapor d´água, somente.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A partir de quantos decibéis tornam-se irreversíveis os males à saúde humana?",
+        "imagem": null,
+        "respA": "a) 80 decibéis.",
+        "respB": "b) 60 decibéis.",
+        "respC": "c) 100 decibéis.",
+        "respD": "d) 120 decibéis.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Sobre emissão sonora, é falso afirmar:",
+        "imagem": null,
+        "respA": "a) O ruído máximo tolerável é 100 decibéis.",
+        "respB": "b) As turbinas dos aviões a jato são uma das maiores fontes de poluição sonora.",
+        "respC": "c) Quando o ruído ultrapassa a 120 decibéis causa danos irreparáveis.",
+        "respD": "d) Pode trazer como consequência surdez prematura.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A erosão indiretamente pode ser causada pelo trânsito. Por que?",
+        "imagem": null,
+        "respA": "a) Estradas mal planejadas.",
+        "respB": "b) Enchentes.",
+        "respC": "c) Efeito estufa.",
+        "respD": "d) Degelo das calotas polares.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O trânsito pode provocar os seguintes problemas ambientais:",
+        "imagem": null,
+        "respA": "a) Poluição sonora.",
+        "respB": "b) Poluição urbana.",
+        "respC": "c) Poluição atmosférica.",
+        "respD": "d) Todas as alternativas acima.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O que polui o solo, contaminando os lençóis d’água subterrâneos, é um lixo:",
+        "imagem": null,
+        "respA": "a) Líquido.",
+        "respB": "b) Gasoso.",
+        "respC": "c) Sólido.",
+        "respD": "d) Radioativo.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Qual o tempo médio de degradação de sacolas plásticas?",
+        "imagem": null,
+        "respA": "a) 200 a 450 anos.",
+        "respB": "b) 30 a 40 anos.",
+        "respC": "c) 2 a 5 anos.",
+        "respD": "d) 1.000 a 2.000 anos.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Som alto em veículos, além de ser uma infração, pode causar problemas...",
+        "imagem": null,
+        "respA": "a) Cardíacos.",
+        "respB": "b) Auditivos.",
+        "respC": "c) Mecânicos.",
+        "respD": "d) Circulatórios.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Qual dos elementos abaixo demora mais tempo para se decompor?",
+        "imagem": null,
+        "respA": "a) Papel.",
+        "respB": "b) Caixa de papelão.",
+        "respC": "c) Casca de banana.",
+        "respD": "d) Isopor.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O excesso de anúncios, cartazes, banners e outdoors afixados em pontos estratégicos em vias públicas é uma poluição:",
+        "imagem": null,
+        "respA": "a) Sonora",
+        "respB": "b) Atmosférica",
+        "respC": "c) Visual",
+        "respD": "d) Hídrica",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Conduzir veículo produzindo fumaça, gases ou partículas em níveis superiores aos fixados pelo CONTRAN é:",
+        "imagem": null,
+        "respA": "a) Tolerável e aceito pelas autoridades de trânsito.",
+        "respB": "b) Agressão ao meio ambiente, sujeito a multa.",
+        "respC": "c) Um tipo de poluição sonora.",
+        "respD": "d) Perfeitamente legal.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Qual dos itens abaixo pode provocar o processo de oxidação?",
+        "imagem": null,
+        "respA": "a) Deixando de usar óleo no motor.",
+        "respB": "b) Deixando de usar óleo no carburador.",
+        "respC": "c) Deixando de usar antiferrugem (aditivo) na água do radiador.",
+        "respD": "d) Nenhuma das questões acima.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Grande parte dos problemas de relacionamento humano no trânsito ocorre devido a uma série de fatores, como:",
+        "imagem": null,
+        "respA": "a) Domínio aos impulsos indesejáveis.",
+        "respB": "b) Inversão de valores.",
+        "respC": "c) Respeito aos direitos alheios.",
+        "respD": "d) Supervalorização da segurança viária.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Substâncias infectantes são aquelas que:",
+        "imagem": null,
+        "respA": "a) Contém microorganismos infecciosos.",
+        "respB": "b) Alteram sua propriedade com o calor.",
+        "respC": "c) Contém corrosivos.",
+        "respD": "d) Liberam gás carbônico.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O uso de dispositivo de controle de emissão de gases (catalisador) conectado ao escapamento dos veículos tem como objetivo:",
+        "imagem": null,
+        "respA": "a) Diminuir o ruído do motor.",
+        "respB": "b) Economizar combustível.",
+        "respC": "c) Aumentar a potência do motor.",
+        "respD": "d) Diminuir a emissão de gases.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O veículo torna-se um agente poluidor do meio ambiente quando:",
+        "imagem": null,
+        "respA": "a) Emite gases e partículas na atmosfera.",
+        "respB": "b) Pelo descarte de óleos lubrificantes e fluídos.",
+        "respC": "c) Nos acidentes envolvendo cargas tóxicas.",
+        "respD": "d) Todas as alternativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O CONAMA e as agências ambientais do estado e município, têm como principais preocupações:",
+        "imagem": null,
+        "respA": "a) A defesa da saúde e do meio ambiente.",
+        "respB": "b) A conservação das estradas.",
+        "respC": "c) A orientação do fluxo de veículos nas vias urbanas.",
+        "respD": "d) A fiscalização da produção de veículos.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O motorista que não obedece a sinalização e só pensa em seu benefício é:",
+        "imagem": null,
+        "respA": "a) Um motorista justo.",
+        "respB": "b) Um motorista imprudente e egoísta.",
+        "respC": "c) Um motorista defensivo.",
+        "respD": "d) Um motorista educado.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "São substâncias que podem espalhar fragmentos num raio de 600m:",
+        "imagem": null,
+        "respA": "a) Radioativas.",
+        "respB": "b) Gases comprimidos.",
+        "respC": "c) Explosivos.",
+        "respD": "d) Tóxicas.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A segurança no trânsito é um direito:",
+        "imagem": null,
+        "respA": "a) Dos ciclistas apenas.",
+        "respB": "b) Dos motoristas de ônibus apenas.",
+        "respC": "c) Dos motociclistas apenas.",
+        "respD": "d) De todos os  cidadãos.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "As inspeções periódicas de emissão de gases podem ajudar a melhorar as condições de vida dos habitantes dos centros urbanos...",
+        "imagem": null,
+        "respA": "a) Contribuindo para a segurança dos veículos.",
+        "respB": "b) Diminuindo o desgaste do motor.",
+        "respC": "c) Reduzindo as emissões dos poluentes urbanos.",
+        "respD": "d) Diminuindo a emissão de ozônio.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O órgão responsável pela regulamentação dos padrões de qualidade do ar é:",
+        "imagem": null,
+        "respA": "a) O Conselho Nacional do Meio Ambiente (CONAMA).",
+        "respB": "b) O PROCONVE.",
+        "respC": "c) Departamento de trânsito (DETRAN).",
+        "respD": "d) A secretaria de Estado do Meio Ambiente.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta: Dos elementos abaixo citados, qual não contribui para a poluição do ar:",
+        "imagem": null,
+        "respA": "a) Queimadas.",
+        "respB": "b) Monóxido de carbono.",
+        "respC": "c) Vapor de água.",
+        "respD": "d) Fuligem.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Respirar a fumaça produzida por caminhões ônibus e automóveis, trás prejuízo à saúde humana. Como o Código de Trânsito Brasileiro prevê ações que evitem esses danos?",
+        "imagem": null,
+        "respA": "a) Controlando as emissões de gases e de ruídos.",
+        "respB": "b) Determinando o uso de máscaras.",
+        "respC": "c) Determinando rodízio nos grandes centros urbanos.",
+        "respD": "d) Incentivando o uso de veículos a diesel.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Poluição ambiental é a alteração desfavorável do meio ambiente pelos subprodutos e resíduos químicos resultantes de atos da atividade humana. Sua principal consequência é:",
+        "imagem": null,
+        "respA": "a) Aumento da produtividade industrial.",
+        "respB": "b) Degradação da natureza.",
+        "respC": "c) Benefícios aos rios e mares.",
+        "respD": "d) Melhoria dos seres humanos.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta: As normas da ABNT sobre o impacto de ruídos afirmam que...",
+        "imagem": null,
+        "respA": "a) 40 a 45 decibéis: volume recomendável para o sono.",
+        "respB": "b) 55 a 65 decibéis: a pessoa fica em estado de alerta.",
+        "respC": "c) 65 a 85 decibéis: Sem danos nocivos.",
+        "respD": "d) 100 decibéis: limite máximo tolerável.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Sobre o cânister, é incorreto afirmar que este :",
+        "imagem": null,
+        "respA": "a) Absorve vapores do combustível.",
+        "respB": "b) Envia os vapores para câmaras de combustão.",
+        "respC": "c) Impede que gases se dissipem no meio ambiente.",
+        "respD": "d) Converte gases tóxicos em gase inofensivos.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Os gases resultantes da combustão, junto com o óxido de nitrogênio, entram em contato com o oxigênio e o vapor de água na atmosfera e voltam a superfície sob a forma de:",
+        "imagem": null,
+        "respA": "a) Raios.",
+        "respB": "b) Trovões.",
+        "respC": "c) Chuva ácida.",
+        "respD": "d) Material particulado.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O efeito estufa têm como consequência:",
+        "imagem": null,
+        "respA": "a) O excesso de gás carbono na atmosféra.",
+        "respB": "b) O excesso de gás clorofluorcarbono (CFC).",
+        "respC": "c) A destruição das moléculas de ozônio na atmosféra.",
+        "respD": "d) A elevação da temperatura média do planeta.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Complete a lacuna: Além do óleo diesel, a gasolina e o álcool são amplamente utilizados como fonte de energia para locomoção dos veículos automotores. Os veículos a álcool poluem menos, pois expelem metade de ___ se comparados com os veículos movidos a gasolina.",
+        "imagem": null,
+        "respA": "a) Monóxido de carbono.",
+        "respB": "b) Hidrocarbonetos.",
+        "respC": "c) Dióxido de enxofre.",
+        "respD": "d) Dióxido de carbono.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Complete a lacuna: Os hidrocarbonetos são liberados no ar pela evaporação de combustíveis. Em grandes ___ podem causar desde irritação dos olhos e no nariz até a edema pulmonar.",
+        "imagem": null,
+        "respA": "a) Quantidades.",
+        "respB": "b) Volumes.",
+        "respC": "c) Proporções.",
+        "respD": "d) Concentrações.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O dióxido de enxofre é emitido principalmente pelos escapamentos dos veículos e compõem ___ em forma de ácido sulfúrico.",
+        "imagem": null,
+        "respA": "a) A Chuva ácida.",
+        "respB": "b) O processo de poluição.",
+        "respC": "c) O clorofluorcabono.",
+        "respD": "d) A formação de gases.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O sistema de descarga é responsável por evitar, além do barulho, o consumo excessivo de combustível. Se há fumaça preta saindo da descarga do veículo é indício de que:",
+        "imagem": null,
+        "respA": "a) Existe excesso de gás na câmara de combustão.",
+        "respB": "b) O motor está com boa compressão.",
+        "respC": "c) O motor está queimando mais combustível que o normal.",
+        "respD": "d) O condutor está acelerando mais do que devia.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O gás clorofluorcarbono (CFC) utilizado como propelente em vários tipos de spray, chips de computadores e solventes usados pela industria eletrônica, é um dos poluentes responsáveis pela ocorrência:",
+        "imagem": null,
+        "respA": "a) Do aumento de temperatura.",
+        "respB": "b) Da redução da camada de ozônio.",
+        "respC": "c) Da chuva ácida.",
+        "respD": "d) Do efeito estufa.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Complete a frase: Vários gases expelidos pelos motores dos automóveis são prejudiciais à saúde. Além do monóxido de carbono, o dióxido de enxofre, formado pela queima de combustíveis é o ___componente da chuva ácida.",
+        "imagem": null,
+        "respA": "a) Natural.",
+        "respB": "b) Único.",
+        "respC": "c) Principal.",
+        "respD": "d) Maior.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Conhecida como \"fumaça preta\", é formada pela fuligem que reúne substâncias tóxicas causadoras de várias doenças:",
+        "imagem": null,
+        "respA": "a) O material particulado.",
+        "respB": "b) O dióxido de carbono.",
+        "respC": "c) O monóxido de carbono.",
+        "respD": "d) Todas as afirmativas estão corretas.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Ela ocorre quando, além de intenso o ruído, ele também é ininterrupto, com o qual o ouvido não se acostuma. Pode-se dormir sob barulho intenso, mas o sono não será reparador das energias gastas, como é a conclusão da ciência médica. Estamos falando de:",
+        "imagem": null,
+        "respA": "a) Poluição sonora.",
+        "respB": "b) Emissão sonora.",
+        "respC": "c) Impacto de ruídos.",
+        "respD": "d) Todas as afirmativas acima.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O excesso de dióxido de carbono (CO2), na atmosfera, provoca o fenômeno chamado:",
+        "imagem": null,
+        "respA": "a) A chuva ácida.",
+        "respB": "b) O material particulado.",
+        "respC": "c) O efeito estufa.",
+        "respD": "d) Todas estão corretas.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "No interior de túneis extensos é aconselhável instalar exaustores, porque nesses ambientes acumulam-se:",
+        "imagem": null,
+        "respA": "a) Partículas de fumaça, somente.",
+        "respB": "b) Gases tóxicos, somente.",
+        "respC": "c) Partículas de vapor d'água, somente.",
+        "respD": "d) Gases e partículas de fumaça.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A queima incompleta de combustível dá origem a um dos principais gases nocivos à saúde, cujo o nome é:",
+        "imagem": null,
+        "respA": "a) Hidrocarboneto.",
+        "respB": "b) Dióxido de enxofre.",
+        "respC": "c) Óxido de nitrogênio.",
+        "respD": "d) Monóxido de carbono.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Com algumas exceções permitidas por lei, a utilização em veículos, de qualquer espécie, de equipamento que produza som, só será permitida em nível de pressão sonora não superior a:",
+        "imagem": null,
+        "respA": "a) 120 decibéis.",
+        "respB": "b) 100 decibéis.",
+        "respC": "c) 80 decibéis.",
+        "respD": "d) 90 decibéis.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A probabilidade sobre os riscos de infarte como consequência do impacto de ruídos pode ocorrer em volumes acima de:",
+        "imagem": null,
+        "respA": "a) 90 dB.",
+        "respB": "b) 100 dB.",
+        "respC": "c) 120 dB.",
+        "respD": "d) 80 dB.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Procurando visualizar o controle de emissão de partículas e de gases veiculares, o Conselho Nacional de Meio Ambiente criou em 1986:",
+        "imagem": null,
+        "respA": "a) A SEAMA..",
+        "respB": "b) O PROCONVE.",
+        "respC": "c) O CEMA.",
+        "respD": "d) O CONTRAN.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "É o gás incolor, sem cheiro ou gosto, resultante da queima incompleta de combustíveis:",
+        "imagem": null,
+        "respA": "a) O monóxido de carbono.",
+        "respB": "b) O hidrocarboneto.",
+        "respC": "c) Os óxidos de nitrogênio.",
+        "respD": "d) O gás de ozônio.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta: Dos  elementos abaixo citados, não contribui para a poluição do ar:",
+        "imagem": null,
+        "respA": "a) Fuligem.",
+        "respB": "b) Queimadas.",
+        "respC": "c) Monóxido de carbono.",
+        "respD": "d) Vapor de água.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Indica que o veículo está produzindo níveis de poluição acima do normal:",
+        "imagem": null,
+        "respA": "a) Escapamento com fuligem.",
+        "respB": "b) Cheiro de combustível.",
+        "respC": "c) Consumo excessivo de combustível.",
+        "respD": "d) Todas as afirmativas acima.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Os veículos movidos a álcool(etanol) expelem, em relação aos veículos que utilizam gasolina:",
+        "imagem": null,
+        "respA": "a) A mesma quantidade de monóxido de carbono.",
+        "respB": "b) 1/3 da quantidade de monóxido de carbono.",
+        "respC": "c) A metade de monóxido de carbono.",
+        "respD": "d) O dobro da quantidade de carbono.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta: A matéria prima para produção do álcool no Brasil é:",
+        "imagem": null,
+        "respA": "a) Cana de açúcar.",
+        "respB": "b) Milho.",
+        "respC": "c) Metanol.",
+        "respD": "d) Eucalípto.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O que é convívio social?",
+        "imagem": null,
+        "respA": "a) É viver de forma harmoniosa com a sociedade, exigindo seus direitos, cumprindo seus deveres e obrigações de forma com que as pessoas o respeitem.",
+        "respB": "b) São as leis de quem mora na cidade.",
+        "respC": "c) É o direito de falar o que quiser.",
+        "respD": "d) É aquele cidadão que prestou serviço militar.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta:",
+        "imagem": null,
+        "respA": "a) A evaporação do combustível ocorre com o veículo parado ou em movimento.",
+        "respB": "b) O atrito dos pneus com o solo é outra fonte de poluição do ar.",
+        "respC": "c) As montadoras vem equipando os veículos com controle de emissão de poluentes.",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Condutor ou passageiros  de veículos podem colaborar para a preservação do meio ambiente, da seguinte maneira:",
+        "imagem": null,
+        "respA": "a) Fazendo as revisões e manutenções recomendadas pelo fabricante.",
+        "respB": "b) Evitando paradas prolongadas com o motor funcionando.",
+        "respC": "c) Não atirando lixo, pontas de cigarros e latas nas vias públicas.",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Não constitui efeitos danosos do ruído:",
+        "imagem": null,
+        "respA": "a) Insônia.",
+        "respB": "b) Irritabilidade.",
+        "respC": "c) Dores de cabeça.",
+        "respD": "d) Efeito estufa.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Para evitar a poluição sonora, devemos evitar:",
+        "imagem": null,
+        "respA": "a) Cantar durante seu deslocamento pelas vias.",
+        "respB": "b) Escapamento aberto, buzinas estridentes, aparelho de som muito alto.",
+        "respC": "c) Ligar o rádio do carro enquanto dirige.",
+        "respD": "d) Falar em voz alta com os ocupantes do veículo.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Um dos principais problemas urbanos é o excesso de emissão de ruídos (poluição sonora). Os proprietários de veículos podem ajudar na redução deste problema da seguinte forma:",
+        "imagem": null,
+        "respA": "a) Utilizando combustível especial.",
+        "respB": "b) Mantendo o silenciador em bom estado.",
+        "respC": "c) Instalando equipamentos não originais.",
+        "respD": "d) Utilizando livremente os dispositivos sonoros dos veículos.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Os caminhões e ônibus na sua grande maioria utilizam como combustível o óleo diesel. Esse combustível usado em motores mal regulado libera um agente poluidor denominado fumaça preta. Que programa tem sido desenvolvido pelas autoridades para identificar e controlar essas emissões?",
+        "imagem": null,
+        "respA": "a) PROCONVE - Programa de controle da poluição do ar por veículos automotores.",
+        "respB": "b) DETRAN - Departamento estadual de trânsito.",
+        "respC": "c) Secretaria de Estado do Meio Ambiente.",
+        "respD": "d) CONOMA - Conselho Nacional do Meio Ambiente.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A queima incompleta de fuligem, pode causar:",
+        "imagem": null,
+        "respA": "a) Alergia.",
+        "respB": "b) Asma.",
+        "respC": "c) Bronquite crônica.",
+        "respD": "d) Todas as afirmativas estão corretas.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Sons, ruídos e vibrações são considerados como poluição...",
+        "imagem": null,
+        "respA": "a) Sonora.",
+        "respB": "b) Do ar.",
+        "respC": "c) Da água.",
+        "respD": "d) Nenhuma das alternativas estão corretas.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Ser cidadão é lutar por direitos comuns á sociedade e:",
+        "imagem": null,
+        "respA": "a) Fazer uso da buzina quando e onde quiser.",
+        "respB": "b) Defender sua posição social.",
+        "respC": "c) Ser um político atuante.",
+        "respD": "d) Respeitar os deveres e regras, leis e normas estabelecidas para o bem comum.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": " A poluição do ar é caracterizada por:",
+        "imagem": null,
+        "respA": "a) Falta de manutenção veicular.",
+        "respB": "b) Mistura perigosa de gases e resíduos (poeira e outras pequenas partículas).)",
+        "respC": "c) Massa de poluentes que pode trazer consequências terríveis a saúde.",
+        "respD": "d) Irresponsabilidade em relação às máquinas.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A partir de quantos decibéis, tornam-se irreversíveis os males à saúde humana?",
+        "imagem": null,
+        "respA": "a) 120 decibéis.",
+        "respB": "b) 80 decibéis.",
+        "respC": "c) 60 decibéis.",
+        "respD": "d) 100 decibéis.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Como se prevenir contra incêndios?",
+        "imagem": null,
+        "respA": "a) Realize manutenções preventivas periódicas nos sistemas de arrefecimento, de alimentação de combustível, de lubrificação e elétrico.",
+        "respB": "b) Evite adaptações ou improvisos em instalações.",
+        "respC": "c) Nunca se distraia com cigarro, alimento, celular, animais de estimação, quando estiver ao volante.",
+        "respD": "d) Todas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Para ajudar a manter as vias de trânsito limpas e em condições de uso devemos:",
+        "imagem": null,
+        "respA": "a) Aumentar o numero de lixeiras públicas.",
+        "respB": "b) Distribuir saco de lixo para todos os motoristas.",
+        "respC": "c) Organizar um mutirão para consertar a via.",
+        "respD": "d) Não jogar lixo ou qualquer objeto pela janela do veículo.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A poluição do ar pelos veículos não é causada:",
+        "imagem": null,
+        "respA": "a) Pela presença do cânister no sistema de alimentação.",
+        "respB": "b) Pelo constante atrito dos pneus no asfalto.",
+        "respC": "c) Pela evaporação de combustível no tanque.",
+        "respD": "d) Por escapamentos com catalizador defeituoso.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "É incorreto afirmar que:",
+        "imagem": null,
+        "respA": "a)  O ser humano deve buscar caminhos para que sua produção industrial possa guiar sua conduta.",
+        "respB": "b) Os termos meio ambiente são equivalentes.",
+        "respC": "c) O meio ambiente engloba sem dúvida o homem e a natureza com todos os seus elementos.",
+        "respD": "d) A natureza é finita e pode ser degradada pela má utilização de seus recursos naturais.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A poluição característica dos veículos automotores movidos a óleo diesel é forte emissão de:",
+        "imagem": null,
+        "respA": "a) Ozônio.",
+        "respB": "b) Gás carbônico.",
+        "respC": "c) Monóxido de carbono.",
+        "respD": "d) Fumaça preta.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Conversor instalado no coletor de escapamento do veículo é um:",
+        "imagem": null,
+        "respA": "a) Transformador de diversos gases tóxicos em gases não -nocivos ao meio ambiente.",
+        "respB": "b) Filtro de gases do escapamento.",
+        "respC": "c) Acelerador de moléculas binárias , opostas aos gases de escapamento.",
+        "respD": "d) Filtro dos gases do escapamento, que separa o vapor dágua dos gases.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Alguns cuidados que devemos ter com os veículos para reduzir a poluição do meio ambiente:",
+        "imagem": null,
+        "respA": "a) Regular o carburador ou sistema de injeção eletrônica.",
+        "respB": "b) Manter em bom estado de funcionamento bobina, ignição eletrônica, distribuidor e vela.",
+        "respC": "c) Verificar e revisar qualquer ruído estranho no escapamento.",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A má conservação e regulagem inadequada dos veículos...",
+        "imagem": null,
+        "respA": "a) Contribuem para a poluição da água.",
+        "respB": "b) Contribuem para a poluição do solo, apenas.",
+        "respC": "c) Acarretam, única e exclusivamente, o desgaste do veículo.",
+        "respD": "d) Contribuem, principalmente, para a poluição do ar e a poluição sonora.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Nas grandes cidades, as principais fontes de poluição do ar são:",
+        "imagem": null,
+        "respA": "a) Os automóveis e as indústrias.",
+        "respB": "b) As queimadas.",
+        "respC": "c) A queima de carvão.",
+        "respD": "d) Os incineradores.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O uso de dispositivos de controle de emissão de gases conectado ao escapamento dos veículos tem como objetivo:",
+        "imagem": null,
+        "respA": "a) Diminuir o ruído do motor.",
+        "respB": "b) Economizar combustível.",
+        "respC": "c) Aumentar a potência do motor.",
+        "respD": "d) Diminuir a emissão de gases.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Cidadania é:",
+        "imagem": null,
+        "respA": "a) Conjunto de elementos naturais e da vida em todas as formas.",
+        "respB": "b) O desenvolvimento desequilibrado do cidadão.",
+        "respC": "c) Atuação incorreta na condução de veículo automotor.",
+        "respD": "d) Qualidade ou estado de cidadão.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O uso de dispositivos de controle de emissão de gases conectado ao escapamento dos veículos tem como objetivo:",
+        "imagem": null,
+        "respA": "a) Diminuir o ruído do motor.",
+        "respB": "b) Diminuir a emissão de gases.",
+        "respC": "c) Aumentar a potência do motor.",
+        "respD": "d) Economizar combustível.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Os elementos causadores da poluição são denominados de:",
+        "imagem": null,
+        "respA": "a) Catalisadores.",
+        "respB": "b) Poluentes.",
+        "respC": "c) Subprodutos.",
+        "respD": "d) Resíduos.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Qual a função do catalisador? ",
+        "imagem": null,
+        "respA": "a) Filtrar os gases poluentes à atmosfera.",
+        "respB": "b) Absorver os vapores do combustível.",
+        "respC": "c) Reduzir o consumo e a emissão de poluentes.",
+        "respD": "d) Controlar a velocidade de emissão de gases.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Indica que o veículo está produzindo níveis de poluição acima do permitido:",
+        "imagem": null,
+        "respA": "a) Escapamento com fuligem.",
+        "respB": "b) Cheiro de combustível no motor.",
+        "respC": "c) Consumo excessivo de combustível.",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "São fatores que contribuem para melhorar o meio ambiente:",
+        "imagem": null,
+        "respA": "a) Fazer manutenção periódica no veículo.",
+        "respB": "b) Reciclagem de materiais.",
+        "respC": "c) Redução de gazes poluentes através da colocação de filtros.",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O condutor para transportar um produto perigoso deve se submeter ao curso de treinamento denominado:",
+        "imagem": null,
+        "respA": "a) MOPE (Movimentação de Produtos Especiais).",
+        "respB": "b) DD (Direção Defensiva).",
+        "respC": "c) PS (Primeiros Socorros).",
+        "respD": "d) MA (Meio Ambiente).  ",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A poluição do ar causa problemas de saúde que resultam, principalmente em:",
+        "imagem": null,
+        "respA": "a) Doenças do aparelho digestivo.",
+        "respB": "b) Doenças respiratórias.",
+        "respC": "c) Alterações visuais.",
+        "respD": "d) Dores de cabeça.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta: Dos elementos abaixo citados, não contribui para a poluição do ar:",
+        "imagem": null,
+        "respA": "a) Fuligem.",
+        "respB": "b) Queimadas.",
+        "respC": "c) Monóxidos de carbono.",
+        "respD": "d) Vapor de água.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Entre outros efeito, a ingestão de álcool pode provocar no condutor:",
+        "imagem": null,
+        "respA": "a) Visão difusa e agilidade.",
+        "respB": "b) Melhor capacidade de raciocínio lógico.",
+        "respC": "c) Diminuição da capacidade de visualização.",
+        "respD": "d) Melhora da capacidade de raciocínio.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Não é matéria prima para produção de álcool no Brasil:",
+        "imagem": null,
+        "respA": "a) Batata doce.",
+        "respB": "b) Cana de açucar.",
+        "respC": "c) Vinhaça.",
+        "respD": "d) Milho.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Substâncias corrosivas são aquelas:",
+        "imagem": null,
+        "respA": "a) Que causam danos ambientais.",
+        "respB": "b) Que não apresentam riscos para os seres vivos.",
+        "respC": "c) Que não contêm microorganismos infecciosos.",
+        "respD": "d) Que não oferecem perigo em contato com a pele.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "São distúrbios provocados aos seres humanos causados pela exposição em excesso ao ruido: ",
+        "imagem": null,
+        "respA": "a) Deficiência auditiva.",
+        "respB": "b) Irritabilidade e agressividade.",
+        "respC": "c) Insônia, agitação e dispersão.",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Marque a alternativa incorreta: a emissão de gases poluentes...",
+        "imagem": null,
+        "respA": "a) Prejudica os reflexos.",
+        "respB": "b) Não agrava doenças cardiovasculares.",
+        "respC": "c) Diminui a capacidade de trabalho.",
+        "respD": "d) Degrada a qualidade de vida.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Qual é, atualmente, a maior fonte de poluição do ar?",
+        "imagem": null,
+        "respA": "a) As fábricas.",
+        "respB": "b) As usinas.",
+        "respC": "c) Veículos motorizados que consomem combustíveis. fósseis minerais e as indústrias.",
+        "respD": "d) Veículos de propulsão humana e tração animal.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Quais os principais gases tóxicos, exceto:",
+        "imagem": null,
+        "respA": "a) Aldeídos - dióxitos de enxofre.",
+        "respB": "b) Monóxido de carbono.",
+        "respC": "c) Hidrocarbonetos e óxidos de nitrogênio e enxofre.",
+        "respD": "d) Nitrogênio e oxigênio.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Analise os itens e marque o correto:",
+        "imagem": null,
+        "respA": "a) O álcool combustível polui menos o meio ambiente do que a gasolina.",
+        "respB": "b) O óleo diessel polui mais do que a gasolina.",
+        "respC": "c) O gás natural ainda pouco usado em nosso país, é o combustível que menos polui o meio ambiente.",
+        "respD": "d) Todas estão corretas.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O controle de emissão de gases e de ruídos previsto no CTB é:",
+        "imagem": null,
+        "respA": "a) Uma medida opcional.",
+        "respB": "b) Obrigatório a todo veículo automotor.",
+        "respC": "c) Uma medida não necessária.",
+        "respD": "d) Necessário para caminhões e ônibus, apenas.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Os veículos que utilizam gasolina ou diesel como combustíveis são fontes importantes de poluentes do ar. Deve-se, para garantir uma menor emissão destes poluentes...",
+        "imagem": null,
+        "respA": "a) Retirar o silenciador.",
+        "respB": "b) Usar gasolina comum.",
+        "respC": "c) Manter o radiador limpo.",
+        "respD": "d) Manter o motor bem regulado.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Substâncias radioativas são:",
+        "imagem": null,
+        "respA": "a) Substâncias ou combinação que liberam vapores venenosos.",
+        "respB": "b) Substâncias com radiação.",
+        "respC": "c) Substâncias ou combinação que liberam gás venenoso.",
+        "respD": "d) Substâncias que liberam oxigênio.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O Programa de Controle da Poluição do Ar por Veículos Automotores (PROCONVE) é o responsável pela especificação dos combustíveis comerciais em  uso no Brasil. Sabendo-se que a gasolina é um combustível de alto potencial poluidor, assim como o diesel, esse programa determinou a adição de álcool à gasolina para:",
+        "imagem": null,
+        "respA": "a) Aumentar o rendimento do combustível.",
+        "respB": "b) Economizar derivados de petróleo.",
+        "respC": "c) dar vazão à produção de álcool.",
+        "respD": "d) Diminuir a emissão de poluentes.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Quais são as classes de incêndio mais comuns?",
+        "imagem": null,
+        "respA": "a) Classe A: ocorre em materiais sólidos como plástico, tecido, borracha, madeira, etc.",
+        "respB": "b) Classe B: ocorre em líquidos inflamáveis como gasolina, óleo, álcool e querosene.",
+        "respC": "c) Classe C: inicia-se em equipamentos elétricos energizados como baterias e parte elétrica do carro.",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Os poluentes do ar especificados pelo CTB são:",
+        "imagem": null,
+        "respA": "a) Poeira.",
+        "respB": "b) Vapores.",
+        "respC": "c) Gases.",
+        "respD": "d) Fuligem.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Os gases expelidos pelos veículos automotores, que poluem o ar são:",
+        "imagem": null,
+        "respA": "a) Oxigênio, fumaça preta e óxido de enxofre.",
+        "respB": "b) Hidrocarbonetos, monóxido de carbono, óxido de nitrogênio.",
+        "respC": "c) H2O e oxigênio.",
+        "respD": "d) H2O e óxido de nitrogênio.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Os gases emitidos pelos veículos são perigosos para a saúde do homem porque podem:",
+        "imagem": null,
+        "respA": "a) Causar irritação nos olhos e garganta.",
+        "respB": "b) Agravar molestias respiratórias como asma e bronquite.",
+        "respC": "c) Provocar dores de cabeça e enjôo.",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Qual a idade que o condutor deve ter para transportar produtos perigosos?",
+        "imagem": null,
+        "respA": "a) 21 anos e curso MOPE.",
+        "respB": "b) 18 anos.",
+        "respC": "c) 20 anos.",
+        "respD": "d) 25 anos.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Para promover a interação social no trânsito, é necessário",
+        "imagem": null,
+        "respA": "a) Ajuda mútua a fim de evitar e/ou solucionar problemas no trânsito.",
+        "respB": "b) Não abrir mão, quando necessário, dos seus direitos para respeitar o direito alheio.",
+        "respC": "c) Acelerar o veículo nos cruzamentos.",
+        "respD": "d) Deixar de dar passagem aos veículos de urgência.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A queima incompleta de fuligem:",
+        "imagem": null,
+        "respA": "a) Deposita-se nas vias respiratórias.",
+        "respB": "b) Deposita-se nos pulmões.",
+        "respC": "c) Irrita as mucosas.",
+        "respD": "d) Todas as afirmativas estão corretas.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Para evitar a poluição sonora, devemos evitar:",
+        "imagem": null,
+        "respA": "a) Cantar durante o seu deslocamento pelas vias.",
+        "respB": "b) Escapamento aberto, buzinas estridentes, aparelho de som muito alto.",
+        "respC": "c) Ligar o rádio do carro enquanto dirige.",
+        "respD": "d) Falar em voz alta com os ocupantes do veículo.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Qual o curso devemos fazer para transportar produtos perigosos?",
+        "imagem": null,
+        "respA": "a) Reciclagem.",
+        "respB": "b) MOPE ou MOPP.",
+        "respC": "c) OPE.",
+        "respD": "d) Transporte de cargas.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Absorve os vapores da gasolina:",
+        "imagem": null,
+        "respA": "a) Injeção eletrênica.",
+        "respB": "b) Cânister.",
+        "respC": "c) Catalisador.",
+        "respD": "d) Todas as afirmativas acima.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O que é cidadania?",
+        "imagem": null,
+        "respA": "a) É o direito à proteção, crescimento, ser reconhecido e tratado com dignidade sem proconceitos, com direitos políticos civís e justiça.",
+        "respB": "b) São as leis de quem mora na cidade.",
+        "respC": "c) É o direito de falar o que quizer.",
+        "respD": "d) É aquele cidadão que prestou serviço militar.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta:",
+        "imagem": null,
+        "respA": "a) A evaporação do combustível ocorre com o veículo parado ou em movimento.",
+        "respB": "b) O atrito dos pneus com o solo é outra fonte de poluição do ar.",
+        "respC": "c) As montadoras vem equipando os veículos com controle de emissão de poluentes.",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "No grupo social, o  cidadão deve:",
+        "imagem": null,
+        "respA": "a) Seguir a escolha de todos.",
+        "respB": "b) Atuar sempre de forma individual.",
+        "respC": "c) Aceitar pressões e cobranças.",
+        "respD": "d) Adotar as características positivas que adquire no dia-a-dia.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "É equipamento obrigatório que tem a função de reduzir a emissão de monóxido de carbono:",
+        "imagem": null,
+        "respA": "a) Velocímetro.",
+        "respB": "b) Motor.",
+        "respC": "c) Extintor de incêndio.",
+        "respD": "d) Catalisador.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Indica problemas na queima de combustível:",
+        "imagem": null,
+        "respA": "a) Queima incompleta do óleo do motor.",
+        "respB": "b) Emissão de fumaça pelo escapamento.",
+        "respC": "c) Gases e partículas na atmosfera.",
+        "respD": "d) Regulagem eletrônica do veículo.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Quais os direitos do cidadão?",
+        "imagem": null,
+        "respA": "a) Proteção; crescimento; reconhecimento; tratamento com dignidade; justiça e oportunidades iguais.",
+        "respB": "b) Proteção apenas.",
+        "respC": "c) O cidadão não tem direito algum.",
+        "respD": "d) Nenhuma das alternativas estão corretas.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Os veículos que apresentam maior potencial de poluição do ar são aqueles...",
+        "imagem": null,
+        "respA": "a) Que utilizam como combustíveis a gasolina e o diesel.",
+        "respB": "b) Que utilizam o sistema elétrico.",
+        "respC": "c) Movidos a propulsão humana.",
+        "respD": "d) Movidos a tração animal.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Dos fenômenos abaixo, o principal causador da corrosão em um veículo é:",
+        "imagem": null,
+        "respA": "a) A neve.",
+        "respB": "b) A geada.",
+        "respC": "c) O efeito estufa.",
+        "respD": "d) A chuva ácida.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "A emissão de fumaça preta por veículos movidos a óleo diesel é um dos principais problemas ambientais nas áreas urbanas porque esse poluente:",
+        "imagem": null,
+        "respA": "a) Contém minúsculas partículas inaláveis de fuligem envolvidas por óleo altamente tóxico e pode causar doenças respiratórias.",
+        "respB": "b) Contém gotículas de óleo que se depositam sobre a pele causando micose.",
+        "respC": "c) Provoca alteração das funções motoras e causa problemas cardiovasculares.",
+        "respD": "d) Provoca ataques cardíacos por seu elevado conteúdo em monóxido de carbono.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "As inspeções de emissões de gases melhoram as condições de vida porque...",
+        "imagem": null,
+        "respA": "a) Contribuem para o consumo excessivo de combustível e lubrificante.",
+        "respB": "b) Reduzem a emissão de gases poluentes na atmosfera.",
+        "respC": "c) Contribuem para a segurança dos veículos.",
+        "respD": "d) Diminuem o desgaste do motor.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta:",
+        "imagem": null,
+        "respA": "a) O ozônio funciona como um filtro solar, protegendo a vida.",
+        "respB": "b) O ozônio é um gás que reage com os gases oriundos dos \"sprays\".",
+        "respC": "c) A destruição da camada de ozônio pode provocar câncer de pele.",
+        "respD": "d) O ozônio é um gás sem utilidade para o meio ambiente.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "É correto afirmar que:",
+        "imagem": null,
+        "respA": "a) Os processos industriais são todos controlados e não poluem.",
+        "respB": "b) O monóxido de carbono, resultante da combustão da gasolina nos véiculos automotores poluem a atmosfera, principalmente nas regiões urbanas.",
+        "respC": "c) A fuligem não é tóxica.",
+        "respD": "d) Os resíduos e detritos industriais não desequilibram o meio ambiente.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O uso do dispositivo de controle de emissão de gases (catalisador) conectado ao escapamento dos veículos tem como objetivo:",
+        "imagem": null,
+        "respA": "a) Diminuir a emissão de gases.",
+        "respB": "b) Economizar combustível.",
+        "respC": "c) Aumentar a potência do motor.",
+        "respD": "d) Diminuir o ruido do motor.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "É incorreto afirmar que esta medida diminui a poluição causada pelos veículos automotores:",
+        "imagem": null,
+        "respA": "a) Manutenção adequada do motor.",
+        "respB": "b) Uso de catalisador.",
+        "respC": "c) Inspeção periódica nos carboradores, platinados, etc.",
+        "respD": "d) A constante alteração das especificações dos combustíveis, principalmente da gasolina.",
+        "correta": "D",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Dois ciclistas descuidados colidiram em uma avenida movimentada. Machucados, os dois foram levados ao hospital. Qual dos dois tem direito a indenização do Seguro Obrigatório DPVAT?",
+        "imagem": null,
+        "respA": "a) Nenhum dos dois, já que foram culpados pelo acidente.",
+        "respB": "b) Os dois, porque a avenida que trafegam era movimentada.",
+        "respC": "c) Nenhum dois dois, pois bicicleta não é veículo automotor.",
+        "respD": "d) Os dois ciclistas têm direito à indenização.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Dos elementos abaixo, jogados pelo condutor em via pública, qual deles demora mais tempo para se decompor?",
+        "imagem": null,
+        "respA": "a) Plástico.",
+        "respB": "b) Papel.",
+        "respC": "c) Papelão.",
+        "respD": "d) Fumo de cigarro.",
+        "correta": "A",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta: os atuais veículos que são equipados com motores a combustão, são agentes poluidores do meio ambiente porque:",
+        "imagem": null,
+        "respA": "a) Consomem oxigênio do ar, indisponível para que haja combustão.",
+        "respB": "b) Emitem gases nocivos e partículas sólidas.",
+        "respC": "c) Provocam enchentes e erosão nas rodovias.",
+        "respD": "d) Consomem combustíveis, geralmente derivados de petróleo, de onde provem a energia necessária ao seu funcionamento.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O efeito estufa consiste...",
+        "imagem": null,
+        "respA": "a) No superaquecimento das camadas centrais da atmosfera devido a uma maior absorção da radiação infravermelha.",
+        "respB": "b) No congelamento das camadas superiores da atmosfera.",
+        "respC": "c) Na elevação da temperatura média do planeta Terra.",
+        "respD": "d) No superaquecimento das camadas superiores da atmosfera, devido a uma absorção da radiação infravermelha.",
+        "correta": "C",
+        "modulo" : "meio_ambiente"
+    },
+    {
+        "pergunta": "O excesso de anúncios afixados em pontos estratégicos é uma poluição:",
+        "imagem": null,
+        "respA": "a) Dispersiva.",
+        "respB": "b) Visual.",
+        "respC": "c) Provocativa.",
+        "respD": "d) Deficiente.",
+        "correta": "B",
+        "modulo" : "meio_ambiente"
+    }
+]

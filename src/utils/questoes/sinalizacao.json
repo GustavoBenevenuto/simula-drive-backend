@@ -1,0 +1,3152 @@
+[
+    {
+        "pergunta": "\"Evite danos a sinalização\", é mensagem encontrada em uma placa de:",
+        "imagem": null,
+        "respA": "a) Advertência.",
+        "respB": "b) Serviços auxiliares.",
+        "respC": "c) Regulamentação.",
+        "respD": "d) Educativa.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A marcação da área de conflito, identificado na cartela pelo código MT-07 significa que o condutor:",
+        "imagem": "mt-07_1339615013.jpg",
+        "respA": "a) Não pode circular com seu veículo, pois é área exclusiva de pedestre.",
+        "respB": "b) Não deve parar e estacionar o veículo.",
+        "respC": "c) Pode estacionar sua motocicleta.",
+        "respD": "d) Deve parar e estacionar o veículo.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização semafórica, ilustrada na imagem, significa:",
+        "imagem": "2e1e3f751523457325.png",
+        "respA": "a) Direção controlada.",
+        "respB": "b) Controle ou faixa reversível.",
+        "respC": "c) Direção livre.",
+        "respD": "d) Sentido obrigatório.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de n° R-2 regulamenta:",
+        "imagem": "r-2_1282393365.jpg",
+        "respA": "a) Alfândega.",
+        "respB": "b) Parada Obrigatória.",
+        "respC": "c) Dê a preferência.",
+        "respD": "d) Parada Obrigatória à frente.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-14 adverte que você vai encontrar:",
+        "imagem": "placa05.jpg",
+        "respA": "a) Um estreitamento de pista.",
+        "respB": "b) Um canteiro de obras à  frente.",
+        "respC": "c) Um cruzamento.",
+        "respD": "d) Um semáforo à  frente.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa (R-29) você entende que é:",
+        "imagem": "placa06.jpg",
+        "respA": "a) Proibido o trânsito de pedestres.",
+        "respB": "b) Proibido realizar a operação de ultrapassagem.",
+        "respC": "c) Proibido mudar de faixa de rolamento.",
+        "respD": "d) Uma área para travessia de pedestres.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas que indicam o sentido de circulação da via, na qual o condutor pretende entrar ou cruzar, são placas:",
+        "imagem": null,
+        "respA": "a) Educativas.",
+        "respB": "b) De serviços auxiliares.",
+        "respC": "c) De regulamentação.",
+        "respD": "d) De advertência.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Indique o nome correto do sinal SAU-06:",
+        "imagem": "s-2_1339615910.jpg",
+        "respA": "a) Posto telefônico.",
+        "respB": "b) Serviço telefônico.",
+        "respC": "c) Telefone público.",
+        "respD": "d) Posto de abastecimento com telefone.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Indique o nome correto do placa R-20:",
+        "imagem": "placa08.jpg",
+        "respA": "a) Proibido acionar buzina.",
+        "respB": "b) Proibido buzinar.",
+        "respC": "c) Proibido sinalização sonora.",
+        "respD": "d) Proibido acionar buzina ou sinal sonoro.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-13 regulamenta que neste trecho da via é:",
+        "imagem": "placa09.jpg",
+        "respA": "a) Proibido trânsito de tratores e máquinas de obras.",
+        "respB": "b) Proibido trânsito de tratores.",
+        "respC": "c) Proibido trânsito de carro de mão.",
+        "respD": "d) Proibido equipamentos agrícolas.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Indique o nome correto da placa A-17:",
+        "imagem": "placa10.jpg",
+        "respA": "a) Pista com irregularidades.",
+        "respB": "b) Pista com ondulações.",
+        "respC": "c) Pista irregular.",
+        "respD": "d) Pista com areia.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Indique o nome correto da placa A-28:",
+        "imagem": "placa11.jpg",
+        "respA": "a) Pista com óleo.",
+        "respB": "b) Pista sinuosa.",
+        "respC": "c) Pista deslizante.",
+        "respD": "d) Pista escorregadia.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Indique o nome correto da placa R-21:",
+        "imagem": "placa13.jpg",
+        "respA": "a) Barreira.",
+        "respB": "b) Alfândega.",
+        "respC": "c) Fiscalização.",
+        "respD": "d) Balança.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Indique o nome correto da placa R-26:",
+        "imagem": "placa14.jpg",
+        "respA": "a) Siga em frente.",
+        "respB": "b) Sentido único.",
+        "respC": "c) Siga reto.",
+        "respD": "d) Mão única.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de Regulamentação R-9 significa:",
+        "imagem": "placa15.jpg",
+        "respA": "a) Proibido trânsito de veículos pesados.",
+        "respB": "b) Proibido trânsito de veículos de carga.",
+        "respC": "c) Proibido caminhões.",
+        "respD": "d) Proibido trânsito de caminhões.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-29 não se aplica à via onde haja:",
+        "imagem": "placa16.jpg",
+        "respA": "a) Projeção de brita e areia.",
+        "respB": "b) Projeção de terra.",
+        "respC": "c) Projeção de asfalto.",
+        "respD": "d) Projeção de cascalho.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de Advertência A-44 significa:",
+        "imagem": "placa17.jpg",
+        "respA": "a) Vento e tempestade.",
+        "respB": "b) Pista litorânea.",
+        "respC": "c) Vento lateral.",
+        "respD": "d) Cuidado: vento forte.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de Regulamentação R-11 significa:",
+        "imagem": "placa18.jpg",
+        "respA": "a) Proibido trânsito de veículos de tração animal.",
+        "respB": "b) Proibido trânsito de carroça.",
+        "respC": "c) Proibido trânsito de animais.",
+        "respD": "d) Proibido animais de tração.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de Regulamentação R-22 significa:",
+        "imagem": "placa19.jpg",
+        "respA": "a) Uso obrigatório de pneus e correntes.",
+        "respB": "b) Uso obrigatório de corrente.",
+        "respC": "c) Uso permitido de corrente.",
+        "respD": "d) Uso obrigatório de pneus acorrentados.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de Regulamentação R-12 significa:",
+        "imagem": "placa20.jpg",
+        "respA": "a) Proibido trânsito de monociclos.",
+        "respB": "b) Proibido uso de bicicletas.",
+        "respC": "c) Proibido bicicletas e monociclos.",
+        "respD": "d) Proibido trânsito de bicicletas.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A Placa de Regulamentação R-19 significa:",
+        "imagem": "placa21.jpg",
+        "respA": "a) Velocidade permitida na via.",
+        "respB": "b) Velocidade mínima permitida.",
+        "respC": "c) Velocidade máxima permitida.",
+        "respD": "d) Velocidade regulamentada.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A Placa de Regulamentação R-24b significa:",
+        "imagem": "placa22.jpg",
+        "respA": "a) Passagem obrigatória.",
+        "respB": "b) Sentido em ângulo.",
+        "respC": "c) Passagem permitida.",
+        "respD": "d) Sentido invertido.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A Placa de Regulamentação R-23 significa:",
+        "imagem": "placa23.jpg",
+        "respA": "a) Ultrapasse pela direita.",
+        "respB": "b) Conserve-se à direita.",
+        "respC": "c) Mantenha-se à direita.",
+        "respD": "d) Veículos à  direita.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A Placa de Regulamentação R-6A significa:",
+        "imagem": "placa24.jpg",
+        "respA": "a) Proibido estacionar.",
+        "respB": "b) Proibido parar e estacionar.",
+        "respC": "c) Estacionamento proibido.",
+        "respD": "d) Proibido parar.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de Regulamentação R-16 significa:",
+        "imagem": "placa25.jpg",
+        "respA": "a) Largura permitida por eixo.",
+        "respB": "b) Largura regulamentada.",
+        "respC": "c) Largura máxima por eixo.",
+        "respD": "d) Largura máxima permitida.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de Advertência A-16 significa:",
+        "imagem": "placa26.jpg",
+        "respA": "a) Trem.",
+        "respB": "b) Bonde.",
+        "respC": "c) Trilhos.",
+        "respD": "d) Veículo elétrico.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A Placa de Advertência A-20A significa:",
+        "imagem": "placa27.jpg",
+        "respA": "a) Declive acentuado.",
+        "respB": "b) Aclive acentuado.",
+        "respC": "c) Descida íngreme.",
+        "respD": "d) Via com declive.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A faixa da travessia de pedestre é um tipo de marca denominada:",
+        "imagem": null,
+        "respA": "a) Controle de estacionamento e/ou parada.",
+        "respB": "b) Transversal.",
+        "respC": "c) Longitudinal.",
+        "respD": "d) Canalização.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Um silvo breve significa:",
+        "imagem": null,
+        "respA": "a) Atenção, Siga.",
+        "respB": "b) Atenção, Pare.",
+        "respC": "c) Reduza a velocidade.",
+        "respD": "d) Acelere.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O dispositivo de reflexão e refração da luz, utilizado na sinalização de vias e veículos (olhos-de-gato), denomina-se:",
+        "imagem": null,
+        "respA": "a) Catadióptrico.",
+        "respB": "b) Registro de velocidade e tempo.",
+        "respC": "c) Indicadores luminosos de mudança de direção.",
+        "respD": "d) Dispositivo para controle de ruído do motor.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Com exceção das placas\"Cruz de Santo André\", \"Sentido único\" e \"Sentido duplo\", as demais placas que têm formato quadrado, fundo na cor amarela e símbolo preto, são placas de:",
+        "imagem": null,
+        "respA": "a) Advertência.",
+        "respB": "b) Indicação.",
+        "respC": "c) Regulamentação.",
+        "respD": "d) Sentido obrigatório.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-1 adverte:",
+        "imagem": "placa_r1_1298295493.png",
+        "respA": "a) Parada Obrigatória.",
+        "respB": "b) Parada obrigatória à frente.",
+        "respC": "c) Parar antes de engatar a primeira marcha.",
+        "respD": "d) Nenhuma das alternativas.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-28 significa:",
+        "imagem": "button_r-28_1283861844.png",
+        "respA": "a) Mão dupla adiante.",
+        "respB": "b) Mão inglesa.",
+        "respC": "c) Início de pista dupla.",
+        "respD": "d) Duplo sentido de circulação.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas que advertem sobre a ocorrência de condições eventualmente perigosas na via são:",
+        "imagem": null,
+        "respA": "a) Mão dupla e início de pista dupla.",
+        "respB": "b) Proibido retornar e proibido virar.",
+        "respC": "c) Área com desmoronamento e vento lateral.",
+        "respD": "d) Serviço médico e serviço mecânico.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O condutor com braço para fora estendido horizontalmente, fazendo movimentos para cima e para baixo indica:",
+        "imagem": "circulacao_simu_1321229848.png",
+        "respA": "a) Que pode passar.",
+        "respB": "b) Cumprimentando o colega ao lado.",
+        "respC": "c) Espantando uma mosca que insiste em entrar pelo vidro.",
+        "respD": "d) Diminuir a marcha ou parar.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique o código representado na cartela cuja sinalização semafórica é destinada exclusivamente ao pedestre, permitindo-lhe a passagem:",
+        "imagem": "f8b391931523541438.png",
+        "respA": "a) SS-06.",
+        "respB": "b) SS-08.",
+        "respC": "c) SS-02.",
+        "respD": "d) SS-07.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de n° R-1 regulamenta:",
+        "imagem": "393629331522179484.jpg",
+        "respA": "a) Semáforo à  frente.",
+        "respB": "b) Parada  obrigatória à frente.",
+        "respC": "c) Dê a preferência.",
+        "respD": "d) Parada Obrigatória.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa A-10-A você entende que existe um entroncamento:",
+        "imagem": "button_a-10a_1284127670.png",
+        "respA": "a) Obliquo à esquerda, com difícil identificação à distância.",
+        "respB": "b) Que possibilita a passagem de seu veículo.",
+        "respC": "c) Oblíquo, com pista dividida.",
+        "respD": "d) À esquerda, seguido de obstáculo.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa A-10b, você entende que existe um entroncamento oblíquo:",
+        "imagem": "a-10b_1282660193.jpg",
+        "respA": "a) À direita, seguido de pista sinuosa.",
+        "respB": "b) À esquerda, com sinalização.",
+        "respC": "c) À direita, de difícil identificação à distância.",
+        "respD": "d) Com curva acentuada à direita.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa R-5b, você entende que é proibido:",
+        "imagem": "button_r-5b_1283539375.png",
+        "respA": "a) Dar meia volta.",
+        "respB": "b) Entrar no estacionamento.",
+        "respC": "c) Realizar retorno à esquerda.",
+        "respD": "d) Realizar retorno à direita.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A ordem do agente de trânsito representada pelo braço estendido verticalmente com a palma da mão para frente, é:",
+        "imagem": "circulacao_simu_1321135053.png",
+        "respA": "a) Ordem de seguir.",
+        "respB": "b) Ordem da diminuição da velocidade.",
+        "respC": "c) Ordem de parada para todos os veículos.",
+        "respD": "d) Ordem de parada para os veículos aos quais a luz é dirigida.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "De acordo com os sinais sonoros, abaixo relacionados, marque a resposta que corresponda a determinação do agente em mandar seguir o veículo:",
+        "imagem": null,
+        "respA": "a) Três silvos breves.",
+        "respB": "b) Um silvo longo.",
+        "respC": "c) Dois silvos breves.",
+        "respD": "d) Um silvo breve.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As linhas brancas transversais, identificadas na imagem, significam:",
+        "imagem": "2f5548b71583240671.png",
+        "respA": "a) Linhas de retenção.",
+        "respB": "b) Linhas de dê a preferência.",
+        "respC": "c) Linhas de estímulo à redução de velocidade.",
+        "respD": "d) Linhas de divisão de fluxo.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de N° A-35 adverte o condutor do veículo da existência adiante de:",
+        "imagem": "button_a-35_1283539502.png",
+        "respA": "a) Maquinário agrícola.",
+        "respB": "b) Trecho de via ao longo no qual o condutor poderá deparar-se com animais.",
+        "respC": "c) Área onde é proibido o trânsito de animais.",
+        "respD": "d) Área onde é proibido o trânsito de veículos de tração animal.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O sinal semafórico ilustrado significa:",
+        "imagem": "5fbe6dec1568982811.png",
+        "respA": "a) Direção livre.",
+        "respB": "b) Direção controlada.",
+        "respC": "c) Controle ou faixa reversível.",
+        "respD": "d) Sentido obrigatório para todos os veículos.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Indica local para embarque e desembarque de veículos coletivos ou individual de passageiros:",
+        "imagem": "button_s-14_1284060502.png",
+        "respA": "a) SAU-09.",
+        "respB": "b) SAU-26.",
+        "respC": "c) SAU-08.",
+        "respD": "d) SAU-24.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-7b atenta ao condutor para a existência à frente de:",
+        "imagem": "a-7b_1282675982.jpg",
+        "respA": "a) Bifurcação em \"T\".",
+        "respB": "b) Permitido virar à direita.",
+        "respC": "c) Via lateral à direita.",
+        "respD": "d) Entroncamento à direita.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-28 regulamenta:",
+        "imagem": "r-28_1282676139.jpg",
+        "respA": "a) Duplo sentido de circulação.",
+        "respB": "b) Pista dupla à frente.",
+        "respC": "c) Pista dupla.",
+        "respD": "d) Permitido virar à esquerda e à direita.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-1a significa:",
+        "imagem": "a-1a_1282676917.jpg",
+        "respA": "a) Curva perigosa.",
+        "respB": "b) Curva acentuada à esquerda.",
+        "respC": "c) Curva sinuosa à esquerda.",
+        "respD": "d) Curva à esquerda.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-42b adverte:",
+        "imagem": "a-41b_1292008432.jpg",
+        "respA": "a) Desdobramento de vias.",
+        "respB": "b) Obstáculo à frente na via.",
+        "respC": "c) Fim de pista dupla.",
+        "respD": "d) Marcadores de alinhamento",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A  placa R-23 regulamenta:",
+        "imagem": "r-23_1282745865.jpg",
+        "respA": "a) Automóveis à direita.",
+        "respB": "b) Vire à direita.",
+        "respC": "c) Conserve-se à direita.",
+        "respD": "d) Sentido de circulação da via.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Qual o significado correto da placa R-25a?",
+        "imagem": "r-25a_1282746059.jpg",
+        "respA": "a) Vire à esquerda.",
+        "respB": "b) Via lateral à esquerda.",
+        "respC": "c) Curva à direita.",
+        "respD": "d) Curva à esquerda.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de N°A-12 adverte:",
+        "imagem": "a-12_1282826722.jpg",
+        "respA": "a) Sentido circular obrigatório.",
+        "respB": "b) Interseção em circulo.",
+        "respC": "c) Proibido retornar.",
+        "respD": "d) Passagem de nível sem barreira.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa R-4a, você entende que é proibido:",
+        "imagem": "r-4a_1282826912.jpg",
+        "respA": "a) Seguir em frente ou entrar na rua ou área restringida.",
+        "respB": "b) Realizar conversão à direita.",
+        "respC": "c) Realizar conversão à esquerda.",
+        "respD": "d) Dar meia volta ou retornar.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa A-8, você entende que a mensagem é:",
+        "imagem": "a-8_1282827076.jpg",
+        "respA": "a) Com entroncamento oblíquo à esquerda.",
+        "respB": "b) Semáforo à frente.",
+        "respC": "c) Interseção em T.",
+        "respD": "d) Passagem de escolares.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Em uma pista de rolamento com várias faixas de trânsito no mesmo sentido, as faixas da esquerda devem ser usadas para:",
+        "imagem": null,
+        "respA": "a) Circulação dos veículos de carga.",
+        "respB": "b) Ultrapassagens para os veículos em maior velocidade.",
+        "respC": "c) Circulação dos veículos lentos e pesados.",
+        "respD": "d) Circulação dos veículos de passageiros.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa SAU-18, você entende que:",
+        "imagem": "s-1_1339614801.jpg",
+        "respA": "a) Cobrança tarifária.",
+        "respB": "b) Existe um posto de socorro médico junto ou próximo à via.",
+        "respC": "c) Existe um ponto de pedágio na via.",
+        "respD": "d) Encontrará um posto para abastecer seu veículo à distância indicada na placa.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa SAU-07, você entende que é uma área com:",
+        "imagem": "button_s-3_1284121569.png",
+        "respA": "a) Posto de socorro médico, junto ou próximo à via.",
+        "respB": "b) Loja de ferramentas.",
+        "respC": "c) Sanitários.",
+        "respD": "d) Serviço mecânico.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa (R-2), você entende que deve:",
+        "imagem": "r-2_1282849873.jpg",
+        "respA": "a) Circular no sentido indicado, neste caso, indo para o lado direito.",
+        "respB": "b) Reduzir a velocidade ou, se necessário, parar seu veículo, dando preferência aos veículos que circulam pela via preferencial.",
+        "respC": "c) Parar seu veículo e olhar bem o trânsito antes de entrar ou cruzar a via.",
+        "respD": "d) Manter a velocidade igual ou abaixo da velocidade indicada na placa.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de N°R-6b assinala que:",
+        "imagem": "r-6b_1282850877.jpg",
+        "respA": "a) Naquele local, o estacionamento é regulamentado.",
+        "respB": "b) Naquele local, a carga e descarga são permitidas.",
+        "respC": "c) Naquele local, só poderá haver parada de veículos para embarque ou desembarque de passageiros.",
+        "respD": "d) É proibido aos veículos parar naquele local.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa TIT-09 indica:",
+        "imagem": "titi-08_1283793769.jpg",
+        "respA": "a) Feira típica.",
+        "respB": "b) Exposição agropecuária.",
+        "respC": "c) Rodeio.",
+        "respD": "d) Pavilhão de feiras e exposições.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As marcas longitudinais que permitem a ultrapassagem para os dois sentidos, estão identificados na cartela pelos códigos:",
+        "imagem": null,
+        "respA": "a) ML-04 e ML-01.",
+        "respB": "b) ML-02 e ML-03.",
+        "respC": "c) ML-02 e ML-08.",
+        "respD": "d) ML-04 e ML-02.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de nº TIT-02 indica:",
+        "imagem": "tit-02_1339719848.jpg",
+        "respA": "a) Festas populares.",
+        "respB": "b) Rodeio.",
+        "respC": "c) Teatro.",
+        "respD": "d) Convenções.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-20a adverte o condutor do veículo da existência adiante de:",
+        "imagem": "a-20a_1282919352.jpg",
+        "respA": "a) Uma área com desmoronamento.",
+        "respB": "b) Uma curva acentuada.",
+        "respC": "c) Uma pista escorregadia.",
+        "respD": "d) Um declive acentuado.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de A-26B adverte que a via possui:",
+        "imagem": "button_a-26b_1284058740.png",
+        "respA": "a) Sentido duplo.",
+        "respB": "b) Sentido obrigatório.",
+        "respC": "c) Sentido único.",
+        "respD": "d) Nenhuma das respostas acima.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-20a adverte que adiante existe uma descida:",
+        "imagem": "a-20a_1282939464.jpg",
+        "respA": "a) Com desvio à direita.",
+        "respB": "b)  Pista acentuada.",
+        "respC": "c) Com bifurcação em T.",
+        "respD": "d) Com pista escorregadia.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de TIT-10 indica:",
+        "imagem": "button_tit-09_1283977056.png",
+        "respA": "a) Festas populares.",
+        "respB": "b) Rodeio.",
+        "respC": "c) Teatro.",
+        "respD": "d) Convenções.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Quando o condutor de veículo coloca o braço esquerdo para fora do veículo, horizontalmente e o antebraço e a mão para cima na vertical, indica que vai:",
+        "imagem": "circulacao_simu_1321135354.png",
+        "respA": "a) Parar o seu veículo.",
+        "respB": "b) Dobrar à direita.",
+        "respC": "c) Dobrar à esquerda.",
+        "respD": "d) Diminuir a velocidade.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização pode ser feita através de placas, marcas, símbolos, legendas e indicações luminosas. Qual tipo de sinalização de trânsito pode ser considerada como um subsistema da sinalização viárias?",
+        "imagem": null,
+        "respA": "a) Vertical.",
+        "respB": "b) Horizontal.",
+        "respC": "c) Semafórica.",
+        "respD": "d) Todas estão corretas.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização vertical de trânsito, utiliza qual meio para estabelecer o processo de comunicação?",
+        "imagem": null,
+        "respA": "a) Marcas.",
+        "respB": "b) Gestos.",
+        "respC": "c) Placas.",
+        "respD": "d) Sons.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização de regulamentação possui mensagens imperativas, cujo desrespeito constitui infração de trânsito. Assinale a placa que regulamenta a proibição de acesso em vias ou áreas determinadas:",
+        "imagem": null,
+        "respA": "a) R-3.",
+        "respB": "b) R-4a.",
+        "respC": "c) R-4b.",
+        "respD": "d) R-5b.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa SAU-01 significa área de:",
+        "imagem": "circulacao_simu_1321230398.png",
+        "respA": "a) Parada.",
+        "respB": "b) Estacionamento.",
+        "respC": "c) Estacionamento à direita.",
+        "respD": "d) Estacionamento e parada.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa \"crianças\", adverte que você deve seguir em frente:",
+        "imagem": null,
+        "respA": "a) Ignorando-a.",
+        "respB": "b) Dando sinal de luz.",
+        "respC": "c) Buzinando.",
+        "respD": "d) Redobrando a atenção e diminuindo a velocidade.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As marcas separadoras de faixas de trânsito que permitem ao condutor ultrapassar outro veículo em movimento são:",
+        "imagem": null,
+        "respA": "a) Amarelas, contínuas.",
+        "respB": "b) Brancas, contínuas.",
+        "respC": "c) Contínuas.",
+        "respD": "d) Seccionadas.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A marca longitudinal vermelha delimita o espaço destinado ao deslocamento de bicicletas. É um tipo de sinalização:",
+        "imagem": null,
+        "respA": "a) Vertical.",
+        "respB": "b) Horizontal.",
+        "respC": "c) De regulamentação.",
+        "respD": "d) De advertência.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas que têm o formato quadrado, fundo na cor amarela e símbolo preto, servem para:",
+        "imagem": null,
+        "respA": "a) Regulamentar a via.",
+        "respB": "b) Ordenar o fluxo da via que o veículo está circulando.",
+        "respC": "c) A indicação ao longo da via.",
+        "respD": "d) Alertar para os perigos existentes na via e sua natureza.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique corretamente a placa A-25:",
+        "imagem": "a-25_1321134214.jpg",
+        "respA": "a) Mão dupla à frente",
+        "respB": "b) Inicio de mão dupla.",
+        "respC": "c) Mão dupla adiante.",
+        "respD": "d) Sentido duplo adiante.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Quando necessário ordenar que os veículos diminuam a marcha, o agente usará qual dos sinais sonoros abaixo?",
+        "imagem": null,
+        "respA": "a) Um silvo breve.",
+        "respB": "b) Dois silvos breves.",
+        "respC": "c) Um silvo longo.",
+        "respD": "d) Três silvos breves.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de advertência que avisa ao condutor de veículo da existência, adiante, de alteração do sentido único da via para sentido duplo de trânsito é:",
+        "imagem": "a-25_1321123488.jpg",
+        "respA": "a) Bifurcação em T.",
+        "respB": "b) Dê preferência.",
+        "respC": "c) Fim de pista dupla.",
+        "respD": "d) Mão dupla adiante.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa \"Parada Obrigatória\" determina que o condutor deverá:",
+        "imagem": "r-1_1281035563.jpg",
+        "respA": "a) Imobilizar o veículo na iminência de transpor o cruzamento, dando preferência de passagem aos demais veículos.",
+        "respB": "b) Diminuir a velocidade e observar, antes de transpor o cruzamento.",
+        "respC": "c) Reduzir a marcha do veículo, passando no cruzamento devagar e com atenção.",
+        "respD": "d) Obrigatoriamente, seguir em frente, observando com atenção o cruzamento.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-7a adverte o condutor da existência adiante de:",
+        "imagem": "a-7a_1281036307.jpg",
+        "respA": "a) Um sentido obrigatório à esquerda.",
+        "respB": "b) Uma bifurcação no mesmo nível.",
+        "respC": "c) Uma possível curva acentuada à esquerda.",
+        "respD": "d) Uma via lateral à esquerda.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-6A assinala que:",
+        "imagem": "r-6a_1281036436.jpg",
+        "respA": "a) Poderá ocorrer a parada de veículos com finalidade de embarque e desembarque de passageiros.",
+        "respB": "b) É proibido parar no local.",
+        "respC": "c) Naquele local, o estacionamento é regulamentado somente  para veículos de propulsão humana.",
+        "respD": "d) Naquele local, a carga e descarga é permitida.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de R-25b regulamenta:",
+        "imagem": "r-25b_1281036876.jpg",
+        "respA": "a) Vire à esquerda.",
+        "respB": "b) Vire à direita.",
+        "respC": "c) Curva acentuada à direita.",
+        "respD": "d) Curva à direita.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de A-13B adverte:",
+        "imagem": "a-13b_1281037210.jpg",
+        "respA": "a) Confluência à esquerda.",
+        "respB": "b) Confluência à direita.",
+        "respC": "c) Entroncamento oblíquo à esquerda.",
+        "respD": "d) Entroncamento oblíquo à direita.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R 36-B regulamenta:",
+        "imagem": "r-36b_1281037384.jpg",
+        "respA": "a) Pedestres à esquerda , ciclistas à direita.",
+        "respB": "b) Pedestres à direita, ciclistas à esquerda.",
+        "respC": "c) Circulação exclusiva de pedestre.",
+        "respD": "d) Circulação exclusiva de ciclistas.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de R-04b regulamenta:",
+        "imagem": "r-4b_1281037643.jpg",
+        "respA": "a) Proibido virar à esquerda.",
+        "respB": "b) Proibido seguir em frente.",
+        "respC": "c) Curva acentuada à direita.",
+        "respD": "d) Proibido virar à direita.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-33B adverte o condutor do veículo da existência adiante de :",
+        "imagem": "a-33b_1339615132.jpg",
+        "respA": "a) Uma passagem sinalizada de escolares.",
+        "respB": "b) Travessia de animais.",
+        "respC": "c) Proibido passagem de pedestres.",
+        "respD": "d) Passagem obrigatória para veículos escolares.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de A-8 adverte:",
+        "imagem": "a-8_1281038551.jpg",
+        "respA": "a) Interseção em 'T'.",
+        "respB": "b) Via lateral à esquerda.",
+        "respC": "c) Entroncamento à esquerda.",
+        "respD": "d) Bifurcação em 'Y'.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-4a regulamenta:",
+        "imagem": "r-4a_1281038698.jpg",
+        "respA": "a) Sentido proibido.",
+        "respB": "b) Curva acentuada à esquerda.",
+        "respC": "c) Proibido virar à esquerda.",
+        "respD": "d) Proibido virar à direita.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-7b adverte:",
+        "imagem": "a-7b_1281038898.jpg",
+        "respA": "a) Bifurcação em 'Y'.",
+        "respB": "b) Via lateral à direita.",
+        "respC": "c) Bifurcação em 'T'.",
+        "respD": "d) Via lateral à esquerda.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-24-B regulamenta:",
+        "imagem": "r-24b_1281039023.jpg",
+        "respA": "a) Siga em frente.",
+        "respB": "b) Passagem obrigatória.",
+        "respC": "c) Sentido de circulação da via.",
+        "respD": "d) Sentido único.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-8a regulamenta:",
+        "imagem": "r-8a_1281039201.jpg",
+        "respA": "a) Mudança obrigatória de faixa ou pista de trânsito da esquerda para a direita.",
+        "respB": "b) Mudança obrigatória de faixa ou pista de trânsito da direita para a esquerda.",
+        "respC": "c) Proibido mudar de faixa ou pista de trânsito da esquerda para a direita.",
+        "respD": "d) Proibido mudar de faixa ou pista de trânsito da direita para a esquerda.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-20b adverte:",
+        "imagem": "a-20b_1281039512.jpg",
+        "respA": "a) Pista irregular.",
+        "respB": "b) Projeção de cascalho.",
+        "respC": "c) Aclive acentuado.",
+        "respD": "d) Depressão.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-20 regulamenta:",
+        "imagem": "r-20_1281039557.jpg",
+        "respA": "a) Área hospitalar.",
+        "respB": "b) Proibido ultrapassar.",
+        "respC": "c) Passagem obrigatória.",
+        "respD": "d) Proibido acionar buzina ou sinal sonoro.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-6 adverte:",
+        "imagem": "a-6_1281039726.jpg",
+        "respA": "a) Cruz de santo André.",
+        "respB": "b) Passagem de nível sem barreira.",
+        "respC": "c) Via lateral à esquerda.",
+        "respD": "d) Cruzamento de vias.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-39 regulamenta:",
+        "imagem": "r-39_1281039753.jpg",
+        "respA": "a) Comprimento máximo permitido.",
+        "respB": "b) Ônibus, caminhões e veículos de grande porte mantenham-se à direita.",
+        "respC": "c) Circulação exclusiva de caminhão.",
+        "respD": "d) Circulação exclusiva de ônibus.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Subsistema de sinalização que se utiliza de placas ao lado ou suspensas sobre a via:",
+        "imagem": null,
+        "respA": "a) Horizontal.",
+        "respB": "b) Vertical.",
+        "respC": "c) Indicação.",
+        "respD": "d) Todas acima.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-31 regulamenta:",
+        "imagem": "r-31_1281100459.jpg",
+        "respA": "a) Andar pela esquerda.",
+        "respB": "b) Andar pela calçada.",
+        "respC": "c) Manter-se à direita.",
+        "respD": "d) Pedestre, ande pela direita.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique a placa:",
+        "imagem": "b73e4bf41575483619.jpeg",
+        "respA": "a) Estreitamento da pista ao centro.",
+        "respB": "b) Estreitamento da pista em viaduto.",
+        "respC": "c) Ponte estreita.",
+        "respD": "d) Ponte móvel.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas indicativas são divididas nos seguintes grupos:",
+        "imagem": null,
+        "respA": "a) Identificação, orientação de destino, educativas, serviços auxiliares, atrativos turísticos e postos de fiscalização.",
+        "respB": "b) Localização, sentido de direção e regulamentação.",
+        "respC": "c) Identificação de destino, localização e informação de cidades e advertência.",
+        "respD": "d) Advertência, localização de cidades e informações complementares.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Agente de trânsito ergue verticalmente o braço direito, mantendo-o imobilizado com a palma da mão voltada para frente. Este gesto sinaliza:",
+        "imagem": "circulacao_simu_1320020954.png",
+        "respA": "a) Ordem de parada obrigatória para todos os veículos.",
+        "respB": "b) Retornar, pois o trânsito está impedido para frente.",
+        "respC": "c) Diminuir a velocidade e prosseguir na marcha com muita segurança.",
+        "respD": "d) Fazer manobra à direita.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-7A indica:",
+        "imagem": "a-7a_1281116710.jpg",
+        "respA": "a) Confluência à esquerda.",
+        "respB": "b) Entroncamento oblíquo à esquerda.",
+        "respC": "c) Via lateral à esquerda.",
+        "respD": "d) Junções sucessivas contrárias  primeira à direita.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-3b indica:",
+        "imagem": "a-3b_1281116800.jpg",
+        "respA": "a) Pista escorregadia.",
+        "respB": "b) Curva em S à direita.",
+        "respC": "c) Pista sinuosa à esquerda.",
+        "respD": "d) Pista sinuosa à direita.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Qual o significado correto da placa ao lado?",
+        "imagem": "a-7a_1281364654.jpg",
+        "respA": "a) Permitido virar à esquerda.",
+        "respB": "b) Via lateral à esquerda.",
+        "respC": "c) Entroncamento oblíquo à direita.",
+        "respD": "d) Via lateral à direita.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Elementos criados para evitar transposição de faixas de trânsito:",
+        "imagem": null,
+        "respA": "a) Dispositivos de canalização.",
+        "respB": "b) Sinalização de alerta.",
+        "respC": "c) Marcadores de perigo.",
+        "respD": "d) Marcadores de alinhamento.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa  A-17 adverte o condutor do veículo da existência adiante de:",
+        "imagem": "button_a-17_1284555588.png",
+        "respA": "a) Uma pista escorregadia.",
+        "respB": "b) Um trecho de via perigosa pela irregularidade de sua superfície.",
+        "respC": "c) Um trecho com lombada.",
+        "respD": "d) Uma depressão.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-18 indica:",
+        "imagem": "r-18_1321123696.jpg",
+        "respA": "a) Peso máximo permitido por eixo.",
+        "respB": "b) Largura máxima permitida.",
+        "respC": "c) Comprimento máximo permitido.",
+        "respD": "d) Altura máxima permitida.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Os elementos da sinalização horizontal que estão escritos ou desenhados na via, indicando uma situação ou complementando sinalização vertical existente, chamam-se:",
+        "imagem": null,
+        "respA": "a) Canalizações.",
+        "respB": "b) Símbolos e legendas.",
+        "respC": "c) Setas direcionais.",
+        "respD": "d) Faixas.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Para indicar parada obrigatória, o agente deverá usar:",
+        "imagem": null,
+        "respA": "a) Um silvo longo.",
+        "respB": "b) Um silvo longo e um breve.",
+        "respC": "c) Dois silvos breves.",
+        "respD": "d) Três silvos breves.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "É verdadeiro afirmar: a sinalização de trânsito...",
+        "imagem": null,
+        "respA": "a) Orienta condutores e pedestres.",
+        "respB": "b) Regulamenta.",
+        "respC": "c) Adverte e indica.",
+        "respD": "d) Todas as afirmativas acima.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A linha branca simples contínua indica:",
+        "imagem": "linha_branca_co_1339614568.jpg",
+        "respA": "a) Mão dupla, e proíbe a ultrapassagem.",
+        "respB": "b) Mão dupla , mas permite mudar de faixa.",
+        "respC": "c) Indica mão única e proíbe mudar de faixa.",
+        "respD": "d) Permissão para transposição de faixa.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As marcas que permitem ao condutor ultrapassar outro veículo em movimento, são:",
+        "imagem": null,
+        "respA": "a) Amarelas contínuas.",
+        "respB": "b) Contínuas.",
+        "respC": "c) Brancas ou amarelas tracejadas.",
+        "respD": "d) Brancas contínuas.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-4b regulamenta:",
+        "imagem": "r-4b_1281448143.jpg",
+        "respA": "a) Proibido virar à esquerda.",
+        "respB": "b) Proibido seguir em frente.",
+        "respC": "c) Curva acentuada à direita.",
+        "respD": "d) Proibido virar à direita.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": " As placas indicativas de serviços auxiliares tornam-se mais necessárias nas vias:",
+        "imagem": null,
+        "respA": "a) Urbanas, devido ao excesso destes serviços.",
+        "respB": "b) Rurais e urbanas obrigatoriamente, sem distinção.",
+        "respC": "c) De trânsito rápido onde não houver acessos especiais.",
+        "respD": "d) Rurais, onde os serviços forem escassos.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-17 regulamenta:",
+        "imagem": "r-17_1320238699.jpg",
+        "respA": "a) Carga máxima permitida.",
+        "respB": "b) Peso máximo permitido por eixo.",
+        "respC": "c) Comprimento máximo permitido.",
+        "respD": "d) Largura máxima permitida por eixo.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização horizontal se apresenta nas seguintes cores.",
+        "imagem": null,
+        "respA": "a) Amarela,vermelha, branca, azul e preta.",
+        "respB": "b) Apenas amarela e branca.",
+        "respC": "c) Apenas amarela, vermelha e branca.",
+        "respD": "d) Amarela , vermelha , branca, verde e preta.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "São aplicados junto a obstáculos, como viadutos e pontes:",
+        "imagem": null,
+        "respA": "a) Dispositivos de canalização.",
+        "respB": "b) Sinalização de alerta.",
+        "respC": "c) Marcadores de obstáculo e perigo",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A marca que separa fluxos opostos e proíbe a ultrapassagem é:",
+        "imagem": null,
+        "respA": "a) Amarela interrompida.",
+        "respB": "b) Contínua e amarela.",
+        "respC": "c) Interrompida ou seccionada.",
+        "respD": "d) Contínua e branca.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-23 indica:",
+        "imagem": "a-23_1281530637.jpg",
+        "respA": "a) Pista irregular.",
+        "respB": "b) Passagem de nível sem barreiras.",
+        "respC": "c) Ponte móvel.",
+        "respD": "d) Passagem de nível com barreira.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-12 assinala que, naquele local é:",
+        "imagem": "r-12_1281530864.jpg",
+        "respA": "a) Permitido trânsito de veículos de propulsão humana.",
+        "respB": "b) Proibido trânsito de bicicletas.",
+        "respC": "c) Proibido trânsito de veículos automotores.",
+        "respD": "d) Proibido trânsito de veículos de tração animal.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Um silvo longo emitido pelo agente da autoridade de trânsito significa que o condutor deve:",
+        "imagem": null,
+        "respA": "a) Acender as lanternas do seu veículo.",
+        "respB": "b) Diminuir a marcha do seu veículo.",
+        "respC": "c) Parar o veículo.",
+        "respD": "d) Fazer o retorno.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "São aplicados em obstáculos ou nos pavimentos das vias:",
+        "imagem": null,
+        "respA": "a) Marcadores de alinhamento.",
+        "respB": "b) Dispositivos de canalização.",
+        "respC": "c) Marcas transversais.",
+        "respD": "d) Todas as alternativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa R-4b abaixo você entende que é proibido:",
+        "imagem": "r-4b_1281537832.jpg",
+        "respA": "a) Dar meia volta ou retornar.",
+        "respB": "b) Realizar conversão à esquerda.",
+        "respC": "c) Entrar no estacionamento.",
+        "respD": "d) Realizar conversão à direita.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa R-19 você:",
+        "imagem": "r-19_1281538072.jpg",
+        "respA": "a) Reduz a velocidade e, se necessário,  parar seu veículo dando preferência aos demais veículos.",
+        "respB": "b) Mantém velocidade igual a ou abaixo da velocidade indicada na placa.",
+        "respC": "c) Circula acima da velocidade indicada na placa.",
+        "respD": "d) Circula somente no sentido indicado, neste caso, para o lado direito.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-1 adverte ao condutor:",
+        "imagem": "button_r-1_1284143431.png",
+        "respA": "a) Parada obrigatória.",
+        "respB": "b) Parada de ônibus.",
+        "respC": "c) Parada para carga e descarga.",
+        "respD": "d) Nenhuma das respostas acima.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-22 assinala que, à frente, no trecho sinalizado:",
+        "imagem": "r-22_1283793880.jpg",
+        "respA": "a) Devido a pista escorregadia e aos atoleiros, os veículos deverão ter pneus super calibrados.",
+        "respB": "b) Os veículos ao passarem deverão ser rebocados  com correntes.",
+        "respC": "c) Há possibilidade de pista escorregadia com atoleiros e terreno encharcado.",
+        "respD": "d) Devido a pista escorregadia é proibido o trânsito de veículos.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O símbolo azul, inscrito no pavimento, representado por uma cadeira de rodas indica:",
+        "imagem": null,
+        "respA": "a) Local proibido de parada de veículos conduzidos por deficientes físicos.",
+        "respB": "b) Local de estacionamento de veículos conduzidos por deficientes físicos.",
+        "respC": "c) Local de embarque e desembarque de deficientes físicos.",
+        "respD": "d) Local de trânsito de deficientes físicos.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas de indicação tem caráter:",
+        "imagem": null,
+        "respA": "a) Meramente informativo ou educativo.",
+        "respB": "b) Punitivo.",
+        "respC": "c) Meramente de regulamentação.",
+        "respD": "d) Meramente de advertência.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Os sinais de trânsito, além de serem inscritos em placas e pintados no leito da via pública, podem ainda ser:",
+        "imagem": null,
+        "respA": "a) Luminosos e sonoros.",
+        "respB": "b) Luminosos e por gestos.",
+        "respC": "c) Sonoros e por gestos.",
+        "respD": "d) Luminosos, sonoros e por gestos.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Marcas que delineiam a parte da pista destinada à circulação de veículos, separando-a do acostamento, chamam-se linhas:",
+        "imagem": null,
+        "respA": "a) Planas.",
+        "respB": "b) Linhas férreas.",
+        "respC": "c) Limite.",
+        "respD": "d) De bordo.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-2 indica que você deve:",
+        "imagem": "r-2_1281623900.jpg",
+        "respA": "a) Circular no sentido indicado.",
+        "respB": "b) Reduzir a velocidade ou se necessário parar seu veículo, dando preferência aos veículos que circulam pela via preferencial.",
+        "respC": "c) Parar seu veículo e olhar bem o trânsito antes de entrar ou cruzar a via.",
+        "respD": "d) Manter a velocidade igual ou abaixo da velocidade indicada na pista.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-4a  regulamenta que é proibido:",
+        "imagem": "r-4a_1281624034.jpg",
+        "respA": "a) Realizar conversão à direita.",
+        "respB": "b) Seguir em frente ou entrar na rua ou área restringida.",
+        "respC": "c) Realizar conversão à esquerda.",
+        "respD": "d) Dar meia volta ou retornar.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Dirigindo um veículo numa via dividida ao centro por sinalização com duas linhas, sendo a primeira linha à sua esquerda seccionada e a segunda contínua, você poderá:",
+        "imagem": null,
+        "respA": "a) Fazer um retorno para o lado esquerdo da via.",
+        "respB": "b) Ultrapassar outro veículo pela esquerda, quando as condições forem favoráveis.",
+        "respC": "c) Ultrapassar outro veículo pela direita, quando as condições  forem favoráveis.",
+        "respD": "d) Fazer um retorno para o lado direito da via.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-11a indica;",
+        "imagem": "a-11a_1281642129.jpg",
+        "respA": "a) Junções sucessivas contrárias primeiras à direita.",
+        "respB": "b) Confluência à esquerda.",
+        "respC": "c) Junções sucessivas contrárias primeiras  à esquerda.",
+        "respD": "d) Siga em frente ou à direita.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-1b assinala que à frente o condutor do veículo deverá:",
+        "imagem": "button_a-1b_1283861365.png",
+        "respA": "a) Deparar-se com curva acentuada à direita.",
+        "respB": "b) Deparar-se com uma entrada à direita.",
+        "respC": "c) Virar à esquerda.",
+        "respD": "d) Deparar-se com uma curva de grande raio.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de R-6B indica:",
+        "imagem": "r-6b_1281642354.jpg",
+        "respA": "a) Pronto socorro.",
+        "respB": "b) Estacionamento regulamentado.",
+        "respC": "c) Proibido estacionar.",
+        "respD": "d) Proibido parar e estacionar.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-15 indica:",
+        "imagem": "r-15_1281642445.jpg",
+        "respA": "a) Carga máxima permitida.",
+        "respB": "b) Altura máxima permitida.",
+        "respC": "c) Peso máximo permitido por eixo.",
+        "respD": "d) Largura máxima permitida.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas de indicação têm caráter:",
+        "imagem": null,
+        "respA": "a) Meramente de regulamentação.",
+        "respB": "b) Meramente de advertência.",
+        "respC": "c) Meramente informativo ou educativo.",
+        "respD": "d) Punitivo.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-20- indica que adiante existe:",
+        "imagem": "a-20b_1281722056.jpg",
+        "respA": "a) Declive acentuado.",
+        "respB": "b) Aclive acentuado.",
+        "respC": "c) Subida regulamentada.",
+        "respD": "d) Subida com estreitamento de pista.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O condutor, atento, trafegando em uma via, vê uma placa alertando sobre um estreitamento de pista adiante. Ele identifica esta placa como sendo de:",
+        "imagem": null,
+        "respA": "a) Advertência.",
+        "respB": "b) Indicação.",
+        "respC": "c) Regulamentação.",
+        "respD": "d) Obras.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-17 informa ao condutor que é:",
+        "imagem": "a-17_1283369127.jpg",
+        "respA": "a) Pista irregular.",
+        "respB": "b) Pista sinuosa.",
+        "respC": "c) Saliência ou lombada.",
+        "respD": "d) Pista escorregadia.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de n° A-41 indica:",
+        "imagem": "a-41_1290178785.jpg",
+        "respA": "a) Passagem de nível sem barreira.",
+        "respB": "b) Pista dividida.",
+        "respC": "c) Comprimento máximo permitido.",
+        "respD": "d) Cruz de Santo André.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de R-27 regulamenta:",
+        "imagem": "r-27_1282143215.jpg",
+        "respA": "a) Veículos de carga, usem a faixa da esquerda.",
+        "respB": "b) Proibido trânsito de caminhões.",
+        "respC": "c) Passagem obrigatória para veículo de carga.",
+        "respD": "d) Ônibus, caminhões e veículos de grande porte mantenham-se a direita.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas indicativas de serviços auxiliares tornam-se necessárias nas vias: ",
+        "imagem": null,
+        "respA": "a) Rurais e urbanas, obrigatoriamente, sem distinções.",
+        "respB": "b) De trânsito rápido, onde não houver acessos especiais.",
+        "respC": "c) Rurais, onde os serviços forem escassos.",
+        "respD": "d) Urbanas, devido ao excesso destes serviços.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A Placa de numero R-20 regulamenta:",
+        "imagem": "button_r-20_1283972774.png",
+        "respA": "a) Área hospitalar.",
+        "respB": "b) Proibido ultrapassar.",
+        "respC": "c) Passagem obrigatória.",
+        "respD": "d) Proibido acionar buzina ou sinal sonoro.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização de regulamentação tem por finalidade:",
+        "imagem": null,
+        "respA": "a) Alertar os usuários da via para condições potencialmente perigosas, indicando sua natureza.",
+        "respB": "b) Identificar as vias, os destinos e os locais de veículos quanto aos percursos, os destinos, as distâncias e os serviços auxiliares.",
+        "respC": "c) Educar o usuário da via.",
+        "respD": "d) Informar aos usuários das condições, proibições, obrigações ou restrições no uso das vias.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa SAU-14 você entende que é:",
+        "imagem": "button_s-10_1283975255.png",
+        "respA": "a) Permitida para camping.",
+        "respB": "b) Com aeroporto nas proximidades.",
+        "respC": "c) Com Igreja do patrimônio histórico.",
+        "respD": "d) De proteção para indígenas.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa TAD-04 significa:",
+        "imagem": "button_tad-04_1283975747.png",
+        "respA": "a) Área para prática de surf.",
+        "respB": "b) Área de canoagem.",
+        "respC": "c) Área para prática de esporte náuticos.",
+        "respD": "d) Área de lazer.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de numero A-2b indica:",
+        "imagem": "1468761b1556809063.jpg",
+        "respA": "a) Curva à direita.",
+        "respB": "b) Curva à esquerda.",
+        "respC": "c) Vire à esquerda.",
+        "respD": "d) Curva acentuada à direita.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A Placa de numero R-2 indica:",
+        "imagem": "r-2_1315694871.jpg",
+        "respA": "a) Alfândega.",
+        "respB": "b) Parada Obrigatória.",
+        "respC": "c) Dê a preferência.",
+        "respD": "d) Parada Obrigatória à frente.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A seta direcional da cor branca, inscrita no pavimento significa:",
+        "imagem": "circulacao_simu_1315695336.png",
+        "respA": "a) Retorno à esquerda.",
+        "respB": "b) Siga em frente.",
+        "respC": "c) Vire à esquerda.",
+        "respD": "d) Siga em frente ou vire à esquerda.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Observe os desenhos e responda: em relação aos movimentos dos pedestres e dos veículos 1 e 4, aqueles que tem a preferência são:",
+        "imagem": "circulacao_simu_1315695988.png",
+        "respA": "a) 1 e 5. ",
+        "respB": "b) 3 e 5. ",
+        "respC": "c) 1 e 4 .",
+        "respD": "d) 4, 3 e 2. ",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa indica:",
+        "imagem": "r-24b_1315696983.jpg",
+        "respA": "a) Via de contramão à direita.",
+        "respB": "b) Sentido único.",
+        "respC": "c) Sentido obrigatório.",
+        "respD": "d) Passagem obrigatória.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa SAU-01 indica:",
+        "imagem": "circulacao_simu_1315697275.png",
+        "respA": "a) Posto de socorro médico junto ou próximo à via.",
+        "respB": "b) Escola próxima à via.",
+        "respC": "c) Que na sinalizada poderá estacionar.",
+        "respD": "d) Hotel.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "De acordo com os sinais sonoros relacionados, marque a resposta que corresponde ao sinal que acompanha o gesto do agente de trânsito determinando a parada do veículo:",
+        "imagem": "circulacao_simu_1315698583.png",
+        "respA": "a) Um silvo breve.",
+        "respB": "b) Três silvos breves.",
+        "respC": "c) Um silvo longo.",
+        "respD": "d) Dois silvos breves.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Onde houver marca longitudinal representada pela letra ML-01 a ultrapassagem é:",
+        "imagem": "circulacao_simu_1315699350.png",
+        "respA": "a) Permitida para um dos sentidos.",
+        "respB": "b) Proibida para os dois sentidos.",
+        "respC": "c) Permitida para os dois sentidos.",
+        "respD": "d) Proibida para um dos sentidos.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique o significado do gesto do condutor expresso no desenho:",
+        "imagem": "circulacao_simu_1315699742.png",
+        "respA": "a) Virar à direita.",
+        "respB": "b) Trânsito impedido em todas as direções.",
+        "respC": "c) Diminuir a marcha ou parar o veículo.",
+        "respD": "d) Retorno à esquerda.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique a placa R-33;",
+        "imagem": "r-33_1315763066.jpg",
+        "respA": "a) Rótula.",
+        "respB": "b) Sentido de circulação.",
+        "respC": "c) Sentido circular.",
+        "respD": "d) Interseção em círculo.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Assinale a opção correta para a placa abaixo:",
+        "imagem": "circulacao_simu_1315763365.png",
+        "respA": "a) Borracharia.",
+        "respB": "b) Pneus a 600 m.",
+        "respC": "c) Estacionamento em acampamento.",
+        "respD": "d) Uso de correntes.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A marca viária IP-08 significa:",
+        "imagem": "circulacao_simu_1315763624.png",
+        "respA": "a) Passagem obrigatória.",
+        "respB": "b) Conversão à direita.",
+        "respC": "c) Mudança obrigatória de faixa.",
+        "respD": "d) Vire à direita.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Qual o significado correto da placa A-7a?",
+        "imagem": "a-7a_1315764057.jpg",
+        "respA": "a) Permitido virar à esquerda.",
+        "respB": "b) Via lateral à esquerda.",
+        "respC": "c) Encontro de rodovias.",
+        "respD": "d) Entroncamento Oblíquo à esquerda.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique o significado do gesto do condutor expresso no desenho.",
+        "imagem": "circulacao_simu_1315764138.png",
+        "respA": "a) Diminuir a marcha ou parar.",
+        "respB": "b) Virar à esquerda.",
+        "respC": "c) Virar à direita.",
+        "respD": "d) Trânsito impedido em todas as direções.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa SAU-19 indica:",
+        "imagem": "circulacao_simu_1315765030.png",
+        "respA": "a) Terminal rodoviário.",
+        "respB": "b) Terminal ferroviário.",
+        "respC": "c) Terminal rodoferroviário.",
+        "respD": "d) Abastecimento para ônibus.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique corretamente a placa R-16:",
+        "imagem": "r-16_1315765311.jpg",
+        "respA": "a) Largura máxima permitida.",
+        "respB": "b) Largura máxima limitada.",
+        "respC": "c) Largura limitada.",
+        "respD": "d) Regulamenta largura abaixo da máxima.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Placa A-32b adverte;",
+        "imagem": "circulacao_simu_1315765541.png",
+        "respA": "a) Pedestre, não ande na faixa.",
+        "respB": "b) Passagem sinalizada de pedestres.",
+        "respC": "c) Travessia de pedestres.",
+        "respD": "d) Passagem de pedestres.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-31 significa:",
+        "imagem": "r-31_1315765717.jpg",
+        "respA": "a) Andar pela esquerda.",
+        "respB": "b) Andar pela direita.",
+        "respC": "c) Manter-se à direita.",
+        "respD": "d) Pedestre, ande pela direita.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As indicações que prevalecem sobre as demais são:",
+        "imagem": null,
+        "respA": "a) As pinturas viárias.",
+        "respB": "b) Os sinais luminosos.",
+        "respC": "c) As placas de trânsito.",
+        "respD": "d) As ordens dos agentes de trânsito.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-6c regulamenta ao condutor que é:",
+        "imagem": "r-6c_1320238178.jpg",
+        "respA": "a) Proibido estacionar.",
+        "respB": "b) Proibido parar.",
+        "respC": "c) Proibido engarrafamento.",
+        "respD": "d) Proibido parar e estacionar.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Ao avistar a placa R-5a, o condutor saberá que é:",
+        "imagem": "r-5a_1320238579.jpg",
+        "respA": "a) Proibido andar de ré.",
+        "respB": "b) Proibido retornar à esquerda.",
+        "respC": "c) Proibido ultrapassar.",
+        "respD": "d) Proibido dar meia volta.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-3 regulamenta que é:",
+        "imagem": "r-3_1320238955.jpg",
+        "respA": "a) Proibido subir ladeira.",
+        "respB": "b) Proibido retornar.",
+        "respC": "c) Sentido proibido.",
+        "respD": "d) Nenhuma das anteriores.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-7 regulamenta a todos os condutores, que neste trecho da via é:",
+        "imagem": "r-7_1320239193.jpg",
+        "respA": "a) Peso bruto total máximo permitido.",
+        "respB": "b) Proibido ultrapassar pela direita.",
+        "respC": "c) Mão única.",
+        "respD": "d) Proibido ultrapassar.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-14 regulamenta:",
+        "imagem": "r-14_1320239374.jpg",
+        "respA": "a) Peso bruto total permitido.",
+        "respB": "b) Largura até o limite indicado na placa.",
+        "respC": "c) Peso máximo por eixo.",
+        "respD": "d) Nenhuma das anteriores.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O que regulamenta a placa R-24a?",
+        "imagem": "r-24a_1320239617.jpg",
+        "respA": "a) Virar à direita.",
+        "respB": "b) Siga em frente.",
+        "respC": "c) Passagem obrigatória.",
+        "respD": "d) Sentido de circulação da via/pista.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-40 adverte:",
+        "imagem": "a-40_1320239931.jpg",
+        "respA": "a) Passagem de nível com barreira.",
+        "respB": "b) Pista cercada.",
+        "respC": "c) Passagem de nível.",
+        "respD": "d) Cruz de Santo André.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-4b adverte o condutor:",
+        "imagem": "a-4b_1320240126.jpg",
+        "respA": "a) Curva acentuada em \"S\" à direita.",
+        "respB": "b) Curva acentuada à direita.",
+        "respC": "c) Curva em \"S\" à direita.",
+        "respD": "d) Curva acentuada em \"S\" à esquerda.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-3b adverte:",
+        "imagem": "a-3b_1320240268.jpg",
+        "respA": "a) Encontro de três vias.",
+        "respB": "b) Pista sinuosa à direita.",
+        "respC": "c) Dê a preferência.",
+        "respD": "d) Dê a vez.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O que adverte a placa A-39?",
+        "imagem": "a-39_1320240481.jpg",
+        "respA": "a) Cruz de Santo André.",
+        "respB": "b) Passagem de nível sem barreira.",
+        "respC": "c) Passagem de nível.",
+        "respD": "d) Pista dividida.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-10b adverte sobre:",
+        "imagem": "a-10b_1320240679.jpg",
+        "respA": "a) Divisão da pista.",
+        "respB": "b) Junção das pistas.",
+        "respC": "c) Entroncamento oblíquo à direita.",
+        "respD": "d) Entroncamento oblíquo à esquerda.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-42c adverte o condutor sobre:",
+        "imagem": "a-42c_1320240896.jpg",
+        "respA": "a) Trânsito interrompido.",
+        "respB": "b) Pista dividida.",
+        "respC": "c) Túnel.",
+        "respD": "d) Canteiro central.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de numero A-22 indica:",
+        "imagem": "a-22_1321109593.jpg",
+        "respA": "a) Ponte móvel.",
+        "respB": "b) Estreitamento de pista à direita.",
+        "respC": "c) Ponte estreita.",
+        "respD": "d) Estreitamento de pista ao centro.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de numero R-4b indica:",
+        "imagem": "r-4b_1321109888.jpg",
+        "respA": "a) Proibido virar à direita.",
+        "respB": "b) Proibido virar à esquerda.",
+        "respC": "c) Proibido seguir em frente.",
+        "respD": "d) Curva acentuada à direita.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A marca de canalização, identificada pelo código MC-06 indica:",
+        "imagem": "mc-06_1339615380.jpg",
+        "respA": "a) Fluxo de trafego.",
+        "respB": "b) Área de estacionamento.",
+        "respC": "c) Ilhas de canalização.",
+        "respD": "d) Refúgio para pedestres.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Dois silvos breves emitidos pelo agente de trânsito significam:",
+        "imagem": null,
+        "respA": "a) Atenção siga.",
+        "respB": "b) Diminuir a marcha.",
+        "respC": "c) Parar.",
+        "respD": "d) Acenda a luz interna do veículo.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A marcação de áreas de estacionamento que indica ao condutor a proibição para estacionar é feita na cor:",
+        "imagem": null,
+        "respA": "a) Azul.",
+        "respB": "b) Branca.",
+        "respC": "c) Verde.",
+        "respD": "d) Amarela.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Dispositivo de reflexão e refração da luz ultilizado na sinalização de vias e veículos denomina se: ",
+        "imagem": null,
+        "respA": "a) Olho de Gato. ",
+        "respB": "b) Catadióptrico.",
+        "respC": "c) Indicadores luminosos. ",
+        "respD": "d) Tachão de asfalto. ",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O condutor deve sinalizar e deslocar com antecedência o seu veículo para a faixa mais à esquerda da sua mão de direção para:",
+        "imagem": null,
+        "respA": "a) Aumentar a velocidade.",
+        "respB": "b) Entrar à esquerda.",
+        "respC": "c) Mudar de faixa de trânsito.",
+        "respD": "d) Fazer uma ultrapassagem. ",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de número A-1b indica:",
+        "imagem": "a-1b_1329846430.jpg",
+        "respA": "a) Vire à direita.",
+        "respB": "b) Curva acentuada à direita.",
+        "respC": "c) Curva em \"S\" à direita.",
+        "respD": "d) Curva à esquerda. ",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de número R-7 indica:",
+        "imagem": "r-7_1329846677.jpg",
+        "respA": "a) Proibido ultrapassar.",
+        "respB": "b) Proibido mudar de faixa de trânsito.",
+        "respC": "c) Sentido proibido.",
+        "respD": "d) Proibido retornar",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Uma placa educativa é identificada pelas cores:",
+        "imagem": null,
+        "respA": "a) Branca e amarela e formato retangular.",
+        "respB": "b) Branca e preta e formato retangular.",
+        "respC": "c) Branca e azul e formato redondo.",
+        "respD": "d) Branca e verde e formato quadrado. ",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique, na figura, a marca de canalização que permite ao condutor efetuar movimento de retorno:",
+        "imagem": "921f671b1583243348.jpeg",
+        "respA": "a) MC-04",
+        "respB": "b)  MC-01",
+        "respC": "c) MC-05",
+        "respD": "d) MC-06",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização semafórica de advertência com código SS-09 adverte ao condutor que ele...",
+        "imagem": "7921247f1590693271.png",
+        "respA": "a) Tenha a atenção redobrada.",
+        "respB": "b) Aumente a velocidade.",
+        "respC": "c) Siga em frente.",
+        "respD": "d) Pare.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa A-4A você:",
+        "imagem": "a-4a_1400865686.jpg",
+        "respA": "a) Vai encontrar várias curvas sucessivas, sendo a primeira à esquerda.",
+        "respB": "b) Vai encontrar duas curvas sucessivas em S, sendo a 1ª acentuada.",
+        "respC": "c) Vai encontrar adiante uma curva à esquerda.",
+        "respD": "d) Vai encontrar uma curva muito fechada à esquerda.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Qual placa cuja proibição é cancelada a partir do ponto em que as marcações na pista possibilitam a ultrapassagem?",
+        "imagem": "questao_1286_1339615756.jpg",
+        "respA": "a) R-7",
+        "respB": "b) R-5b",
+        "respC": "c) R-8a",
+        "respD": "d) R-10",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Não fazem parte dos subgrupos de placas de indicação:",
+        "imagem": null,
+        "respA": "a) Serviços auxiliares, educativas.",
+        "respB": "b) Localização, indicação.",
+        "respC": "c) Sentido e distãncia, educativas.",
+        "respD": "d) Sentido único, sentido duplo.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa R-6b, você entende que:",
+        "imagem": "r-6b_1339617147.jpg",
+        "respA": "a) É permitido estacionar seu veículo na via, trecho ou área abrangida pela regumentação.",
+        "respB": "b) Pedestres devem circular pelo lado direito da via..",
+        "respC": "c) Pedestres devem circular pelo lado esquerdo da via.",
+        "respD": "d) É proibido estacionar.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Dirigindo por via urbana a uma distancia de cerca de 50 metros de um cruzamento, você percebe a luz amarela do semáforo. Nesta situação você deve:",
+        "imagem": null,
+        "respA": "a) Reduzir a velocidade do seu veiculo e completar a travessia do cruzamento.",
+        "respB": "b) Buzinar ao completar a travessia.",
+        "respC": "c) Aumentar a velocidade do seu veículo.",
+        "respD": "d) Manter a atenção, reduzir a marcha do seu veículo e parar.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-2b indica:",
+        "imagem": "a-2b_1339617677.jpg",
+        "respA": "a) Curva à direita.",
+        "respB": "b) Curva à esquerda.",
+        "respC": "c) Vire à esquerda.",
+        "respD": "d) Curva acentuada à direita.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-2 indica:",
+        "imagem": "r-2_1339617991.jpg",
+        "respA": "a) Alfândega.",
+        "respB": "b) Parada Obrigatória.",
+        "respC": "c) Dê a preferência.",
+        "respD": "d) Parada obrigatória à frente.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "o painel eletrônico é utilizado para:",
+        "imagem": "painel_eletroni_1339620180.png",
+        "respA": "a) Todas as alternativas estão corretas.",
+        "respB": "b) Advertência de situação inesperada à frente.",
+        "respC": "c) Mensagens educativas ao comportamento dos usuários da via.",
+        "respD": "d) Regulamentação de velocidade em função do fluxo de veículos.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-10a adverte a existência de:",
+        "imagem": "a-10a_1339620275.jpg",
+        "respA": "a) Via lateral á esquerda.",
+        "respB": "b) Via lateral à direita.",
+        "respC": "c) Entroncamento oblíquo à esquerda.",
+        "respD": "d) Curva à esquerda.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-7 indica:",
+        "imagem": "ee7866831520276853.jpg",
+        "respA": "a) Proibido ultrapassar.",
+        "respB": "b) Proibido mudar de faixa de trânsito.",
+        "respC": "c) Sentido proibido.",
+        "respD": "d) Proibido retornar.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O procedimento do pedestre diante da sinalização semafórica identificada na cartela pelo código SS-08 é:",
+        "imagem": "ss08_1339620881.png",
+        "respA": "a) Atenção.",
+        "respB": "b) Pode seguir.",
+        "respC": "c) Pare o veículo.",
+        "respD": "d) Não pode ultrapassar.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-26a adverte:",
+        "imagem": "a-26a_1339712984.jpg",
+        "respA": "a) Passagem obrigatória.",
+        "respB": "b) Sentido único.",
+        "respC": "c) Sentido de circulação de via.",
+        "respD": "d) Siga em frente.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Uma placa que indica distância é identificada pelas cores:",
+        "imagem": null,
+        "respA": "a) Branca e preta.",
+        "respB": "b) Branca e amarela.",
+        "respC": "c) Verde e branca.",
+        "respD": "d) Amarela e azul.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O sinal semáforo identificado pelo código SS-03 indica:",
+        "imagem": "ss03_1339713621.png",
+        "respA": "a) Direção livre.",
+        "respB": "b) Direção proibida.",
+        "respC": "c) Direção controlada.",
+        "respD": "d) Controle ou faixa reversível.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O procedimento correto do  condutor de veículo diante da sinalização semafórica, identificada na cartela pelos códigos SS-09 e SS-10 é",
+        "imagem": null,
+        "respA": "a) Reduzir a velocidade e adotar medidas de precuação.",
+        "respB": "b) Parar.",
+        "respC": "c) Aumentar a velocidade.",
+        "respD": "d) Continuar na mesma velocidade.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Quanto à sinalização, é falso afirmar:",
+        "imagem": null,
+        "respA": "a) Os gestos poderão ser efetuados pelos agentes de trânsito e motoristas.",
+        "respB": "b) As marcas serão dispostas horizontalmente.",
+        "respC": "c) Placas de regulamentação tem caráter educativo.",
+        "respD": "d) Os marcos quilométricos são obrigatórios nas vias rurais de 5 em 5 km.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "É placa que deve ser utilizada para alertar o condutor de perigos.",
+        "imagem": null,
+        "respA": "a) Advertência.",
+        "respB": "b) Regulamentação.",
+        "respC": "c) Serviços auxiliares.",
+        "respD": "d) Educativas.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Qual é a placa que deve ser utilizada para controlar o fluxo que vai cruzar uma via preferencial?",
+        "imagem": "questao_1360_1339714530.jpg",
+        "respA": "a) R-5B.",
+        "respB": "b) R-3.",
+        "respC": "c) R-4A.",
+        "respD": "d) R-2.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Circular é a forma destinada às placas:",
+        "imagem": null,
+        "respA": "a) De advertência.",
+        "respB": "b) De indicação.",
+        "respC": "c) De regulamentação.",
+        "respD": "d) Educativas.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Indica local destinado a embarque e desembarque para veículos coletivos de passageiros: ",
+        "imagem": null,
+        "respA": "a) SAU-01 e SAU-09.",
+        "respB": "b) SAU-012 e SAU-06.",
+        "respC": "c) SAU-19 e SAU-26.",
+        "respD": "d) SAU-11 e SAU-23.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "É conjunto de placas que trazem informações úteis aos usuários, por exemplo, sobre locais de interesse e distância a ser percorrida:",
+        "imagem": null,
+        "respA": "a) Regulamentação.",
+        "respB": "b) Educativas.",
+        "respC": "c) Advertência.",
+        "respD": "d) Identificação ou Indicativas.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Em relação às condições adotadas durante o dia, a distância para sinalizar o local de um acidente à noite ou sob chuva deverá ser:",
+        "imagem": null,
+        "respA": "a) A distância corresponde a 10 passos.",
+        "respB": "b) Deve ser a mesma distância.",
+        "respC": "c) Dobrada com a utilização de dispositivos luminosos.",
+        "respD": "d) Com chuva contamos 40 passos.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa A-11a, o condutor entende que a mensagem é:",
+        "imagem": "a-11a_1339714646.jpg",
+        "respA": "a) Adiante existe a junção de duas vias laterais com parada obrigatória.",
+        "respB": "b) Adiante existe a junção de duas vias laterais, a 1ª à esquerda  e a 2ª à direita- quase se forma um cruzamento.",
+        "respC": "c) Adiante existe a junção de duas vias laterais, a 1ª à direita e a 2ª à esquerda - existem lombadas sucessivas.",
+        "respD": "d) Adiante existe a junção de duas vias laterais, a 1ª à direita e a 2ª à esquerda -existe passagem de pedestre.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa abaixo indica:",
+        "imagem": "r-24b_1339714726.jpg",
+        "respA": "a) Via de contra-mão à direita.",
+        "respB": "b) Sentido único.",
+        "respC": "c) Sentido obrigatório.",
+        "respD": "d) Passagem obrigatória.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O que você entende quando encontra a placa A-21b?",
+        "imagem": "a-21b_1339714824.jpg",
+        "respA": "a) Que à frente haverá mão única.",
+        "respB": "b) Que à frente haverá ponte estreita.",
+        "respC": "c) Que à frente haverá estreitamento de pista à direita.",
+        "respD": "d) Que à frente haverá estreitamento de pista à esquerda.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa TNA-05 refere-se a:",
+        "imagem": "tna-02_1339715085.jpg",
+        "respA": "a) Cruz de Santo André.",
+        "respB": "b) Montanha.",
+        "respC": "c) Cachoeira.",
+        "respD": "d) Represa.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique a placa ao lado:",
+        "imagem": "estacionamento__1339715414.png",
+        "respA": "a) Estacionamento regulamentado.",
+        "respB": "b) Placa de informação complementar de regulamentação.",
+        "respC": "c) Proibido estacionar.",
+        "respD": "d) Placa de regulamentação de estacionamento.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Nas placas de advertência, temos exceções quanto à sua forma padrão. Quais são?",
+        "imagem": null,
+        "respA": "a) A-26a, A-11a, A-26b.",
+        "respB": "b) A-26a, A-26b, A-39",
+        "respC": "c) A-26a, A-26b, A-5a.",
+        "respD": "d) A-26a, A-26b, A-41.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa R-6a, o condutor poderá parar?",
+        "imagem": "r-6a_1339715481.jpg",
+        "respA": "a) Para realizar carga e descarga.",
+        "respB": "b) Sim, desde que seja pelo tempo estritamente necessário para o embarque ou desembarque de passageiros.",
+        "respC": "c) Por cerca de 5 minutos, desde que o condutor permaneça no veículo.",
+        "respD": "d) Por no máximo, 10 minutos.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas de identificação  de Sentido ou direção e de Distância, de forma retangular, são apresentadas nas cores:",
+        "imagem": null,
+        "respA": "a) Preta e verde.",
+        "respB": "b) Preta e branca.",
+        "respC": "c) Verde e branca.",
+        "respD": "d) Branca e azul.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas que oferecem aos condutores informações úteis na escolha de um trajeto são chamadas:",
+        "imagem": null,
+        "respA": "a) De advertência.",
+        "respB": "b) De regulamentação.",
+        "respC": "c) Luminosas.",
+        "respD": "d) De indicação ou identificação.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Marque a resposta certa: a faixa contínua amarela, separando a pista indica que:",
+        "imagem": null,
+        "respA": "a) A pista é mão única.",
+        "respB": "b) É permitido ultrapassar.",
+        "respC": "c) É proibido ultrapassar.",
+        "respD": "d) Todas as respostas estão corretas.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A mensagem \"use o cinto de segurança\" está inscrita nas placas:",
+        "imagem": null,
+        "respA": "a) Educativas.",
+        "respB": "b) De advertência.",
+        "respC": "c) De regulamentação.",
+        "respD": "d) De serviços auxiliares.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa que indica o local ou ponto de parada dos veículos de transporte coletivo ou individual de passageiros é:",
+        "imagem": null,
+        "respA": "a) Embarque e desembarque.",
+        "respB": "b) Ponto de parada.",
+        "respC": "c) Estacionamento regulamentado.",
+        "respD": "d) Área de estacionamento.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta: a faixa longitudinal amarela e contínua determina:",
+        "imagem": "linha_branca_co_1339715588.jpg",
+        "respA": "a) Permite ultrapassagem.",
+        "respB": "b) Proíbe a ultrapassagem.",
+        "respC": "c) As alternativas A e B são corretas.",
+        "respD": "d) Todas a alternativas são incorretas.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas que têm a função de educar condutores e pedestres quanto ao seu comportamento no trânsito são:",
+        "imagem": null,
+        "respA": "a) De serviços auxiliares.",
+        "respB": "b) De atrativos turisticos.",
+        "respC": "c) Educativas.",
+        "respD": "d) De advertência.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-1 é caracterizada por sua forma e tem...",
+        "imagem": "r-1_1339715689.jpg",
+        "respA": "a) 02 lados.",
+        "respB": "b) 06 lados.",
+        "respC": "c) 10 lados.",
+        "respD": "d) 08 lados.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-29 adverte que no trecho sinalizado...",
+        "imagem": "a-29_1339715896.jpg",
+        "respA": "a) Existem fortes ventos que espalham cascalho.",
+        "respB": "b) Os pneus dos veículos podem causar a projeção de cascalho, colocando em risco a segurança.",
+        "respC": "c) Vai encontrar obras com cascalho.",
+        "respD": "d) Existem cascalhos molhados na via.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-31 adverte:",
+        "imagem": "a-31_1339716300.jpg",
+        "respA": "a) Ciclistas.",
+        "respB": "b) Máquinas de Obras.",
+        "respC": "c) Área com circulação de tratores.",
+        "respD": "d) Trânsito de tratores ou maquinária agrícola.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-34 regulamenta:",
+        "imagem": "r-34_1339716392.jpg",
+        "respA": "a) Proibido estacionamento de bicicletas.",
+        "respB": "b) Circulação exclusiva de bicicletas.",
+        "respC": "c) Bicicletas e motocicletas mantenham-se à direita,",
+        "respD": "d) Estacionamento exclusivo de bicicletas.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa SAU-08 indica:",
+        "imagem": "circulacao_simu_1339716489.png",
+        "respA": "a) Abastecimento.",
+        "respB": "b) Serviço mecânico.",
+        "respC": "c) Borracharia.",
+        "respD": "d) Uso obrigatório de corrente.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Gestos dos agentes de Trânsito - GA: Braços estendidos horizontalmente, com a palma da mão para frente, significa que:",
+        "imagem": "ga-02_1339716897.jpg",
+        "respA": "a) Ordem de parada obrigatória para todos os veículos. Quando executada em interseções, os veículos que já se encontram nela não são obrigados a parar.",
+        "respB": "b) Ordem de serguir.",
+        "respC": "c) Ordem de parada obrigatória para todos os veículos que venham de direções que cortem ortogonalmente a direção indicada pelos braços estendidos qualquer que seja o sentido de seu deslocamento.",
+        "respD": "d) Ordem da diminuição da velocidade.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A marca delimitadora de estacionamento regulamentado para ambulância está identificada na cartela pelo código:",
+        "imagem": null,
+        "respA": "a) MD-06",
+        "respB": "b) MD-07",
+        "respC": "c) MD-05",
+        "respD": "d) MD-04",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As marcas utilizadas para reduzir pontos de conflito entre fluxos de tráfego em uma via, são chamadas de:",
+        "imagem": null,
+        "respA": "a) Áreas neutras.",
+        "respB": "b) Marcas de canalização",
+        "respC": "c) Linhas de bordo.",
+        "respD": "d) Linhas de retenção.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização através de inscrições no solo serve para:",
+        "imagem": null,
+        "respA": "a) Regulamentar as vias preferênciais.",
+        "respB": "b) Reduzir os perigos existentes na via.",
+        "respC": "c) Indicar cruzamento com vias locais.",
+        "respD": "d) Melhorar a percepção do condutor quanto às condições de operação da via.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Em uma via, a inscrição no pavimento (Cruz de Santo André) indica a existência adiante de um cruzamento com:",
+        "imagem": null,
+        "respA": "a) Via preferêncial.",
+        "respB": "b) Ciclovia.",
+        "respC": "c) Via de pedestre.",
+        "respD": "d) Ferrovia.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Linhas, marcações, símbolos e legendas pintadas nas vias são:",
+        "imagem": null,
+        "respA": "a) Placas de advertência.",
+        "respB": "b) Placas de regulamentação.",
+        "respC": "c) Elementos da sinalização horizontal.",
+        "respD": "d) Dispositivos auxiliares de segurança.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A luz do freio do seu veículo está apresentando problema. Nessa situação, você...",
+        "imagem": null,
+        "respA": "a) Sai assim mesmo.",
+        "respB": "b) Procura imediatamente um auto-elétrico.",
+        "respC": "c) Sinaliza de outra forma.",
+        "respD": "d) Desconsidera o fato, pois o freio está normal.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-36 adverte:",
+        "imagem": "a-36_1339717358.jpg",
+        "respA": "a) Área de campismo.",
+        "respB": "b) Animais selvagens.",
+        "respC": "c) Cuidado animais.",
+        "respD": "d) Proibido trânsito de veículos de tração animal.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A PLACA R-23 assinala que os condutores de veículos quando em movimento:",
+        "imagem": "r-23_1339717424.jpg",
+        "respA": "a) É proibido tráfego de veículos automotores.",
+        "respB": "b) Deverão permanecer no acostamento da pista de rolamento.",
+        "respC": "c) Deverão permanecer à direita da pista de rolamento.",
+        "respD": "d) É proibido a ultrapassagem pela direita.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa TIT-01 indica:",
+        "imagem": "tit-01_1339717538.jpg",
+        "respA": "a) Teatro.",
+        "respB": "b) Rodeio.",
+        "respC": "c) Local proibido para veículos.",
+        "respD": "d) Festas populares.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A importância e o objetivo da sinalização está em informar aos usuários da via sobre:",
+        "imagem": null,
+        "respA": "a) Condições da via, restrições impostas ao trânsito e obrigações e proibiçõs no uso da via.",
+        "respB": "b) A situação do trânsito.",
+        "respC": "c) A condição do veículo.",
+        "respD": "d) A proibição de cometer atos de imprudência.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas de sinalização têm por função:",
+        "imagem": null,
+        "respA": "a) Advertir, regulamentar e indicar.",
+        "respB": "b) Regulamentar e educar.",
+        "respC": "c) Advertir e regulamentar.",
+        "respD": "d) Indicar e educar.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização de trânsito é feita por meio de:",
+        "imagem": null,
+        "respA": "a) Placas, semáforos e pintura de solo.",
+        "respB": "b) Marcos, marcas viárias, placas e barreiras.",
+        "respC": "c) Marcas viárias, placas e sinais luminosos.",
+        "respD": "d) Marcas viárias, sinais luminosos, gestos,sons por apitos, placas e dispositivos auxiliares.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A forma de sinalização existente que prevalece sobre as regras de circulação e normas definidas por outros sinais de trânsito são os gestos:",
+        "imagem": null,
+        "respA": "a) Dos condutores de veículos.",
+        "respB": "b) Dos pedestres para executar a travessia da via.",
+        "respC": "c) Dos sinais luminosos.",
+        "respD": "d) Do agente de trânsito.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Chama-se interseção à todo cruzamento:",
+        "imagem": null,
+        "respA": "a) Semaforizado.",
+        "respB": "b) Em nível, entroncamento ou bifurcação.",
+        "respC": "c) Sobre ferrovias.",
+        "respD": "d) Com a forma de rótula.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Uma via caracterizada por interseções em nível, geralmente controlada por semáforo, com acessibilidade aos lotes lindeiros e possibilitando o trânsito entre as regiões da cidade, é uma via:",
+        "imagem": null,
+        "respA": "a) Coletora.",
+        "respB": "b) Local.",
+        "respC": "c) Arterial.",
+        "respD": "d) Rural.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-20b adverte que adiante existe uma:",
+        "imagem": "a-20b_1339719433.jpg",
+        "respA": "a) Descida acentuada.",
+        "respB": "b) Subida sinuosa.",
+        "respC": "c) Subida acentuada.",
+        "respD": "d) Subida com estreitamento de pista.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O condutor, ao trafegar em vias rurais ou vias de trânsito rápido em regiões pouco urbanizadas, pode encontrar placas alertando-o da existência de perigo na via. Estas placas são de:",
+        "imagem": null,
+        "respA": "a) Advertência.",
+        "respB": "b) Regulamentação.",
+        "respC": "c) Atrativos turísticos.",
+        "respD": "d) Indicação.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa que informa ao condutor do veículo a existência, adiante, de um trecho de via perigosa pela irregularidade de sua superfície é:",
+        "imagem": null,
+        "respA": "a) Pista irregular.",
+        "respB": "b) Pista sinuosa.",
+        "respC": "c) Saliência ou lombada.",
+        "respD": "d) Pista escorregadia.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-20A adverte o condutor do veículo da existência adiante de:",
+        "imagem": "a-20a_1339719616.jpg",
+        "respA": "a) Uma área com desmoronamento.",
+        "respB": "b) Uma curva acentuada.",
+        "respC": "c) Uma pista escorregadia.",
+        "respD": "d) Um declive acentuado.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-26 significa:",
+        "imagem": "r-26_1339719681.jpg",
+        "respA": "a) Proibido seguir em frente.",
+        "respB": "b) Siga em frente.",
+        "respC": "c) Sentido proibido.",
+        "respD": "d) Um declive acentuado.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A ordem do agente da autoridade de trânsito identificada pelo código GA-04 significa:",
+        "imagem": "ga-04_1339720122.jpg",
+        "respA": "a) Ordem de parada obrigatória.",
+        "respB": "b) Ordem de convergir à esquerda.",
+        "respC": "c) Diminuir a velocidade.",
+        "respD": "d) Ordem de seguir.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas indicativas TNA-02 a TAR-03 são denominadas:",
+        "imagem": "tna-01_tar-03_1339721161.jpg",
+        "respA": "a) Regulamentação.",
+        "respB": "b) Atrativos turísticos.",
+        "respC": "c) Educativas.",
+        "respD": "d) Advertência.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A ordem do Agente da Autoridade do Trânsito, identificada pelo código GA-05 significa:",
+        "imagem": "ga-05_1339721499.jpg",
+        "respA": "a) Ordem de atenção.",
+        "respB": "b) Ordem de diminuição da velocidade.",
+        "respC": "c) Ordem de parada para veículos ao qual a luz é dirigida.",
+        "respD": "d) Ordem de seguir, para os veículos ao qual a luz é dirigida.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização semafórica de advertência que tem a função de advertir da existência de obstáculo ou situação perigosa compõe-se de:",
+        "imagem": null,
+        "respA": "a) Uma verde e uma vermelha.",
+        "respB": "b) Uma ou duas luzes de cor amarela.",
+        "respC": "c) Uma ou duas de cor vermelha.",
+        "respD": "d) Uma ou duas de cor verde.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-33 indica:",
+        "imagem": "r-33_1339721810.jpg",
+        "respA": "a) Sentido circular da via.",
+        "respB": "b) Circulação regulamentada.",
+        "respC": "c) Interseção em circulo.",
+        "respD": "d) Sentido de circulação na rotatória.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa SAU-12 você entende que existe:",
+        "imagem": "s-7_1339722006.jpg",
+        "respA": "a) Um aeroporto nas proximidades.",
+        "respB": "b) Uma passagem protegida, elevada ou subterrânea, para a travessia da via por pedestres.",
+        "respC": "c) Uma loja de conveniência próxima à via.",
+        "respD": "d) Um restaurante.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-2, abaixo, indica: ",
+        "imagem": "r-2_1339617963.jpg",
+        "respA": "a) Circular no sentido indicado.",
+        "respB": "b) Reduzir a velocidade ou, se necessário, parar seu veículo, dando preferência aos veículos que circulam  pela via preferencial.",
+        "respC": "c) Parar seu veículo e olhar bem o trânsito antes de entrar ou cruzar a via.",
+        "respD": "d) Manter a velocidade igual ou abaixo da velocidade indicada na pista.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa R-19 abaixo, você...",
+        "imagem": "r-19_1339722192.jpg",
+        "respA": "a) Reduz a velocidade e, se necessário, pára seu veículo dando preferência aos demais veículos.",
+        "respB": "b) Mantém velocidade igual ou abaixo da velocidade indicada na placa.",
+        "respC": "c) Circula acima da velocidade indicada na placa.",
+        "respD": "d) Circula somente no sentido indicado, neste caso, para o lado direito.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Marque a opção correta para a placa SAU-10 abaixo:",
+        "imagem": "s-5_1340233123.png",
+        "respA": "a) Serviço médico.",
+        "respB": "b) Hospital.",
+        "respC": "c) Emergência.",
+        "respD": "d) Pronto Socorro.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Subsistemas de sinalização viária que utiliza linhas, marcações, símbolos e legendas:",
+        "imagem": null,
+        "respA": "a) Sinalização horizontal.",
+        "respB": "b) Sinalização de regulamentação.",
+        "respC": "c) Sinalização de advertência.",
+        "respD": "d) Sinalização de indicação.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa abaixo tem formato:",
+        "imagem": "r-1_1340233561.jpg",
+        "respA": "a) Quadriculado.",
+        "respB": "b) Retangular.",
+        "respC": "c) Octogonal.",
+        "respD": "d) Sextavado.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique as placas no desenho abaixo:",
+        "imagem": "marca_alinhamen_1340234195.png",
+        "respA": "a) Dispositivos de canalização.",
+        "respB": "b) Sinalização de alerta.",
+        "respC": "c) Marcadores de perigo.",
+        "respD": "d) Marcadores de alinhamento.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Que sinal regulamenta que o condutor deverá mudar de faixa?",
+        "imagem": "ec1a41b51531230966.png",
+        "respA": "a) IP 01",
+        "respB": "b) IP06",
+        "respC": "c) IP 08",
+        "respD": "d) IP 11",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "É sinalização horizontal que regulamenta a parada obrigatória:",
+        "imagem": "9ff4af581524166621.png",
+        "respA": "a) MT-02",
+        "respB": "b) MT-03",
+        "respC": "c) MT-07",
+        "respD": "d) MT-01",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-12 adverte:",
+        "imagem": "a-12_1340234581.jpg",
+        "respA": "a) Sentido circular obrigatório.",
+        "respB": "b) Interseção em círculo.",
+        "respC": "c) Proibido retomar.",
+        "respD": "d) Passagem de nível sem barreira.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-30c adverte:",
+        "imagem": "a-30c_1340234977.jpg",
+        "respA": "a) Trânsito compartilhado por ciclistas e pedestres.",
+        "respB": "b) Ciclistas à esquerda, pedestres à direita.",
+        "respC": "c) Área escolar.",
+        "respD": "d) Trânsito de ciclistas.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique a marca viária de código MD 01:",
+        "imagem": "md-01_1340235227.png",
+        "respA": "a) Delimitadora de estacionamento.",
+        "respB": "b) Delimitadora de ponto de parada em faixa de estacionamento.",
+        "respC": "c) Delimitadora de ponto de parada em faixa de trânsito.",
+        "respD": "d) De regulamentação.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Identifique o significado do gesto do condutor expresso no desenho:",
+        "imagem": "circulacao_simu_1340235349.png",
+        "respA": "a) Dobrar à direita.",
+        "respB": "b) Dobrar à esquerda.",
+        "respC": "c) Motoristas a postos.",
+        "respD": "d) Parar.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Na sinalização horizontal, a cor utilizada para a regulamentação de fluxos de sentidos opostos é:",
+        "imagem": null,
+        "respA": "a) Preta.",
+        "respB": "b) Amarela.",
+        "respC": "c) Branca.",
+        "respD": "d) Azul.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "É finalidade do dispositivo no desenho abaixo:",
+        "imagem": "painel_eletroni_1340236321.png",
+        "respA": "a) Advertir sobre situação inesperada à frente.",
+        "respB": "b) Transmitir mensagens educativas.",
+        "respC": "c) Regulamentar a velocidade em função do volume de veículos.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Alertam aos condutores a natureza do perigo, as placas de...",
+        "imagem": null,
+        "respA": "a) Advertência.",
+        "respB": "b) Serviços auxiliares.",
+        "respC": "c) Indicação.",
+        "respD": "d) Regulamentação.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As formas: circular, retangular e quadrada, conforme o desenho abaixo são, respectivamente:",
+        "imagem": "questao_1688_1340237009.png",
+        "respA": "a) Indicativa, Regulamentação e Advertência.",
+        "respB": "b) Advertência, Regulamentação e Educativa.",
+        "respC": "c) Regulamentação, Indicação e Advertência.",
+        "respD": "d) Regulamentação, Advertência e Educativa.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da situação ilustrada na figura abaixo, o condutor do veículo 1 poderá parar:",
+        "imagem": "circulacao_simu_1340237521.png",
+        "respA": "a) Para realizar operações de carga e descarga de mercadorias.",
+        "respB": "b) Por cerca de 5 minutos, desde que o condutor permaneça no veículo.",
+        "respC": "c) Pelo tempo estritamente necessário para embarque e desembarque de passageiros.",
+        "respD": "d) Por tempo indeterminado.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa A-5A, o condutor entende que irá encontrar:",
+        "imagem": "a-5a_1339721757.jpg",
+        "respA": "a) Uma depressão na pista de rolamento.",
+        "respB": "b) Saliência ou lombada à frente.",
+        "respC": "c) Duas curvas sucessivas em S, sendo a primeira para a esquerda e a segunda para direita.",
+        "respD": "d) Duas curvas sucessivas em S, sendo uma para a direita e outra para a esquerda.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa A-8, você entende que a mensagem é intercessão em \"T\"...",
+        "imagem": "a-8_1340237759.jpg",
+        "respA": "a) Com entroncamento oblíquo à esquerda.",
+        "respB": "b) Sem semáforo.",
+        "respC": "c) Com semáforo.",
+        "respD": "d) Com passagem de escolares.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Qualquer uma das áreas longitudinais em que a pista pode ser subdividida, sinalizada ou não por marcas viárias longitudinais com largura para permitir a circulação de veículos automotores denomina-se:",
+        "imagem": null,
+        "respA": "a) Faixa de domínio.",
+        "respB": "b) Faixa de Trãnsito.",
+        "respC": "c) Acostamento.",
+        "respD": "d) Ciclovia.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As linhas seccionadas ou contínuas, as faixas para pedestres, os sinais e as palavras inscritas no solo, são marcas que caracterizam a sinalização...",
+        "imagem": null,
+        "respA": "a) Vertical.",
+        "respB": "b) Horizontal.",
+        "respC": "c) Por gestos.",
+        "respD": "d) Por barreiras.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa R-7 você entende:",
+        "imagem": "r-7_1340237877.jpg",
+        "respA": "a) Proibida a entrada ou a passagem de veículos de carga e descarga na área ou via sinalizada.",
+        "respB": "b) Proibida a circulação de pedestres na via ou área sinalizada.",
+        "respC": "c) Proibido estacionar em fila dupla.",
+        "respD": "d) Proibida a manobra de ultrapassagem no trecho regulamentado.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa de regulamentação utilizada nas áreas de segurança é:",
+        "imagem": "r-6c_1341275400.jpg",
+        "respA": "a) Proibido estacionar.",
+        "respB": "b) Proibido parar e estacionar.",
+        "respC": "c) Permitido trânsito de pedestres.",
+        "respD": "d) Proibido trânsito de veículos de tração animal.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas que tem a finalidade de informar aos usuários as restrições no uso das vias são de:",
+        "imagem": null,
+        "respA": "a) Educação.",
+        "respB": "b) Indicação.",
+        "respC": "c) Regulamentação.",
+        "respD": "d) Advertência.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "As placas de regulamentação têm por finalidade:",
+        "imagem": null,
+        "respA": "a) Educar os condutores.",
+        "respB": "b) Informar aos usuários as condições, proibições ou restrições no uso da via.",
+        "respC": "c) Advertir pedestres.",
+        "respD": "d) Indicar sentidos de direção.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa TIT-06 indica:",
+        "imagem": "tit-05_1340282584.png",
+        "respA": "a) Animal selvagem.",
+        "respB": "b) Exposição agropecuária.",
+        "respC": "c) Planetário.",
+        "respD": "d) Zoossafari.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Um sinal semáforo identificado pelo código SS-01 indica:",
+        "imagem": "ss01_1340283697.png",
+        "respA": "a) Controle de fluxo de pedestre.",
+        "respB": "b) Controle de fluxo em obras.",
+        "respC": "c) Controle de fluxo em praças de pedágio.",
+        "respD": "d) Controle de fluxo de veículos.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-48 indica:",
+        "imagem": "a-48_1341267480.jpg",
+        "respA": "a) Largura limitada.",
+        "respB": "b) Comprimento limitado.",
+        "respC": "c) Peso bruto limitado.",
+        "respD": "d) Peso limitado por eixo.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-13 indica que é proibido:",
+        "imagem": "r-13_1341267560.jpg",
+        "respA": "a) Trânsito de caminhões.",
+        "respB": "b) Ultrapassar máquinas agrícolas.",
+        "respC": "c) Trânsito de veículos automotores.",
+        "respD": "d) Trânsito de tratores e máquinas de obras.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa SAU-06, você entende que:",
+        "imagem": "s-2_1341267619.jpg",
+        "respA": "a) Na área sinalizada, você pode estacionar seu veículo.",
+        "respB": "b) Encontrará um telefone.",
+        "respC": "c) Existe um aeroporto nas proximidades.",
+        "respD": "d) Existe um local com estabelecimento onde você pode dormir.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A finalidade da utilização, na via pública, de cones de cores branca, refletiva e laranja é:",
+        "imagem": null,
+        "respA": "a) Bloquear e/ou canalizar o trânsito.",
+        "respB": "b) Proteger pedestres, trabalhadores de obras e equipamentos.",
+        "respC": "c) Todas as afirmativas estão corretas.",
+        "respD": "d) Alertar os condutores para situações de emergências ou perigo.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A ordem do Agente da Autoridade de Trânsito identificada pelo código GA-01 significa:",
+        "imagem": "circulacao_simu_1341268975.png",
+        "respA": "a) Ordem de retorno para os veículos que estão à esquerda.",
+        "respB": "b) Ordem de parada obrigatória para todos os veículos.",
+        "respC": "c) Ordem de diminuição da velocidade para todos os veículos.",
+        "respD": "d) Ordem de seguir para todos os veículos.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa TIT-04 indica:",
+        "imagem": "tit-04_1341268843.jpg",
+        "respA": "a) Artesanato.",
+        "respB": "b) Zoológico.",
+        "respC": "c) Área de descanso.",
+        "respD": "d) Gruta.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta: se você presenciar um acidente envolvendo veículo de carga perigosa, deverá:",
+        "imagem": null,
+        "respA": "a) Tentar conter o vazamento do produto.",
+        "respB": "b) Posicionar-se o mais próximo possível.",
+        "respC": "c) Afastar-se e chamar o resgate imediatamente.",
+        "respD": "d) Retirar o motorista ou vítimas do local.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-25c indica:",
+        "imagem": "r-25c_1341269533.jpg",
+        "respA": "a) Proibido mudar de faixa de trânsito.",
+        "respB": "b) Siga em frente ou vire à esquerda.",
+        "respC": "c) Proibido retornar.",
+        "respD": "d) Duplo sentido de circulação.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização semafórica SS-05, indica ao condutor que:",
+        "imagem": "ss05_1341269956.png",
+        "respA": "a) Ele pode virar à direita ou à",
+        "respB": "b) SS-07.",
+        "respC": "c) SS-10.",
+        "respD": "d) SS-05.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O sinal semafórico, identificado pelo código SS-02 é de uso exclusivo em:",
+        "imagem": "ss02_1341270190.png",
+        "respA": "a) Controles de acesso específico, tais como praças de pedágio e balsa.",
+        "respB": "b) Controles de faixa.",
+        "respC": "c) Controles de pedestres e ciclistas.",
+        "respD": "d) Controles de fluxos em obras.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Ao ser ultrapassado em via de acostamento, deve:",
+        "imagem": null,
+        "respA": "a) Deslocar-se, obrigatóriamente, para o acostamento, para que o veículo possa efetuar a ultrapassagem com segurança.",
+        "respB": "b) Desviar-se para a direita, reduzir ou manter a velocidade.",
+        "respC": "c) Reduzir bastante a velocidade.",
+        "respD": "d) Não se preocupar, porque a responsabilidade é de quem ultrapassa.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Nos locais disciplinados por sinalização eletro-automática (semáforo), o avanço do sinal vermelho é considerado:",
+        "imagem": null,
+        "respA": "a) Proibido, mas dependendo do movimento de veículos no local, será permitido.",
+        "respB": "b) Proibido em quaisquer circunstâncias.",
+        "respC": "c) Permitido apenas de madrugada, quando não existe fiscalização.",
+        "respD": "d) Permitido, desde que seja feito com segurança.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-1A adverte ao condutor do veículo que à frente:",
+        "imagem": "a-1a_1341270457.jpg",
+        "respA": "a) Deverá deparar-se com uma entrada à esquerda.",
+        "respB": "b) Deverá virar à esquerda.",
+        "respC": "c) Haverá, simplesmente, uma curva à esquerda.",
+        "respD": "d) Deverá deparar-se com uma curva acentuada à esquerda.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-35a indica:",
+        "imagem": "r-35a_1341270525.jpg",
+        "respA": "a) Ciclista, transite à esquerda.",
+        "respB": "b) Ciclista, transite à direita.",
+        "respC": "c) Proibido trânsito de bicicleta.",
+        "respD": "d) Circulação esclusiva de bicicleta.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa \"Ponto de parada\" indica:",
+        "imagem": null,
+        "respA": "a) Estacionamento de táxi.",
+        "respB": "b) Parada de veículos de transporte coletivo ou individual de passageiros.",
+        "respC": "c) Carga e descarga de mercadorias.",
+        "respD": "d) Parada de veículos de autoridades.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "O símbolo de cor branca, inscrito no pavimento, indica:",
+        "imagem": "ip-11_1341270776.png",
+        "respA": "a) Cruzamento rodo-ferroviário.",
+        "respB": "b) Cruzamento com via preferêncial.",
+        "respC": "c) Cruzamento de uso exclusivo do ciclista.",
+        "respD": "d) Cruzamento proibido.",
+        "correta": "A",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Ao aproximar-se de um cruzamento não sinalizado, surgindo um veículo a sua direita, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Usar atenção difusa e passar.",
+        "respB": "b) Não se preocupar, se estiver transitando em uma avenida.",
+        "respC": "c) Parar o veículo, respeitando a preferência.",
+        "respD": "d) Diminuir a velocidade.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização realizada através de luzes de cores pré-estabelecidas é denominada:",
+        "imagem": null,
+        "respA": "a) Regulamentação.",
+        "respB": "b) Especial de advertência de obra.",
+        "respC": "c) Sinal sonoro.",
+        "respD": "d) Semáforo de regulamentação.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A sinalização horizontal é classificada em:",
+        "imagem": null,
+        "respA": "a) Marcas transversais e semáforo.",
+        "respB": "b) Inscrições no pavimento e placas de regulamentação.",
+        "respC": "c) Marcas longitudinais, transversais, canalização, delimitação e controle de estacionamento e/ou parada, inscrições no pavimento.",
+        "respD": "d) Marcas longitudinais e placas de advertência.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa R-32 indica:",
+        "imagem": "r-32_1341271096.jpg",
+        "respA": "a) Proibido trânsito de veículos pesados.",
+        "respB": "b) Estacionamento regulamentado.",
+        "respC": "c) Ambulância.",
+        "respD": "d) Circulação exclusiva de ônibus.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A marca de canalização, identificada pelo código MC-04 identifica:",
+        "imagem": "mc-04_1341273609.png",
+        "respA": "a) Movimento em retorno com faixa adicional para o movimento.",
+        "respB": "b) Que a pista passa a ser dividida por um canteiro central com fluxo de tráfego no mesmo sentido de direção.",
+        "respC": "c) Que a pista passa a ser dividida por um canteiro central com fluxo de tráfego em sentido duplo de direção.",
+        "respD": "d) Que a conversão à esquerda é permitida.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A placa A-24 indica que, à frente, o trecho sinalizado:",
+        "imagem": "a-24_1341273745.jpg",
+        "respA": "a) É em pista com ponte móvel.",
+        "respB": "b) Encontra-se em obras de execução ou recuperação no leito da via.",
+        "respC": "c) Encontra-se uma ponte estreita.",
+        "respD": "d) Encontra-se livre, devendo o condutor do veículo manter velocidade constante.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Diante da placa SAU-10 existe:",
+        "imagem": "s-5_1341273924.png",
+        "respA": "a) Um local de sanitários.",
+        "respB": "b) Um cemitério próximo à via.",
+        "respC": "c) Um posto de socorro médico, junto ou próximo à via.",
+        "respD": "d) Um local com oficina mecânica.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Pela ordem, as sinalizações feitas pelos gestos dos condutores de veículos indicam aos demais usuários:",
+        "imagem": "circulacao_simu_1341274616.png",
+        "respA": "a) Autorizar a ultrapassagem, parar e virar à esquerda.",
+        "respB": "b) Dobrar à esquerda, virar à direita e seguir em frente.",
+        "respC": "c) Diminuir a marcha ou parar, dobrar à direita e dobrar à esquerda.",
+        "respD": "d) Dobrar à esquerda, seguir em frente.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Quando um policial de trânsito estiver com o braço levantado com movimento de antebraço da frente para a retaguarda e a palma da mão voltada para trás, está indicando para os condutores a ordem de :",
+        "imagem": null,
+        "respA": "a) Retornar.",
+        "respB": "b) Parada Obrigatória.",
+        "respC": "c) Seguir em frente.",
+        "respD": "d) Diminuir a velocidade.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Analise as placas abaixo: pela ordem, advertem ao condutor da existência de:",
+        "imagem": "placas_adv_3_1341275079.png",
+        "respA": "a) Lombada, pista irregular, cruzamento de vias.",
+        "respB": "b) Depressão, estreitamento de pista à direita, via lateral à direita.",
+        "respC": "c) Passagem de nível, ponte móvel, via lateral.",
+        "respD": "d) Pista irregular, ponte estreita, entroncamento à direita.",
+        "correta": "B",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Pela ordem, as placas de sinalização, respectivamente, advertem:",
+        "imagem": "placas_adv_2_1341275312.png",
+        "respA": "a) Confluência à esquerda, estreitamente de pista.",
+        "respB": "b) Curva à esquerda, bifurcação ao centro.",
+        "respC": "c) Curva acentuada em S a esquerda e ponte estreita.",
+        "respD": "d) Curva à esquerda, ponte estreita.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "A lina dupla e amarela proibe ao condutor:",
+        "imagem": null,
+        "respA": "a) Diminuir a velocidade.",
+        "respB": "b) Aumentar a velocidade.",
+        "respC": "c) Ultrapassar outro veículo.",
+        "respD": "d) Estacionar o veículo.",
+        "correta": "C",
+        "modulo" : "sinalizacao"
+    },
+    {
+        "pergunta": "Quando há duas faixas demarcatórias amarelas e contínuas em uma rodovia, significa que:",
+        "imagem": null,
+        "respA": "a) É permitida a ultrapassagem dos veículos que vêm pela direita.",
+        "respB": "b) Somente para os veículos que vêm pela esquerda é permitida a ultrapassagem.",
+        "respC": "c) A ultrapassagem é permitida para os veículos que vêm em ambos os sentidos.",
+        "respD": "d) É proibida a ultrapassagem em ambos os sentidos.",
+        "correta": "D",
+        "modulo" : "sinalizacao"
+    }
+]

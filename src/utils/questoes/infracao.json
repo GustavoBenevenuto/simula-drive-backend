@@ -1,0 +1,1142 @@
+[
+    {
+        "pergunta": "As penalidades serão impostas:",
+        "imagem": null,
+        "respA": "a) Ao proprietário do veículo.",
+        "respB": "b) Ao proprietário e ao condutor.",
+        "respC": "c) Aos pais ou responsáveis pelo condutor.",
+        "respD": "d) Ao proprietário, ao condutor, ao embarcador e ao transportador.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "A  Infração \"avançar sinal vermelho no semáforo\", são computados quantos pontos na CNH?",
+        "imagem": null,
+        "respA": "a) 07 ( Sete).",
+        "respB": "b) 05 (Cinco).",
+        "respC": "c) 04 (Quatro).",
+        "respD": "d) 03 (Três).",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O pagamento da multa poderá ser efetuada até a data do vencimento expressa na notificação, por:",
+        "imagem": null,
+        "respA": "a) 20 porcento do seu valor.",
+        "respB": "b) 50 porcento do seu valor.",
+        "respC": "c) 90 porcento do seu valor.",
+        "respD": "d) 80 porcento do seu valor.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "As penalidades atribuídas aos crimes cometidos na direção do veículo automotor não são agravadas quando o condutor dirigir:",
+        "imagem": null,
+        "respA": "a) Sem possuir pemissão para dirigir ou  Carteira Nacional de Habilitação.",
+        "respB": "b) Utilizando o veículo sem placas, com placas falsas ou adulteradas.",
+        "respC": "c) Com permissão para dirigir ou Carteira Nacional de  Habilitação de categoria diferente do veículo.",
+        "respD": "d) Com a Carteira Nacional de Habilitação vencida a mais de trinta dias.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O condutor que não guardar distância de segurança entre o veículo que dirigir e o que segue imediatamente à sua frente, estará cometendo uma infração de natureza:",
+        "imagem": null,
+        "respA": "a) Média.",
+        "respB": "b) Gravíssíma.",
+        "respC": "c) Leve.",
+        "respD": "d) Grave.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Buzinar em locais e horários proibidos por sinalização acarretará:",
+        "imagem": null,
+        "respA": "a) Advertência por escrito.",
+        "respB": "b) Multa leve.",
+        "respC": "c) Multa grave, retenção do veículo.",
+        "respD": "d) Recolhimento da habilitação.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Não é crime de trânsito previsto no CTB:",
+        "imagem": null,
+        "respA": "a) Lesão corporal culposa.",
+        "respB": "b) Homicídio culposo.",
+        "respC": "c) Omissão de socorro.",
+        "respD": "d) Dirigir em excesso de velocidade.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir o veículo segurando ou manuseando o telefone celular, é uma infração________, com o valor de__________ e serão computados_______pontos na CNH.",
+        "imagem": null,
+        "respA": "a) Leve; R$88,38; 3 pontos;",
+        "respB": "b) Média; R$130,16; 4 pontos;",
+        "respC": "c) Grave; R$195,23; 5 pontos;",
+        "respD": "d) Gravíssima; R$293,47; 7 pontos;",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "A penalidade de suspensão do direito de dirigir será aplicada ao infrator que reincidir no período de doze meses, pelo prazo máximo de:",
+        "imagem": null,
+        "respA": "a) 6 meses.",
+        "respB": "b) 1 ano.",
+        "respC": "c) 2 anos.",
+        "respD": "d) 12 meses.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Avançar sinal vermelho do semáforo ou avançar sinal de parada obrigatória, é infração:",
+        "imagem": null,
+        "respA": "a) Leve.",
+        "respB": "b) Média.",
+        "respC": "c) Grave.",
+        "respD": "d) Gravíssima.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Atirar do veículo ou abandonar na via objetos ou substâncias, é infração:",
+        "imagem": null,
+        "respA": "a) Leve.",
+        "respB": "b) Média.",
+        "respC": "c) Grave.",
+        "respD": "d) Gravíssima.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Deixar o condutor ou passageiro de usar cinto de segurança, é infração:",
+        "imagem": null,
+        "respA": "a) Leve.",
+        "respB": "b) Média.",
+        "respC": "c) Grave.",
+        "respD": "d) Gravíssima.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Na infração \"Estacionar o veículo afastado da guia da calçada (meio fio) a mais de um metro\", são computados os seguintes pontos:",
+        "imagem": null,
+        "respA": "a) (07) sete.",
+        "respB": "b) (05) cinco.",
+        "respC": "c) (04) quatro.",
+        "respD": "d) (03) três.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O julgamento das penalidades de trânsito se dará através de um(a):",
+        "imagem": null,
+        "respA": "a) Identificação do infrator.",
+        "respB": "b) Notificação de autuação.",
+        "respC": "c) Processo administrativo.",
+        "respD": "d) Auto de infração.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir com falta de atenção e os cuidados indispensáveis à segurança do trânsito é infração punível por:",
+        "imagem": null,
+        "respA": "a) Advertência escrita pelo Diretor do DETRAN.",
+        "respB": "b) Advertência oral.",
+        "respC": "c) Multa e apreensão da CNH.",
+        "respD": "d) Multa.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O veículo que, sem autorização, transitar com suas dimensões ou carga superiores aos limites estabelecidos na sinalização, está sujeito a:",
+        "imagem": null,
+        "respA": "a) Remoção do veículo.",
+        "respB": "b) Apreensão de veículo.",
+        "respC": "c) Retenção do veículo e multa.",
+        "respD": "d) Apreensão da CNH.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O uso incorreto do pisca alerta, luz baixa e alta de forma intermitente, é infração:",
+        "imagem": null,
+        "respA": "a) Leve.",
+        "respB": "b) Média.",
+        "respC": "c) Grave.",
+        "respD": "d) Gravíssima.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "A responsabilidade pelas infrações na direção dos veículos cabe:",
+        "imagem": null,
+        "respA": "a) Ao proprietário do veículo.",
+        "respB": "b) Ao proprietário do veículo e ao condutor.",
+        "respC": "c) Aos pais ou responsáveis pelo condutor.",
+        "respD": "d) Ao condutor.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando o condutor ultrapassar pela contramão outro veículo, nas curvas e aclives sem visibilidade suficiente, será punido com:",
+        "imagem": null,
+        "respA": "a) Retenção do veículo e multa.",
+        "respB": "b) Remoção do veículo e multa.",
+        "respC": "c) Recolhimento do veículo ao depósito do DETRAN.",
+        "respD": "d) Multa.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O veículo que transitar com carga excedente à  sua dimensão sem a devida autorização e sinalização, está sujeito a:",
+        "imagem": null,
+        "respA": "a) Remoção do veículo.",
+        "respB": "b) Recolhimento do veículo.",
+        "respC": "c) Retenção do veículo e multa.",
+        "respD": "d) Recolhimento da Carteira Nacional de Habilitação.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando o condutor estacionar o veículo nos viadutos, pontes e túneis será punido com:",
+        "imagem": null,
+        "respA": "a) Retenção do veículo.",
+        "respB": "b) Remoção do veículo e multa.",
+        "respC": "c) Multa, apenas.",
+        "respD": "d) Recolhimento do CRV e multa.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "A remoção do silenciador de um veículo:",
+        "imagem": null,
+        "respA": "a) Caracteriza uma infração grave.",
+        "respB": "b) Caracteriza uma infração gravíssima.",
+        "respC": "c) Caracteriza uma infração leve.",
+        "respD": "d) Caracteriza uma infração moderada.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando o ato de infração será arquivado e seu registro julgado insubsistente (sem valor)?",
+        "imagem": null,
+        "respA": "a) Quando assim entender o agente de trânsito.",
+        "respB": "b) Quando o infrator for menor de 18 anos.",
+        "respC": "c) Quando a autuação for irregular ou se, no prazo de trinta dias, não for expedida a notificação.",
+        "respD": "d) Quando a notificação for devolvida por desatualização de endereço.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir veículo com a habilitação com mais de trinta dias vencida, é infração:",
+        "imagem": null,
+        "respA": "a) Grave.",
+        "respB": "b) Gravíssíma.",
+        "respC": "c) Média.",
+        "respD": "d) Leve.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Em locais de trânsito de pedestres, não reduzir a velocidade é considerada uma infração:",
+        "imagem": null,
+        "respA": "a) Leve.",
+        "respB": "b) Grave.",
+        "respC": "c) Gravíssima.",
+        "respD": "d) Não é infração.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir sob o efeito de álcool ou entorpecente é considerada uma infração:",
+        "imagem": null,
+        "respA": "a) Moderada",
+        "respB": "b) Ultrapassada",
+        "respC": "c) Gravíssima",
+        "respD": "d) Média",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir ou transportar passageiro sem cinto de segurança é considerada uma infração:",
+        "imagem": null,
+        "respA": "a) Média.",
+        "respB": "b) Leve.",
+        "respC": "c) Grave.",
+        "respD": "d) Gravíssima.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir com CNH ou PPD de categoria diferente da do veículo que esteja conduzindo, terá como punição e sofrerá a medida administrativa:",
+        "imagem": null,
+        "respA": "a) Apenas multa.",
+        "respB": "b) Multa (2 vezes) e retenção do veículo.",
+        "respC": "c) Advertência por escrito ao proprietário do veículo.",
+        "respD": "d) Apreensão e cassação da Carteira Nacional de Habilitação.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir com falta de atenção e os cuidados indispensáveis à segurança do trânsito é infração punível por:",
+        "imagem": null,
+        "respA": "a) Advertência escrita pelo Diretor do DETRAN.",
+        "respB": "b) Advertência oral.",
+        "respC": "c) Multa e apreensão da CNH.",
+        "respD": "d) Multa.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando o condutor circular com o veículo danificando a via, suas instalações e equipamentos,  será punido com:",
+        "imagem": null,
+        "respA": "a) Remoção do veículo.",
+        "respB": "b) Multa e retenção do veículo.",
+        "respC": "c) Apreensão do veículo.",
+        "respD": "d) Multa e remoção do veículo.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Após a devida constatação da condução do veículo sob o efeito do alcool, será lavrado o auto de infração e adotadas as providências e:",
+        "imagem": null,
+        "respA": "a) Medidas judiciais.",
+        "respB": "b) Medidas paliativas.",
+        "respC": "c) Medidas administrativas previstas no CTB.",
+        "respD": "d) Todas as alternativas acima estão corretas.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "A suspensão do direito de dirigir e a cassação da CNH prescrevem em:",
+        "imagem": null,
+        "respA": "a) 2 anos.",
+        "respB": "b) 3 anos.",
+        "respC": "c) 4 anos.",
+        "respD": "d) 5 anos.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Deixar de dar preferência de passagem a veículo que vier pela direita em interseção não sinalizada é considerado infração de natureza:",
+        "imagem": null,
+        "respA": "a) Leve.",
+        "respB": "b) Média.",
+        "respC": "c) Grave.",
+        "respD": "d) Gravíssima.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "São penalidades aplicadas aos infratores:",
+        "imagem": null,
+        "respA": "a) Advertência por escrito.",
+        "respB": "b) Multa.",
+        "respC": "c) Suspensão do direito de dirigir.",
+        "respD": "d) Todas afirmativas estão corretas.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O infrator contumaz, se apanhado, será submetido:",
+        "imagem": null,
+        "respA": "a) Ao teste de alcoolemia.",
+        "respB": "b) À frequência obrigatória em curso de reciclagem.",
+        "respC": "c) Ao exame de direção veicular.",
+        "respD": "d) Ao exame médicos e psicológicos.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Ser flagrado dirigindo com a velocidade superior a 50% do permitido acarretará ao condutor a(s) seguinte(s) penalidade(s) indicadas no CTB:",
+        "imagem": null,
+        "respA": "a) Advertência por escrito.",
+        "respB": "b) Multa e suspensão do direito de dirigir.",
+        "respC": "c) Multa.",
+        "respD": "d) Multa 3(x) e suspensão do direito de dirigir",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O tipo de infração, o local, a data e a hora, a identificação do agente entre outros, devem constar:",
+        "imagem": null,
+        "respA": "a) Do processo administrativo.",
+        "respB": "b) Das medidas administrativas.",
+        "respC": "c) Do auto de infração.",
+        "respD": "d) Das penalidades.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Sobre aplicação das penalidades, verifique qual das alternativas abaixo é incorreta:",
+        "imagem": null,
+        "respA": "a) Serão impostas ao condutor, ao proprietário do veículo ao embarcador e ao transportador.",
+        "respB": "b) Não sendo imediata a identificação do infrator, o proprietário terá 30 dias de prazo para apresentá-lo.",
+        "respC": "c) Não sendo imediata identificação do infrator, o proprietário terá 15 dias de prazo para apresentá-lo.",
+        "respD": "d) A penalidade de multa poderá ser transformada em advertência por escrito.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir o veículo usando calçado que não se firme nos pés ou comprometa a utilização dos pedais, é infração:",
+        "imagem": null,
+        "respA": "a) Leve.",
+        "respB": "b) Média.",
+        "respC": "c) Grave.",
+        "respD": "d) Gravíssima.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Penalidade aplicada ao candidato encontrado dirigindo sem a companhia do instrutor:",
+        "imagem": null,
+        "respA": "a) Cassação da LADV por 6 meses.",
+        "respB": "b) Suspensão do direito de dirigir.",
+        "respC": "c) Suspensão da LADV por 6 meses.",
+        "respD": "d) Apreensão da LADV por 6 meses.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "É infração grave:",
+        "imagem": null,
+        "respA": "a) Conduzir os veículos sem os documentos de porte obrigatório.",
+        "respB": "b) Estacionar veículo no passeio ou sobre a faixa de pedestres.",
+        "respC": "c) Conduzir veículo com dispositivo anti-radar.",
+        "respD": "d) Avançar o sinal de parada obrigatória.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Advertência por escrito e frequência obrigatória em curso de reciclagem são consideradas:",
+        "imagem": null,
+        "respA": "a) Infrações de trânsito.",
+        "respB": "b) Recurso administrativo.",
+        "respC": "c) Penalidades.",
+        "respD": "d) Medidas administrativas.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir um veículo com a validade da CNH vencida há mais de 30 dias, caracteriza uma infração:",
+        "imagem": null,
+        "respA": "a) Gravíssima, com multa e remoção do veículo.",
+        "respB": "b) Grave, com multa e retenção do veículo.",
+        "respC": "c) Gravíssima, com recolhimento da CNH e retenção do veículo.",
+        "respD": "d) Gravíssima com multa somente.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Deixar de dar preferência de passagem em interseção não sinalizada é infração:",
+        "imagem": null,
+        "respA": "a) Gravíssima.",
+        "respB": "b) Grave.",
+        "respC": "c) Média.",
+        "respD": "d) Leve.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir com falta de atenção e os cuidados indispensáveis à segurança do trânsito é infração ___ punível por ___:",
+        "imagem": null,
+        "respA": "a) Advertência escrita pelo diretor do DETRAN.",
+        "respB": "b) Advertência oral.",
+        "respC": "c) Grave, multa e apreensão do veículo.",
+        "respD": "d) Leve, multa.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "A cada infração cometida, de natureza grave, são computados os seguintes números de pontos:",
+        "imagem": null,
+        "respA": "a) 5.",
+        "respB": "b) 7.",
+        "respC": "c) 3.",
+        "respD": "d) 4.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "No auto de infração não é obrigatório constar:",
+        "imagem": null,
+        "respA": "a) O tipo de infração.",
+        "respB": "b) O local, a data e a hora.",
+        "respC": "c) A marca do veículo.",
+        "respD": "d) O prontuário do condutor.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Qual prazo tem o proprietário para identificar o infrator?",
+        "imagem": null,
+        "respA": "a) 15 dias.",
+        "respB": "b) 30 dias.",
+        "respC": "c) 40 dias.",
+        "respD": "d) 60 dias.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Assinale a alternativa que completa a questão: Ao _____ caberá sempre a responsabilidade pela infração referente a características e componentes agregados do veículo, habilitação legal e compatível de seus condutores, quando esta for exigida.",
+        "imagem": null,
+        "respA": "a) Transportador.",
+        "respB": "b) Proprietário.",
+        "respC": "c) Condutor.",
+        "respD": "d) Passageiro.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir veículo com carteira nacional de habilitação ou permissão para dirigir de categoria diferente da do veículo que esteja conduzindo, é infração _____  tendo como medida administrativa ___.",
+        "imagem": null,
+        "respA": "a) Grave -  Retenção do veículo.",
+        "respB": "b) Grave -  Recolhimento do documento de habilitação.",
+        "respC": "c) Gravíssima - Retenção do veículo.",
+        "respD": "d) Gravíssima -  Recolhimento do documento da habilitação.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Em uma rodovia cuja velocidade máxima permitida é de 80km/h, foi registrada por instrumento eletrônico, um condutor dirigindo seu veículo a velocidade de 90km/h. Esse condutor cometeu infração de natureza:",
+        "imagem": null,
+        "respA": "a) Gravíssima.",
+        "respB": "b) Média.",
+        "respC": "c) Leve.",
+        "respD": "d) Grave.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "As responsabilidades pelas infrações referente a atos praticados na direção dos veículos cabe:",
+        "imagem": null,
+        "respA": "a) Ao proprietário do veículo.",
+        "respB": "b) Ao proprietário do veículo e do condutor.",
+        "respC": "c) Aos pais ou responsáveis pelo condutor.",
+        "respD": "d) Ao condutor.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Transitar em velocidade incompatível com a segurança diante de escolas ou onde haja movimentação de pedestres, é infração que tem como penalidade:",
+        "imagem": null,
+        "respA": "a) Suspensão do direito de dirigir e multa.",
+        "respB": "b) Multa.",
+        "respC": "c) Retenção do veículo e multa.",
+        "respD": "d) Advertência.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Qual pontuação refere-se a sua infração:",
+        "imagem": null,
+        "respA": "a) Infração Leve 5 pontos.",
+        "respB": "b) Infração Média 4 pontos.",
+        "respC": "c) Infração gravíssima 9 pontos.",
+        "respD": "d) Infração grave 7 pontos.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando o condutor estacionar o veículo junto aos pontos de embarque e desembarque de coletivo  devidamente sinalizado, será punido como:",
+        "imagem": null,
+        "respA": "a) Retenção do veículo e multa.",
+        "respB": "b) Retenção da CNH e do veículo.",
+        "respC": "c) Apreensão da CNH e Multa.",
+        "respD": "d) Remoção do veículo e multa.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Conduzir o veículo sem os documentos de porte obrigatório, acarretará:",
+        "imagem": null,
+        "respA": "a) Multa e remoção do veículo.",
+        "respB": "b) Multa e retenção do veículo para regularização.",
+        "respC": "c) Multa e apreensão da CNH.",
+        "respD": "d) Multa apenas.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando o condutor usar a buzina sucessivamente, a qualquer pretexto, estará sujeito à infração e à penalidade...",
+        "imagem": null,
+        "respA": "a) Gravíssima e multa.",
+        "respB": "b) Média e multa.",
+        "respC": "c) Grave e multa.",
+        "respD": "d) Leve e multa.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Um condutor está dirigindo o veículo e realizando uma cobrança de tarifa ao mesmo tempo. Com isso, ele está cometendo uma infração:",
+        "imagem": null,
+        "respA": "a) Leve.",
+        "respB": "b) Média.",
+        "respC": "c) Grave.",
+        "respD": "d) Gravissíma.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "As infrações decorrentes de atos praticados na direção do veículo automotor por condutor inabilitado, é de responsabilidade do:",
+        "imagem": null,
+        "respA": "a) Condutor do veículo.",
+        "respB": "b) Proprietário do veículo.",
+        "respC": "c) Proprietário e condutor do veículo concomitantemente.",
+        "respD": "d) Transportador e embarcador.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Aplicada a penalidade, será expedida ao infrator:",
+        "imagem": null,
+        "respA": "a) Intimação.",
+        "respB": "b) Notificação.",
+        "respC": "c) Citação.",
+        "respD": "d) Extrato de Multa.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Na infração, dirigir veículo falando ao celular através de fones de ouvido, quantos pontos perde na carteira?",
+        "imagem": null,
+        "respA": "a) 04.",
+        "respB": "b) 05.",
+        "respC": "c) 03.",
+        "respD": "d) 07",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Estacionar sobre áreas de cruzamento, interrompendo o trânsito da via transversal, acarretará:",
+        "imagem": null,
+        "respA": "a) Cassação da CNH.",
+        "respB": "b) Apreensão da CNH.",
+        "respC": "c) Remoção do veículo.",
+        "respD": "d) Retenção do veículo.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando o condutor estiver dirigindo o veículo transportando pessoas, animais ou volume à sua esquerda ou entre os braços e pernas, será aplicada a penalidade...",
+        "imagem": null,
+        "respA": "a) Multa. ",
+        "respB": "b) Multa e cassação da CNH.",
+        "respC": "c) Multa e suspensão do direito de dirigir.",
+        "respD": "d) Multa e retenção do veículo.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "É infração gravíssima para o condutor de motocicleta, motoneta ou ciclomotor:",
+        "imagem": null,
+        "respA": "a) Transportar criança menor de dez anos ou que não tenha  condições de cuidar de sua própria segurança.",
+        "respB": "b) Conduzir sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras.",
+        "respC": "c) Conduzir transportando carga incompatível com suas especificações.",
+        "respD": "d) Conduzir rebocando outro veículo.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Ultrapassar outro veículo pelo acostamento, em interseções e passagem de nível é infração:",
+        "imagem": null,
+        "respA": "a) Gravíssima e multa 3x.",
+        "respB": "b) Grave e  multa.",
+        "respC": "c) Gravíssima e multa.",
+        "respD": "d) Gravíssima e multa 5x.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O condutor que transportar pessoas ou animais na parte externa do veículo estará sujeito a:",
+        "imagem": null,
+        "respA": "a) Multa e retenção do veículo.",
+        "respB": "b) Apreensão da Carteira Nacional de Habilitação.",
+        "respC": "c) Apreensão do veículo e da Carteira Nacional de Habilitação.",
+        "respD": "d) Remoção do veículo e multa.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "É infração de trânsito a desobediência a qualquer dos sinais inscritos nas placas de:",
+        "imagem": null,
+        "respA": "a) Regulamentação.",
+        "respB": "b) Indicação.",
+        "respC": "c) Educativas.",
+        "respD": "d) Advertência.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Transitar em rodovias, vias de trânsito rápido e vias artérias em velocidade superior à máxima em até vinte por cento é infração--------------, gerando como penalidade------------:",
+        "imagem": null,
+        "respA": "a) Grave; multa (cinco vezes) e apreensão do veículo.",
+        "respB": "b) Grave; multa e cassação da CNH.",
+        "respC": "c) Gravíssima; multa (três vezes).",
+        "respD": "d) Média e multa. ",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Ao término de __________, o condutor que não tenha nenhuma infração ___________ ou gravíssima, ou ______, será conferido o documento denominado ________.",
+        "imagem": null,
+        "respA": "a) 03 anos - média - 1 leve - permissão para dirigir.",
+        "respB": "b) 01 ano - grave - 1 média - permissão para dirigir.",
+        "respC": "c) 01 ano - grave - 2 médias - Carteira Nacional de Habilitação.",
+        "respD": "d) 03 anos - média - 1 grave - Carteira Nacional de Habilitação.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Deixar o condutor de prestar socorro à vítima de acidente de trânsito quando solicitado pela autoridade de trânsito e seus agentes é infração:",
+        "imagem": null,
+        "respA": "a) Gravíssima.",
+        "respB": "b) Média.",
+        "respC": "c) Leve.",
+        "respD": "d) Grave.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Ao condutor que se evadir da fiscalização, não submetendo o veículo á pesagem obrigatória nos pontos de passagem, fixos ou móveis, será aplicado:",
+        "imagem": null,
+        "respA": "a) Advertência por escrito e multa.",
+        "respB": "b) Frequencia obrigatória em curso de reciclagem.",
+        "respC": "c) Multa, além da obrigação de retornar ao ponto de elevação para fim de pesagem obrigatória.",
+        "respD": "d) Somente a obrigação de retornar ao ponto de elevação para fim de peagem obrigatória.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando o condutor infrator for primário em infração de natureza leve ou média, isto é, cometer a infração pela primeira vez, a autoridade de trânsito deverá:",
+        "imagem": null,
+        "respA": "a) Determinar que o condutor participe do curso de reciclagem para motoristas infratores.",
+        "respB": "b) Aplicar uma advertência verbal.",
+        "respC": "c) Transformar a multa em advertência por escrito.",
+        "respD": "d) Aplicar a penalidade que achar conveniente.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Marque a alternativa incorreta: As penalidades serão impostas a quem?",
+        "imagem": null,
+        "respA": "a) Ao condutor.",
+        "respB": "b) Aos passageiros.",
+        "respC": "c) Ao proprietário.",
+        "respD": "d) Ao embarcador e ao transportador.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Não sendo imediata a identificação do infrator, o proprietário terá qual prazo para apresentá-lo?",
+        "imagem": null,
+        "respA": "a) 30 dias.",
+        "respB": "b) 45 dias.",
+        "respC": "c) 15 dias.",
+        "respD": "d) 24 horas.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "A penalidade de suspensão do direito de dirigir será imposta nos seguintes casos, sempre que, conforme a pontuação prevista o infrator atingir, no período de 12 meses, a seguinte contagem de pontos:",
+        "imagem": null,
+        "respA": "a) 20 pontos, caso conste 1 infração gravíssima na pontuação;",
+        "respB": "b) 20 pontos, caso constem 2 ou mais infrações gravíssimas na pontuação;",
+        "respC": "c) 40 pontos, caso conste 1 infração gravíssima na pontuação;",
+        "respD": "d) 30 pontos, caso constem 2 ou mais infrações gravíssimas na pontuação;",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir um veículo ameaçando os pedestres que estejam atravessando a via pública é:",
+        "imagem": null,
+        "respA": "a) Infração gravíssima.",
+        "respB": "b) Infração grave.",
+        "respC": "c) Infração média.",
+        "respD": "d) Infração leve.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Foi pego um condutor de ônibus trafegando em uma rodovia não sinalizada a 136 km/h. Qual a punição será aplicada?",
+        "imagem": null,
+        "respA": "a) Infração gravíssima e multa agravada (3x) e suspensão.",
+        "respB": "b) Infração grave e suspensão do direito de dirigir.",
+        "respC": "c) Infração grave, apreensão do veículo.",
+        "respD": "d) Infração gravíssima, cassação da CNH.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Para o condutor que ultrapassar pela contramão em aclives sem visibilidade e faixa contínua, será aplicada a infração __________ e penalidade ____________.",
+        "imagem": null,
+        "respA": "a) Gravíssima - multa.",
+        "respB": "b) Grave - multa.",
+        "respC": "c) Gravíssima - cassação da CNH.",
+        "respD": "d) Grave - média.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Possui caráter educativo e deve ser aplicada sempre que a infração for de natureza leve ou média não tendo o condutor cometido nenhuma outra infração nos últimos 12 meses:",
+        "imagem": null,
+        "respA": "a) Multa.",
+        "respB": "b) Suspensão do direito de dirigir.",
+        "respC": "c) Advertência por escrito.",
+        "respD": "d) Cassação da CNH.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Estacionar na pista de rolamento de estradas, rodovias, vias de trânsito rápido e vias dotadas de acostamento, é uma infração gravíssima. Qual a medida administrativa adotada para esta infração?",
+        "imagem": null,
+        "respA": "a) Retenção do veículo.",
+        "respB": "b) Apreensão do veículo.",
+        "respC": "c) Recolhimento do documento de habilitação.",
+        "respD": "d) Remoção do veículo.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O condutor de veículo que deixar de dar preferência de passagem a pedestre portador de doença física, crianças e idosos que estejam concluindo a travessia mesmo que ocorra sinal verde para o veículo, comete infração:",
+        "imagem": null,
+        "respA": "a) Gravíssima.",
+        "respB": "b) Grave.",
+        "respC": "c) Média.",
+        "respD": "d) Leve.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Usar a buzina em situação que não a de simples toque leve breve como advertência ao pedestre ou a condutores de outros veículos, constitui infração:",
+        "imagem": null,
+        "respA": "a) Média.",
+        "respB": "b) Gravíssima.",
+        "respC": "c) Leve.",
+        "respD": "d) Grave.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Usar a buzina para apressar o pedestre na travessia da via pública é infração punível com:",
+        "imagem": null,
+        "respA": "a) Multa e apreensão do veículo.",
+        "respB": "b) Apreensão da Carteira Nacional de Habilitação e multa.",
+        "respC": "c) Multa e remoção do veículo.",
+        "respD": "d) Multa.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando um condutor ultrapassar pela contramão outro veículo nos cruzamentos, terá como penalidade:",
+        "imagem": null,
+        "respA": "a) Multa (5 vezes).",
+        "respB": "b) Remoção do veículo.",
+        "respC": "c) Retenção do veículo.",
+        "respD": "d) Recilhimento do veículo.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Ao condutor infrator, conforme o caso, podem ser aplicadas as seguintes penalidades:",
+        "imagem": null,
+        "respA": "a) Multa, apreensão e cassação da permissão para dirigir.",
+        "respB": "b) Multa, advertência, apreensão e remoção do veículo.",
+        "respC": "c) Advertência por escrito, multa, suspensão do direito de dirigir, cassação da CNH, cassação da PPD e frequência em curso de reciclagem.",
+        "respD": "d) Multa, advertência, cassação da CNH e apreensão do veículo, apenas.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando estacionar o veículo sobre as pistas de rolamento das estradas, o condutor será punido com:",
+        "imagem": null,
+        "respA": "a) Multa.",
+        "respB": "b) Apreensão da CNH e multa.",
+        "respC": "c) Recolhimento do veículo e multa.",
+        "respD": "d) Remoção do veículo e multa.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O condutor será multado quando:",
+        "imagem": null,
+        "respA": "a) Usar luz baixa nas vias com iluminação pública.",
+        "respB": "b) Trafegar de acordo com a velocidade da via.",
+        "respC": "c) Trafegar em velocidade inferior à metade da velocidade máxima estabelecida para a via.",
+        "respD": "d) Fizer retorno em local pouco iluminado.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando o condutor avançar o sinal vermelho do semáforo, será punido com:",
+        "imagem": null,
+        "respA": "a) Apreensão da CNH.",
+        "respB": "b) Multa.",
+        "respC": "c) Cassação da CNH.",
+        "respD": "d) Remoção do veículo.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Transitar pela contramão de direção em vias com sinalização de regulamentação de sentido único de circulação é infração ________, gerando como penalidade__________.",
+        "imagem": null,
+        "respA": "a) Gravíssima - multa (três vezes).",
+        "respB": "b) Gravíssima - multa.",
+        "respC": "c) Grave - multa (três vezes).",
+        "respD": "d) Média - multa.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Na infração \"avançar o sinal vermelho do semáforo\" são computados os seguintes pontos:",
+        "imagem": null,
+        "respA": "a) (07) Sete.",
+        "respB": "b) (05) Cinco.",
+        "respC": "c) (04) Quatro",
+        "respD": "d) (03) Três.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Se você ultrapassar outro veículo pelo acostamento, cruzamentos ou passagem de nível, você será autuado e pagará uma multa no valor de:",
+        "imagem": null,
+        "respA": "a) R$88,38 (2X)",
+        "respB": "b) R$195,23 (10X)",
+        "respC": "c) R$293,47 (5X)",
+        "respD": "d) R$293,47 (3X)",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "É o responsável pela infração relativa ao transporte de carga com excesso de peso nos eixos.",
+        "imagem": null,
+        "respA": "a) Ao condutor.",
+        "respB": "b) Ao embarcador.",
+        "respC": "c) Ao transportador.",
+        "respD": "d) Todas as alternativas acima.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Deixar de dar passagem pela esquerda, quando solicitado, é infração:",
+        "imagem": null,
+        "respA": "a) Média.",
+        "respB": "b) Grave.",
+        "respC": "c) Leve.",
+        "respD": "d) Gravíssima.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "É infrator contumaz o condutor:",
+        "imagem": null,
+        "respA": "a) Defensivo.",
+        "respB": "b) Que de forma contínua e constante comete infrações.",
+        "respC": "c) Seguro.",
+        "respD": "d) Difuso.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Avançar o sinal vermelho do semáforo ou de parada obrigatória é infração _________. gerando como penalidade___________.",
+        "imagem": null,
+        "respA": "a) Grave; multa (três vezes).",
+        "respB": "b) Grave; multa.",
+        "respC": "c) Gravíssima; multa.",
+        "respD": "d) Gravíssima; multa (três vezes).",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "É infração que não acarreta a remoção do veículo:",
+        "imagem": null,
+        "respA": "a) Estacionar na contramão de direção.",
+        "respB": "b) Estacionar na área de cruzamento de vias.",
+        "respC": "c) Estacionar nos viadutos.",
+        "respD": "d) Estacionar onde houver guia de calçada rebaixada.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O condutor que trafegar pela contramão em via de sentido único, comete uma infração...",
+        "imagem": null,
+        "respA": "a) Leve.",
+        "respB": "b) Média.",
+        "respC": "c) Grave.",
+        "respD": "d) Gravíssima.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "É infração de trânsito a desobediência a qualquer dos sinais inscritos nas placas de:",
+        "imagem": null,
+        "respA": "a) Regulamentação.",
+        "respB": "b) Indicação.",
+        "respC": "c) Educação.",
+        "respD": "d) Advertência.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Se o proprietário não identificar o condutor que dirigia o veículo autuado no prazo máximo de trinta dias do recebimento da notificação, quem será o responsável pela infração?",
+        "imagem": null,
+        "respA": "a) O proprietário do veículo.",
+        "respB": "b) Qualquer pessoa não habilitada que assumir a responsabilidade pela infração.",
+        "respC": "c) Os pais do proprietário do veículo.",
+        "respD": "d) O proprietário do veículo e e condutor.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "A advertência por escrito deverá ser aplicada pela autoridade de trânsito ao condutor do veículo quando:",
+        "imagem": null,
+        "respA": "a) Ficar caracterizado que a infração foi involuntária e sem gravidade, mesmo que reincidente.",
+        "respB": "b) O agente de trânsito assim o desejar.",
+        "respC": "c) Se tratar de infração leve ou média, passível de multa, caso o infrator não tenha cometido nenhuma outra infração nos últimos doze meses.",
+        "respD": "d) O condutor se arrepender.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Qual alternativa NÃO corresponde a uma medida administrativa, à qual fica sujeito um condutor ao cometer uma infração?",
+        "imagem": null,
+        "respA": "a) Retenção do veículo.",
+        "respB": "b) Remoção do veículo.",
+        "respC": "c) Recolhimento da CNH.",
+        "respD": "d) Cassação da CNH.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Ao deixar de usar o cinto de segurança, o condutor incorre numa infração:",
+        "imagem": null,
+        "respA": "a) Grave.",
+        "respB": "b) Gravíssima.",
+        "respC": "c) Leve.",
+        "respD": "d) Média.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Dirigir sob influência de álcool é infração:",
+        "imagem": null,
+        "respA": "a) Gravíssima e multa apenas.",
+        "respB": "b) Grave.",
+        "respC": "c) Média.",
+        "respD": "d) Gravíssima, punida com multa (10 vezes), suspensão do direito de dirigir por 12 meses, retenção do veículo até a apresentação de condutor habilitado e recolhimento do documento de habilitação.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "A cassação da CNH é um procedimento que:",
+        "imagem": null,
+        "respA": "a) O agente da autoridade de trânsito pode tomar quando julgar que o condutor do veículo cometeu uma infração gravíssima.",
+        "respB": "b) Depende de decisão pessoal da autoridade de trânsito.",
+        "respC": "c) O agente da autoridade de trânsito pode tomar, desde que comunique com antecedência à autoridade policial local.",
+        "respD": "d) Deve ser adotado apenas pela autoridade de trânsito, conforme estabelecido no Código de Trãnsito Brasileiro.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando os condutores e passageiros de motocicletas utilizarem esse veículo sem uso do capacete de segurança, a penalidade será:",
+        "imagem": null,
+        "respA": "a) Multa e retenção do veículo até que se satisfaça a exigência.",
+        "respB": "b) Multa e retenção do veículo e da CNH.",
+        "respC": "c) Advertência oral.",
+        "respD": "d) Multa, suspensão do direito de dirigir e curso de reciclagem.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Ter seu veículo imobilizado na via por falta de combustível é infração ____________ gerando como medida administrativa a _____________.",
+        "imagem": null,
+        "respA": "a) Grave; retenção do veículo.",
+        "respB": "b) Grave; remoção do veículo.",
+        "respC": "c) Gravíssima; recolhimento do documento e da habilitação.",
+        "respD": "d) Média; remoção do veículo.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Usar a buzina nas áreas e nos períodos em que seu uso for proibido pela autoridade de trânsito é infração punível com:",
+        "imagem": null,
+        "respA": "a) Retenção do veículo e multa.",
+        "respB": "b) Remoção do veículo e multa.",
+        "respC": "c) Multa e apreensão da CNH.",
+        "respD": "d) Multa.",
+        "correta": "D",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Parar o veículo nas esquinas e a menos de cinco metros do bordo do alinhamento da via é infração ___________, gerando como penalidade __________.",
+        "imagem": null,
+        "respA": "a) Gravíssima; remoção do veículo.",
+        "respB": "b) Média; suspensão do direito de dirigir.",
+        "respC": "c) Média; multa.",
+        "respD": "d) Grave; advertência por escrito.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Uma infração cometida com o veículo licenciado no exterior em trânsito no território nacional, a respectiva multa...",
+        "imagem": null,
+        "respA": "a) Não existe multa para veículo licenciado no exterior.",
+        "respB": "b) Deverá ser paga antes da saida do país.",
+        "respC": "c) Não precisa ser paga.",
+        "respD": "d) Deverá ser paga, após a sua saida do país.",
+        "correta": "B",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O condutor que promover ou participar de competição esportiva na via pública sem autorização, sofrerá as seguintes penalidades:",
+        "imagem": null,
+        "respA": "a) Apreensão da CNH.",
+        "respB": "b) Multa e apreensão dos veículos.",
+        "respC": "c) Multa (10 vezes), suspensão do direito de dirigir e curso de reciclagem.",
+        "respD": "d) Multa e retenção do veículo.",
+        "correta": "C",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Quando um condutor estiver dirigindo o veículo transportando pessoas, animais ou volume na sua esquerda ou entre braços e pernas, será aplicada a penalidade:",
+        "imagem": null,
+        "respA": "a) Apenas multa.",
+        "respB": "b) Multa e cassação da CNH.",
+        "respC": "c) Multa e suspensão do direito de dirigir.",
+        "respD": "d) Multa e retenção do veículo.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "É infração gravíssima para o condutor de motocicleta, motoneta ou ciclomotor:",
+        "imagem": null,
+        "respA": "a) Transportar criança menor de dez anos ou que não tenha condições de cuidar de sua própria segurança.",
+        "respB": "b) Conduzir sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras.",
+        "respC": "c) Conduzir transportando carga incompatível com suas especificações.",
+        "respD": "d) Conduzir rebocando outro veículo.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "O responsável pela infração relativa ao transporte de carga com excesso de peso nos eixos ou quando a carga proveniente de mais de um embarcador ultrapassar o peso bruto total é o:",
+        "imagem": null,
+        "respA": "a) Transportador e embarcador.",
+        "respB": "b) Proprietário.",
+        "respC": "c) Transportador.",
+        "respD": "d) Embarcador.",
+        "correta": "A",
+        "modulo": "infracao"
+    },
+    {
+        "pergunta": "Estão previstas quatro categorias de infração. Cada uma corresponde a um certo número de pontos. Para a infração:",
+        "imagem": null,
+        "respA": "a) Gravíssima - São computados dez pontos.",
+        "respB": "b) Leve - São computados quatro pontos.",
+        "respC": "c) Grave -  São computados seis pontos.",
+        "respD": "d) Média -  São computados quatro pontos.",
+        "correta": "D",
+        "modulo": "infracao"
+    }
+]

@@ -1,0 +1,1642 @@
+[
+    {
+        "pergunta": "Na direção defensiva, é o resultado da prática mais o treinamento:",
+        "imagem": null,
+        "respA": "a) Conhecimento.",
+        "respB": "b) Decisão.",
+        "respC": "c) Atenção.",
+        "respD": "d) Habilidade.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Quando há uma colisão envolvendo um só veículo, podemos afirmar que ocorre uma colisão:",
+        "imagem": null,
+        "respA": "a) Complicada.",
+        "respB": "b) Inesperada.",
+        "respC": "c) Estranha.",
+        "respD": "d) Misteriosa.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Com o acúmulo de água na pista pode ocorrer a aquaplanagem se o veículo estiver:",
+        "imagem": null,
+        "respA": "a) Em velocidade alta e pneus carecas.",
+        "respB": "b) Em velocidade muito reduzida.",
+        "respC": "c) Com problemas nos freios.",
+        "respD": "d) Com folga na direção.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Ao se aproximar de um cruzamento, uma forma segura de agir é:",
+        "imagem": null,
+        "respA": "a) Manter a mesma velocidade.",
+        "respB": "b) Aumentar a velocidade.",
+        "respC": "c) Parar o veículo.",
+        "respD": "d) Reduzir a velocidade.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Quando o condutor de veículo coloca o braço esquerdo para fora do veículo, horizontalmente, e o antebraço e a mão para cima, na vertical, está indicando que vai:",
+        "imagem": null,
+        "respA": "a) Parar o seu veículo.",
+        "respB": "b) Dobrar à direita.",
+        "respC": "c) Dobrar à esquerda.",
+        "respD": "d) Diminuir a velocidade.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Dirigir sempre com atenção, para poder prever o que vai fazer com antecedência e tomar as decisões certas para evitar acidentes é conceito de:",
+        "imagem": null,
+        "respA": "a) Direção dispersiva.",
+        "respB": "b) Direção defensiva.",
+        "respC": "c) Direção progressiva.",
+        "respD": "d) Direção agressiva.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "No comportamento sobreesterçante o peso do veículo é transferido para:",
+        "imagem": null,
+        "respA": "a) A parte superior do veículo.",
+        "respB": "b) A traseira do veículo.",
+        "respC": "c) A dianteira do veículo.",
+        "respD": "d) O centro do veículo.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Quanto maior a velocidade ou menor o raio de curva, a inclinação do corpo do motociclista em relação a  moto deverá ser:",
+        "imagem": null,
+        "respA": "a) Maior.",
+        "respB": "b) Menor.",
+        "respC": "c) Igual.",
+        "respD": "d) Não se deve inclinar.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "São considerados tipos de acidentes, exceto:",
+        "imagem": null,
+        "respA": "a) Colisão.",
+        "respB": "b) Engarrafamento.",
+        "respC": "c) Capotamento.",
+        "respD": "d) Atropelamento.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Para melhor ser notado no trânsito, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Ligar o limpador pára-brisa frequentemente.",
+        "respB": "b) Acender os faróis ou lanternas externas nos períodos de lusco-fusco",
+        "respC": "c) Utilizar o pisca alerta quando parado nas margens de estradas.",
+        "respD": "d) Manter o capô do motor aberto e o triângulo de segurança posicionado atrás, quando este apresentar defeito mecânico.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Ao notar árvores ou vegetação que possam estar encobrindo a sinalização, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Redobrar a atenção e reduzir a velocidade para identificar restrições de circulação.",
+        "respB": "b) Efetuar a poda das árvores para identificar a sinalização.",
+        "respC": "c) Solicitar ao agente de trânsito que efetue a poda das árvores.",
+        "respD": "d) Redobrar a atenção, reduzir a velocidade e não se preocupar com a sinalização.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Sobre comportamento subesterçante pode-se afirmar que:",
+        "imagem": null,
+        "respA": "a) O peso do veículo é transferido para sua dianteira.",
+        "respB": "b) O peso do veículo é transferido para a sua traseira.",
+        "respC": "c) Nunca acontece em curvas.",
+        "respD": "d) Acontece na diminuição de velocidade em curvas.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Ao perceber falhas na sua atenção, o condutor defensivo deve agir da seguinte forma:",
+        "imagem": null,
+        "respA": "a) Beber água e continuar a viagem.",
+        "respB": "b) Parar o veículo e procurar descansar.",
+        "respC": "c) Aumentar a velocidade para chegar rápido.",
+        "respD": "d) Ultrapassar os outros veículos com atenção.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A principal causa da colisão frontal em vias retas é:",
+        "imagem": null,
+        "respA": "a) Retorno à esquerda.",
+        "respB": "b) Ultrapassagem incorreta.",
+        "respC": "c) Conversão à direita.",
+        "respD": "d) Ausência de sinalização.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor de veículo automotor estará agindo corretamente quando:",
+        "imagem": null,
+        "respA": "a) Ultrapassar qualquer veículo lento em viadutos ou cruzamentos.",
+        "respB": "b) Der preferência de passagem ao veículo que vier da esquerda num cruzamento sinalizado.",
+        "respC": "c) Der preferência de passagem aos pedestres que estiverem nas faixas de segurança onde não existir sinal luminoso.",
+        "respD": "d) Ultrapassar, pela contramão, os veículos parados em fila junto aos sinais luminosos.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A cegueira momentânea causada pelo excesso de luz provoca:",
+        "imagem": null,
+        "respA": "a) Ofuscamento.",
+        "respB": "b) Catarata.",
+        "respC": "c) Penumbra.",
+        "respD": "d) Nevoeiro.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Ao se aproximar de um cruzamento a forma segura de agir é:",
+        "imagem": null,
+        "respA": "a) Manter a mesma velocidade.",
+        "respB": "b) Aumentar a velocidade.",
+        "respC": "c) Reduzir a velocidade.",
+        "respD": "d) Parar o veículo.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor, no trânsito, deve ter percepção e respeito às expectativas das pessoas, adotando uma postura adequada, sendo:",
+        "imagem": null,
+        "respA": "a) Agressivo e rápido.",
+        "respB": "b) Decidido e agressivo.",
+        "respC": "c) Cuidadoso e ligeiro.",
+        "respD": "d) Cuidadoso e atento.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O procedimento correto do motociclista no meio de uma curva é:",
+        "imagem": null,
+        "respA": "a) Acelerar bruscamente.",
+        "respB": "b) Reduzir a velocidade utilizando a embreagem.",
+        "respC": "c) Manter a aceleração constante não utilizando a embreagem.",
+        "respD": "d) Frear bruscamente  para diminuir a velocidade.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Dirigir com atenção, prever o que vai fazer e tomar as decisões certas para evitar acidentes, é conceito de:",
+        "imagem": null,
+        "respA": "a) Direção dispersiva.",
+        "respB": "b) Direção defensiva.",
+        "respC": "c) Direção progressiva.",
+        "respD": "d) Direção agressiva.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Se um condutor de veículo deparar no trânsito com outro condutor agindo de forma incorreta e que venha a prejudicá-lo, deve:",
+        "imagem": null,
+        "respA": "a) Deixar que o acidente aconteça para fazê-lo pagar pelo erro.",
+        "respB": "b) Ceder seu direito para evitar consequências maiores.",
+        "respC": "c) Fazer valer seu direito.",
+        "respD": "d) Ceder à vez e logo à frente, castigar o condutor infrator.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Onde as crianças com idade inferior a dez anos devem ser transportadas, ressalvadas as exceções?",
+        "imagem": null,
+        "respA": "a) No banco dianteiro com o cinto de segurança.",
+        "respB": "b) No banco dianteiro com o responsável.",
+        "respC": "c) No banco traseiro.",
+        "respD": "d) No banco traseiro com o devido dispositivo de retenção.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A sinalização de \"Saliência ou lombada\" é do tipo:",
+        "imagem": null,
+        "respA": "a) Regulamentação.",
+        "respB": "b) Condição precária.",
+        "respC": "c) Condição de regulamentação.",
+        "respD": "d) Advertência.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Para dirigir com maior segurança, a forma correta de segurar o volante de direção é com as mãos:",
+        "imagem": null,
+        "respA": "a) Apoiadas na parte externa do volante, em posição similar a oito horas e vinte minutos do relógio.",
+        "respB": "b) Juntas na parte de baixo.",
+        "respC": "c) Nos raios do volante.",
+        "respD": "d) Apoiadas na parte externa do volante, em posição similar a nove horas e quinze minutos do relógio.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Um condutor defensivo deve procurar forçar a sua concentração no ato de dirigir, acostumando-se a observar sempre e alternadamente os fatores abaixo, exceto:",
+        "imagem": null,
+        "respA": "a) Os espelhos retrovisores.",
+        "respB": "b) A movimentação de outros veículos à sua frente, à traseira ou nas laterais.",
+        "respC": "c) A utilização de telefone celular através de viva-voz.",
+        "respD": "d) A movimentação dos pedestres, em especial nas proximidades dos cruzamentos.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O acidente ocorre por imprudência do condutor quando:",
+        "imagem": null,
+        "respA": "a) O condutor age com desleixo com seu veículo.",
+        "respB": "b) O condutor deixa de respeitar qualquer norma, procedimento ou técnica que lhe ofereça segurança.",
+        "respC": "c) O condutor é imperito na prática da direção e todos os conceitos e habilidades que ela envolve.",
+        "respD": "d) O condutor age com descaso na prática de direção não obedecendo os sinais de trânsito.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A ultrapassagem pela contramão em pontes, viadutos e túneis é:",
+        "imagem": null,
+        "respA": "a) Permitida , quando não houver muita movimentação de veículos.",
+        "respB": "b) Proibida a todo condutor de veículo, exceto quando houver sinalização permitindo.",
+        "respC": "c) Permitida, quando houver visibilidade.",
+        "respD": "d) Proibida.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A direção defensiva é um conjunto de técnicas que se divide em duas partes:",
+        "imagem": null,
+        "respA": "a) Preventiva teórica.",
+        "respB": "b) Corretiva e agressiva.",
+        "respC": "c) Preventiva e Corretiva.",
+        "respD": "d) Corretiva e televisiva.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O fenômeno que ocorre quando os pneumáticos de veículos perdem o contato com o solo pela presença de uma camada de água entre a superfície da pista e os pneus é:",
+        "imagem": null,
+        "respA": "a) Situação de derrapagem.",
+        "respB": "b) Condições adversas do tempo.",
+        "respC": "c) Aquaplanagem.",
+        "respD": "d) Condição adversa da pista.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Entre  as alternativas abaixo, uma não corresponde a automatismo correto. Assinale-a:",
+        "imagem": null,
+        "respA": "a) São reflexos adquiridos pela prática na direção veicular.",
+        "respB": "b) Engrenar as marchas corretamente.",
+        "respC": "c) Dirigir com o pé apoiado no pedal da embreagem.",
+        "respD": "d) Usar freio antes de usar o pedal da embreagem.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta:",
+        "imagem": null,
+        "respA": "a) A aquaplanagem é a flutuação de veículos em rios e lagos.",
+        "respB": "b) Frenagem é o mesmo que travamento das rodas.",
+        "respC": "c) Dirigir na defensiva é dirigir com rapidez.",
+        "respD": "d) Ergonomia é a ciência que estuda a relação entre o homem e a máquina.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "\"Horário de pico\" é aquele com tráfego:",
+        "imagem": null,
+        "respA": "a) Lento e com alta velocidade.",
+        "respB": "b) Denso e com baixa velocidade.",
+        "respC": "c) Desenvolvido ao final da madrugada e início do dia.",
+        "respD": "d) Menor movimentação de pedestre e veículo.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O tráfego na avenida em que você se encontra está lento devido a forte chuva. Você verifica que a via começa a alagar. O comportamento seguro nessa situação é:",
+        "imagem": null,
+        "respA": "a) Engrenar a primeira ou segunda marcha, mantendo o motor acelerado, impedindo a entrada de água pelo cano de descarga.",
+        "respB": "b) Manter a marcha desengrenada para  economizar  a embreagem.",
+        "respC": "c) Buzinar, para apressar os veículos a frente.",
+        "respD": "d) Aumentar a velocidade do veículo para sair rapidamente do alagamento.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O conceito de gerenciamento de riscos envolve dois passos básicos, que são:",
+        "imagem": null,
+        "respA": "a) Ver e ser visto.",
+        "respB": "b) Perceber antecipadamente os riscos e agir pronta e habilmente para evitá-los ou controlá-los.",
+        "respC": "c) Ver e agir.",
+        "respD": "d) Olhar e perceber.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor deve pisar no freio antes da embreagem para:",
+        "imagem": null,
+        "respA": "a) Fazer mudança das marchas.",
+        "respB": "b) Evitar derrapagens.",
+        "respC": "c) Parar o veículo.",
+        "respD": "d) Virar à esquerda ou à direita.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Você sabe que o seu veículo está precisando ser revisado, mas sai numa manhã de garoa rumo ao seu trabalho. Neste trajeto, você:",
+        "imagem": null,
+        "respA": "a) Mantém a velocidade de sempre.",
+        "respB": "b) Acelera, porque tem que chegar rápido no trabalho.",
+        "respC": "c) Transita na faixa da esquerda.",
+        "respD": "d) Redobra a atenção e mantém a velocidade reduzida.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Assinale a alternativa que corresponda a questão: Crianças com idade inferior a ___ anos que não tenham atingido _______ devem ser transportados no banco ____ acomodadas em dispositivos de retenção afixado ao cinto de segurança do veículo.",
+        "imagem": null,
+        "respA": "a) 12 anos; 1,50m; banco  traseiro.",
+        "respB": "b) 10 anos; 1,45m; banco  traseiro.",
+        "respC": "c) 07 anos; 1,45m; banco dianteiro.",
+        "respD": "d) 10 anos; 1,30m; banco dianteiro.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Direção defensiva leva o condutor a:",
+        "imagem": null,
+        "respA": "a) Dirigir com educação, segurança e eficiência.",
+        "respB": "b) Dirigir indiferentemente quanto aos demais usuários.",
+        "respC": "c) Dirigir com atenção dispersiva.",
+        "respD": "d) Dirigir com atenção fixa.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A placa A-7a alerta:",
+        "imagem": "button_a-7a_1283859744.png",
+        "respA": "a) Confluência à esquerda",
+        "respB": "b) Entroncamento oblíquo à esquerda",
+        "respC": "c) Via lateral à esquerda",
+        "respD": "d) Junções sucessivas contrárias, primeira à direita",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Aquaplanagem é:",
+        "imagem": null,
+        "respA": "a) Perda de estabilidade do veículo.",
+        "respB": "b) Derrapagem do veículo em pista seca.",
+        "respC": "c) Perda da aderência dos pneus em qualquer tipo de situação.",
+        "respD": "d) Perda da aderência dos pneus devido a uma camada fina de água no solo.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O que fazer em caso de aquaplanagem?",
+        "imagem": null,
+        "respA": "a) Acelerar o veículo para sair mais rápido desta situação.",
+        "respB": "b) Diminuir a velocidade tirando o pé do acelerador, não acionar os freios e não efetuar movimentos bruscos com a direção até que o veículo recupere sua aderência.",
+        "respC": "c) Pisar no freio e segurar o volante com firmeza.",
+        "respD": "d) Diminuir a velocidade, ligar as luzes de alerta e pisar no freio.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Qual das alternativas abaixo não corresponde a automatismo correto:",
+        "imagem": null,
+        "respA": "a) Trocar de marcha no tempo certo.",
+        "respB": "b) Pisar no freio ao avistar o sinal vermelho.",
+        "respC": "c) Colocar o veículo em ponto morto ao iniciar uma parada.",
+        "respD": "d) Diminuir a velocidade nos cruzamentos.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor dirigindo corretivamente terá que:",
+        "imagem": null,
+        "respA": "a) Diminuir a velocidade nas lombadas.",
+        "respB": "b) Frear corretamente.",
+        "respC": "c) Manter distância do veículo que trafega à sua frente.",
+        "respD": "d) Corrigir uma situação de risco inesperada.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor de um automóvel ao se deparar com um motociclista deverá:",
+        "imagem": null,
+        "respA": "a) Ultrapassar a moto rapidamente.",
+        "respB": "b) Fechar o motociclista pois não pode perder tempo.",
+        "respC": "c) Considerar que a visão e o comportamento do motociclista são diferentes  de você, que dirige um veículo de 4 rodas.",
+        "respD": "d) Sempre dar passagem.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Quando é permitido o tráfego pelo acostamento?",
+        "imagem": null,
+        "respA": "a) Quando a pista estiver congestionada.",
+        "respB": "b) Quando, devido a problema mecânico, o seu veículo estiver lento.",
+        "respC": "c) Para acessar a lotes lindeiros ou fazer conversões.",
+        "respD": "d) Para ultrapassagem de veículos muito lentos.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Os rótulos de risco identificados na planilha, com o título mope, são usados nos veículos destinados ao transporte de:",
+        "imagem": null,
+        "respA": "a) Cargas indivisíveis.",
+        "respB": "b) Cargas perecíveis.",
+        "respC": "c) Produtos perigosos.",
+        "respD": "d) Produtos artesanais.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Após uma forte chuva você está trafegando por uma avenida e passa sobre uma poça d'água molhando alguns pedestres na calçada. Essa atitude é considerada pelas autoridades como:",
+        "imagem": null,
+        "respA": "a) Uma brincadeira de mau gosto.",
+        "respB": "b) Um grande desrespeito pelos pedestres.",
+        "respC": "c) Uma infração média e penalidade de multa.",
+        "respD": "d) Uma infração leve sujeita somente a uma advertência verbal.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor, no trânsito, deve ter percepção e respeito às expectativas das pessoas, adotando uma postura adequada, sendo:",
+        "imagem": null,
+        "respA": "a) Agressivo e rápido.",
+        "respB": "b) Decidido e agressivo.",
+        "respC": "c) Cuidadoso e ligeiro.",
+        "respD": "d) Cuidadoso e atento.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor de veículo, transitando por vias onde haja escolas ou grande movimentação de pedestres...",
+        "imagem": null,
+        "respA": "a) Conserva o veículo sempre na faixa esquerda da via.",
+        "respB": "b) Transita em velocidade compatível com a segurança.",
+        "respC": "c) Usa buzina para alertar os pedestres que estão passando.",
+        "respD": "d) Acelera para deixar a via mais livre em menor tempo.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Dirigindo um veículo, o condutor que encontrar crianças, pessoas idosas ou deficientes físicos atravessando a via deve:",
+        "imagem": null,
+        "respA": "a) Diminuir a velocidade, buzinar e seguir em frente.",
+        "respB": "b) Parar o veículo e facilitar a travessia.",
+        "respC": "c) Diminuir a velocidade, dar um sinal de luz e seguir em frente.",
+        "respD": "d) Diminuir a velocidade, desviar e seguir em frente.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O balanceamento das rodas do veículo é importante para:",
+        "imagem": null,
+        "respA": "a) Fixar firmemente o pneu no aro.",
+        "respB": "b) Facilitar as operações de montagem e desmontagem do pneu.",
+        "respC": "c) Permitir o seu balanceamento.",
+        "respD": "d) Evitar a vibração do volante.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A finalidade da suspensão e dos amortecedores é:",
+        "imagem": null,
+        "respA": "a) Manter as características da fábrica do veículo.",
+        "respB": "b) Contribuir para o desgaste prematuro dos pneus.",
+        "respC": "c) Causar a perda de controle do veículo.",
+        "respD": "d) Manter a estabilidade do veículo.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O atropelamento é o tipo de acidente de trânsito que mais atinge crianças na grande Belo Horizonte. Em apenas um hospital dessa cidade, em 2006, 21 crianças morreram vítimas de acidentes de trânsito. É motivo comum de atropelamentos:",
+        "imagem": null,
+        "respA": "a) Descuido dos pedestres:",
+        "respB": "b) Pedestre \"provocador\" e condutor mal educado.",
+        "respC": "c) Falta de educação para a segurança no trânsito.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Existem equipamentos diretamente relacionados a ergonomia, aumentando o conforto e a  segurança do usuário. Qual tipo de retrovisor aumenta o campo de visão do condutor?",
+        "imagem": null,
+        "respA": "a) Recôncavo.",
+        "respB": "b) Reverso.",
+        "respC": "c) Convexo.",
+        "respD": "d) Circunferencial.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "É dispositivo de segurança veicular montado no interior das portas do veículo, cuja função é proteger a região da bacia dos ocupantes:",
+        "imagem": null,
+        "respA": "a) O encosto da cabeça.",
+        "respB": "b) As barras laterais.",
+        "respC": "c) A carroceria deformável.",
+        "respD": "d) O airbag.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A monitoração prática de pilotagem de moto em via urbana ou rural visa ensinar o motociclista sobre os perigos da condução no trânsito. Sobre o motociclista, assinale a alternativa incorreta:",
+        "imagem": null,
+        "respA": "a) Ele deve sinalizar suas intensões por gestos ou luses.",
+        "respB": "b) Manter a distância de seguimento evita ser surpreendido por buracos e 'bocas-de-lobo'.",
+        "respC": "c) Evite se posicionar no 'ponto cego' dos automóveis.",
+        "respD": "d) O capacete do garupa não precisa de viseira.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor do veículo que se preocupa em avisar o outro que está rodando com o pneu murcho ou com a porta semi-fechada está:",
+        "imagem": null,
+        "respA": "a) Cumprindo a legislação do trânsito.",
+        "respB": "b) Prejudicando a sua atenção no trânsito, podendo causar um acidente.",
+        "respC": "c) Cometendo uma infração.",
+        "respD": "d) Agindo com sentimento de solidariedade, cortesia e respeito.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A placa R-6B regulamenta:",
+        "imagem": "002_1283465256.jpg",
+        "respA": "a) Área escolar.",
+        "respB": "b) Proibido estacionar.",
+        "respC": "c) Estacionamento regulamentado.",
+        "respD": "d) Proibido parar e estacionar.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Os pneus deverão ter sulcos de no mínimo:",
+        "imagem": null,
+        "respA": "a) 1,06 milímetros de profundidade.",
+        "respB": "b) 1,6 milímetros de profundidade.",
+        "respC": "c) 0,5 milímetros de profundidade.",
+        "respD": "d) 1,0 milímetros de profundidade.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "As motocicletas, em sua maioria, são equipadas com espelhos convexos. Se você olhar um veículo através de um espelho desse tipo, a real posição dele é:",
+        "imagem": null,
+        "respA": "a) Idêntica à vista do espelho.",
+        "respB": "b) Não há distinção entre espelho convexo e os demais.",
+        "respC": "c) Mais distante do que aquela em que você pensa que ele está.",
+        "respD": "d) Mais próxima do que aquela em que você pensa que ele está.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Aponte a hipótese de ocorrência de travamento de rodas:",
+        "imagem": null,
+        "respA": "a) Quando o atrito do sistema de freios com as rodas é menor que o atrito dos pneus com o solo.",
+        "respB": "b) Quando um veículo em desaceleração tende a 'sair de traseira' em uma curva.",
+        "respC": "c) Quando o atrito do sistema de freios com as rodas é maior que o atrito dos pneus com o solo.",
+        "respD": "d) Quando o atrito do sistema de freios com as rodas é igual ao atrito dos pneus com o solo.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Quando o condutor de veículo estende o braço esquerdo para fora do veículo, na posição horizontal, está indicando que:",
+        "imagem": null,
+        "respA": "a) O condutor a sua retaguarda pode ultrapassa-lo.",
+        "respB": "b) Vai dar preferência de passagem para o veículo que está à sua esquerda.",
+        "respC": "c) Vai dobrar à esquerda.",
+        "respD": "d) Vai parar o veículo.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Além de uma boa revisão no veículo, há outros cuidados a serem tomados para uma viagem tranquila e segura. Sobre isso, assinale a alternativa incorreta:",
+        "imagem": null,
+        "respA": "a) Ajude a evitar acidentes, facilitando a ultrapassagem.",
+        "respB": "b) Fique atento aos sinais dos outros condutores.",
+        "respC": "c) Seta á esquerda do veículo que segue a frente significa condição segura para ultrapassagem.",
+        "respD": "d) Manter faróis baixos acesos durante o dia é recomendável.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "De acordo com conceitos de direção defensiva, os automatismos do condutor podem ser corretos ou incorretos. Não pode ser considerado automatismo:",
+        "imagem": null,
+        "respA": "a) Gestos ou ações executados mecanicamente.",
+        "respB": "b) Gestos ou ações executados naturalmente.",
+        "respC": "c) Gestos ou ações executados quase sem perceber.",
+        "respD": "d) Posturas adotadas por condutores sem percepção",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta relacionada ao comportamento do condutor preventivo:",
+        "imagem": null,
+        "respA": "a) Procura a melhor posição no banco para alcançar todos comandos.",
+        "respB": "b) Regula retrovisores para ter maior visibilidade.",
+        "respC": "c) Nas manobras, move a cabeça lateralmente para ter maior visibilidade possível.",
+        "respD": "d) Ele não se preocupa com o ponto cego do retrovisor.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor que dirige de forma agressiva no trânsito, não observa a sinalização, desobedece o limite de velocidade, não respeita a regra de preferência e as demais normas de circulação, além de várias infrações, está cometendo diversas ações relacionadas a:",
+        "imagem": null,
+        "respA": "a) Imprudência e negligência.",
+        "respB": "b) Condição segura.",
+        "respC": "c) Ato inseguro.",
+        "respD": "d) Imperícia.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Há várias razões para ocorrência de acidentes de trânsito, mas a grande maioria é causada por:",
+        "imagem": null,
+        "respA": "a) Falhas mecânicas.",
+        "respB": "b) Falhas humanas.",
+        "respC": "c) Adversidades do tempo.",
+        "respD": "d) Má conservação das vias.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Conforme a Direção Defensiva, quantas são as condições adversas encontradas quando na direção de um veículo?",
+        "imagem": null,
+        "respA": "a) Quatro.",
+        "respB": "b) Cinco.",
+        "respC": "c) Seis.",
+        "respD": "d) Sete.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Ao atravessar uma passagem de nível com uma ferrovia, sem cancela, você deve:",
+        "imagem": null,
+        "respA": "a) Reduzir a velocidade e atravessar a via férrea.",
+        "respB": "b) Parar o veículo, olhar para ambos os lados e efetuar o cruzamento com segurança.",
+        "respC": "c) Buzinar antes de atravessar.",
+        "respD": "d) Acender os faróis do veículo.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Qual modelo de óculos é obrigatório para uso com o capacete aberto e não deve ser substituído por qualquer outro modelo?",
+        "imagem": null,
+        "respA": "a) O óculos de proteção.",
+        "respB": "b) Óculos corretivos ou de sol.",
+        "respC": "c) Óculos de equipamento de proteção individual (EPI).",
+        "respD": "d) Todas acima estão corretas.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Nas rodovias, ao encontrar um trecho sob nevoeiro intenso, com pouca visibilidade, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Nunca parar.",
+        "respB": "b) Havendo necessidade, estacionar na pista e sinalizar com o triângulo de segurança.",
+        "respC": "c) Orientar-se pela faixa divisória da pista e continuar.",
+        "respD": "d) Aguardar, no acostamento, até encontrar uma melhor condição de visibilidade.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Consideram-se automatismos todos os gestos ou reações realizados pelo condutor, de uma maneira natural, sem perceber. Os automatismos podem ser:",
+        "imagem": null,
+        "respA": "a) Naturais e espontâneos.",
+        "respB": "b) Conscientes ou inconscientes.",
+        "respC": "c) Calmos ou agitados.",
+        "respD": "d) Corretos ou incorretos.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "No trânsito, nem sempre é possível desviar de um obstáculo repentino. Isso acontece principalmente ao transitar atrás de veículos grandes como caminhões e ônibus, que não permitem ver o que acontece à frente deles. Ao deparar com lombadas na pista, o motociclista deve:",
+        "imagem": null,
+        "respA": "a) Reduzir a velocidade a qualquer custo.",
+        "respB": "b) Usar os freios traseiros e dianateiros simultaneamente.",
+        "respC": "c) Aumentar a aceleração de veículo.",
+        "respD": "d) Deixar a moto passar livre pelo obstáculo.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Complete a frase: Ao transitar com a motocicleta sob chuva, adote postura defensiva, antecipando-se a situações de risco freando bem antes do que seria usual, já que a pista molhada aumenta a ___.",
+        "imagem": null,
+        "respA": "a) Distância de parada.",
+        "respB": "b) Distância de seguimento.",
+        "respC": "c) Distância de reação.",
+        "respD": "d) Todas estão corretas",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Complete a frase: O bom condutor não se preocupa apenas com as regras gerais de circulação ou em praticar continuamente a direção defensiva. A manutenção correta do veículo, aliada a cuidados básicos, além de representar economia e segurança, garantem o ___ e a valorização na hora de revenda.",
+        "imagem": null,
+        "respA": "a) Retorno.",
+        "respB": "b) Envolvimento.",
+        "respC": "c) Investimento.",
+        "respD": "d) Conforto.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A soma de ações técnicas e atitudes que permitem prever e evitar acidentes, apesar das ações incorretas dos outros condutores, é chamada de:",
+        "imagem": null,
+        "respA": "a) Direção correta.",
+        "respB": "b) Direção corretiva.",
+        "respC": "c) Direção defensiva.",
+        "respD": "d) Direção de alto risco.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O comportamento que deixa o condutor preparado para reagir contra acontecimentos inesperados é denominado direção:",
+        "imagem": null,
+        "respA": "a) Corretiva.",
+        "respB": "b) Cautelosa.",
+        "respC": "c) Preventiva.",
+        "respD": "d) Todas estão corretas.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Está relacionada ao condutor, e é uma situação que pode propiciar acidentes:",
+        "imagem": null,
+        "respA": "a) Condição insegura.",
+        "respB": "b) Condição adversa.",
+        "respC": "c) Ato inseguro.",
+        "respD": "d) Todas estão corretas.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A desaceleração brusca e o uso incorreto dos freios podem provocar o desgarramento da parte traseira do veículo. Este tipo de reação é chamada de comportamento:",
+        "imagem": null,
+        "respA": "a) Sub-esterçante.",
+        "respB": "b) Inseguro.",
+        "respC": "c) Sobre-esterçante.",
+        "respD": "d) Inadequado.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Em uma situação de emergência, poucos condutores conseguem controlar a pressão sobre o pedal de freio. Na maioria das vezes, a força aplicada é superior ao atrito dos pneus com o solo e isso provoca:",
+        "imagem": null,
+        "respA": "a) Travamento das rodas.",
+        "respB": "b) Derrapagem.",
+        "respC": "c) Distância maior de frenagem.",
+        "respD": "d) Todas estão corretas.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Gera um estado de sonolência no condutor:",
+        "imagem": null,
+        "respA": "a) Parada de 2 em 2 horas.",
+        "respB": "b) Rodovias monótonas.",
+        "respC": "c) Direção mecânica.",
+        "respD": "d) Dirigir ao amanhecer.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Nas alternativas abaixo, podemos classificar como imprudência e negligência, respectivamente:",
+        "imagem": null,
+        "respA": "a) Falhas mecânicas previsíveis e alta velocidade.",
+        "respB": "b) Falhas mecânicas previsíveis e dirigir com sono.",
+        "respC": "c) Alto velocidade e desobediência à sinalização.",
+        "respD": "d) Alta velocidade e falhas mecânicas previsíveis.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "É colisão que envolve apenas um veículo e quase sempre resulta em sequelas graves:",
+        "imagem": null,
+        "respA": "a) Misteriosa.",
+        "respB": "b) Nas ultrapassagens.",
+        "respC": "c) Frente a frente.",
+        "respD": "d) Nos cruzamentos.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Transitar com o veículo desengrenado em declive é infração de natureza média e também considerado:",
+        "imagem": null,
+        "respA": "a) Automatismo incorreto.",
+        "respB": "b) Comportamento para economizar combustível.",
+        "respC": "c) Automatismo correto.",
+        "respD": "d) Negligência.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Um fator importante na ocorrência de acidentes é o estado de conservação do veículo. Porém qual é a mais importante das condições adversas a ser considerada?",
+        "imagem": null,
+        "respA": "a) Trânsito.",
+        "respB": "b) Estrada.",
+        "respC": "c) Condutor.",
+        "respD": "d) Veículo.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Alguns fenômenos naturais reduzem a nossa capacidade visual e podem tornar-se tão extremos que nos impossibilitam ver outros veículos em condições adversas. A que esses fenômenos estão relacionados?",
+        "imagem": null,
+        "respA": "a) Luz.",
+        "respB": "b) Veículo.",
+        "respC": "c) Estrada.",
+        "respD": "d) Trânsito.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Aceleração ou desaceleração do veículo tem relação direta com qual dos fenômenos da física, abaixo relacionado?",
+        "imagem": null,
+        "respA": "a) Força centrípeta.",
+        "respB": "b) Aderência.",
+        "respC": "c) Sobre-esterçamento.",
+        "respD": "d) Transferência de massas.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Os retrovisores, faróis, vidros e limpadores de pára-brisas na direção defensiva podem ser considerados equipamentos de:",
+        "imagem": null,
+        "respA": "a) Comunicação.",
+        "respB": "b) Uso obrigatório.",
+        "respC": "c) Segurança.",
+        "respD": "d) Informação visual.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A única maneira de tirar algum proveito de acidente de trânsito é:",
+        "imagem": null,
+        "respA": "a) Fazer ocorrência.",
+        "respB": "b) Realizar perícia.",
+        "respC": "c) Receber o seguro obrigatório.",
+        "respD": "d) Aprender como agir para evitar que ele se repita.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Enxergar o perigo com antecedência significa:",
+        "imagem": null,
+        "respA": "a) Definir o itinerário.",
+        "respB": "b) Evitar indecisões nos cruzamentos.",
+        "respC": "c) Definir opções de trajetos.",
+        "respD": "d) Nenhuma das alternativas acima.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor defensivo, na eminência de ser prejudicado em seu direito de preferência no trânsito, deve:",
+        "imagem": null,
+        "respA": "a) Falar ao motorista do seu erro para que o mesmo venha corrigir em outras situações.",
+        "respB": "b) Diminuir ou até mesmo parar dando preferência para outro.",
+        "respC": "c) Acelerar a velocidade de seu veículo.",
+        "respD": "d) Piscar os faróis e buzinar prolongada e sucessivamente.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Inabilidade para executar uma manobra arriscada significa:",
+        "imagem": null,
+        "respA": "a) Imperícia.",
+        "respB": "b) Imprudência.",
+        "respC": "c) Negligência.",
+        "respD": "d) Ato inseguro.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor de veículo só poderá fazer uso da buzina, desde que em toque breve, na seguinte situação:",
+        "imagem": null,
+        "respA": "a) Fora das áreas urbanas, quando for conveniente advertir a um condutor que se tem o propósito de ultrapassá-lo.",
+        "respB": "b) Em qualquer situação.",
+        "respC": "c) Fora das áreas urbanas somente quando avistar animal na pista.",
+        "respD": "d) Trafegar perto de hospitais e escolas.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor ao sair do seu trabalho sob chuva forte, enfrenta uma pista alagada. Nesse caso deve:",
+        "imagem": null,
+        "respA": "a) Aumentar a velocidade para atravessar a área  alagada.",
+        "respB": "b) Fazer o mesmo percurso de um veículo de maior tamanho do que o seu.",
+        "respC": "c) Avaliar a proporção do alagamento, pois a água pode estar escondendo algum buraco mais profundo.",
+        "respD": "d) Ultrapassar os veículos que estão à sua frente.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A velocidade que permite ao condutor reagir diante de um obstáculo, de um pedestre ou de outro veículo é:",
+        "imagem": null,
+        "respA": "a) Compatível com as características da via e do trânsito por onde está circulando.",
+        "respB": "b) Máxima permitida para a via onde está circulando.",
+        "respC": "c) Máxima de 80km/h, de acordo com a legislação de trânsito.",
+        "respD": "d) De 30km/h, em qualquer via.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "As margens de segurança se alteram dependendo das:",
+        "imagem": null,
+        "respA": "a) Condições da via",
+        "respB": "b) Ações do condutor.",
+        "respC": "c) Condições em que os veículos se encontram.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Saber o que fazer e reagir a tempo chamamos de:",
+        "imagem": null,
+        "respA": "a) Atenção",
+        "respB": "b) Previsão.",
+        "respC": "c) Conhecimento.",
+        "respD": "d) Decisão.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Uma das reações defensivas de um condutor, ao perceber a eminência de uma colisão frontal, é:",
+        "imagem": null,
+        "respA": "a) Deslocar-se para o acostamento da esquerda.",
+        "respB": "b) Aumentar a velocidade.",
+        "respC": "c) Encostar ao máximo à direita da pista.",
+        "respD": "d) Ligar o pisca-pisca.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Quando o veículo aquaplanar, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Acelerar imediatamente.",
+        "respB": "b) Movimentar a direção bruscamente.",
+        "respC": "c) Movimentar a direção levemente.",
+        "respD": "d) Frear bruscamente o veículo.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Com relação às técnicas de prevenção da colisão quando em ultrapassagem, é incorreto :",
+        "imagem": null,
+        "respA": "a) Estar atento ás intenções do condutor.",
+        "respB": "b) Auxiliar o outro condutor, sinalizando claramente nossas intenções.",
+        "respC": "c) Ter cuidados especiais com os pontos cegos dos veículos que conduzimos.",
+        "respD": "d) Utilizar a faixa à esquerda da pista, sem atingir a contramão direcional evitando as tentativas de ultrapassagens perigosas realizadas por terceiros.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "As tachas e os tachões, colocados sobre a pista de rolamento, tem a finalidade de:",
+        "imagem": null,
+        "respA": "a) Embelezar a via.",
+        "respB": "b) Proteger o pedestre em todas as situações.",
+        "respC": "c) Sinalizar o local em caso de obras na pista.",
+        "respD": "d) Tornar mais visível ao condutor o espaço que tem para circular, oferecendo mais proteção.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Uma das alternativas abaixo não corresponde a automatismo correto:",
+        "imagem": null,
+        "respA": "a) Diminuir a velocidade no cruzamento.",
+        "respB": "b) Trocar de marcha no tempo certo.",
+        "respC": "c) Colocar o veículo em ponto morto ao iniciar uma parada.",
+        "respD": "d) Pisar no freio ao perceber o sinal vermelho.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Tempo de reação é o tempo:",
+        "imagem": null,
+        "respA": "a) Gasto para reagir.",
+        "respB": "b) Gasto depois de acionado os freios.",
+        "respC": "c) Gasto até imobilização total do veículo.",
+        "respD": "d) Gasto antes que o perigo é visto.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Embarque e desembarque dos passageiros devem ocorrer:",
+        "imagem": null,
+        "respA": "a) De qualquer lado da via desde que bem estacionado.",
+        "respB": "b) Sempre ao lado da calçada.",
+        "respC": "c) Sempre ao lado do condutor.",
+        "respD": "d) Junto ao canteiro do meio fio central.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Quanto ao uso de luzes em veículo, é correto afirmar que:",
+        "imagem": null,
+        "respA": "a) É necessário que todos os veículos em via pública, mantenham durante o dia, os faróis acesos.",
+        "respB": "b) O condutor utilizará o pisca-alerta em imobilizaçõe ou situãções de emergência.",
+        "respC": "c) Nos túneis providos de iluminação pública não poderá manter acesos os faróis do veículo.",
+        "respD": "d) Durante a noite, em circulação, se necessário, manterá acesa a luz de placa.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Adequar a velocidade às diferentes condições da via, do veículo, meteorológicas e a intensidade do trânsito, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Transitar sempre abaixo da metade da velocidade máxima estabelecida.",
+        "respB": "b) Verificar se os outros veículos trafegam em velocidade segura e imprime maior velocidade do que o seu.",
+        "respC": "c) Redobrar a atenção e aumentar a velocidade.",
+        "respD": "d) Decidir em cada situação, qual a velocidade segura, dentro do limite estabelecido.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Um veículo vem em sentido contrário do seu, no período noturno, com os faróis altos ligados provocando ofuscamento. Nessa situação você:",
+        "imagem": null,
+        "respA": "a) Desvia o veículo para esquerda e se orienta pelas faixas do solo.",
+        "respB": "b) Olha para o outro veículo e também liga o farol alto.",
+        "respC": "c) Desvia o olhar para a direita e se orienta pelas faixas do solo.",
+        "respD": "d) Pára no acostamento até o outro veículo passar.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O tráfego na avenida em que você se encontra está lento devido a forte chuva; você verifica que a via começa a alagar. O comportamento seguro nessa situação é: ",
+        "imagem": null,
+        "respA": "a) Aumentar a velocidade do veículo para sair, rapidamente do alagamento.",
+        "respB": "b) Engrenar a primeira ou segunda marchas, mantendo o motor acelerado, impedindo a entrada de água pelo cano de escapamento.",
+        "respC": "c) Manter a marcha desengrenada para economizar a embreagem.",
+        "respD": "d) Buzinar,  para apressar os veículos à frente.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor de veículo que se preocupa em avisar o outro que está rodando com o pneu murcho ou com a porta semi-fechada está:",
+        "imagem": null,
+        "respA": "a) Cumprindo a legislação de trânsito.",
+        "respB": "b) Cometendo uma infração.",
+        "respC": "c) Perdendo tempo e perturbando o trânsito.",
+        "respD": "d) Agindo com sentimento de solidariedade, cortesia e respeito.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor no trânsito deve ter percepção e respeito às expectativas das pessoas, adotando uma postura adequada, sendo:",
+        "imagem": null,
+        "respA": "a) Agressivo e rápido.",
+        "respB": "b) Decidido e agressivo.",
+        "respC": "c) Cuidadoso e ligeiro.",
+        "respD": "d) Cuidadoso e atento.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O que fazer para assegurar a visibilidade do motociclista e com isto evitar fechadas bruscas e acidentes:",
+        "imagem": null,
+        "respA": "a) Manter limpo o visor do capacete.",
+        "respB": "b) Fugir dos pontos cegos do veículo.",
+        "respC": "c) Ver e ser visto.",
+        "respD": "d) Todas as respostas estão certas.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A noite, ao cruzar com um outro veículo ou ao segui-lo, o condutor deverá:",
+        "imagem": null,
+        "respA": "a) Ligar o pisca alerta.",
+        "respB": "b) Usar luz baixa.",
+        "respC": "c) Usar luz alta.",
+        "respD": "d) Entrada em via arterial.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Ao dirigir em uma rodovia, ocorre uma situação de ventos laterais fortes. Nessa situação, você:",
+        "imagem": null,
+        "respA": "a) Fecha as janelas do veículo e continua com a mesma velocidade.",
+        "respB": "b) Abre a janela do veículo e continua com a mesma velocidade.",
+        "respC": "c) Reduz a marcha do veículo adotando uma velocidade compatível com a situação e abre os vidros.",
+        "respD": "d) Mantém a velocidade normal.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Quando você estiver conduzindo um veículo lembre-se que também é passageiro e pedestre. Assim você deve:",
+        "imagem": null,
+        "respA": "a) Ultrapassar veículos parados em fila, que estejam aguardando a abertura do sinal luminoso.",
+        "respB": "b) Ultrapassar outro veículo em pontes e viadutos.",
+        "respC": "c) Dar prioridade de passagem a pedestres apenas quando atravessar a calçada para entrar em algum estacionamento.",
+        "respD": "d) Dar preferência de passagem aos pedestres que estiverem nas faixas de segurança, onde não existir sinal luminoso.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O estado de conservação dos pneus é importante:",
+        "imagem": null,
+        "respA": "a) Para evitar o fenômeno de aquaplanagem garantindo aderência adequada do veículo no solo.",
+        "respB": "b) Para conforto dos passageiros.",
+        "respC": "c) Para evitar excesso de gastos com combustível.",
+        "respD": "d) Para a conservação das pistas de rolamento.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Você acabou de almoçar e está com muito sono. Para chegar ao seu destino, há ainda um longo  caminho pela frente. Nessa situação você:",
+        "imagem": null,
+        "respA": "a) Segue viagem, após tomar um café bem forte.",
+        "respB": "b) Segue viagem ouvindo uma música bem suave.",
+        "respC": "c) Segue viagem, pois acredita que dormir ao volante raramente acontece.",
+        "respD": "d) Permanece no local do almoço até se sentir em condições para prosseguir.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Debrear significa:",
+        "imagem": null,
+        "respA": "a) Pisar no pedal da embreagem.",
+        "respB": "b) Acelerar fortemente.",
+        "respC": "c) Diminuir a rotação do motor.",
+        "respD": "d) Acelerar fracamente.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Não fazem parte da direção defensiva, os seguintes elementos básicos:",
+        "imagem": null,
+        "respA": "a) Estar sempre alerta e consciente ao que se passa em torno do nosso veículo.",
+        "respB": "b) Agir de forma sensata e com rapidez nas situações críticas.",
+        "respC": "c) Possuir alguma prática de direção, o suficiente para movimentar o veículo.",
+        "respD": "d) Ter conhecimento da legislação vigente e das técnicas de prevenção.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O que você não deverá  fazer em uma aquaplanagem?",
+        "imagem": null,
+        "respA": "a) Não travar as rodas.",
+        "respB": "b) Evitar movimentos bruscos no volante.",
+        "respC": "c) Puxar o freio de mão.",
+        "respD": "d) Reduzir um nível de marcha.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Não está relacionado a ato inseguro:",
+        "imagem": null,
+        "respA": "a) Excesso de velocidade.",
+        "respB": "b) Desobedecer a parada obrigatória.",
+        "respC": "c) Sinalização precária.",
+        "respD": "d) Desobedecer ao sinal vermelho.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Condição insegura refere-se a:",
+        "imagem": null,
+        "respA": "a) Características físicas do condutor.",
+        "respB": "b) Características emocionais do condutor.",
+        "respC": "c) Características das penalidades.",
+        "respD": "d) Condições adversas da via.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Ao conduzir  o veículo sob chuva de granizo, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Aumentar a velocidade para passar rápido pela chuva.",
+        "respB": "b) Parar o veículo em local seguro e aguardar o témino da chuva. ",
+        "respC": "c) Ligar o pisca-alerta e parar o veículo imediatamente.",
+        "respD": "d) Parar o veículo debaixo de viaduto para evitar avaria na lataria do veículo.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Constitui automatismo incorreto:",
+        "imagem": null,
+        "respA": "a) Usar o pedal de freio antes de usar o pedal de embreagem.",
+        "respB": "b) Observar a sinalização.",
+        "respC": "c) Dirigir o veículo com o pé apoiado no pedal da embreagem.",
+        "respD": "d) Engrenar as machas corretamente.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Sob chuva intensa, quando a visibilidade é mais reduzida, o condutor além de redobrar a atenção, deve:",
+        "imagem": null,
+        "respA": "a) Acionar o limpador de pára-brisa, diminuir a velocidade e distância do veículo da frente.",
+        "respB": "b) Ligar o pisca-alerta e parar o veiculo. ",
+        "respC": "c) Acionar luzes de posição do veículo, aumentar a distância do veículo da frente e reduzir a velocidade.",
+        "respD": "d) Acionar o pisca- alerta.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "É correto afirmar que em ocorrência de penumbra (lusco-fusco), o procedimento correto do condutor é idêntico ao adotado em caso de:",
+        "imagem": null,
+        "respA": "a) Chuva, cerração e ondulações.",
+        "respB": "b) Cerração, ondulações e poça d;água.",
+        "respC": "c) Buracos, ondulações e poça d;água.",
+        "respD": "d) Chuva, cerração ou neblina.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Dirigir sempre com atenção para poder prever o que fazer com antecedência e tomar as decisões certas para evitar acidentes. É conceito de:",
+        "imagem": null,
+        "respA": "a) Direção Legal.",
+        "respB": "b) Direção corretiva.",
+        "respC": "c) Direção defensiva.",
+        "respD": "d) Direção progressiva.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Dirigir sempre com atenção, para poder prever o que vai fazer com antecedência e tomar as decisões certas para evitar acidentes é conceito de:",
+        "imagem": null,
+        "respA": "a) Direção dispersiva.",
+        "respB": "b) Direção defensiva.",
+        "respC": "c) Direção progressiva.",
+        "respD": "d) Direção agressiva. ",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Se um condutor de veículo deparar no trânsito com outro condutor agindo de forma incorreta e que venha a prejudicá-lo, deve:",
+        "imagem": null,
+        "respA": "a) Deixar que o acidente aconteça para fazê-lo pagar pelo erro.",
+        "respB": "b) Ceder seu direito para evitar consequências maiores.",
+        "respC": "c) Fazer valer seu direito.",
+        "respD": "d)  Ceder a vez e logo à frente, castigar o condutor infrator com uma \"fechada\". ",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Adequar a velocidade às diferentes características das vias, permite ao condutor dirigir numa velocidade segura. Por isso, você deve:",
+        "imagem": null,
+        "respA": "a) Decidir em cada situação qual a velocidade segura, obedecendo o limite estabelecido, observando as suas próprias condições e as de seu veículo e da via.",
+        "respB": "b) Verificar se outros veículos trafegam em velocidade segura e imprime maior velocidade que o seu.",
+        "respC": "c) Confiar na sua habilidade de dirigir, pois, dirige há mais de dez anos.",
+        "respD": "d) Saber que tem um veículo potente e que pode fazer percursos radicais. ",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor dirigindo corretivamente, terá que:",
+        "imagem": null,
+        "respA": "a) Diminuir, antes de transpor um cruzamento.",
+        "respB": "b) Corrigir uma situação de risco não antecipada.",
+        "respC": "c) Manter distância do veículo à frente.",
+        "respD": "d) Frear moderadamente. ",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Ao sair do trabalho um colega lhe pede carona. A conversa está animada até o momento em que ele começa a passar mal. Sua atitude deve ser:",
+        "imagem": null,
+        "respA": "a) Desconsiderar a situação, acreditando que a atitude do colega é chamar a sua atençaõ.",
+        "respB": "b) Conduzí-lo ao serviço médico em velocidade imcompatível com a via.",
+        "respC": "c) Manter a calma, levando-o a um dos recursos médico-hospitalares indicado por ele ou do seu conhecimento.",
+        "respD": "d) Deixar o colega em casa sem se preocupar.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A finalidade da direção defensiva é a condução:",
+        "imagem": null,
+        "respA": "a) Em alta velocidade.",
+        "respB": "b) De forma educativa e segura.",
+        "respC": "c) De automatismos incorretos.",
+        "respD": "d) Sem interferência do auto-controle.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Tempo de reação é aquele que transcorre entre:",
+        "imagem": null,
+        "respA": "a) Acionar o freio e parar.",
+        "respB": "b) Perceber o perigo e parar.",
+        "respC": "c) Ver o perigo e tomar providências.",
+        "respD": "d) Tempo aproximado de 3/4 de segundo.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor deve sinalizar e deslocar com antecedência seu veículo para a faixa mais a direita da sua mão de direção para:",
+        "imagem": null,
+        "respA": "a) Entrar à direita.",
+        "respB": "b) Mudar de faixa de trânsito.",
+        "respC": "c) para retornar pela mesma via.",
+        "respD": "d) Entrar à esquerda.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor está dirigindo e verifica que há ciclistas no trânsito. Antes de ultrapassá-los, deve:",
+        "imagem": null,
+        "respA": "a) Dar um toque breve na buzina e deixar espaço de segurança entre seu veículo e a bicicleta.",
+        "respB": "b) Buzinar e seguir normalmente. O ciclista deve tomar cuidado.",
+        "respC": "c) Não se incomodar. Ciclistas não representam um motivo de preocupação.",
+        "respD": "d) Ficar ao lado deles e avisá-los de que deverão encostar.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor que está sempre preparado para reagir contra os erros dos outros no trânsito, está praticando uma direção...",
+        "imagem": null,
+        "respA": "a) Agressiva.",
+        "respB": "b) Perigosa.",
+        "respC": "c) Normal.",
+        "respD": "d) Defensiva.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "\"Enxergando\" o perigo com antecedência, você estará:",
+        "imagem": null,
+        "respA": "a) Prevendo a falta de responsabilidade dos pedestres.",
+        "respB": "b) Prevendo a falta de responsabilidade dos outros motoristas.",
+        "respC": "c) Trafegando com margens de segurança.",
+        "respD": "d) Todas a afirmativas estão corretas.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta: O que é Direção Defensiva?",
+        "imagem": null,
+        "respA": "a) Fazer valer se direito, exigindo-o.",
+        "respB": "b) Realizar uma viagem, sem infrações de trânsito.",
+        "respC": "c) Realizar uma viagem sem faltar com a cortesia devida no trânsito.",
+        "respD": "d) É uma maneira de encarar a tarefa de dirigir para reduzir a possibilidade de ser envolvido em acidentes.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Para que o cinto de segurança possa cumprir sua função, sempre após ter sido submetido a uma grande força de tração (ex.: após um acidente), você deve:",
+        "imagem": null,
+        "respA": "a) Substiuí-lo.",
+        "respB": "b) Lavá-lo.",
+        "respC": "c) Prendê-lo com nós.",
+        "respD": "d) Diminuir seu comprimento.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Os cuidados que você deve ter com os cintos de segurança de seu veículo são:",
+        "imagem": null,
+        "respA": "a) Guardá-los sob os bancos, para que não sujem.",
+        "respB": "b) Mantê-los limpos e afastados de objetos cortantes.",
+        "respC": "c) Mantê-los protegidos com sacos plásticos.",
+        "respD": "d) Escová-los, pelo menos, uma vez por semana.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O balanceamento das rodas do veiculo deve ser executado:",
+        "imagem": null,
+        "respA": "a) Pelo menos uma vez por mês.",
+        "respB": "b) Quando a direção estiver pesada.",
+        "respC": "c) Depois de cada calibragem.",
+        "respD": "d) Quando surgirem vibrações.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta:",
+        "imagem": null,
+        "respA": "a) A aquaplanagem é a flutuação de veículos em rios e lagos.",
+        "respB": "b) Frenagem é o mesmo que travamento das rodas.",
+        "respC": "c) Dirigir na defensiva é dirigir com rapidez.",
+        "respD": "d) Ergonomia é a ciência que estuda a relação entre o homem e a máquina.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Nas retas, o motorista deve manter suas mãos no volante na posição:",
+        "imagem": null,
+        "respA": "a) \"Dez e dez\" ou \"oito e quinze\".",
+        "respB": "b) \"Duas e trinta\" ou \"nove e quinze\".",
+        "respC": "c) \"Nove e quinze\" ou \"Dez e dez\".",
+        "respD": "d) \"Dez e trinta\" ou \"nove e vinte\"",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Você está em uma via de bastante movimento e surge uma rotatória à frente com um veículo lento fazendo seu contorno. Você deve:",
+        "imagem": null,
+        "respA": "a) Buzinar para avisar que você está entrando com prioridade.",
+        "respB": "b) Diminuir a velocidade e deixar o outro carro completar seu trajeto.",
+        "respC": "c) Acelerar para adentrar à rotatória antes que aquele carro lhe atrapalhe.",
+        "respD": "d) Estacionar o veículo até que o outro complete a travessia.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O semáforo está verde para você que cruza uma avenida de intenso movimento de ônibus e caminhões. Um caminhão que está na avenida e não consegue frear vai avançar o semáforo vermelho. Nessa situação, você...",
+        "imagem": null,
+        "respA": "a) Freia e aguarda, já que outros condutores também fazem o mesmo.",
+        "respB": "b) Acelera e buzina, avançando rapidamente, porque o semáforo está verde.",
+        "respC": "c) Fica indeciso, se avança ou diminui a velocidade, pois o semáfo está verde para você.",
+        "respD": "d) Reduz a velocidade atento ao caminhão e ao condutor de trás, avisando-o com sinal de braço e aguarda o caminhão passar.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Para o licenciamento de um veículo é obrigatório:",
+        "imagem": null,
+        "respA": "a) Pagar o IPVA.",
+        "respB": "b) Pagar o DPVAT.",
+        "respC": "c) Passar por uma inspeção veicular.",
+        "respD": "d) Todas acima estão corretas.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Quanto aos veículos com prioridade, podemos afirmar:",
+        "imagem": null,
+        "respA": "a) À aproximação dos veículos, devemos deixar livre a passagem pela faixa da esquerda.",
+        "respB": "b) Os pedestres deverão aguardar no passeio.",
+        "respC": "c) A passagem no cruzamento deverá se dar com velocidade reduzida.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Qual a distância correta para iniciar a sinalização em uma rua com velocidade máxima permitida de 40 quilômetros por hora, em caso de acidente?",
+        "imagem": null,
+        "respA": "a) 40 passos largos ou 40 metros.",
+        "respB": "b) De 10 a 15 passos.",
+        "respC": "c) De 2 a 4 passos.",
+        "respD": "d) De 5 a 10 passos.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Não constitui fundamento da direção defensiva:",
+        "imagem": null,
+        "respA": "a) Decisão.",
+        "respB": "b) Interação.",
+        "respC": "c) Conhecimento.",
+        "respD": "d) Atenção.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Manter uma distância do veículo da frente é uma:",
+        "imagem": null,
+        "respA": "a) Conduta que contraria as normas de direção defensiva.",
+        "respB": "b) Condição segura para que o condutor tenha tempo de reagir e acionar os faróis diante de situação de emergência.",
+        "respC": "c) Condição segura para que o condutor tenha tempo de reagir e acionar os freios em situação de emergência.",
+        "respD": "d) Conduta errada do condutor defensivo.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O bom estado de conservação dos pneus e a profundidade dos seus sulcos ajuda a evitar:",
+        "imagem": null,
+        "respA": "a) Desgaste prematuro da barra de direção.",
+        "respB": "b) Desgaste anormal da caixa de direção.",
+        "respC": "c) Perda de aderência na chuva (aquaplanagem).",
+        "respD": "d) Desgaste do motor.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Não faz parte da direção defensiva:",
+        "imagem": null,
+        "respA": "a) Dirigir de forma rápida e insegura.",
+        "respB": "b) Ter conhecimento suficiente para fazer o veículo locomover.",
+        "respC": "c) Fazer manutenção periódica e preventiva do veículo.",
+        "respD": "d) Diminuir a velocidade nas interseções.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Às imprudências cometidas pelo condutor chamamos de ato:",
+        "imagem": null,
+        "respA": "a) Consciente.",
+        "respB": "b) Correto.",
+        "respC": "c) Seguro.",
+        "respD": "d) Inseguro.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O que fazer numa frenagem de emergência, sem  freio ABS?",
+        "imagem": null,
+        "respA": "a) Se as rodas travarem, alivie o pé sobre o pedal.",
+        "respB": "b) Mantenha o veículo em linha reta.",
+        "respC": "c) Firme o pé na lateral esquerda do veículo.",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Ao utilizar o extintor de incêndio de um veículo, o jato de seu conteúdo deve ser:",
+        "imagem": null,
+        "respA": "a) Na direção do tanque.",
+        "respB": "b) Na direção somente das chamas.",
+        "respC": "c) Dirigido para a base das chamas, com movimentos horizontais na forma de um leque.",
+        "respD": "d) Em qualquer direção.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O conjunto de técnicas que permitem evitar acidentes chamamos de:",
+        "imagem": null,
+        "respA": "a) Direção defensiva.",
+        "respB": "b) Eliminação de automatismos corretos.",
+        "respC": "c) Direção ofensiva.",
+        "respD": "d) Todas acima.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Aplicar boas relações humanas no trânsito é também:",
+        "imagem": null,
+        "respA": "a) Conversar bastante com os passageiros.",
+        "respB": "b) Cumprimentar todos que estão na via.",
+        "respC": "c) Ceder sempre a sua vez aos outros.",
+        "respD": "d) Ser tolerante com os erros dos outros, priorizando sempre o especto segurança.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor que se preocupa em avisar ao outro que o pneu do seu veículo está murcho.",
+        "imagem": null,
+        "respA": "a) Pode chegar atrasado aos eus compromissis.",
+        "respB": "b) Está cumprido a legislação de trânsito.",
+        "respC": "c) Age com solidarierdade e cortesia.",
+        "respD": "d) Está preocupado com o trânsito.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "O condutor deve enxergar:",
+        "imagem": null,
+        "respA": "a) Apenas o que se passa à sua frente.",
+        "respB": "b) Apenas o que ocorre na frante e atrás de seu veículo.",
+        "respC": "c) Apenas o que ocorre à frente e aos lados de seu veículo.",
+        "respD": "d) Tudo o que ocorre em torno de seu veículo.",
+        "correta": "D",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta: dirigir na defensiva é:",
+        "imagem": null,
+        "respA": "a) Dirigir impondo seus direitos.",
+        "respB": "b) Dirigir atento às ações imprevisíveis dos demais usuários.",
+        "respC": "c) Dirigir educado e seguro.",
+        "respD": "d) Dirigir respeitando a legislação.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "É considerado como equipamento de segurança:",
+        "imagem": null,
+        "respA": "a) Cortina nos vidros traseiros.",
+        "respB": "b) Encosto de cabeça.",
+        "respC": "c) Alarme.",
+        "respD": "d) Direção hidráulica.",
+        "correta": "B",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A distancia percorrida pelo veículo, após o condutor perceber efetivamente o perigo e acionar os freios, é denominada:",
+        "imagem": null,
+        "respA": "a) Distância de reação.",
+        "respB": "b) Distância de parada.",
+        "respC": "c) Distância de frenagem.",
+        "respD": "d) Distância de percepção.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "Com relação ao tempo de parada, é correto afirmar:",
+        "imagem": null,
+        "respA": "a) É o tempo que o veículo percorre desde que o perigo é visto até a reação do condutor.",
+        "respB": "b) É o tempo que o condutor em estado normal gasta para reagir.",
+        "respC": "c) É o tempo gasto desde que o condutor percebe o perigo, até a parada total do veículo.",
+        "respD": "d) É o tempo gasto depois de acionado os freios até a imobilização total do veículo.",
+        "correta": "C",
+        "modulo": "direcao_defensiva"
+    },
+    {
+        "pergunta": "A colisão frontal é considerada a mais perigosa nos ensinamentos de direção defensiva porque...",
+        "imagem": null,
+        "respA": "a) As velocidades se somam e o risco de morte aumenta.",
+        "respB": "b) Em baixas velocidades, os danos materiais são muito altos.",
+        "respC": "c) Só acontecem em rodovias federais (Br´s)",
+        "respD": "d) Os carros envolvidos, se de grande porte, não protegem os ocupantes.",
+        "correta": "A",
+        "modulo": "direcao_defensiva"
+    }
+]

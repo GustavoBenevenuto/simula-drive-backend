@@ -1,0 +1,3672 @@
+[
+    {
+        "pergunta": "Os passageiros de motocicletas, motonetas e ciclomotores só poderão ser transportados:",
+        "imagem": null,
+        "respA": "a) Fora da garupa ou do assento especial a eles destinado.",
+        "respB": "b) Em semi-reboque especialmente projetado para este fim e devidamente homologado pelo órgão competente.",
+        "respC": "c) Em carro lateral acoplado ao veículo ou em assento suplementar atrás do condutor.",
+        "respD": "d) Se criança menor de sete anos, entre o condutor e o guidão, sobre o tanque de combustível.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor que tiver a sua CNH cassada poderá reabilitar-se após:",
+        "imagem": null,
+        "respA": "a) 2 anos.",
+        "respB": "b) 1 ano.",
+        "respC": "c) 3 anos.",
+        "respD": "d) 4 anos.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A frequência obrigatória em curso de reciclagem, ocorrerá se o condutor:",
+        "imagem": null,
+        "respA": "a) Tiver suspenso o direito de dirigir.",
+        "respB": "b) Se envolver em acidente grave, para o qual haja contribuído.",
+        "respC": "c) For infrator contumaz, sendo necessária a sua reeducação.",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa que completa as lacunas desta questão: Os veículos de tração animal serão conduzidos pela ____ da pista junto à guia da calçada (meio-fio) ou _____ , sempre que não houver faixa especial à eles destinada.",
+        "imagem": null,
+        "respA": "a) Esquerda; acostamento.",
+        "respB": "b) Direita; esquerda.",
+        "respC": "c) Direita; acostamento.",
+        "respD": "d) Direita; meio-fio.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor se torna inabilitado para conduzir qualquer veículo automotor quando:",
+        "imagem": null,
+        "respA": "a) O exame psicotécnico estiver vencido.",
+        "respB": "b) Seu veículo for apreendido.",
+        "respC": "c) Sua Carteira Nacional de Habilitação for perdida.",
+        "respD": "d) Sua Carteira Nacional de Habilitação for cassada.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Segundo o Código de Trânsito Brasileiro, as vias urbanas classificam-se em:",
+        "imagem": null,
+        "respA": "a) Via rápida, preferencial, secundária, e via lenta.",
+        "respB": "b) Preferencial, plana, trânsito lento e secundária.",
+        "respC": "c) De trânsito rápido, arterial, coletora e local.",
+        "respD": "d) Expressa, preferencial, secundária e residencial.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A placa de veículo de Autoescola tem as seguintes características:",
+        "imagem": null,
+        "respA": "a) Fundo cinza e caracteres pretos.",
+        "respB": "b) Fundo branco e caracteres pretos.",
+        "respC": "c) Fundo preto e caracteres brancos.",
+        "respD": "d) Fundo branco e caracteres vermelhos.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os veículos são classificados quanto:",
+        "imagem": null,
+        "respA": "a) Misto, passageiros, carga, tração e coleção.",
+        "respB": "b) À tração, espécie e categoria.",
+        "respC": "c) Aluguel, aprendizagem, oficial, diplomático.",
+        "respD": "d) Misto.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O órgão máximo normativo do Sistema Nacional de Trânsito é:",
+        "imagem": null,
+        "respA": "a) Departamento Nacional de Trânsito - DENATRAN.",
+        "respB": "b) Conselho Nacional de Trânsito - CONTRAN.",
+        "respC": "c) Circunscrição Regional de Trânsito - CIRETRAN.",
+        "respD": "d) Ministério da Justiça.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os cuidados que você deve ter com os cintos de segurança de seu veículo são:",
+        "imagem": null,
+        "respA": "a) Guardá-los sob os bancos, para não sujarem.",
+        "respB": "b) Mantê-los limpos e afastados de objetos cortantes.",
+        "respC": "c) Escová-los, pelo menos, uma vez por semana.",
+        "respD": "d) Lavá-los, pelo menos, uma vez por semana.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Constituem equipamentos de uso obrigatório, exceto:",
+        "imagem": null,
+        "respA": "a) Espelhos retrovisores.",
+        "respB": "b) Macaco.",
+        "respC": "c) Ar condicionado.",
+        "respD": "d) Chave de roda.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Caminhonete e e carro de mão são veículos, quanto a espécie, classificados como de:",
+        "imagem": null,
+        "respA": "a) Misto.",
+        "respB": "b) Tração.",
+        "respC": "c) Passageiros.",
+        "respD": "d) Carga.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Constitui documento de porte obrigatório:",
+        "imagem": null,
+        "respA": "a) Comprovante de pagamento atualizado do IPVA.",
+        "respB": "b) Certificado de registro do veículo.",
+        "respC": "c) ACC, Permissão para Dirigir ou CNH e CRLV no formato físico ou digital.",
+        "respD": "d) Comprovante de pagamento do seguro obrigatório.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Ao Departamento de Trânsito (DETRAN), órgão executivo, cabe, entre outras, a atribuição de:",
+        "imagem": null,
+        "respA": "a) Sugerir modificações sobre a legislação de trânsito",
+        "respB": "b) Expedir a Carteira Nacional de Habilitação",
+        "respC": "c) Estabelecer os modelos das placas de veículos",
+        "respD": "d) Regulamentar o serviço de veículos",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para candidatar a condutor de veículos de transportes escolares, o motorista, dentre outros requisitos:",
+        "imagem": null,
+        "respA": "a) Deve ser habilitado na categoria C, ter mais de 21 anos e não ter cometido nenhuma infração gravíssima nos  últimos 6 meses.",
+        "respB": "b) Deve ser habilitado na categoria D ou E, ter mais de 21 anos e não ter cometido mais de uma infração gravíssima nos últimos 12 meses.",
+        "respC": "c) Deve ser habilitado na categoria C e ter mais de 21 anos.",
+        "respD": "d) Não ter cometido nenhuma infração nos últimos 12 meses.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os órgãos técnicos e consultivos destinam-se a realizar estudos e oferecer sugestões sobre assuntos específicos, são chamados de:",
+        "imagem": null,
+        "respA": "a) JARI.",
+        "respB": "b) Câmaras temáticas.",
+        "respC": "c) RENACH.",
+        "respD": "d) RENAVAN.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual é a forma adequada para posicionar bebê de 0 a 1 ano?",
+        "imagem": null,
+        "respA": "a) No meio do banco traseiro.",
+        "respB": "b) No assoalho atrás do banco do motorista.",
+        "respC": "c) De forma que bebê fique voltado  com o rosto para o vidro traseiro do veículo.",
+        "respD": "d) Desde que se dirija devagar, preso no cinto de segurança do banco do carona.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Poderá haver isenção do DPVAT quando o veículo.",
+        "imagem": null,
+        "respA": "a) For novo e possuir AirBag",
+        "respB": "b) For roubado ou deixar de circular por perda total",
+        "respC": "c) For roubado há mais de 15 dias",
+        "respD": "d) Quando o proprietário apresentar atestado de pobreza",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quem deve pagar DPVAT?",
+        "imagem": null,
+        "respA": "a) Todos os proprietários de veículos com mais de 15 anos.",
+        "respB": "b) Todas as pessoas, sendo ou não proprietárias de veículos.",
+        "respC": "c) Todos os proprietários de veículos automotores.",
+        "respD": "d) Todos os proprietários de 2 ou mais automóveis.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Sobre o pagamento em atraso do DPVAT pode-se afirmar:",
+        "imagem": null,
+        "respA": "a) O veículo não é devidamente licenciado.",
+        "respB": "b) O proprietário não terá direito à  indenização em caso de acidente.",
+        "respC": "c) O proprietário é obrigado a ressarcir às vítimas de acidente causados por seu veículo.",
+        "respD": "d) Todas as respostas acima.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Sobre o lusco-fusco é falso afirmar:",
+        "imagem": null,
+        "respA": "a) Situação de pouca luminosidade.",
+        "respB": "b) Ocorre ao amanhecer, anoitecer, túneis, viadutos e tempestades.",
+        "respC": "c) A penumbra torna mais dificil reconhecer objetos.",
+        "respD": "d) O motorista deve usar luz alta nestas situações.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É medida máxima permitida para trincas no para-brisa fora da área crítica de visão em automóveis:",
+        "imagem": null,
+        "respA": "a) 20 cm.",
+        "respB": "b) 10 mm.",
+        "respC": "c) 10 cm.",
+        "respD": "d) 5 mm.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O capacete adequado deve conter o selo do:",
+        "imagem": null,
+        "respA": "a) CONTRAN.",
+        "respB": "b) DETRAN.",
+        "respC": "c) INMETRO.",
+        "respD": "d) DENATRAN.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O dispositivo retro-refletivo de segurança deve estar localizado em que parte do capacete?",
+        "imagem": null,
+        "respA": "a) Na traseira e laterais.",
+        "respB": "b) Nas laterais apenas.",
+        "respC": "c) Na traseira apenas.",
+        "respD": "d) Em parte alguma do capacete.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A criança de 1 a 4 anos de idade com peso entre 9 e 18 kg deve ser transportada em:",
+        "imagem": null,
+        "respA": "a) Bebê-conforto.",
+        "respB": "b) Assento de elevação.",
+        "respC": "c) Cinto de 3 pontos.",
+        "respD": "d) Dispositivo de retenção denominado Cadeirinha.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os riscos e os perigos a que estamos sujeitos no trânsito estão relacionados com:",
+        "imagem": null,
+        "respA": "a) Os veículos  condutores, as vias de trânsito, o ambiente e o comportamento das pessoas.",
+        "respB": "b) Os lotes lindeiros ao logo das vias.",
+        "respC": "c) As edificações nas áreas urbanas.",
+        "respD": "d) A sinalização das vias.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "As marcas separadoras de faixas de trânsito que permitem ao condutor ultrapassar outro veículo em movimento são:",
+        "imagem": null,
+        "respA": "a) Amarelas contínuas.",
+        "respB": "b) Brancas contínuas.",
+        "respC": "c) Contínuas.",
+        "respD": "d) Seccionadas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Marcelo e Bárbara, passaram  na prova de direção veicular dia 19 de novembro de 2009. No dia 10 de Dezembro do mesmo ano eles avançaram o sinal vermelho do semáforo enquanto se cumprimentavam. O que acontecerá com eles?",
+        "imagem": null,
+        "respA": "a) Vão ganhar uma multa gravíssima, a suspensão da CNH e devem frequentar o curso de reciclagem.",
+        "respB": "b) Vão ganhar uma multa gravíssima, a suspensão da PPD e devem frequentar o curso de reciclagem.",
+        "respC": "c) Vão ganhar uma multa gravíssima, a cassação da PPD e devem reiniciar o processo de habilitação.",
+        "respD": "d) Vão  ganhar uma multa gravíssima, a suspensão da CNH, e reiniciar o processo de habilitação.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Todo cidadão tem o direito de:",
+        "imagem": null,
+        "respA": "a) Fiscalizar o trânsito no bairro em que mora.",
+        "respB": "b) Solicitar aos órgãos e entidades do SNT sinalização, fiscalização, implantação de equipamentos de segurança.",
+        "respC": "c) Colocar obstáculos na rua em que mora.",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O pagamento de multa pode ser efetuado, até a data do vencimento:",
+        "imagem": null,
+        "respA": "a) Com juros.",
+        "respB": "b) Parcelado, a critério do DETRAN.",
+        "respC": "c) Por 20% do seu valor.",
+        "respD": "d) Por 80% do seu valor.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É velocidade máxima permitida quando não houver placas de regulamentação:",
+        "imagem": null,
+        "respA": "a) 110 KM/h nas rodovias de pista simples para veículos leves.",
+        "respB": "b) 80 KM/h nas estradas.",
+        "respC": "c) 40 KM/h nas vias coletoras.",
+        "respD": "d) 20 KM/h nas vias locais.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O candidato encontrado dirigindo sem a companhia do instrutor terá a Licença de Aprendizagem (LADV):",
+        "imagem": null,
+        "respA": "a) Suspensa por 6 meses.",
+        "respB": "b) Cassada por 24 meses.",
+        "respC": "c) Apreendida por 6 meses.",
+        "respD": "d) Apreendida por tempo indeterminado.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O veículo destinado a aprendizagem e exame de direção veicular, deverá apresentar:",
+        "imagem": null,
+        "respA": "a) Duplo comando de freio.",
+        "respB": "b) Freio de estacionamento.",
+        "respC": "c) Identificação através de faixa de 20 cm.",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A categoria  A:",
+        "imagem": null,
+        "respA": "a) É para conduzir veículos cujo PBT não exceda a 3.500 kg",
+        "respB": "b) Só para quem já tem brevê.",
+        "respC": "c) Para categorias B,C,D cuja unidade acoplada tenha 6.000 mil kg ou mais de PBT.",
+        "respD": "d) Para conduzir veículos motorizados de duas ou três rodas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual o prazo para o proprietário de veículo adotar as providências necessárias para novo CRV, quando da transferência de propriedade?",
+        "imagem": null,
+        "respA": "a) 25 dias.",
+        "respB": "b) 60 dias.",
+        "respC": "c) 15 dias.",
+        "respD": "d) 30 dias.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A quilometragem percorrida pelo veículo é indicada pelo:",
+        "imagem": null,
+        "respA": "a) Hodômetro.",
+        "respB": "b) Velocímetro.",
+        "respC": "c) Manômetro.",
+        "respD": "d) Conta-giros.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Existem acessórios capazes de diminuir o impacto do corpo do ocupante com o veículo em caso de colisão. Exemplo:",
+        "imagem": null,
+        "respA": "a) Paraquedas.",
+        "respB": "b) Airbag.",
+        "respC": "c) Sistema de suspensão.",
+        "respD": "d) Almofada.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Usar a buzina e ouvir o som alto, aumentam:",
+        "imagem": null,
+        "respA": "a) A animação nas vias públicas.",
+        "respB": "b) A atenção nas vias públicas.",
+        "respC": "c) O bem estar nas vias públicas",
+        "respD": "d) A poluição sonora nas vias públicas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Air bag é um acessório para prevenir:",
+        "imagem": null,
+        "respA": "a) Superaquecimento do motor.",
+        "respB": "b) Problemas de postura.",
+        "respC": "c) Ferimentos graves em casos de colisão.",
+        "respD": "d) Falhas eletrônicas.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O triângulo de segurança é:",
+        "imagem": null,
+        "respA": "a) Equipamento de porte obrigatório.",
+        "respB": "b) Equipamento secundário.",
+        "respC": "c) Só é necessário em viajens longas.",
+        "respD": "d) Nenhuma das alternativas acima.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Será conferido ao candidato, aprovado em todos os exames exigidos a habilitação, o documento denominado ____________ com validade de _____________.",
+        "imagem": null,
+        "respA": "a) Autorização para conduzir ciclomotor ou Carteira Nacional de Habilitação -  01 ano.",
+        "respB": "b) Autorização para conduzir ciclomotores ou Carteira Nacional de Habilitação -  05 anos.",
+        "respC": "c) Autorização para conduzir qualquer veículo automotor - 01 ano.",
+        "respD": "d) ACC provisória ou Permissão Para Dirigir (PPD) - 01 ano.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É competência do CONTRAN:",
+        "imagem": null,
+        "respA": "a) Cumprir e fazer cumprir a legislação e as normas de trânsito.",
+        "respB": "b) Julgar recursos e infrações em 1ª instância",
+        "respC": "c) Registrar os dados de condutores.",
+        "respD": "d) Coordenar os orgãos do Sistema Nacional de Transito, objetivando a integração de suas atividades.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a afirmativa que completa a questão: O condutor de veículo destinado a condução de escolares deve ter idade superior a ______ anos e ser habilitado na categoria ________.",
+        "imagem": null,
+        "respA": "a) 21;B.",
+        "respB": "b) 18;D.",
+        "respC": "c) 18;B.",
+        "respD": "d) 21;D.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os veículos destinados a condução coletiva de escolares, somente poderão circular nas vias com autorização emitida pelo:",
+        "imagem": null,
+        "respA": "a) Órgão ou Entidade Executivos de Trânsito do Estado e do Distrito Federal.",
+        "respB": "b) Órgão ou Entidade Executivos De Trânsito Do Município.",
+        "respC": "c) Órgão ou Entidade Executivos  Rodoviários Do Estado Federal.",
+        "respD": "d) Órgão Máxímo Executivo de Trânsito Da União.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Segundo a classificação do Código de Trânsito Brasileiro, uma via de trânsito rápido é caracterizada:",
+        "imagem": null,
+        "respA": "a) Pela alta velocidade nela desenvolvida.",
+        "respB": "b) Por faixas interceptando e distribuindo o trânsito dela, com acessos especiais.",
+        "respC": "c) Por acessos especiais com trânsito livre, sem interseções em nível, sem acessibilidade direta aos lotes lindeiros e sem travessia de pedestres em nível.",
+        "respD": "d) Pela alta fluidez.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Segundo a classificação do CTB, uma via destinada apenas ao acesso de áreas restritas é chamada de:",
+        "imagem": null,
+        "respA": "a) Preferencial.",
+        "respB": "b) Trânsito rápido.",
+        "respC": "c) Secundária.",
+        "respD": "d) Local.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quais os casos de acidente que não são cobertos pelo DPVAT?",
+        "imagem": null,
+        "respA": "a) Acidentecom automóvel.",
+        "respB": "b) Acidente com caminhões",
+        "respC": "c) Acidente com veículos automotores de vias terrestres.",
+        "respD": "d) Acidente com trem ou metrô.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Vítima que usava cinto de segurança está inconsciente dentro do veículo. O que fazer em primeiro lugar?",
+        "imagem": null,
+        "respA": "a) Sinalizar o local e chamar o resgate.",
+        "respB": "b) Retirar o cinto de segurança.",
+        "respC": "c) Retirar a vítima do veículo e deitá-la.",
+        "respD": "d) Se for banco reclinável, incliná-lo o máximo possível.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor que estiver com sua Carteira Nacional de Habilitação cassada e for encontrado dirigindo, terá como penalidade:",
+        "imagem": null,
+        "respA": "a) Remoção do veículo.",
+        "respB": "b) Retenção do veículo.",
+        "respC": "c) Apreensão da Carteira Nacional de Habilitação.",
+        "respD": "d) Multa (3 vezes).",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É proibido circular nas vias de trânsito rápido:",
+        "imagem": null,
+        "respA": "a) Motocicletas até 120cc (cento e vinte centímetros cúbicos) de cilindradas.",
+        "respB": "b) Os veículos de duas ou três rodas, cuja cilindrada não exceda a 50cc (cinquenta centímetros cúbicos).",
+        "respC": "c) Veículos de duas ou três rodas, cuja cilindrada exceda a 50cc (cinquenta centímetros cúbicos).",
+        "respD": "d) Motocicletas acima de 120cc (cento e vinte centímetros cúbicos) de cilindradas.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta, quanto ao pagamento da multa:",
+        "imagem": null,
+        "respA": "a) Se não for efetuado até a data do vencimento será cobrada multa de 10% do seu valor.",
+        "respB": "b) Poderá ser efetuado até a data do vencimento expressa na notificação, por 80% do seu valor.",
+        "respC": "c) Poderá ser efetuado a qualquer tempo por 80% do seu valor.",
+        "respD": "d) Não existe desconto ou acréscimo, no valor inicial da multa.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Nas interseções e em suas proximidades, onde não existam faixas de travessia, os pedestres devem atravessar a via:",
+        "imagem": null,
+        "respA": "a) Em sentido oposto.",
+        "respB": "b) Não é permitida a travessia.",
+        "respC": "c) Na continuação da calçada.",
+        "respD": "d) Em sentido perpendicular.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os passageiros de motocicletas, motonetas e ciclomotores só poderão ser transportados:",
+        "imagem": null,
+        "respA": "a) Em carro lateral acoplado ao veículo.",
+        "respB": "b) Em assento suplementar atrás do veículo.",
+        "respC": "c) Utilizando capacete de segurança",
+        "respD": "d) Todas estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em local sinalizado, com linha de divisão dupla contínua, o condutor:",
+        "imagem": null,
+        "respA": "a) Poderá aumentar a velocidade.",
+        "respB": "b) Poderá transpor faixa de pedestre.",
+        "respC": "c) Não poderá ultrapassar.",
+        "respD": "d) Poderá efetuar ultrapassagem.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A marcação de áreas de estacionamento que indica ao condutor a proibição para estacionar é feita na cor:",
+        "imagem": null,
+        "respA": "a) Azul.",
+        "respB": "b) Branca.",
+        "respC": "c) Verde.",
+        "respD": "d) Amarela.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "De acordo com a legislação de trânsito, transitar em marcha à ré é:",
+        "imagem": null,
+        "respA": "a) Permitido, para fugir de situações de congestionamento.",
+        "respB": "b) Proibido.",
+        "respC": "c) Permitido, apenas nas vias sinalizadas.",
+        "respD": "d) Permitido, somente para fazer pequenas manobras.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quem tem prioridade no trânsito: o pedestre ou o condutor?",
+        "imagem": null,
+        "respA": "a) O pedestre, pois ele é mais fraco frente ao veículo.",
+        "respB": "b) O condutor, pois está no comando do veículo.",
+        "respC": "c) O pedestre, se o mesmo for idoso.",
+        "respD": "d) Como pessoas e cidadãos, ambos tem direitos iguais.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O cinto de segurança foi projetado para:",
+        "imagem": null,
+        "respA": "a) Diminuir a velocidade de seu veículo.",
+        "respB": "b) Ser usado por duas pessoas ao mesmo tempo.",
+        "respC": "c) Proteger os ocupantes dos veículos em paradas súbitas e colisões.",
+        "respD": "d) Ser usado apenas no banco dianteiro.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os veículos mais lentos, quando em fila, devem:",
+        "imagem": null,
+        "respA": "a) Manter-se à esquerda.",
+        "respB": "b) Manter distância entre si.",
+        "respC": "c) Aumentar a velocidade.",
+        "respD": "d) Dificultar as ultrapassagens.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Terá removido o veículo, o condutor que:",
+        "imagem": null,
+        "respA": "a) Conduzir o veículo com velocidade compatível com a via.",
+        "respB": "b) Estacionar na esquina, a menos de 5 metros do alinhamento da via transversal.",
+        "respC": "c) Avançar o sinal vermelho do semáforo ou de parada obrigatória.",
+        "respD": "d) Transportar crianças menores de 10 anos no banco da frente.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual o procedimento ao ser ultrapassado?",
+        "imagem": null,
+        "respA": "a) Se estiver na faixa da direita, deverá manter-se na mesma sem acelerar o veículo.",
+        "respB": "b) Esterçar o volante sem aumentar a velocidade.",
+        "respC": "c) Estando na faixa da esquerda, deverá se deslocar para a direita e aumentar sua velocidade.",
+        "respD": "d) Deslocar-se para a faixa da esquerda.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Segundo o CONTRAN, qual tipo de equipamento deverá possuir os veículos que pretendam rodar com faróis do tipo xenônio?",
+        "imagem": null,
+        "respA": "a) Equipamento de proteção para os faróis.",
+        "respB": "b) Sistema que regula a altura das lâmpadas quando há desníveis na pista ou sobrecarga no porta-malas e limpadores de faróis.",
+        "respC": "c) Sistema que diminui a intensidade do facho de luz.",
+        "respD": "d) Lâmpadas que não ofuscam a visão dos demais condutores.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O uso do farol de xenônio em desacordo com as normas estabelecidas pelo CONTRAN será considerado infração:",
+        "imagem": null,
+        "respA": "a) Média.",
+        "respB": "b) Leve.",
+        "respC": "c) Gravíssima.",
+        "respD": "d) Grave.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "De acordo com as regras gerais de circulação, um condutor terá preferência de passagem em um cruzamento quando:",
+        "imagem": null,
+        "respA": "a) Cruzar com veículos em missão de urgência.",
+        "respB": "b) For adentrar em uma rodovia.",
+        "respC": "c) Em cruzamento não sinalizado, estando à direita do outro condutor.",
+        "respD": "d) Todas as respostas estão erradas.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Considerando o erro metrológico admitido pelo INMETRO para o condutor etilômetro, a partir de quantos miligramas de álcool por litro de ar alveolar é considerado crime de trânsito, durante a fiscalização?",
+        "imagem": null,
+        "respA": "a) 0,27 mg/L",
+        "respB": "b) 0,28 mg/L",
+        "respC": "c) 0,34 mg/L",
+        "respD": "d) 0,50 mg/L",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Sobre preferência é falso afirmar:",
+        "imagem": null,
+        "respA": "a) Em um cruzamento não sinalizado, a preferência é de quem está na rodovia.",
+        "respB": "b) Os veículos que se deslocam sobre trilhos têm preferência sobre os demais.",
+        "respC": "c) No caso de rotatória, o que estiver circulando por ela terá preferência.",
+        "respD": "d) Num cruzamento não sinalizado de avenida com rua a preferência é do veículo que circula na avenida.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor que deixar de manter distância de seguimento entre o veículo que dirige e aquele que o precede, estará cometendo:",
+        "imagem": null,
+        "respA": "a) Uma falta leve.",
+        "respB": "b) Uma infração será punida com retenção do veículo.",
+        "respC": "c) Uma falta de educação e cortesia.",
+        "respD": "d) Uma infração de trânsito grave que será punida com multa.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Sobre as exigências sobre veículos de transporte de escolares, marque a alternativa errada:",
+        "imagem": null,
+        "respA": "a) Registro como veículo de passageiros.",
+        "respB": "b) Uma faixa escrita: \"TRANSPORTE DE PASSAGEIROS\".",
+        "respC": "c) Inspeção semestral (vistoria).",
+        "respD": "d) Tacógrafo.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Após a aprovação no exame teórico-técnico será expedido ao candidato:",
+        "imagem": null,
+        "respA": "a) O CRLV.",
+        "respB": "b) A LADV.",
+        "respC": "c) O PPD.",
+        "respD": "d) A CNH.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em casos de recursos de multas em 2ª instância, a qual órgão deve-se recorrer?",
+        "imagem": null,
+        "respA": "a) JARI.",
+        "respB": "b) DENATRAN.",
+        "respC": "c) CETRAN.",
+        "respD": "d) CIRETRAN.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Diante de uma placa de advertência, você deve:",
+        "imagem": null,
+        "respA": "a) Redobrar a atenção e adotar uma postura segura.",
+        "respB": "b) Aumentar a velocidade para descongestionar o trânsito.",
+        "respC": "c) Parar rapidamente o seu veículo.",
+        "respD": "d) Acender as lanternas do seu veículo.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A sinalização terá a seguinte ordem de prevalência:",
+        "imagem": null,
+        "respA": "a) As ordens do agente de Trânsito sobre as normas de circulação e outros sinais, às indicações do semáforo sobre os demais, às indicações dos sinais sobre as demais normas de trânsito.",
+        "respB": "b) As indicações do semáforo sobre os demais sinais, às indicações dos sinais sobre as demais normas de trânsito, às ordens do agente de trânsito sobre as de circulação.",
+        "respC": "c) As ordens do agente de trânsito sobre as normas de circulação e outros sinais, às indicações dos sinais sobre as demais normas de trânsito.",
+        "respD": "d) Não existe ordem de prevalência.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O candidato à habilitação deverá submeter-se aos exames...",
+        "imagem": null,
+        "respA": "a) Médico e psicotécnico.",
+        "respB": "b) Teórico-Técnico.",
+        "respC": "c) De direção veicular.",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor que deixar de manter distância de seguimento entre o veículo que dirige e o que segue imediatamente à sua frente estará cometendo:",
+        "imagem": null,
+        "respA": "a) Uma falta leve, que deve ser levada se não provocar acidente.",
+        "respB": "b) Uma infração de trânsito que será punida com retenção do veículo.",
+        "respC": "c) Falta de educação e cortesia.",
+        "respD": "d) Uma infração grave que será punida com multa.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para se habilitar na categoria D, a prova de direção veicular deverá ser realizada em veículo que atenda ao seguinte requisito:",
+        "imagem": null,
+        "respA": "a) Ter no mínimo 15 lugares.",
+        "respB": "b) Ter no mínimo 20 lugares.",
+        "respC": "c) Ter no mínimo 08 lugares.",
+        "respD": "d) Ter acima de 08 lugares.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Estacionar o veículo em locais e horários de estacionamento e parada proibidos pela sinalização (placa: proibido parar e estacionar) é infração:",
+        "imagem": null,
+        "respA": "a) Média.",
+        "respB": "b) Gravíssima.",
+        "respC": "c) Grave.",
+        "respD": "d) Leve.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O recolhimento do CRV, poderá ocorrer:",
+        "imagem": null,
+        "respA": "a) Quando estiver com adesivos de caráter publicitário afixados no pára-brisa do veículo.",
+        "respB": "b) Em todos os casos que ocasionam a remoção do veículo.",
+        "respC": "c) Quando estacionar em calçadas e sobre faixas destinadas a pedestres.",
+        "respD": "d) No caso do veículo alienado, não for transferida sua propriedade em 30 dias junto ao órgão de trânsito.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta, ou de forma agressiva, em desacordo com o disposto no parágrafo único do art.59 é infração __ gerando como medida administrativa ___.",
+        "imagem": null,
+        "respA": "a) Leve; retenção da bicicleta.",
+        "respB": "b) Grave; remoção da bicicleta.",
+        "respC": "c) Média; multa.",
+        "respD": "d) Média; remoção da bicicleta.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para entrar em outra via o condutor deve:",
+        "imagem": null,
+        "respA": "a) Ligar o dispositivo luminoso indicador de mudança de direção e assegurar-se de que pode fazer a manobra com segurança.",
+        "respB": "b) Ligar o dispositivo luminoso indicador de mudança de direção e deslocar, sempre para a direita da via.",
+        "respC": "c) Aumentar a velocidade e verificar o movimento dos outros veículos.",
+        "respD": "d) Dar um toque rápido na buzina.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor, para virar à esquerda em interseção de vias de sentido duplo de trânsito, no perímetro urbano, deve:",
+        "imagem": null,
+        "respA": "a) Aproximar-se o máximo da margem esquerda da via.                                                                                                                                                                                                                                       ",
+        "respB": "b) Apenas reduzir a velocidade e entrar rapidamente.",
+        "respC": "c) Aproximar-se o máximo possível de seu eixo ou da linha divisória da pista.",
+        "respD": "d) Aproximar-se o máximo de margem direita da via.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor deve observar as placas de advertência para:",
+        "imagem": null,
+        "respA": "a) Fazer ultrapassagens.",
+        "respB": "b) Evitar danos aos veículos.",
+        "respC": "c) Evitar multas.",
+        "respD": "d) Saber quais os perigos que existem nas vias e suas naturezas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Dirigindo por uma via urbana, a uma distância de cerca de 50m de um cruzamento, você percebe a luz amarela do semáforo. Nesta situação você deve:",
+        "imagem": null,
+        "respA": "a) Aumentar a velocidade do seu veículo.",
+        "respB": "b) Manter a atenção, reduzir a marcha do seu veículo e parar.",
+        "respC": "c) Reduzir a velocidade do seu veículo e completar a travessia do cruzamento.",
+        "respD": "d) Buzinar e completar a travessia.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Dirigindo um veículo na via pública urbana, o condutor que tenha o propósito de entrar à esquerda deverá:",
+        "imagem": null,
+        "respA": "a) Sinalizar e deslocar com antecedência o veículo para a faixa mais à esquerda da sua mão de direção.",
+        "respB": "b) Sinalizar e aguardar no acostamento a oportunidade de realizar a manobra com segurança.",
+        "respC": "c) Sinalizar e deslocar com antecedência o veículo para a esquerda ou mais à direita da sua mão de direção.",
+        "respD": "d) Sinalizar, observar e deslocar sempre com antecedência para a direita considerando sua mão de direção.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Dirigindo um veículo, ao se aproximar de um cruzamento com sinal luminoso, você observa que a luz vermelha está acesa. Neste caso, você deve:",
+        "imagem": null,
+        "respA": "a) Frear bruscamente o veículo.",
+        "respB": "b) Diminuir a velocidade e parar o veículo.",
+        "respC": "c) Diminuir a velocidade do veículo e passar.",
+        "respD": "d) Observar o tráfego dos veículos e passar.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando uma via vai comportar duas ou mais faixas de trânsito e a da direita for destinada ao uso exclusivo de outro tipo de veículo, os ciclomotores deverão circular pela faixa:",
+        "imagem": null,
+        "respA": "a) Da direita.",
+        "respB": "b) Da esquerda.",
+        "respC": "c) Adjacentes à da esquerda.",
+        "respD": "d) Adjacentes à da direita.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em uma rua de duplo sentido de circulação não sinalizada, o condutor que quiser virar à direita deverá:",
+        "imagem": null,
+        "respA": "a) Posicionar-se junto ao meio-fio da esquerda.",
+        "respB": "b) Atingir o ponto central do cruzamento.",
+        "respC": "c) Parar o seu veículo, observar e convergir, atingindo o eixo central.",
+        "respD": "d) Aproximar-se o máximo possível do bordo direito da pista.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Um terço de todos os acidentes de trânsito acontecem nos cruzamentos, principalmente nos desprovidos de sinalização. Para evitar colisões nos cruzamentos é recomendável:",
+        "imagem": null,
+        "respA": "a) Observar o comportamento dos pedestres.",
+        "respB": "b) Respeitar a regra de preferência.",
+        "respC": "c) Observar o comportamento dos outros veículos.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É infração grave:",
+        "imagem": null,
+        "respA": "a) Conduzir  o veículo sem os documentos de porte obrigatório.",
+        "respB": "b) Deixar de dar preferência de passagem a veículos que vier da direita, em cruzamento não sinalizado.",
+        "respC": "c) Conduzir veículos com dispositivo antirradar.",
+        "respD": "d) Deixar de parar ao sinal de \"Parada obrigatória\".",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "São exemplos de classificação, de veículos, quanto à categoria:",
+        "imagem": null,
+        "respA": "a) Oficial, automotor.",
+        "respB": "b) Aprendizagem, de carga.",
+        "respC": "c) Particular, aluguel.",
+        "respD": "d) Carga, passageiro.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os Departamentos de Estradas de Rodagem são órgãos:",
+        "imagem": null,
+        "respA": "a) Normativos do Sistema Nacional de Trânsito.",
+        "respB": "b) Executivos Rodoviários do Sistema Nacional de Trânsito.",
+        "respC": "c) Com jurisdição em todo território nacional.",
+        "respD": "d) Com jurisdição em todas as vias do Estado.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em uma via de trânsito rápido, cuja velocidade máxima permitida é de 80km/h, foi registrado por instrumento eletrônico (radar) um condutor dirigindo seu veículo a uma velocidade de 96km/h. Esse condutor cometeu infração de natureza:",
+        "imagem": null,
+        "respA": "a) Gravíssima.",
+        "respB": "b) Leve.",
+        "respC": "c) Média.",
+        "respD": "d) Grave.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa que corresponda à questão: Os veículos de tração animal serão conduzidos pela ___ da pista, junto à guia da calçada (meio-fio) ou ___, sempre  que não houver faixa especial a eles destinada.",
+        "imagem": null,
+        "respA": "a) Esquerda; acostamento.",
+        "respB": "b) Direita; esquerda.",
+        "respC": "c) Direita; acostamento.",
+        "respD": "d) Direita; meio-fio.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta sobre a luz Indicadora de Direção (seta):",
+        "imagem": null,
+        "respA": "a) É a luz do veículo destinada a aumentar a iluminação da via em caso de neblina, chuva forte ou nuvens de pó.",
+        "respB": "b) É a luz do veículo destinada a indicar aos demais usuários da via que o condutor tem propósito de mudar de retornar, mudar de direção ou faixa para a direita ou para a esquerda, iniciar ou finalizar a marcha.",
+        "respC": "c) É a luz que se encontram atrás do veículo, que o condutor está aplicando o freio de serviço.",
+        "respD": "d) É o facho de luz do veículo destinada a iluminação da via até uma grande distância do veículo.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em pequenas manobras é permitido ao condutor:",
+        "imagem": null,
+        "respA": "a) Transitar em marcha à ré.",
+        "respB": "b) Deixar de usar o cinto de segurança.",
+        "respC": "c) deixar de usar o capacete de segurança.",
+        "respD": "d) Transitar com o seu veículo desligado.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "De acordo com as normas de circulação e conduta, todo veículo em movimento deve ocupar a faixa mais à direita da pista de rolamento, na inexistência de faixa especial a ele destinada. Essa afirmativa é:",
+        "imagem": null,
+        "respA": "a) Verdadeira, somente para veículos de passeio.",
+        "respB": "b) Verdadeira, somente para motocicletas.",
+        "respC": "c) Verdadeira.",
+        "respD": "d) Falsa.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Transitar pela contramão de direção em vias com duplo sentido de circulação, exceto para ultrapassar outro veículo apenas pelo tempo necessário, respeitada a preferência do veículo que transitar em sentido contrário é infração ___, gerando como penalidade ____.",
+        "imagem": null,
+        "respA": "a) Gravíssima, multa.",
+        "respB": "b) Grave, multa (cinco vezes).",
+        "respC": "c) Gravíssima, multa (três vezes).",
+        "respD": "d) Grave, multa.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa que responda a questão: Os ciclomotores devem ser conduzidos pela direita da pista de rolamento, preferencialmente, no ___ da faixa mais à direita ou no bordo direito da pista, sempre, que não houver ___ ou faixa própria a eles destinada:",
+        "imagem": null,
+        "respA": "a) Acostamento; circulação.",
+        "respB": "b) Trânsito; bordo.",
+        "respC": "c) Centro; acostamento.",
+        "respD": "d) Bordo, pista de rolamento.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor habilitado na categoria \"A' pode conduzir:",
+        "imagem": null,
+        "respA": "a) Motocicletas com no máximo 125cc.",
+        "respB": "b) Veículos de 2 ou 3 rodas.",
+        "respC": "c) Motocicletas a partir de 125cc.",
+        "respD": "d) Veículos motorizados com mais de 3 rodas.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A aplicação de película não-refletiva no vidro traseiro é permitida desde que seu índice de transparência não seja inferior a:",
+        "imagem": null,
+        "respA": "a) 75% (Setenta e cinco porcento).",
+        "respB": "b) 70% (Setenta porcento).",
+        "respC": "c) 28% (Vinte e oito porcento).",
+        "respD": "d) 25% (Vinte e cinco porcento).",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor que exerce atividade remunerada de transporte de pessoas ou bens, ao renovar o exame de aptidão física e mental terá que submeter-se:",
+        "imagem": null,
+        "respA": "a) Ao curso de atualização.",
+        "respB": "b) À avaliação psicológica.",
+        "respC": "c) Ao curso de reciclagem.",
+        "respD": "d) Ao exame teórico-técnico.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A frequência no curso de direção defensiva e primeiros socorros é obrigatória para o condutor:",
+        "imagem": null,
+        "respA": "a) Que for renovar a CNH.",
+        "respB": "b) Que for renovar a PPD.",
+        "respC": "c) Que for renovar a CNH, mas que não tenha frequentado o curso na época de sua 1° habilitação.",
+        "respD": "d) Que for renovar a CNH, mas que tenha frequentado o curso na época de sua 1° habilitação.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Advertência por escrito e frequência obrigatória em curso de reciclagem são consideradas:",
+        "imagem": null,
+        "respA": "a) Infração de trânsito.",
+        "respB": "b) Recurso administrativo.",
+        "respC": "c) Penalidades.",
+        "respD": "d) Medidas administrativas",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O CONTRAN é o órgão responsável pela elaboração das resoluções normas complementares ao código de trânsito Brasileiro. O órgão máximo executivo responsável por cumprir e fazer cumprir a legislação e as normas de trânsito é:",
+        "imagem": null,
+        "respA": "a) DENATRAN.",
+        "respB": "b) DETRAN.",
+        "respC": "c) CERETRAN.",
+        "respD": "d) CETRAN e CONTRADIFE.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Caminhão-trator é um veículo destinado:",
+        "imagem": null,
+        "respA": "a) Ao transporte de cargas.",
+        "respB": "b) A tracionar ou arrastar outro veículo.",
+        "respC": "c) Ao transporte de passageiros.",
+        "respD": "d) Ao transporte de pequenas cargas.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Complete a frase: O exame de aptidão física e mental será renovado ___ para condutores com idade inferior a 50 anos.",
+        "imagem": null,
+        "respA": "a) A cada 3 anos.",
+        "respB": "b) A cada 5 anos.",
+        "respC": "c) A cada 10 anos.",
+        "respD": "d) A critério do médico, sempre.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Ser aprovado no exame de direção veicular é a ultima exigência para o candidato obter sua habilitação. Neste exame, uma falta média corresponde a quantos pontos negativos?",
+        "imagem": null,
+        "respA": "a) Dois.",
+        "respB": "b) Quatro.",
+        "respC": "c) Três.",
+        "respD": "d) Cinco.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Utiliza-se de legendas e pictogramas para identificar as vias, os destinos e locais de interesse, além de orientar os condutores quanto aos percursos, distâncias e serviços auxiliares:",
+        "imagem": null,
+        "respA": "a) Sinalização de advertência.",
+        "respB": "b) Sinalização de indicação.",
+        "respC": "c) Dispositivos auxiliares.",
+        "respD": "d) Dispositivos luminosos.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Complete: Os veículos mais lentos, quando em fila, deverão _____________, para permitir que os veículos que os ultrapassem possam se intercalar na fila, com segurança.",
+        "imagem": null,
+        "respA": "a) Manter-se à direita da via, em velocidade constante.",
+        "respB": "b) Manter distância suficiente entre si.",
+        "respC": "c) Manter proximidade entre si.",
+        "respD": "d) Utilizar o acostamento, se necessário.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Complete a frase: Charrete é um veículo de tração animal destinado ao transporte de ___.",
+        "imagem": null,
+        "respA": "a) Cargas.",
+        "respB": "b) Objetos.",
+        "respC": "c) Pessoas.",
+        "respD": "d) Todas estão corretas.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Marque a alternativa correta sobre a realização de testes de alcoolemia.",
+        "imagem": null,
+        "respA": "a) O etilômetro mede o ar expelido pelos pulmões..",
+        "respB": "b) É obrigatória a realização de teste de alcoolemia para vítimas fatais de acidente de trânsito.",
+        "respC": "c) O condutor não pode se recusar à realização de testes;",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É considerado crime de trânsito:",
+        "imagem": null,
+        "respA": "a) Dirigir com a CNH cassada ou com o direito de dirigir suspenso, gerando perigo de dano.",
+        "respB": "b) Violar a suspensão ou a proibição de se obter a permissão ou a habilitação para dirigir.",
+        "respC": "c) Deixar o condutor de prestar ou providenciar socorro à vítima de acidente de trânsito, podendo fazê-lo.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Mensagens adicionais podem ser incorporadas às placas de sinalização de regulamentação e de advertência. Estas mensagens são denominadas:",
+        "imagem": null,
+        "respA": "a) Informações complementares.",
+        "respB": "b) Informações especializadas.",
+        "respC": "c) Mensagens avulsas.",
+        "respD": "d) Comunicados extras.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Todo condutor de veículo deve dar preferência de passagem ao pedestre:",
+        "imagem": null,
+        "respA": "a) Em qualquer situação, exceto onde houver foco semafórico para pedestre.",
+        "respB": "b) Somente nas faixas de segurança.",
+        "respC": "c) Somente se for deficiente físico.",
+        "respD": "d) Somente quando se tratar de idoso.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Todo cruzamento em nível, entroncamento ou bifurcação, incluindo as áreas formadas por tais cruzamentos, denomina-se:",
+        "imagem": null,
+        "respA": "a) Bordo de pista.",
+        "respB": "b) Cruzamento.",
+        "respC": "c) Interseção.",
+        "respD": "d) Faixa de trânsito.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Ao se aproximar de um cruzamento não sinalizado, uma forma segura de agir é:",
+        "imagem": null,
+        "respA": "a) Manter a mesma velocidade",
+        "respB": "b) Aumentar a velocidade",
+        "respC": "c) Reduzir a velocidade",
+        "respD": "d) Parar o veículo",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando o motorista estacionar junto a hidrantes de incêndio identificados por sinalização, será punido com:",
+        "imagem": null,
+        "respA": "a) Multa.",
+        "respB": "b) Retenção do veículo e multa.",
+        "respC": "c) Remoção do veículo e multa.",
+        "respD": "d) Apreensão da CNH.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É órgão técnico composto por especialistas que estudam e oferecem sugestões técnicas para as decisões do CONTRAN:",
+        "imagem": null,
+        "respA": "a) DENATRAN.",
+        "respB": "b) CONTRAN.",
+        "respC": "c) Câmaras Temáticas.",
+        "respD": "d) Todas estão corretas.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O DNIT é o departamento:",
+        "imagem": null,
+        "respA": "a) Executivo estadual de infraestrutura.",
+        "respB": "b) Executivo rodoviário da união.",
+        "respC": "c) Máximo executivo da união.",
+        "respD": "d) Executivo rodoviário dos estados.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Marque a alternativa correta: Quais documentos são de porte obrigatório:",
+        "imagem": null,
+        "respA": "a) CRV, CRLV e PPD.",
+        "respB": "b) LADV, ACC, PPD ou CNH e  CRLV.",
+        "respC": "c) Carteira de identidade ou CNH e CRV.",
+        "respD": "d) LADV, PPD ou CNH e CRV.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O principal objetivo da inspeção de segurança veicular é:",
+        "imagem": null,
+        "respA": "a) Avaliar o desempenho do veículo na via para uma circulação segura.",
+        "respB": "b) Avaliar as condições de segurança, a emissão de gazes poluentes e ruídos.",
+        "respC": "c) Diagnosticar falhas nos diversos sistemas do veículo, recomendando o conserto específico.",
+        "respD": "d) Fornecer dados sobre o veículo para realização de consertos.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Toda interseção não sinalizada é considerada:",
+        "imagem": null,
+        "respA": "a) Sentido único de circulação.",
+        "respB": "b) Sentido duplo de circulação.",
+        "respC": "c) Pista dupla.",
+        "respD": "d) Contra mão de direção.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Segundo o PROCONVE, desde 1986 as montadoras deveriam apresentar ao mercado veículos com dispositivos de controle de emissão de poluentes buscando:",
+        "imagem": null,
+        "respA": "a) A eliminação de gases poluentes.",
+        "respB": "b) Melhorar a qualidade de vida.",
+        "respC": "c) Eliminar a poluição.",
+        "respD": "d) Atingir o padrão ideal de emissão de poluentes.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para conduzir um trator de rodas, na via pública, o condutor:",
+        "imagem": null,
+        "respA": "a) Não precisa ter CNH, por ser tratar de máquina agrícola.",
+        "respB": "b) Precisa ser habilitado na categoria  'A'.",
+        "respC": "c) Basta possuir uma permissão para dirigir ou CNH categoria 'B'",
+        "respD": "d) Estar habilitado, no mínimo, na categoria 'C'.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O sistema nacional de trânsito (SNT) tem um papel de destaque, sob o aspecto social e econômico, na medida em que envolve os cidadãos no exercício pleno de ir e vir. É órgão normativo desse sistema:",
+        "imagem": null,
+        "respA": "a) O CONTRAN.",
+        "respB": "b) O DENATRAN.",
+        "respC": "c) O Ministério das Cidades.",
+        "respD": "d) O Ministério da Justiça.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O DENATRAN está subordinado:",
+        "imagem": null,
+        "respA": "a) Ao CONTRAN.",
+        "respB": "b) Ao Ministério da Infraestrutura.",
+        "respC": "c) Às câmaras temáticas.",
+        "respD": "d) Ao Ministério da Justiça.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A avaliação psicológica será preliminar e complementar ao exame de aptidão física e mental:",
+        "imagem": null,
+        "respA": "a) Quando da obtenção da ACC e da CNH.",
+        "respB": "b) Quando da renovação caso o condutor exerça serviço remunerado de transporte de pessoas ou bens.",
+        "respC": "c) Quando da substituição do documento de habilitação obtido em país estrangeiro.",
+        "respD": "d) Todas as afirmativas estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É incorreto afirmar que a LADV:",
+        "imagem": null,
+        "respA": "a) É expedida em nome do candidato.",
+        "respB": "b) Possui a identificação do CFC responsável.",
+        "respC": "c) Pode ser suspensa.",
+        "respD": "d) Pode ser cassada.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Está provado que mais de 90% dos acidentes de trânsito são causados por falhas humanas. Qual alternativa pode ser associada ao texto acima?",
+        "imagem": null,
+        "respA": "a) O tempo e as variações ligadas às condições atmosféricas.",
+        "respB": "b) A única maneira de tirar algum proveito do acidente de trânsito é aprender como agir para evitar que ele se repita.",
+        "respC": "c) Os efeitos da luz representam uma das condições adversas que pode provocar acidentes.",
+        "respD": "d) Um veículo equipado com injeção eletrônica polui menos e ajuda a evitar ricos na ultrapassagem.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A formação do condutor compreende a realização:",
+        "imagem": null,
+        "respA": "a) De exame escrito e de direção veicular.",
+        "respB": "b) De exame de aptidão física e mental.",
+        "respC": "c) De avaliação psicológica.",
+        "respD": "d) Todas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "De acordo com o CONTRAN, o candidato que requereu a abertura do processo de habilitação terá qual prazo para se habilitar?",
+        "imagem": null,
+        "respA": "a) Dois meses.",
+        "respB": "b) Dois anos.",
+        "respC": "c) Doze meses.",
+        "respD": "d) Seis meses.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É órgão executivo rodoviário dos estados e do distrito federal:",
+        "imagem": null,
+        "respA": "a) DNIT.",
+        "respB": "b) DER.",
+        "respC": "c) Polícia Rodoviária Federal.",
+        "respD": "d) Todas estão corretas.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Condutores com idade igual ou superior a 50 anos e inferior a 70 anos de idade, precisam renovar seu exame de aptidão física e mental de quanto em quanto tempo:",
+        "imagem": null,
+        "respA": "a) De 03 em 03 anos.",
+        "respB": "b) De 06 em 06 anos.",
+        "respC": "c) De 05 em 05 anos.",
+        "respD": "d) De 10 em 10 anos.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Condutor habilitado na categoria 'C', que cometeu mais de uma infração gravíssima nos últimos doze meses, não poderá:",
+        "imagem": null,
+        "respA": "a) Adicionar uma nova categoria à sua ('A' ou ACC).",
+        "respB": "b) Adicionar a ACC.",
+        "respC": "c) Renovar o exame de sanidade física e mental.",
+        "respD": "d) Mudar sua categoria de habilitação para 'D' ou 'E'.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Ao transferir a propriedade, mudar de município ou for alterar qualquer uma das características do veículo será obrigatório a expedição:",
+        "imagem": null,
+        "respA": "a) De novo CLA.",
+        "respB": "b) De novo CRLV.",
+        "respC": "c) De novo CRV.",
+        "respD": "d) De novos CRLV e CRV.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É proibido o uso de buzina no perímetro urbano no horário compreendido entre:",
+        "imagem": null,
+        "respA": "a) 22 horas e 6 horas.",
+        "respB": "b) 20 horas e 7 horas.",
+        "respC": "c) 18 horas e 6 horas.",
+        "respD": "d) 8 horas e 18 horas.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A idade mínima de 21 anos é exigida aos condutores:",
+        "imagem": null,
+        "respA": "a) De transporte de perecíveis.",
+        "respB": "b) Das categorias 'B' e 'C'.",
+        "respC": "c) De transporte coletivo de passageiros e de produtos perigosos.",
+        "respD": "d) De transporte de cargas.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É órgão normativo vinculado às Câmaras Temáticas:",
+        "imagem": null,
+        "respA": "a) DETRAN.",
+        "respB": "b) CETRAN.",
+        "respC": "c) CONTRAN.",
+        "respD": "d) CONTRANDIFE.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A renovação do exame de sanidade física e mental obedecerá os seguintes prazos:",
+        "imagem": null,
+        "respA": "a) A cada 5 anos, para condutores com idade inferior a 50 anos.",
+        "respB": "b) A cada 3 anos, para condutores com idade igual ou superior a 70 anos.",
+        "respC": "c) A critério do perito examinador.",
+        "respD": "d) Todas as alternativas estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A obtenção da ACC obedecerá as mesmas normas para as categorias:",
+        "imagem": null,
+        "respA": "a) 'B'.",
+        "respB": "b) 'D' e 'C'.",
+        "respC": "c) 'A'.",
+        "respD": "d) 'A' e 'B'.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O candidato à habilitação deverá submeter-se aos exames:",
+        "imagem": null,
+        "respA": "a) Médico e psicológico",
+        "respB": "b) Teórico-técnico.",
+        "respC": "c) De direção veicular.",
+        "respD": "d) Todas acima.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os órgãos componentes do Sistema Nacional de Trânsito têm como objetivo:",
+        "imagem": null,
+        "respA": "a) Realizar ações em defesa da vida.",
+        "respB": "b) Administração do trânsito.",
+        "respC": "c) Policiamento ostensivo de trânsito.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual dos equipamentos abaixo relacionados deve ser ajustado levando em consideração a altura da linha dos olhos ou das orelhas?",
+        "imagem": null,
+        "respA": "a) Painel de instrumentos.",
+        "respB": "b) Encosto de cabeça.",
+        "respC": "c) Cinto de segurança.",
+        "respD": "d) Proteção contra sol.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Realizar, fiscalizar e controlar o processo de formação, aperfeiçoamento, reciclagem e suspensão de condutores, expedir e cassar licença de aprendizagem, permissão para dirigir e Carteira Nacional de Habilitação, mediante delegação do órgão federal competente, são responsabilidade do:",
+        "imagem": null,
+        "respA": "a) CONTRAN.",
+        "respB": "b) DETRAN.",
+        "respC": "c) DENATRAN.",
+        "respD": "d) CETRAN.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Veículo misto destinado ao transporte de passageiros e carga no mesmo compartimento, denomina-se:",
+        "imagem": null,
+        "respA": "a) Camionete.",
+        "respB": "b) Camioneta.",
+        "respC": "c) Caminhão trator.",
+        "respD": "d) Ciclomotor.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em local sinalizado com linha simples amarela e seccionada, o condutor:",
+        "imagem": null,
+        "respA": "a) Não poderá transitar.",
+        "respB": "b) Poderá efetuar ultrapassagem.",
+        "respC": "c) Não poderá ultrapassar.",
+        "respD": "d) Deverá aumentar a velocidade.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Todo condutor deve:",
+        "imagem": null,
+        "respA": "a) Mostrar, quando solicitado pela autoridade de trânsito ou seus agentes, os documentos que forem exigidos por lei ou regulamentação.",
+        "respB": "b) Circular com o veículo somente pela faixa da direita.",
+        "respC": "c) Ultrapassar outro veículo em movimento somente pela direita.",
+        "respD": "d) Parar o veículo em todos os cruzamentos.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Nas rodovias, encontrando um trecho sob nevoeiro intenso onde não há visibilidade, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Nunca parar.",
+        "respB": "b) Havendo necessidade, estacionar na pista e sinalizar com o triangulo de segurança.",
+        "respC": "c) Orientar-se pela faixa divisória da pista e continuar.",
+        "respD": "d) Aguardar no acostamento, até encontrar uma melhor condição de visibilidade.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O SAMU foi criado para dar atendimento a qualquer tipo de emergência relacionada:",
+        "imagem": null,
+        "respA": "a) Exclusivamente a acidentes de trânsito.",
+        "respB": "b) À saúde, excluindo os acidentes em trânsito.",
+        "respC": "c) Exclusivamente às pessoas que passam mal dentro do veículo.",
+        "respD": "d) À saúde, incluindo acidentes de trânsito.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual a carga horária exigida ao mudar de categoria?",
+        "imagem": null,
+        "respA": "a) 20hs.",
+        "respB": "b) 30hs.",
+        "respC": "c) Não é exigida.",
+        "respD": "d) 10hs.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O infrator será submetido ao curso de reciclagem quando:",
+        "imagem": null,
+        "respA": "a) For necessária à sua reeducação.",
+        "respB": "b) Suspenso o direito de dirigir.",
+        "respC": "c) Colocar em risco a segurança do trânsito.",
+        "respD": "d) Todas as afirmativas acima.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Após a aprovação no exame teórico será expedido:",
+        "imagem": null,
+        "respA": "a) O CRLV.",
+        "respB": "b) O LADV.",
+        "respC": "c) A PPD.",
+        "respD": "d) A CNH.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O uso dos marcos quilométricos é obrigatório:",
+        "imagem": null,
+        "respA": "a) Nas vias urbanas de 5 em 5kms.",
+        "respB": "b) Nas vias rurais de 10 em 10kms.",
+        "respC": "c) Nas vias rurais de 5 em 5 kms.",
+        "respD": "d) Nas vias urbanas de 10 em 10 kms.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O conjunto de informações que o condutor deve ter chamamos de:",
+        "imagem": null,
+        "respA": "a) Atenção.",
+        "respB": "b) Previsão.",
+        "respC": "c) Conhecimento.",
+        "respD": "d) Decisão.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Na demarcação de espaço destinado ao deslocamento de bicicletas (ciclovias/ciclofaixas), deve ser utilizada a tinta de cor:",
+        "imagem": null,
+        "respA": "a) Vermelha.",
+        "respB": "b) Amarela.",
+        "respC": "c) Branca.",
+        "respD": "d) Preta.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Sobre o seguro DPVAT é correto afirmar:",
+        "imagem": null,
+        "respA": "a) Indeniza acidentes ocorridos em qualquer ponto do país.",
+        "respB": "b) Indeniza apenas vítimas fatais.",
+        "respC": "c) Indeniza apenas 1 vítima por acidente.",
+        "respD": "d) Independente do número de vítimas, o seguro é pago apenas para o proprietário do veículo.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Dirigir com validade de CNH vencida há mais de 30 dias é infração:",
+        "imagem": null,
+        "respA": "a) Gravíssima.",
+        "respB": "b) Grave.",
+        "respC": "c) Média.",
+        "respD": "d) Leve.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "No caso de transferência de propriedade do veículo, o prazo para comunicação de venda ao DETRAN, são de quantos dias:",
+        "imagem": null,
+        "respA": "a) 60 dias.",
+        "respB": "b) 45 dias.",
+        "respC": "c) 90 dias.",
+        "respD": "d) 30 dias.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A base do índice nacional de condutores, destinada ao arquivo de habilitação é chamada de:",
+        "imagem": null,
+        "respA": "a) RENACH.",
+        "respB": "b) BINCO.",
+        "respC": "c) RENAVAN",
+        "respD": "d) CRLV.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para o exame de direção na categoria \"C\", o candidato deverá realizar exame em um veículo com:",
+        "imagem": null,
+        "respA": "a) 12.000 kg de PBT.",
+        "respB": "b) 10.000 kg de PBT.",
+        "respC": "c) No mínimo 6.000 kg de PBT.",
+        "respD": "d) 3.500 kg de PBT.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Informa sobre obrigações ou restrições no uso das vias cujo desrespeito constitui infração:",
+        "imagem": null,
+        "respA": "a) Placas de sinalização horizontal.",
+        "respB": "b) Placas de sinalização de advertência.",
+        "respC": "c) Placas de sinalização de indicação.",
+        "respD": "d) Placas de sinalização de regulamentação.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "São equipamentos relacionados à ergonomia:",
+        "imagem": null,
+        "respA": "a) Cinto de três pontos.",
+        "respB": "b) Direção hidráulica.",
+        "respC": "c) Barras laterais.",
+        "respD": "d) Todas as opções acima.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os produtos perigosos serão identificados nos veículos que os transportam pelo:",
+        "imagem": null,
+        "respA": "a) Adesivo com logomarca da empresa.",
+        "respB": "b) Pelo rótulo de risco e painel de segurança, com o n° do risco e o n° do produto conforme a ONU.",
+        "respC": "c) Número de risco e marca da empresa.",
+        "respD": "d) Todas acima estão erradas.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando na renovação da CNH, o condutor de veículo automotor deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+        "imagem": null,
+        "respA": "a) A cada 5 anos, com idade inferior a 50 anos.",
+        "respB": "b) A cada 3 anos a partir de 40 anos de idade.",
+        "respC": "c) A cada 5 anos com idade igual ou superior a 50 anos e inferior a 70 anos.",
+        "respD": "d) A cada 5 anos até completar 70 anos de idade.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quanto aos conceitos e definições é correto afirmar:",
+        "imagem": null,
+        "respA": "a) Bicicletário: local na via ou fora dela, destinada ao trânsito de bicicletas.",
+        "respB": "b) Borda da pista: margem da pista, podendo ser demarcada por faixas transversais de bordo que delineiam a parte da via destinada ao estacionamento de veículos.",
+        "respC": "c) Caminhonete: veículo destinado ao transporte de passageiros e de carga com peso bruto total de até mil e quinhentos quilogramas.",
+        "respD": "d) Canteiro central: Obstáculo físico como separador de duas pistas de rolamento.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A coordenação máxima do Sistema Nacional de trânsito compete ao ministério.",
+        "imagem": null,
+        "respA": "a) Da defesa.",
+        "respB": "b) Da educação e Desporto.",
+        "respC": "c) Da infraestrutura.",
+        "respD": "d) Dos transportes.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A circulação de bicicletas nos passeios somente será permitida, desde que devidamente sinalizados autorizado pelo:",
+        "imagem": null,
+        "respA": "a) Órgão máximo normativo de trânsito.",
+        "respB": "b) Conselho Estadual de Trânsito.",
+        "respC": "c) Órgão ou entidade com circunscrição sobre a via.",
+        "respD": "d) Órgão máximo executivo de trânsito da união.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Classificam-se como vias rurais:",
+        "imagem": null,
+        "respA": "a) As rodovias e estradas.",
+        "respB": "b) Vias arteriais e coletoras.",
+        "respC": "c) Vias coletoras e locais.",
+        "respD": "d) Vias de trânsito rápido, rodovias e estradas.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Dispositivo destinado ao controle de ruído do motor é equipamento obrigatório para veículos dotados de:",
+        "imagem": null,
+        "respA": "a) Reboque ou semi-reboque.",
+        "respB": "b) Carroçaria blindada para transporte de valores.",
+        "respC": "c) Motor a combustão.",
+        "respD": "d) Motor elétrico.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "São órgãos executivos rodoviários da União e dos estados:",
+        "imagem": null,
+        "respA": "a) CETRAN.",
+        "respB": "b) DER.",
+        "respC": "c) Polícia Rodoviária Federal.",
+        "respD": "d) Todas as afirmativas acima.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em caso de morte, o seguro DPVAT cobre o valor de:",
+        "imagem": null,
+        "respA": "a) R$11.500,00",
+        "respB": "b) R$2.700,00",
+        "respC": "c) R$13.500,00",
+        "respD": "d) R$13.700,00",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os sinais de trânsito, além  de serem inscritos em placas e pintados no leito da via pública, podem ainda ser:",
+        "imagem": null,
+        "respA": "a) Luminosos, sonoros e por gestos.",
+        "respB": "b) Luminosos e sonoros.",
+        "respC": "c) Luminosos e por gestos.",
+        "respD": "d) Sonoros e por gestos.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para qual categoria não se realiza prova prática de direção veicular em via pública?",
+        "imagem": null,
+        "respA": "a) A.",
+        "respB": "b) D.",
+        "respC": "c) D e E.",
+        "respD": "d) E.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É considerado apenas como veículo de carga:",
+        "imagem": null,
+        "respA": "a) Charrete.",
+        "respB": "b) Carro de mão.",
+        "respC": "c) Triciclo.",
+        "respD": "d) Trator de rodas.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O padrão de tração da sinalização horizontal pode ser de forma:",
+        "imagem": null,
+        "respA": "a) Contínua, tracejada ou seccionada; símbolos e legendas.",
+        "respB": "b) Retangular, fixada ao lado ou suspenso sobre a pista.",
+        "respC": "c) Circular, colocada na posição vertical.",
+        "respD": "d) Octogonal, sempre na cor branca.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Onde acontece um terço de todos os acidentes de trânsito?",
+        "imagem": null,
+        "respA": "a) Nas avenidas.",
+        "respB": "b) Nas vias preferenciais.",
+        "respC": "c) Nas rodovias.",
+        "respD": "d) Nos cruzamentos.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Realizando uma mudança de faixa, você como condutor, dirá que a preferência é:",
+        "imagem": null,
+        "respA": "a) Dos veículos que estão circulando na faixa em que você vai entrar.",
+        "respB": "b) Do seu veículo, porque você está fazendo a mudança de faixa e sinalizou comunicando a sua intenção.",
+        "respC": "c) Dos veículos que estiverem transportando passageiros.",
+        "respD": "d) Dos veículos que vierem da direita.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Marque a incorreta: Ao aproximar-se de qualquer tipo de cruzamento, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Manter a velocidade.",
+        "respB": "b) Transitar em velocidade reduzida.",
+        "respC": "c) Dar preferência ao veículo que vier à direita do condutor.",
+        "respD": "d) Dar passagem a pedestres que estejam na via.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em uma via local sem sinalização, o condutor poderá atingir a velocidade de:",
+        "imagem": null,
+        "respA": "a) 30km/h.",
+        "respB": "b) 40km/h.",
+        "respC": "c) 50km/h.",
+        "respD": "d) 60km/h.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Não constitui equipamento obrigatório para as motocicletas:",
+        "imagem": null,
+        "respA": "a) Velocímetro.",
+        "respB": "b) Iluminação de placa traseira.",
+        "respC": "c) Extintor de incêndio.",
+        "respD": "d) Lanterna de freio de cor vermelha.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para habilitar-se na categoria E, o condutor deverá possuir no mínimo:",
+        "imagem": null,
+        "respA": "a) 2 anos de categoria B.",
+        "respB": "b) 1 ano na categoria B.",
+        "respC": "c) 2 anos na categoria AB.",
+        "respD": "d) 1 ano na categoria C.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quanto ao uso de luzes, marque a alternativa incorreta:",
+        "imagem": null,
+        "respA": "a) O condutor utilizará o pisca-alerta quando transitar sob forte cerração.",
+        "respB": "b) O condutor manterá aceso os faróis do veículo utilizando luz baixa , durante a noite e durante o dia, nos túneis providos de iluminação pública e rodovias.",
+        "respC": "c) Nas vias não iluminadas o condutor deve usar luz alta, exceto ao cruzar com outro veículo ou ao segui-lo.",
+        "respD": "d) Durante a noite, em circulação, o condutor manterá acesa a luz de placa.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Ao candidato aprovado na primeira habilitação será conferida:",
+        "imagem": null,
+        "respA": "a) A CNH-categoria B.",
+        "respB": "b) A CNH-categoria A.",
+        "respC": "c) A permissão para dirigir com validade para um ano.",
+        "respD": "d) A LADV.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor habilitado na categoria \"A\" pode conduzir:",
+        "imagem": null,
+        "respA": "a) Motocicletas até 125cc.",
+        "respB": "b) Veículos de 2 ou 3 rodas.",
+        "respC": "c) Motocicletas com no mínimo, 125cc.",
+        "respD": "d) Veículos motorizados.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Como se classificam as vias?",
+        "imagem": null,
+        "respA": "a) Trânsito rápido, arterial e urbanas.",
+        "respB": "b) Arteriais e de trânsito rápido.",
+        "respC": "c) Trânsito rápido, arterial, coletora e local.",
+        "respD": "d) Urbanas e rurais.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Marque a alternativa falsa:",
+        "imagem": null,
+        "respA": "a) Os menores de 10 anos serão transportados nos bancos traseiros.",
+        "respB": "b) O cinto de segurança é obrigatório somente no banco dianteiro.",
+        "respC": "c) Em caminhonete, os menores de 10 anos poderão ser conduzidos no banco dianteiro.",
+        "respD": "d) Os bebês deverão usar sistema de retenção equivalente ao cinto de segurança.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor habilitado para a categoria \"B\" só poderá dirigir:",
+        "imagem": null,
+        "respA": "a) Ônibus.",
+        "respB": "b) Caminhão.",
+        "respC": "c) Veículo até 3.500kg e veículos de passeio.",
+        "respD": "d) Veículos até 3.500 kg e moto.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A placa R-27 \"ônibus, caminhões e veículos de grande porte mantenham-se à direita\" é:",
+        "imagem": "button_r-27_1284390450.png",
+        "respA": "a) De serviços auxiliares.",
+        "respB": "b) De advertência.",
+        "respC": "c) De regulamentação.",
+        "respD": "d) De indicação.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Será conferido ao candidato, aprovado em todos os exames exigidos à habilitação, o documento denominado ___ com validade de  ___:",
+        "imagem": null,
+        "respA": "a) Autorização para conduzir ciclomotor ou carteira nacional de habilitação;1 ano.",
+        "respB": "b) Autorização para conduzir ciclomotor ou carteira nacional de habilitação; 5 anos.",
+        "respC": "c) Autorização para conduzir ciclomotor ou permissão para dirigir; 5 anos.",
+        "respD": "d) Autorização para conduzir ciclomotor ou permissão para dirigir; 1 ano.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É competência do CONTRAN:",
+        "imagem": null,
+        "respA": "a) Cumprir e fazer cumprir a legislação e as normas de trânsito.",
+        "respB": "b) Julgar os recursos interpostos pelos infratores de primeira instância.",
+        "respC": "c) Organizar e manter o Registro Nacional de Habilitação.(RENACH).",
+        "respD": "d) Coordenar os orgãos do Sistema Nacional de Trânsito objetivando a integração de suas atividades.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Onde não existir sinalização regulamentadora, a velocidade máxima nas vias de trânsito rápido será de:",
+        "imagem": null,
+        "respA": "a) 70km/h.",
+        "respB": "b) 40km/h.",
+        "respC": "c) 60km/h.",
+        "respD": "d) 80km/h.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para o licenciamento de um veículo em outro estado deve-se:",
+        "imagem": null,
+        "respA": "a) Obrigatoriamente alterar os caracteres de suas placas.",
+        "respB": "b) Pedir autorização ao Conselho Nacional de Trânsito.",
+        "respC": "c) Dar ciência ao departamento de trânsito do estado de origem.",
+        "respD": "d) Pedir autorização ao conselho de trânsito do estado de origem.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O extintor de incêndio é equipamento obrigatório:",
+        "imagem": null,
+        "respA": "a) Para os veículos automotores, exceto motocicletas.",
+        "respB": "b) Somente por ocasião do licenciamento do veículo.",
+        "respC": "c) Caminhão, caminhão-trator, micro-ônibus, veículos destinados a transporte de produtos inflamáveis e de coletivo de passageiros.",
+        "respD": "d) Apenas para veículos novos.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Fazem parte dos equipamentos obrigatórios dos veículos:",
+        "imagem": null,
+        "respA": "a) Pára-choques, pneus, buzinas e faróis.",
+        "respB": "b) Rodas de liga leve e pneus radiais.",
+        "respC": "c) CRLV e DUT.",
+        "respD": "d) Cintos de segurança e airbag.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "RENAVAN é o:",
+        "imagem": null,
+        "respA": "a) Registro Nacional de Veículos Motorizados.",
+        "respB": "b) Registro Nacional de Veículos Automotores.",
+        "respC": "c) Registro Nacional de Veículos Automotivos e Motorizados",
+        "respD": "d) Registro Nacional de Condutores Motorizados.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Significa mudança de característica do veículo:",
+        "imagem": null,
+        "respA": "a) O pneu liso.",
+        "respB": "b) A descarga livre.",
+        "respC": "c) A instalação de rádio/toca-fitas.",
+        "respD": "d) O rebaixamento da suspensão e a mudança de cor.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "As marcas separadoras de faixas de trânsito em vias de mão dupla que proíbem ao condutor ultrapassar outro veículo em movimento são:",
+        "imagem": null,
+        "respA": "a) Amarelas seccionadas.",
+        "respB": "b) Brancas seccionadas.",
+        "respC": "c) Amarelas contínuas.",
+        "respD": "d) Seccionadas.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "As vias abertas a circulação, de acordo com sua utilização, classificam-se em:",
+        "imagem": null,
+        "respA": "a) Rodovias e vias locais.",
+        "respB": "b) Rodovias, estradas.",
+        "respC": "c) Vias de transito rápido, vias coletoras e rodovias.",
+        "respD": "d) Vias urbanas e vias rurais.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A cópia fotostática ou a fotocópia da CNH...",
+        "imagem": null,
+        "respA": "a) É válida e substitui o documento original quando autenticada em cartório.",
+        "respB": "b) É inválida para substituir o documento original e comprovar o direito de seu portador de dirigir.",
+        "respC": "c) É válida quando apresentada junto com o documento de identidade do portador.",
+        "respD": "d) Pode ser plastificada, substituindo o documento original.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Agir com prudência, respeitar os limites de seu conhecimento, seguir os protocolos estabelecidos, são princípios fundamentais da ação do:",
+        "imagem": null,
+        "respA": "a) Socorrista.",
+        "respB": "b) Motorista.",
+        "respC": "c) Passageiro.",
+        "respD": "d) Policial no local do acidente.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "As divisões da pista de rolamento comum ou sem separações de marcas e cuja largura permite a circulação de um veículo com segurança, são chamadas...",
+        "imagem": null,
+        "respA": "a) Vias públicas.",
+        "respB": "b) Faixa de segurança.",
+        "respC": "c) Passagens de nível.",
+        "respD": "d) Faixas de trânsito.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual órgão compete a emissão da CNH?",
+        "imagem": null,
+        "respA": "a) Ao Departamento Nacional de Trânsito.",
+        "respB": "b) Ao DETRAN, sob delegação do DENATRAN.",
+        "respC": "c) Ao Conselho Estadual de Trânsito.",
+        "respD": "d) À Prefeitura Municipal.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Caso o proprietário do veículo seja devedor de multa de trânsito não poderá:",
+        "imagem": null,
+        "respA": "a) Renovar o Licenciamento Anual do Veículo.",
+        "respB": "b) Renovar a Carteira Nacinal de Habilitação.",
+        "respC": "c) Renovar o Certificado de Registro do Veículo.",
+        "respD": "d) Circular com o veículo fora da área urbana.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor habilitado para a categoria \"B\", só poderá dirigir:",
+        "imagem": null,
+        "respA": "a) Ônibus.",
+        "respB": "b) Caminhão.",
+        "respC": "c) Veículos de até 3.500kg e veículos de passeio.",
+        "respD": "d) Veículos de até 3.500kg e moto.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Segundo o código de trânsito Brasileiro, a identificação de um veículo de quatro ou mais rodas é feita por meio:",
+        "imagem": null,
+        "respA": "a) Do número de chassi gravado obrigatoriamente nos vidros.",
+        "respB": "b) Da placa traseira com caracteres iguais ao do registro.",
+        "respC": "c) Do registro de propriedade do veículo.",
+        "respD": "d) Das placas dianteira e traseira com caracteres iguais ao do registro do veículo.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa que completa a questão: A autoridade de Trânsito competente julgará a penalidade cabível, devendo notificar no prazo máximo de ____ dias, sob pena de arquivamento do auto de infração.",
+        "imagem": null,
+        "respA": "a) 15.",
+        "respB": "b) 60.",
+        "respC": "c) 10.",
+        "respD": "d) 30.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Executar a fiscalização de trânsito, quando e conforme convênio firmado, com agente do órgão ou entidade, executivos de trânsito ou executivos rodoviários. Concomitantemente com os demais agentes credenciados, compete:",
+        "imagem": null,
+        "respA": "a) Polícias militares dos Estados do Distrito Federal.",
+        "respB": "b) Departamento de trânsito dos Estados.",
+        "respC": "c) Agentes do DNIT.",
+        "respD": "d) Agentes do DENATRAN.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Onde não houver sinalização regulamentadora, a velocidade máxima nas vias locais será:",
+        "imagem": null,
+        "respA": "a) 50km/h.",
+        "respB": "b) 40km/h.",
+        "respC": "c) 30km/h.",
+        "respD": "d) 20km/h.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa que complete a questão: Via ___ é aquela destinada a coletar e distribuir o trânsito que tenha necessidade de entrar ou sair vias de trânsito rápido ou artérias, possibilitando o trânsito dentro das regiões.",
+        "imagem": null,
+        "respA": "a) Coletora.",
+        "respB": "b) Arterial.",
+        "respC": "c) Trânsito rápido.",
+        "respD": "d) Local.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Todo condutor ao efetuar a ultrapassagem deverá:",
+        "imagem": null,
+        "respA": "a) Executá-la, em qualquer situação em que se encontra.",
+        "respB": "b) Indicar com antecedência a manobra pretendida acionando a luz indicadora de direção do veículo ou por meio de gesto convencional de braço.",
+        "respC": "c) Manter-se próximo ao veículo ao qual ultrapassa.",
+        "respD": "d) Retornar, a efetivação da manobra, a faixa de trânsito de origem, sem acionar a luz indicadora de direção do veículo ou fazendo gesto convencional de braço.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em relação a circulação de veículos nas vias terrestres, podemos afirmar que:",
+        "imagem": null,
+        "respA": "a) A prioridade de passagem na via e no cruzamento não deverá ser feita com velocidade reduzida, pois acarreta perigo aos veículos que transitam à retaguarda.",
+        "respB": "b) A preferência de passagem será sempre do veículo que vier pela direita.",
+        "respC": "c) Nenhum condutor deverá frear bruscamente.",
+        "respD": "d) Os veículos que se deslocam sobre trilhos terão preferência de passagem sobre os demais.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A responsabilidade pelas infrações na direção dos veículos cabe:",
+        "imagem": null,
+        "respA": "a) Ao proprietário do veículo.",
+        "respB": "b) Ao proprietário do veículo e ao condutor.",
+        "respC": "c) Aos pais ou responsáveis pelo condutor.",
+        "respD": "d) Ao condutor.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Dirigindo um veículo numa via de trânsito rápido, com duas ou mais faixas de trânsito no mesmo sentido, você poderá:",
+        "imagem": null,
+        "respA": "a) Manter seu veículo na faixa da esquerda em velocidade mais reduzida.",
+        "respB": "b) Fazer um retorno utilizando os acostamentos.",
+        "respC": "c) Entrar na rua lateral à esquerda ou à direita, desde que obedecida às preferências.",
+        "respD": "d) Ultrapassar outro veículo pela esquerda quando as condições forem favoráveis.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Todo condutor de veículo deve dar preferência de passagem ao pedestre:",
+        "imagem": null,
+        "respA": "a) Quando este estiver concluindo a travessia.",
+        "respB": "b) Somente nas faixas de segurança.",
+        "respC": "c) Em todas as situações.",
+        "respD": "d) Somente quando se tratar de idoso e crianças.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O prazo determinado pela legislação para a identificação junto ao órgão executivo de trânsito daquele que praticou a infração não sendo possível a imediata identificação é de:",
+        "imagem": null,
+        "respA": "a) 30 dias após a notificação da autuação.",
+        "respB": "b) 15 dias após a notificação da autuação.",
+        "respC": "c) 30 dias após a prática da infração.",
+        "respD": "d) 15 dias após a prática da infração.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Obedecida à regulamentação estabelecida para a via, o condutor poderá aumentar a velocidade do seu veículo quando:",
+        "imagem": null,
+        "respA": "a) Estiver sendo ultrapassado.",
+        "respB": "b) Notar a presença de veículos destinados a socorro.",
+        "respC": "c) Diante da presença de animais para evitar atropelamentos.",
+        "respD": "d) Estiver ultrapassando.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em local sinalizado, com linha de divisão dupla contínua ( longitudinal), o condutor:",
+        "imagem": null,
+        "respA": "a) Poderá aumentar a velocidade.",
+        "respB": "b) Poderá transpor faixa de pedestre.",
+        "respC": "c) Não poderá ultrapassar.",
+        "respD": "d) Poderá efetuar ultrapassagem.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual o veículo não tem preferência? ",
+        "imagem": "imagem_1_1315504794.png",
+        "respA": "a) O veículo 1, pois está circulando em linha reta.",
+        "respB": "b) O veículo 2, pois não sinalizou a intenção de convergir.",
+        "respC": "c) O veículo 1, pois está à esquerda do veiculo 2.",
+        "respD": "d) O veículo 2, pois antes de convergir à esquerda, devemos aguardar os veículos que vem em sentido contrário.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Observe o desenho e responda: O condutor do veículo 1 para ingressar em outra via deverá:",
+        "imagem": "circulacao_1_qu_1315694271.png",
+        "respA": "a) Aguardar a passagem do veículo 3.",
+        "respB": "b) Entrar diretamente na via, sem utilizar a faixa de aceleração.",
+        "respC": "c) Utilizar a faixa de aceleração, dando preferência ao veículo 2.",
+        "respD": "d) Apenas aguardar a passagem do veículo 2.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta: o pedestre, ao iniciar a travessia, deverá observar:",
+        "imagem": null,
+        "respA": "a) A visibilidade.",
+        "respB": "b) A distância dos veículos.",
+        "respC": "c) A velocidade dos veículos.",
+        "respD": "d) As faixas ou passarelas, distantes em até 100 ms.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual veículo está posicionado corretamente para convergir à esquerda?",
+        "imagem": "circulacao_simu_1315697541.png",
+        "respA": "a) O veículo 3.",
+        "respB": "b) O veículo 1.",
+        "respC": "c) Os veículos 2 e 3.",
+        "respD": "d) Apenas o veículo 2.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Observe o desenho e responda: Quanto à preferência de passagem, podemos afirmar:",
+        "imagem": "circulacao_simu_1315762541.png",
+        "respA": "a) Veículo 3 tem a preferência em relação ao veículo 1.",
+        "respB": "b) Veículo 2 tem a preferência em relação ao veículo 1.",
+        "respC": "c) Veículo 4 tem a preferência em relação ao veículo 2.",
+        "respD": "d) Veículo 1 tem a preferência em relação ao veículo 2.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Observe o desenho e assinale a opção correta:",
+        "imagem": "circulacao_simu_1315764399.png",
+        "respA": "a) O veículo 1 tem a preferência sobre o veículo 2.",
+        "respB": "b) O veículo 3 tem a preferência sobre o veículo 4.",
+        "respC": "c) O veículo 2 tem a preferência sobre os veículos 1 e 3.",
+        "respD": "d) O veículo 1 tem a preferência sobre o veículo 4.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Todo condutor de veículo deve dar preferência de passagem ao pedestre....",
+        "imagem": null,
+        "respA": "a) Somente quando se tratar de deficiente físico.",
+        "respB": "b) Somente quando se tratar de crianças e idosos.",
+        "respC": "c) Em qualquer situação.",
+        "respD": "d) Somente nas faixas de segurança.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor habilitado na categoria B só poderá dirigir:",
+        "imagem": null,
+        "respA": "a) Ônibus.",
+        "respB": "b) Caminhão.",
+        "respC": "c) Veículos de até 3.500 kg e veículo de passeio.",
+        "respD": "d) Veículo de até 3.500 kg e moto.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A responsabilidade pelas infrações referente a atos praticados na direção dos veículos cabe:",
+        "imagem": null,
+        "respA": "a) Ao proprietário do veículo.",
+        "respB": "b) Ao proprietário do veículo e ao condutor.",
+        "respC": "c) Aos pais ou responsáveis pelo condutor.",
+        "respD": "d) Ao condutor.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Ao regular a velocidade, o condutor deverá observar constantemente:",
+        "imagem": null,
+        "respA": "a) Obedecer somente aos limites de velocidade.",
+        "respB": "b) Condições físicas da via, do veículo e da carga as condições meteorológicas e a intensidade do trânsito.",
+        "respC": "c) À sinalização.",
+        "respD": "d) Somente à intensidade do transito.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A Carteira Nacional de Habilitação permite, a quem a possuir, o direito de dirigir:",
+        "imagem": null,
+        "respA": "a) Qualquer tipo de veículo, apenas na localidade onde foi emitida.",
+        "respB": "b) Veículos automotores, para os quais foi habilitado, em todo território nacional.",
+        "respC": "c) Qualquer tipo de veículo automotor.",
+        "respD": "d) Veículos automotores, para os quais foi habilitado, apenas na localidade onde foi emitida.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É equipamento obrigatório de veículos ciclomotores:",
+        "imagem": null,
+        "respA": "a) Lanterna de freios de cor branca.",
+        "respB": "b) Placa dianteira e traseira.",
+        "respC": "c) Espelho retrovisor apenas do lado esquerdo.",
+        "respD": "d) Espelhos retrovisores de ambos os lados.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando, a qualquer tempo, se for constatado que o condutor está colocando em risco a segurança do trânsito, este será submetido à:",
+        "imagem": null,
+        "respA": "a) Curso de direção defensiva.",
+        "respB": "b) Exame de aptidão física e mental.",
+        "respC": "c) Curso de reciclagem.",
+        "respD": "d) Avaliação psicológica.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A imobilização de veículos por tempo superior ao necessário para embarque ou desembarque de passageiros denomina-se:",
+        "imagem": null,
+        "respA": "a) Transposição de faixas.",
+        "respB": "b) Estacionamento.",
+        "respC": "c) Parada.",
+        "respD": "d) Ultrapassagem.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A permissão para dirigir permite ao condutor o direito de dirigir:",
+        "imagem": null,
+        "respA": "a) Apenas no estado da federação que a expediu.",
+        "respB": "b) Somente no municpio de residência.",
+        "respC": "c) Em todo território nacional.",
+        "respD": "d) Somente nas rodovias.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para transitar na via, todo veículo automotor, elétrico, articulado, reboque ou semi-reboque deverá ser licenciado...",
+        "imagem": null,
+        "respA": "a) Semestralmente, pelo órgão executivo rodoviário do estado.",
+        "respB": "b) Semestralmente, pelo órgão executivo de trânsito do estado.",
+        "respC": "c) Anualmente, pelo órgão executivo de trânsito do estado.",
+        "respD": "d) Anualmente, pelo orgão municipal de trânsito.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor manterá acesos os faróis do veículo, utilizando luz baixa, durante a noite e durante o dia em quais locais:",
+        "imagem": null,
+        "respA": "a) Em qualquer local.",
+        "respB": "b) Nas rodovias de pista simples, fora do perímetro urbano.",
+        "respC": "c) Só é permitido se estiver sob chuva intensa.",
+        "respD": "d) Em qualquer rodovia.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor para conduzir veículos motorizados de duas ou três rodas, com ou sem carro lateral, deverá habilitar-se na categoria:",
+        "imagem": null,
+        "respA": "a) A.",
+        "respB": "b) B.",
+        "respC": "c) C.",
+        "respD": "d) E.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A marcação de áreas de estacionamento que indica ao condutor que ali é permitido estacionar é feita na cor:",
+        "imagem": null,
+        "respA": "a) Amarela.",
+        "respB": "b) Branca.",
+        "respC": "c) Azul.",
+        "respD": "d) Verde.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Significa mudança de característica do veículo.",
+        "imagem": null,
+        "respA": "a) O rebaixamento da suspensão e a mudança de cor. ",
+        "respB": "b) O pneu careca. ",
+        "respC": "c) A descarga sem catalizador. ",
+        "respD": "d) A falta de freio de estacionamento.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "As subdivisões da pista de rolamento, com ou sem separações de marcas e cuja largura permite a circulação de um veículo com segurança , são chamadas: ",
+        "imagem": null,
+        "respA": "a) Vias pública. ",
+        "respB": "b) Faixas de segurança.",
+        "respC": "c) Áreas urbanas ",
+        "respD": "d) Faixas de transito.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Como é chamado um veículo automotor, de duas ou tres rodas cuja cilindrada não seja maior do que 50 cc ou elétrico com no máximo 4kW, e capaz de desenvolver no máximo a velocidade de 50 km/h?",
+        "imagem": null,
+        "respA": "a) Motocicleta.",
+        "respB": "b) Ciclomotor.",
+        "respC": "c) Mobilete.",
+        "respD": "d) Bicicleta a motor.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os Departamentos de estradas e Rodagens são órgãos:",
+        "imagem": null,
+        "respA": "a) Normativos do Sistema Nacional de Transito.",
+        "respB": "b) Executivos do Sistema Nacional de Transito. ",
+        "respC": "c) Com jurisdição em todo território nacional. ",
+        "respD": "d) Normativos do Conselho Nacional de transito. ",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A idade minima para o condutor se habilitar á direção de veículos automotores destinados ao transporte coletivos de passageiros é: ",
+        "imagem": null,
+        "respA": "a) 18 anos.",
+        "respB": "b) 19 anos. ",
+        "respC": "c) 24 anos.",
+        "respD": "d) 21 anos.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual é a posição adequada para posicionar uma  criança de 0 a 1 ano no coversível? ",
+        "imagem": null,
+        "respA": "a) No meio do banco traseiro. ",
+        "respB": "b) No assoalho atrás do banco do motorista. ",
+        "respC": "c) De forma que o rosto da criança fique voltado para o vidro traseiro. ",
+        "respD": "d) Desde que se dirija devagar, preso no cinto de segurança do banco do carona. ",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A cegueira momentanea causada pelo excesso de luz provoca: ",
+        "imagem": null,
+        "respA": "a) Ofuscamento. ",
+        "respB": "b) Catarata. ",
+        "respC": "c) Penumbra ",
+        "respD": "d) Cegueira. ",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "E a medida maxíma permitida para trincas no para brisas fora da área critíca de visão em autómoveis:",
+        "imagem": null,
+        "respA": "a) 20 cm.",
+        "respB": "b) 10 mm.",
+        "respC": "c) 10 cm.",
+        "respD": "d) 5 mm.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O capacete adequado deve conter o selo do : ",
+        "imagem": null,
+        "respA": "a) CONTRAN.",
+        "respB": "b) INMETRO.",
+        "respC": "c) DENATRAN.",
+        "respD": "d) CIRETRAN.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Usar buzina para chamar alguém é infração punível com:",
+        "imagem": null,
+        "respA": "a) Multa e apreensão do veículo.",
+        "respB": "b) Multa e retensão do veículo.",
+        "respC": "c) Multa.",
+        "respD": "d) Multa e apreensão da Carteira Nacional de Habilitação. ",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "As placas de sinalização vertical, classificadas de acordo com as suas funções, são agrupadas em:",
+        "imagem": null,
+        "respA": "a) Sinalização de regulamentação, advertência e de indicação.",
+        "respB": "b) Sinalização de regulamentação e advertência.",
+        "respC": "c) Sinalização de indicação e especial para pedestres.",
+        "respD": "d) Sinalização indicativa de serviços e atrativos turísticos. ",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando o auto de infração será arquivado e seu registro julgado insubsistente (sem valor)?",
+        "imagem": null,
+        "respA": "a) Quando assim entender o agente de trânsito.",
+        "respB": "b) Quando o infrator for menor de 18 anos.",
+        "respC": "c) Quando a autuação for irregular ou se, no prazo de 30 dias, não for expedida a noticicação.",
+        "respD": "d) Quando a notificação for devolvida por desatualização de endereço.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Buzinar em locais e horários proibidos por sinalização acarretará _______ e é uma infração_____________.",
+        "imagem": null,
+        "respA": "a) Advertância por escrito.",
+        "respB": "b) Multa, leve.",
+        "respC": "c) Multa grave, retenção do veículo.",
+        "respD": "d) Recolhimento da habilitação.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É considerado veículo de carga:",
+        "imagem": null,
+        "respA": "a) Caminhão.",
+        "respB": "b) Carroça.",
+        "respC": "c) Carrinho de mão.",
+        "respD": "d) Todas as alternativas acima.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É classificação dos veículos:",
+        "imagem": null,
+        "respA": "a) Especial, misto, passageiros, carga, tração e coleção.",
+        "respB": "b) Tração, espécie e categoria.",
+        "respC": "c) Particular, aluguel, aprendizagem,, oficial, missão diplomática.",
+        "respD": "d) Misto.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Marque a incorreta: São veículos classificados quanto a categoria:",
+        "imagem": null,
+        "respA": "a) Oficial, fabricante.",
+        "respB": "b) Aprendizagem, experiência.",
+        "respC": "c) Particular, aluguel.",
+        "respD": "d) Carga, passageiro.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O candidato encontrado dirigindo sem a companhia do instrutor terá a Licença de Aprendizagem (LADV)...",
+        "imagem": null,
+        "respA": "a) Suspensa por 6 meses.",
+        "respB": "b) Cassada por 24 meses.",
+        "respC": "c) Apreendida por 6 meses.",
+        "respD": "d) Apreendida por tempo indeterminado.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta:",
+        "imagem": null,
+        "respA": "a) O condutor da categoria A poderá conduzir veículos de 2 ou 3 rodas.",
+        "respB": "b) O condutor habilitado em qualquer categoria poderá conduzir motos de até 100cc.",
+        "respC": "c) Os condutores serão responsáveis pelos atos praticados na direção do veículo.",
+        "respD": "d) Com categoria E o condutor poderá conduzir veículos das categorias inferiores, com exceção dos veículo de 2 ou 3 rodas.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa incorreta: sobre conversões, podemos afirmar:",
+        "imagem": null,
+        "respA": "a) À direita -  devemos manter à direita.",
+        "respB": "b) À esquerda em mão única - devemos deslocar totalmente à esquerda.",
+        "respC": "c) À esquerda em rodovia -  devemos utilizar o acostamento da esquerda quando não houver local apropriado.",
+        "respD": "d) À esquerda, mão dupla -  deslocar para a linha divisória da pista.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando o condutor ultrapassar pela contramão outro veículo nas curvas  e aclives sem visibilidade suficiente, será punido com:",
+        "imagem": null,
+        "respA": "a) Retençao do veículo e multa.",
+        "respB": "b) Multa.",
+        "respC": "c) Multa e suspensão do direito de dirigir.",
+        "respD": "d) Apreensão do veículo e multa.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Local de estacionamento em ângulo de veículo que transporta ou que seja conduzido por pessoa portadora de deficiência física é identificado, na cartela, pelo código:",
+        "imagem": null,
+        "respA": "a) MD-04.",
+        "respB": "b) MD-07.",
+        "respC": "c) MD-05.",
+        "respD": "d) MD-01",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "No caso de cassação da CNH, poderá o condutor se reabilitar. Qual o procedimento necessário à reabilitação?",
+        "imagem": null,
+        "respA": "a) Refazer os exames de sanidade fisica e mental.",
+        "respB": "b) Refazer somente o exame de direção depois de 1 a 12 meses.",
+        "respC": "c) Decorridos 6 meses, todos os exames deverão ser feitos.",
+        "respD": "d) Após dois anos, deverá o condutor submeter-se a todos os exames que são exigidos para habilitação.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Sempre que as circunstâncias determinem a redução sensível de marcha do veículo, o agente de trânsito usará o sinal sonoro:",
+        "imagem": null,
+        "respA": "a) Um silvo breve.",
+        "respB": "b) Três silvos breves.",
+        "respC": "c) Um silvo longo.",
+        "respD": "d) Dois silvos breves.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor que vai sair com o veículo do acostamento deve:",
+        "imagem": null,
+        "respA": "a) Acionar a luz indicadora de direção e acelerar no acostamento até uma velocidade compatível com a via e entrar na faixa de tráfego.",
+        "respB": "b) Acionar as luzes do pisca-alerta e acelerar na na faixa de tráfego até uma velocidade compatível com a via.",
+        "respC": "c) Acelerar no acostamento até uma velocidade compatível com a via e entrar na faixa de tráfego.",
+        "respD": "d) Acionar a luz do pisca-alerta, acelerar no acostamento até uma velocidade compatível com a via e entrar na faixa de tráfego.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O trânsito de bicicletas e ciclomotores não é permitido nas calçadas e...",
+        "imagem": null,
+        "respA": "a) Nas vias terrestres.",
+        "respB": "b) Coletora.",
+        "respC": "c) Nas vias locais.",
+        "respD": "d) Nas vias de trânsito rápido.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando o veículo da frente sinaliza e inicia a manobra de entrar à esquerda, você, condutor, poderá ________.",
+        "imagem": null,
+        "respA": "a) Ultrapassar e virar à direita.",
+        "respB": "b) Ultrapassar pela esquerda.",
+        "respC": "c) Ultrapassar pela direita.",
+        "respD": "d) Ultrapassar e diminuir a velocidade.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É velocidade permitida nas vias rurais, exceto:",
+        "imagem": null,
+        "respA": "a) 60 km/h nas estradas para todos os veículos.",
+        "respB": "b) 90 km/h para ônibus e microônibus nas rodovias.",
+        "respC": "c) 80 km/h para caminhões em rodovias.",
+        "respD": "d) 20 km/h nas estradas para ciclomotores.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Onde é permitido parar?",
+        "imagem": null,
+        "respA": "a) Nos acostamentos.",
+        "respB": "b) A menos de 5 metros das esquinas.",
+        "respC": "c) Na contra-mão de direção.",
+        "respD": "d) Afastado da guia da calçada, além de 50 cm.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É proibido a todo condutor de veículo:",
+        "imagem": null,
+        "respA": "a) Dar passagem, pela esquerda, quando solicitado.",
+        "respB": "b) Parar antes de entrar em via preferencial.",
+        "respC": "c) Ouvir rádio enquanto dirige.",
+        "respD": "d) Dirigir sem estar devidamente habilitado ou autorizado na forma da le.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando, por motivo de força maior, um veículo estiver impedido de ser removido da pista de rolamento ou que tenha que permanecer no acostamento, o condutor deve, obrigatoriamente:",
+        "imagem": null,
+        "respA": "a) Ficar junto do veículo.",
+        "respB": "b) Colocar sinalização, na forma estabelecida pelo CONTRAN, prevenindo os demais condutores.",
+        "respC": "c) Pedir ajuda aos demais condutores.",
+        "respD": "d) Colocar-se de modo a ser visto para socorro.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Um cinto de segurança pode ser utilizado por:",
+        "imagem": null,
+        "respA": "a) Mãe e criança ao mesmo tempo.",
+        "respB": "b) Duas crianças ao mesmo tempo.",
+        "respC": "c) Somente uma pessoa.",
+        "respD": "d) Mãe e criança até cinco anos, ao mesmo tempo.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "As características de um veículo podem ser modificadas quando:",
+        "imagem": null,
+        "respA": "a) Houver prévia permissão da autoridade de trânsito.",
+        "respB": "b) O proprietário quitar seus débitoscom o órgão competente.",
+        "respC": "c) O proprietário \"cansar\" da cor do modelo.",
+        "respD": "d) Sofrer um acidente grave.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Segundo a classificação do Código de Trânsito Brasileiro, vias locais são aquelas:",
+        "imagem": null,
+        "respA": "a) Que a sinalização de trânsito indica como tais.",
+        "respB": "b) Que se destinam apenas ao acesso de áreas restritas.",
+        "respC": "c) Que geram e coletam trânsito para as vias preferênciais ou de trânsito rápido.",
+        "respD": "d) Fechadas ao trânsito em geral.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A aprendizagem somente poderá realizar-se:",
+        "imagem": null,
+        "respA": "a) Nos termos, horários e locais estabelecidos pela autoridade de trânsito.",
+        "respB": "b) Das 8 horas às 18 horas, em qualquer local.",
+        "respC": "c) Em áreas fechadas ao trânsito.",
+        "respD": "d) Somente no período matutino.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em que posição o extintor de incêndio deve ser usado?",
+        "imagem": null,
+        "respA": "a) Deitado.",
+        "respB": "b) Na posição vertical.",
+        "respC": "c) Na posição horizontal.",
+        "respD": "d) De cabeça para baixo.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor de veículo que estiver habilitado na categoria \"C\" poderá dirigir:",
+        "imagem": null,
+        "respA": "a) Veículo motorizado para transporte de carga perigosa.",
+        "respB": "b) Veículo motorizado de 2 rodas.",
+        "respC": "c) Veículo motorizado para transporte de carga cujo peso máximo autorizado esteja acima de 3.500 kg.",
+        "respD": "d) Veículo motorizado para transporte de carga de peso máximo até 1.500 kg.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "De acordo com a Legislação, os veículos, quanto a espécie, são classificados em:",
+        "imagem": null,
+        "respA": "a) Oficial, de passageiros, de aluguel e de corrida.",
+        "respB": "b) Oficial, particular, de passageiro e de aluguel.",
+        "respC": "c) Automotor, elétrico, tração animal, propulsão humana e reboque.",
+        "respD": "d) De passgeiros, de carga, misto, de competição, de tração, especial e coleção.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A via caraterizada por acesso especial e trânsito livre, cuja velocidade máxima permitida é de 80 km/h é considerada:",
+        "imagem": null,
+        "respA": "a) Arterial.",
+        "respB": "b) Coletora.",
+        "respC": "c) Estrada.",
+        "respD": "d) Trânsito rápido.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta:",
+        "imagem": null,
+        "respA": "a) Todo condutor deve dar preferência aos pedestres, apenas quando estes  se encontram sobre a faixa de segurança.",
+        "respB": "b) É dever do condutor parar o seu veículo antes de transpor linha férrea ou entrar na via com preferência de passagem.",
+        "respC": "c) Todo veículo poderá retornar em qualquer local, nas vias urbanas desde que facilite o trânsito para os outros veículos.",
+        "respD": "d) A circulação pelos acostamentos das rodovias é permitida em situações de congestionamento.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Todo condutor deverá, antes de efetuar uma ultrapassagem, certificar-se de que:",
+        "imagem": null,
+        "respA": "a) A faixa de trãnsito que vai tomar esteja livre numa extensão suficiente para que sua manobra não ponha em perigo ou obstrua o trânsito que venha em sentido contrário.",
+        "respB": "b) Quem o precede na mesma faixa tenha indicado o propósito de ultrapassar um terceiro.",
+        "respC": "c) O condutor que venha atrás, tenha começado uma manobra para ultrapassá-lo.",
+        "respD": "d) O condutor que deseja ultrapassar esteja próximo ao veículo que vai ser ultrapassado.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta:",
+        "imagem": null,
+        "respA": "a) O condutor e o passageiro não deverão abrir a porta do veículo, sem antes certificar-se que isso não constitui perigo para ele e outros usuários da via.",
+        "respB": "b) A parada para embarque de passgeiros não poderá ser feita quando proibido o estacionamento da via.",
+        "respC": "c) Em nenhuma hipótese, será permitida a circulação de bicicletas nos passeios.",
+        "respD": "d) Os animais isolados ou em grupos não poderão circular nas vias urbanas ou rurais.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Um veículo em movimento deve ocupar a faixa mais à direita da pista de rolamento quando:",
+        "imagem": null,
+        "respA": "a) A via for de mão dupla de trânsito.",
+        "respB": "b) Inexistir faixa especial a ele destinada.",
+        "respC": "c) For entrar para a esquerda.",
+        "respD": "d) Estiver desenvolvendo velocidade abaixo da mínima.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta:",
+        "imagem": null,
+        "respA": "a) Além do instrutor, ao aprendiz poderá ter mais dois acompanhantes durante a aula no veículo.",
+        "respB": "b) Ao ser ultrapassado, o condutor deverá aumentar a velocidade do seu veículo.",
+        "respC": "c) As motocicletas têm prioridade de passagem em situações de congestionamento.",
+        "respD": "d) O pedestre tem prioridade de passagem quando houver faixa de segurança.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A educação para o trânsito é:",
+        "imagem": null,
+        "respA": "a) Direito para quem tem 18 anos.",
+        "respB": "b) Para quem é motorista.",
+        "respC": "c) É direito só para quem é alfabetizado.",
+        "respD": "d) É direito de todos e constitui dever prioritário para os componentes do Sistema Nacional de Trãnsito.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para que os veículos destinados à condução coletiva de escolares possam circular nas vias, exige-se:",
+        "imagem": null,
+        "respA": "a) Registro de veículo especial.",
+        "respB": "b) Lanternas de luz verde nas extremidades laterais direita e esquerda.",
+        "respC": "c) Inspeção semestral para verificação dos equipamentos obrigatórios e de segurança.",
+        "respD": "d) Cintos de segurança para o condutor e seu auxiliar.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor para virar à esquerda em interseção de vias de sentido duplo de trânsito, no perímetro urbano, deve:",
+        "imagem": null,
+        "respA": "a) Aproximar-se o máximo da margem esquerda da via.",
+        "respB": "b) Apenas para reduzir a velocidade e entrar rapidamente.",
+        "respC": "c) Aproximar-se o máximo possivel de seu eixo ou da linha divisória.",
+        "respD": "d) Aproximar-se o máximo da margem direita da via.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em via de mão dupla, é permitido ao condutor trafegar pela contramão quando:",
+        "imagem": null,
+        "respA": "a) For convergir à esquerda.",
+        "respB": "b) Houver passagem de nível.",
+        "respC": "c) For ultrapassar outro veículo e somente, pelo espaço necessário a esse fim.",
+        "respD": "d) Houver mais de uma faixa de trÂnsito no mesmo sentido.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Observe o desenho abaixo e responda. Quanto a preferência de passagem podemos afirmar:",
+        "imagem": "circulacao_simu_1339717163.png",
+        "respA": "a) Veículo 3 a preferência em relação ao veículo 1.",
+        "respB": "b) Veículo 2 tem a preferência em relação ao veículo 1.",
+        "respC": "c) Veículo 4 tem a preferência em relação ao veículo 2.",
+        "respD": "d) Veículo 1 tem a preferência em relação ao veículo 2.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Ao conduzir o veículo automotor o condutor deverá, primeiramente:",
+        "imagem": null,
+        "respA": "a) Ajustar o banco e retrovisor interno numa posição que lhe dê uma visão ampla do vidro traseiro.",
+        "respB": "b) Ajustar o retrovisor interno e o banco do veículo.",
+        "respC": "c) Ajustar somente os retrovisores externos.",
+        "respD": "d) Ajustar o banco e o retrovisor interno de modo a ter uma ampla visão da faixa da esquerda.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É proibido a todo condutor de veículo:",
+        "imagem": null,
+        "respA": "a) Parar o veículo no acostamento das estradas, quando não houver local apropriado para fazer o retorno.",
+        "respB": "b) Dar passagem pela esquerda, quando solicitado.",
+        "respC": "c) Aproximar o veículo do meio-fio para embarque de passageiros.",
+        "respD": "d) Forçar a passagem entre veículos que, transitando em sentidos opostos, estejam próximos de passar um pelo outro.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando o veículo estiver estacionado na calçada ou sobre as faixas destinadas a pedestres, o condutor será punido com:",
+        "imagem": null,
+        "respA": "a) Multa, apenas.",
+        "respB": "b) Recolhimento da CNH e multa.",
+        "respC": "c) Remoção do veículo e multa.",
+        "respD": "d) Apreensão da CNH e multa.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os Departamentos de Estrada e Rodagem são órgãos:",
+        "imagem": null,
+        "respA": "a) Normativos do Sistema Nacional de Trãnsito.",
+        "respB": "b) Executivos do Sistema Nacional de Trânsito.",
+        "respC": "c) Com jurisdição em todo território nacional.",
+        "respD": "d) Com jurisdição em todas as vias do estado.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A realização de qualquer ato público que interfira no trânsito depende de:",
+        "imagem": null,
+        "respA": "a) Licença especial do Prefeito.",
+        "respB": "b) Autorização do Governador.",
+        "respC": "c) Prévia autorização da autoridade de trânsito.",
+        "respD": "d) Autorização de todos os moradores locais.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A CNH permite a quem a possuir o direito de dirigir:",
+        "imagem": null,
+        "respA": "a) Veículos automotores para os quais for habilitado em todo território nacional.",
+        "respB": "b) Qualquer tipo de veículo apenas na localidade onde foi emitida.",
+        "respC": "c) Qualquer tipo de veículo automotor.",
+        "respD": "d) Qualquer tipo de veículo em todos os países do mundo.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "o candidato que for reprovado no exame de legislação de trânsito ou no exame de direção veicular poderá realizar novo exame após período de:",
+        "imagem": null,
+        "respA": "a) 05 dias.",
+        "respB": "b) 15 dias.",
+        "respC": "c) 20 dias.",
+        "respD": "d) Não há prazo para repetir o exame.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Segundo o CTB, as vias urbanas classificam-se em:",
+        "imagem": null,
+        "respA": "a) Vias de acesso, de ligação, radiais e diametrais.",
+        "respB": "b) Vias expressas, locais e tributárias.",
+        "respC": "c) Vias expressas, arteriais,coletivas e locais.",
+        "respD": "d) Vias locais, coletoras, arteriais, e de trânsito rápido.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "As subdivisões da pista de rolamento, com ou sem separações de marcas e cuja largura permite a circulação de um veículo com segurança, são chamadas de:",
+        "imagem": "faixa_transito_1339719305.jpg",
+        "respA": "a) Vias públicas.",
+        "respB": "b) Faixas de segurança.",
+        "respC": "c) Passagem de nível.",
+        "respD": "d) Faixas de trânsito.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Compete a qual órgão expedir a CNH?",
+        "imagem": null,
+        "respA": "a) Ao DER.",
+        "respB": "b) Ao DETRAN, sob a delegação do DENATRAN.",
+        "respC": "c) Ao Conselho Estadual de Trãnsito.",
+        "respD": "d) A Prefeitura Municipal.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Marque a incorreta: o condutor de veículo que estiver habilitado para a categoria \"D\" poderá dirigir:",
+        "imagem": null,
+        "respA": "a) Veículo motorizado de peso máximo maior que 3.500 kg.",
+        "respB": "b) Veiculo motorizado para transporte de cargas perigosas.",
+        "respC": "c) Motocicletas.",
+        "respD": "d) Veículo motorizado para transporte de passageiros e que tenha mais de 8 lugares, sem contar o condutor.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O condutor que virar à esquerda em interseção de vias de sentido duplo de trânsito no perímetro urbano deve:",
+        "imagem": null,
+        "respA": "a) Aproximar-se o máximo da margem esquerda da via.",
+        "respB": "b) Apenas reduzir a velocidade e entrar rapidamente.",
+        "respC": "c) Aproximar-se o máximo possível de seu eixo ou da linha divisória da pista.",
+        "respD": "d) Aproximar-se o máximo da margem direita da via.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Estacionar o veículo em desacordo com a regulamentação estabelecida pela autoridade de trânsito, acarretará:",
+        "imagem": null,
+        "respA": "a) Multa e retenção da CNH.",
+        "respB": "b) Retenção do veículo e da Carteira de Habilitação.",
+        "respC": "c) Multa e remoção do veículo.",
+        "respD": "d) Multa e retenção do veículo.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Observe o desenho abaixo e responda. O veículo que não tem preferência é:",
+        "imagem": "circulacao_simu_1339720596.png",
+        "respA": "a) Veículo 1, porque o cruzamento não é sinalizado.",
+        "respB": "b) Veículo 2, porque o cruzamento não é sinalizado.",
+        "respC": "c) Veículo 1, porque deverá dar preferência ao veículo que vem em sentido contrário.",
+        "respD": "d) Veículo 2, porque deverá dar a preferência ao veículo 1 que vem à sua direita.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O embarque e o desembarque devem ocorrer sempre:",
+        "imagem": null,
+        "respA": "a) A critério dos passageiros.",
+        "respB": "b) Do lado da calçada, exceto no caso do condutor.",
+        "respC": "c) De qualquer lado, se o o veículo for de 4 rodas.",
+        "respD": "d) Do lado da calçada.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A prestação dos exames para obtenção da CNH só poderá ser requerida pelo candidato que seja alfabetizado e tenha completado:",
+        "imagem": null,
+        "respA": "a) 17 anos.",
+        "respB": "b) 17 anos com autorização dos pais.",
+        "respC": "c) 16 anos.",
+        "respD": "d) 18 anos.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para se habilitar na categoria \"A\", o veículo utilizado no exame de direção deverá ser:",
+        "imagem": null,
+        "respA": "a) 125cc.",
+        "respB": "b) Acima de 120cc.",
+        "respC": "c) 180cc.",
+        "respD": "d) Todas a afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Após quantos dias os veículos removidos e não reclamados, serão levados à leilão?",
+        "imagem": null,
+        "respA": "a) 60 dias.",
+        "respB": "b) 90 dias.",
+        "respC": "c) 45 dias.",
+        "respD": "d) 30 dias.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Sobre o desenho abaixo é correto afirmar:",
+        "imagem": "circulacao_simu_1340232730.png",
+        "respA": "a) O veículo 1 está numa via de mão única.",
+        "respB": "b) O veículo 1 tem preferência sobre o veículo 2.",
+        "respC": "c) A preferência é do veículo 2 por estar à direita do 3.",
+        "respD": "d) O veículo 2 é obrigado a convergir.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual o valor máximo pago pelo DPVAT em caso de morte?",
+        "imagem": null,
+        "respA": "a) R$15.652,00",
+        "respB": "b) até R$ 2.700,00.",
+        "respC": "c) R$ 13.500,00.",
+        "respD": "d) 50 salários mínimos.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quanto tempo de habilitação a categoria \"B\" precisa para habilitar-se na categoria \"E\"?",
+        "imagem": null,
+        "respA": "a) Não é permitido mudar da categoria \"B\" para a \"E\" direto.",
+        "respB": "b) 1 ano.",
+        "respC": "c) 2 anos.",
+        "respD": "d) Não existe interstício.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para conduzir veículos de duas ou três rodas o condutor deverá ter no mínimo:",
+        "imagem": null,
+        "respA": "a) 18 anos e ser habilitado na categoria \"A1\".",
+        "respB": "b) Qualquer idade, mas no mínimo a categoria \"B\".",
+        "respC": "c) 21 anos e ser habilitado na categoria \"C\".",
+        "respD": "d) Ter no mínimo 18 anos e habilitado na \"A\" ou possuir ACC.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É considerado deslocamento lateral:",
+        "imagem": null,
+        "respA": "a) Mudança de faixa.",
+        "respB": "b) Conversões.",
+        "respC": "c) Retornos.",
+        "respD": "d) Todas as alternativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Seu uso é obrigatório nas vias rurais em intervalo máximo de 5 km:",
+        "imagem": null,
+        "respA": "a) Placas de advertência.",
+        "respB": "b) Marcas viárias.",
+        "respC": "c) Marcos quilométricos.",
+        "respD": "d) Placas indicativas.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Por quanto tempo o processo de habilitação ficará ativo no DETRAN?",
+        "imagem": null,
+        "respA": "a) 90 dias.",
+        "respB": "b) 12 meses.",
+        "respC": "c) 45 dias.",
+        "respD": "d) 6 meses.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Sobre a preferência, é falso afirmar:",
+        "imagem": null,
+        "respA": "a) Em um cruzamento não sinalizado, a preferência é de quem está na rodovia.",
+        "respB": "b) Os veículos que se deslocam sobre trilhos tem preferência sobre os demais.",
+        "respC": "c) No caso da rotatória, o que estiver circulando por ela terá preferência.",
+        "respD": "d) Num cruzamento não sinalizado de avenida com rua, a preferência é do veículo que circula na avenida.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Analise o desenho abaixo e marque de qual veículo é a preferência:",
+        "imagem": "circulacao_simu_1400865434.png",
+        "respA": "a) Do veículo 1, porque trafega em linha reta.",
+        "respB": "b) Do veículo 2, porque trafega em rodovia.",
+        "respC": "c) Do veículo 2, porque o veículo 1 irá convergir.",
+        "respD": "d) Do veículo 2, porque está à direita do veículo 1.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para a fiscalização de documentos, o agente deverá usar:",
+        "imagem": null,
+        "respA": "a) Um silvo longo.",
+        "respB": "b) Um silvo longo e um breve.",
+        "respC": "c) Dois silvos breves.",
+        "respD": "d) Três silvos breves.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Analise o desenho e marque a preferência:",
+        "imagem": "circulacao_simu_1340234004.png",
+        "respA": "a) Do veículo 1, porque o veículo 2 irá convergir à direita.",
+        "respB": "b) Do veículo 1, porque está em linha reta.",
+        "respC": "c) Do veículo 2, porque está à direita do veículo 1.",
+        "respD": "d) Não existe preferência porque os dois veículos estão convergindo.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Marque a falsa para veículos de transporte de escolares:",
+        "imagem": null,
+        "respA": "a) Registro como veículo de passageiros.",
+        "respB": "b) Uma faixa escrito: \"Transporte de passageiros\".",
+        "respC": "c) Inspeção semestral (Vistoria).",
+        "respD": "d) Tacógrafo.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Debrear é o mesmo que:",
+        "imagem": null,
+        "respA": "a) Apoiar o pé no pedal de freio continuamente.",
+        "respB": "b) Regular o cabo em todas as trocas de óleo.",
+        "respC": "c) Acionar a embreagem.",
+        "respD": "d) Acionar o freio.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa que responda a questão: Os ciclomotores devem ser conduzidos pela direita da pista de rolamento, preferencialmente, no __________da faixa mais à direita ou no bordo direito da pista, sempre que não houver _______ ou faixa própria a eles destinada.",
+        "imagem": null,
+        "respA": "a) Acostamento; circulação.",
+        "respB": "b) Trãnsito; bordo.",
+        "respC": "c) Centro; acostamento.",
+        "respD": "d) Bordo; pista de rolamento.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os rótulos de risco identificados na planilha, com o título MOPE, são usados nos veículos destinados ao transporte de:",
+        "imagem": null,
+        "respA": "a) Cargas indivisíveis.",
+        "respB": "b) Cargas perecíveis.",
+        "respC": "c) Produtos perigosos.",
+        "respD": "d) Produtos artesanais.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É proibido transitar em vias de trânsito rápido:",
+        "imagem": null,
+        "respA": "a) Os veículos de duas ou três rodas, cuja cilindrada  não exceda a 50cc (cinquenta centímetros cúbicos).",
+        "respB": "b) Veículos de duas ou três rodas cuja cilindrada exceda a 50 cc (cinquenta centímetros cúbicos)..",
+        "respC": "c) Motocicletas acima de 120cc (cento e vinte centímetros cúbicos) de cilindrada.",
+        "respD": "d) Motocicletas até 120cc (cento e vinte centímetros cúbicos) de cilindrada.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Nas rodovias sem local apropriado para o retorno ou para entrar à esquerda, o condutor deverá aguardar a oportunidade para cruzar a pista, parando o veículo:",
+        "imagem": null,
+        "respA": "a) À direita da pista.",
+        "respB": "b) No centro da pista, sobre a faixa divisória dos fluxos.",
+        "respC": "c) No acostamento à direita.",
+        "respD": "d) À esquerda da pista.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta quanto ao pagamento da multa:",
+        "imagem": null,
+        "respA": "a) Se não for efetuado até a data do vencimento será cobrada multa de 10% do seu valor.",
+        "respB": "b) Poderá ser efetuado até a data do vencimento expressa na notificação, por 80% do seu valor.",
+        "respC": "c) Poderá ser efetuado q qualquer tempo por 80 % do seu valor.",
+        "respD": "d) Nâo existe desconto ou acréscimo, no valor inicial da multa.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa correta:",
+        "imagem": null,
+        "respA": "a) A parada para embarque de passageiros não poderá ser feita quando proibido o estacionamento na via.",
+        "respB": "b) Em nenhuma hipótese, será permitida a circulação de bicicletas nos passeios.",
+        "respC": "c) Os animais isolados ou em grupos não poderão circular nas vias urbanas e rurais.",
+        "respD": "d) O condutor e o passageiro não deverão abrir a porta do carro sem antes certificar-se que isso não constitui perigo para eles e outros usuários da via.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando veículos, transitando por fluxos que se cruzem, se aproximarem do local não sinalizado, terá preferência de passagem:",
+        "imagem": null,
+        "respA": "a) No caso de apenas um fluxo ser proveniente de rodovia, aquele que estiver circulando por ela.",
+        "respB": "b) Os veículos que estiverem desenvolvendo maior velocidade.",
+        "respC": "c) No caso de rotatória, aquele que for ingressar nela.",
+        "respD": "d) Os veículos destinados a transporte de passageiros.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Observe o desenho abaixo e identifique qual o veículo tem a preferência sobre o veículo 1:",
+        "imagem": "circulacao_simu_1340235723.png",
+        "respA": "a) Veículo 2, por estar a direita, mas o V1 passa primeiro por ter prioridade.",
+        "respB": "b) Veículo 3.",
+        "respC": "c) Veículo 3 por estar à direita.",
+        "respD": "d) Nenhum deles.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa que responda a questão: Crianças com idade inferior a ________ anos de idade que não tenham atingido _______ devem ser transportadas no banco _________, em dispositivos de retenção adequado para cada idade.",
+        "imagem": null,
+        "respA": "a) 12 - 1,25 m - traseiro.",
+        "respB": "b) 10 - 1,45 m - traseiro.",
+        "respC": "c) 07 - 1,10 - dianteiro.",
+        "respD": "d) 10 - 1,55 m - dianteiro.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual órgão tem por função julgar os eventuais abusos dos agentes ou autoridades?",
+        "imagem": null,
+        "respA": "a) As JARI.",
+        "respB": "b) O CETRAN.",
+        "respC": "c) O DETRAN.",
+        "respD": "d) O Ministério da Justiça.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É proibido conduzir ciclos e ciclomotores:",
+        "imagem": null,
+        "respA": "a) Nas vias arteriais e rodovias.",
+        "respB": "b) Nas vias de trânsito rápido e arteriais.",
+        "respC": "c) Nas estradas.",
+        "respD": "d) Nas vias de trânsito rápido.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Por quanto tempo o processo de habilitação ficará ativo no Departamento de Trânsito?",
+        "imagem": null,
+        "respA": "a) 6 meses.",
+        "respB": "b) 12 meses.",
+        "respC": "c) 5 anos.",
+        "respD": "d) 3 anos.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual é a prova prática considerada especializada?",
+        "imagem": null,
+        "respA": "a) A do candidato religioso.",
+        "respB": "b) A do candidato com deficiência auditiva.",
+        "respC": "c) A do portador com deficiência física.",
+        "respD": "d) A do candidato que fica nervoso ao fazer o exame.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A critério do agente, não se dará a retenção imediata do veículo:",
+        "imagem": null,
+        "respA": "a) De transporte de pessoas e sua bagagens.",
+        "respB": "b) De transporte de valores.",
+        "respC": "c) De transporte coletivo de passageiros e produtos perigosos e perecíveis.",
+        "respD": "d) De transporte de passageiros.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Será obrigatória a expedição de novo CRLV:",
+        "imagem": null,
+        "respA": "a) Ao mudar de categoria.",
+        "respB": "b) Ao mudar de município.",
+        "respC": "c) Quando for alterar qualquer característica do veículo.",
+        "respD": "d) Todas as afirmativas acima estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Para o curso de prática veicular, primeira habilitação na categoria A ou B, o candidato deverá comprovar a seguinte carga horária:",
+        "imagem": null,
+        "respA": "a) 20hs.",
+        "respB": "b) 30hs.",
+        "respC": "c) 15hs.",
+        "respD": "d) 10hs.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "É falso afirmar que o candidato à habilitação é uma pessoa que:",
+        "imagem": null,
+        "respA": "a) Pode ser responsabilizada penalmente.",
+        "respB": "b) Sabe ler e escrever.",
+        "respC": "c) Tem ensino fundamental.",
+        "respD": "d) Possui documento de identidade.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O transbordo do excesso de carga é uma...",
+        "imagem": null,
+        "respA": "a) Penalidade.",
+        "respB": "b) Infraçã cuja responsabilidade é do condutor.",
+        "respC": "c) Medida administrativa.",
+        "respD": "d) Medida educativa.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O extintor de incêndio de um veículo deve ser recarregado sempre que:",
+        "imagem": null,
+        "respA": "a) Quando trocar de carro.",
+        "respB": "b) O ponteiro estiver no vermelho ou se já venceu o prazo de validade.",
+        "respC": "c) Fizer vistoria no veículo.",
+        "respD": "d) O condutor achar que deve.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual órgão normativo que possui Câmaras Temáticas?",
+        "imagem": null,
+        "respA": "a) DETRAN.",
+        "respB": "b) CETRAN.",
+        "respC": "c) CONTRAN.",
+        "respD": "d) CONTRANDIFE.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual é a concentração de álcool no sangue comprovado por exames, que é considerado crime de trânsito?",
+        "imagem": null,
+        "respA": "a) Cinco decigramas",
+        "respB": "b) Três decigramas.",
+        "respC": "c) Igual ou superior a duas decigramas.",
+        "respD": "d) Igual ou superior a 0,34 miligramas de álcool por litro de ar.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Analise o desenho e marque a preferência:",
+        "imagem": "circulacao_simu_1340236640.png",
+        "respA": "a) Do veículo 2, porque trafega à direita da via.",
+        "respB": "b) Do veículo 1, pois trafega à direita do veículo 2.",
+        "respC": "c) Do veículo 2, pois o veículo 1 vai convergir à esquerda.",
+        "respD": "d) Do veículo 1, pois o veículo 2 vai convergir à direita.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A advertência por escrito deverá ser imposta à infração de natureza:",
+        "imagem": null,
+        "respA": "a) Grave.",
+        "respB": "b) Leve.",
+        "respC": "c) Leve ou média, não sendo reincidente o infrator nos últimos 12 meses.",
+        "respD": "d) Qualquer infração, não sendo reincidente o infrator.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Qual a validade da Permissão para Dirigir?",
+        "imagem": null,
+        "respA": "a) 5 anos.",
+        "respB": "b) 10 anos.",
+        "respC": "c) 12 meses.",
+        "respD": "d) A mesma do exame médico.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A educação para o trânsito é um direito de todos e tem por finalidade primordial:",
+        "imagem": null,
+        "respA": "a) A formação dos infratores contumazes.",
+        "respB": "b) Reciclar os trabalhadores da área de trânsito.",
+        "respC": "c) Educar o comportamento dos condutores e pedestres para que haja respeito e cidadania no trânsito.",
+        "respD": "d) Treinar candidatos à obtenção da CNH.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Uma via de mão dupla, dividida ao centro por duas linhas amarelas contínuas; isso significa que nesse trecho é:",
+        "imagem": null,
+        "respA": "a) Permitido ultrapassar nos dois sentidos.",
+        "respB": "b) Proibido ultrapassar nos dois sentidos.",
+        "respC": "c) Proibido ultrapassar pela direita.",
+        "respD": "d) Proibido ultrapassar pela esquerda.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Um trecho de uma via de mão dupla é dividido ao centro por uma linha amarela seccionada; isso significa que nesse trecho é:",
+        "imagem": null,
+        "respA": "a) Proibido ultrapassar pela esquerda.",
+        "respB": "b) Proibido ultrapassar.",
+        "respC": "c) Proibido ultrapassar pela direita.",
+        "respD": "d) Permitido ultrapassar.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em relação aos motociclistas, é regra de segurança obrigatória:",
+        "imagem": null,
+        "respA": "a) Usar viseiras ou óculos de proteção.",
+        "respB": "b) Não transportar crianças menores de 10 anos.",
+        "respC": "c) Manter o farol acesso apenas durante a noite, para não ofuscar os demais condutores.",
+        "respD": "d) Devem andar sempre na faixa da esquerda.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "De acordo com as regras gerais de circulação, todo veículo em movimento deve ocupar a faixa mais à direita da pista de rolamento, na enexistência de faixa especial a ele destinada. Esta afirmativa é:",
+        "imagem": null,
+        "respA": "a) Falsa.",
+        "respB": "b) Verdadeira, somente para veículos de passeio.",
+        "respC": "c) Verdadeira.",
+        "respD": "d) Verdadeira, somente para veículos de carga.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Assinale a alternativa que completa a questão: a categoria ____________ habilita o condutor a dirigir veículos motorizados em transporte de carga, cujo peso bruto total exceda a 3.500 quilogramas.",
+        "imagem": null,
+        "respA": "a) C.",
+        "respB": "b) D.",
+        "respC": "c) E.",
+        "respD": "d) B.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O candidato a obtenção da ACC ou da CNH deverá preencher os seguintes requisitos:",
+        "imagem": null,
+        "respA": "a) Somente saber ler e escrever e possuir documento de identidade.",
+        "respB": "b) Ser maior de 18 anos, saber ler e escrever, possuir  identidade e CPF.",
+        "respC": "c) Ser penalmente imputável, saber ler e escrever, possuir documento de identidade e CPF.",
+        "respD": "d) Ser maior de 21 anos, possuir CPF, saber ler e escrever.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A fiscalização da gestão de trânsito poderá ser realizada com a utilização de aparelhos que, quanto ao modo de operação, podem ser classificados em:",
+        "imagem": null,
+        "respA": "a) Automático e não automático.",
+        "respB": "b) Eletrônico e audiovisual.",
+        "respC": "c) Fixo e móvel.",
+        "respD": "d) Todas estão corretas.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Dirigindo em um veículo numa via dividida ao centro por uma sinalização com duas linhas, sendo a primeira linha à sua esquerda tracejada e a segunda contínua, você poderá:",
+        "imagem": null,
+        "respA": "a) Ultrapassar outro veículo pela esquerda , quando as condições forem favoráveis.",
+        "respB": "b) Ultrapassar outro veículo pela direita, quando as condições forem favoráveis.",
+        "respC": "c) Fazer um retorno para o lado direito da via.",
+        "respD": "d) Fazer um retorno pelo lado esquerdo da via.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando uma pista de rolamento comportar várias faixas de trânsito no mesmo sentido, ficarão as da:",
+        "imagem": null,
+        "respA": "a) Esquerda, destinadas à ultrapassagem  e ao deslocamento  de veículos lentos.",
+        "respB": "b) Direita, destinadas à veículos de socorros e urgência.",
+        "respC": "c) Esquerda, destinadas à ultrapassagem e ao deslocamento de veículos de maior velocidade.",
+        "respD": "d) Direito, destinadas à ultrapassagem e ao deslocamento de veículos de maior velocidade.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Observe o desenho abaixo e responda: o veículo que está posicionado corretamente, para efetuar a manobra de conversão à esquerda, de acordo com o sentido das vias, é:",
+        "imagem": "circulacao_simu_1339719527.png",
+        "respA": "a) Veículos 1 e 2, porque ambos farão a conversão à esquerda.",
+        "respB": "b) Veículo 3, porque posicionou-se à direita da via.",
+        "respC": "c) Veículo 3, porque aproximou-se corretamente do eixo central da pista.",
+        "respD": "d) Veículo 2, porque permaneceu à direita da via.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A pena de detenção atribuída ao condutor que pratica homicídio culposo na direção do veículo automotor é de:",
+        "imagem": null,
+        "respA": "a) 1 e 4 anos.",
+        "respB": "b) 2 e 4 anos.",
+        "respC": "c) 6 meses e 1 ano.",
+        "respD": "d) 6 meses e 2 anos.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O pedestre, ao cruzar a pista de rolamento onde não houver faixa ou passagem a ele destinado, deverá:",
+        "imagem": null,
+        "respA": "a) Cruzar a via em sentido perpendicular ao seu eixo.",
+        "respB": "b) Cruzar a via em sentido contrário ao seu eixo.",
+        "respC": "c) Cruzar a via no mesmo sentido ao de seu eixo.",
+        "respD": "d) Cruzar a via em sentido paralelo ou de seu eixo.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "A linha que proíbe ultrapassar para os dois sentidos denomina-se:",
+        "imagem": null,
+        "respA": "a) Simples seccionada.",
+        "respB": "b) Dupla seccionada.",
+        "respC": "c) Dupla contínua seccionada.",
+        "respD": "d) Dupla contínua.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "No desenho abaixo, observe os movimentos dos veículos 1, 3 e o pedestre atravessando a via. A preferência de passagem é do:",
+        "imagem": "circulacao_simu_1341268445.png",
+        "respA": "a) Veículo 2, porque está passando pelo veículo 1.",
+        "respB": "b) Veículo 3, porque trafega em linha reta.",
+        "respC": "c) Pedestre, porque já iniciou a travessia.",
+        "respD": "d) Veículo 1, porque vai convergir.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "No acostamento é proibido:",
+        "imagem": null,
+        "respA": "a) Circular pedestre.",
+        "respB": "b) Parar para realizar manobras.",
+        "respC": "c) Trafegar com veículos automotores.",
+        "respD": "d) Parar ou estacionar veículos em situação de emergência.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Os veículos destinados a socorros de incêndio, as ambulâncias e os da policia...",
+        "imagem": null,
+        "respA": "a) Gozam de livre trânsito e estacionamento em qualquer situação.",
+        "respB": "b) Não têm prioridade no trânsito, devendo obedecer as normas de circulação e a legislação de trânsito como qualquer ouro tipo de veículo. ",
+        "respC": "c) Só tem prioridade e trânsito livre quando estiverem protegidos por batedores.",
+        "respD": "d) Além de prioridade, gozam de livre trânsito e estacionamento, quando em serviço de urgência e identificados por dispositivos de alarmes sonoros e luz vermelha intermitente.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Com relação às preferências de passagem, correto afirmar que:",
+        "imagem": null,
+        "respA": "a) Nos cruzamentos desprovidos de sinalização disciplinadora específica, terá preferência de passagem o veículo que vier pela direita.",
+        "respB": "b) Os veículos que transitam por uma via asfaltada tem sempre a preferência sobre aqueles que trafegam numa via não pavimentada.",
+        "respC": "c) Um veículo trafegando por uma via em aclive, terá sempre, a preferância de passagem em relação a outro veículo que transita por uma via plana.",
+        "respD": "d) Os veículos destinados ao transporte de escolares gozam de preferência de passagem sobre os veículos de cargas.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quanto ao uso de luz em veículo automotor, é correto afirmar que:",
+        "imagem": null,
+        "respA": "a) Durante a noite, em circulação se necessário, manterá a acessa a luz de placa.",
+        "respB": "b) É necessário que todos os veículos em via pública, mantenham, durante o dia, os faróis acesos.",
+        "respC": "c) O condutor utilizará o pisca-alerta em imobilização ou situações de emergência.",
+        "respD": "d) Nos túneis providos de iluminação pública, não poderá manter acessos os faróis do veículo automotor.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Fazem parte dos equipamentos de segurança obrigatórios no veículo:",
+        "imagem": null,
+        "respA": "a) Cinto de segurança, válvula de expansão e triângulo.",
+        "respB": "b) Triângulo, macaco e tapete.",
+        "respC": "c) Macaco, ar condicionado e pneu reserva.",
+        "respD": "d) Air Bags, Cinto de segurança e Encosto de cabeça.",
+        "correta": "D",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Segundo a classificação das vias urbanas, uma via destinada apenas ao acesso às áreas restritas é chamada:",
+        "imagem": null,
+        "respA": "a) Local.",
+        "respB": "b) Secundária.",
+        "respC": "c) Particular.",
+        "respD": "d) Preferêncial.",
+        "correta": "A",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "O ciclista desmontado empurrando a bicicleta equipara-se:",
+        "imagem": null,
+        "respA": "a) Aos condutores de ciclomotores, em direitos e deveres.",
+        "respB": "b) Aos pedestres, em direitos e deveres.",
+        "respC": "c) Aos animais conduzidos em grupos por um guia.",
+        "respD": "d) As ciclistas montados, em direitos e deveres.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Em uma rodovia dotada de acostamento e marcas tracejadas, para entrar á esquerda, o condutor deve:",
+        "imagem": null,
+        "respA": "a) Seguir até encontrar um cruzamento.",
+        "respB": "b) Aguardar no acostamento à direita, para cruzar a pista com segurança.",
+        "respC": "c) Atingir o ponto central.",
+        "respD": "d) Deslocar seu veículo para a esquerda sem atingir a contramão.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando, por força maior, um veículo estiver impedido de ser removido da pista de rolamento ou acostamento, o seu condutor deverá colocar o triângulo de segurança...",
+        "imagem": null,
+        "respA": "a) Ao lado do veículo.",
+        "respB": "b) A uma distancia segura, para que os demais condutores sejam prevenidos a tempo do fato.",
+        "respC": "c) A 1 (um) metro de distância do veículo para que os demais condutores  vejam melhor.",
+        "respD": "d) Dentro do veículo, na parte traseira, para conservá-lo por mais tempo.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "No acostamento é permitido:",
+        "imagem": null,
+        "respA": "a) Estacionar em qualquer situação.",
+        "respB": "b) Circular com bicicletas, havendo local apropriado.",
+        "respC": "c) Parar ou estacionar veículos em situação de emergência, desde que devidamente sinalizado.",
+        "respD": "d) Trafegar com veículos automotores.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Observe o desenho abaixo e responda:o veículo que tem preferência de passagem é o:",
+        "imagem": "circulacao_simu_1341272688.png",
+        "respA": "a) Veículo 3, em relação ao veículo 2.",
+        "respB": "b) Veículo 1, em relação ao veículo 2.",
+        "respC": "c) Veículo 4, em relação ao veículo 3.",
+        "respD": "d) Veículo 2, em relação ao veículo 4.",
+        "correta": "B",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Denomina-se motocicleta:",
+        "imagem": null,
+        "respA": "a) Veículo automotor de duas rodas, dirigido por condutor em posição sentada.",
+        "respB": "b) Veículo automotor, cuja carroceria seja fechada e destinada a alojamentos, escritório, comércio ou finalidades análogas.",
+        "respC": "c) Veículo automotor de duas rodas, com ou sem sidecar, dirigido por condutor em posição montada.",
+        "respD": "d) Veículo automotor de transporte coletivo.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Quando o veículo ficar imobilizado na via por falta de combustível, o condutor ficará sujeito a:",
+        "imagem": null,
+        "respA": "a) Retenção do veículo, apenas.",
+        "respB": "b) Multa, apenas.",
+        "respC": "c) Multa e remoção do veículo.",
+        "respD": "d) Remoção do veículo, apenas.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    },
+    {
+        "pergunta": "Por quanto tempo o processo de habilitação ficará ativo no DETRAN?",
+        "imagem": null,
+        "respA": "a) 5 anos.",
+        "respB": "b) 2 anos.",
+        "respC": "c) 1 ano.",
+        "respD": "d) 6 meses.",
+        "correta": "C",
+        "modulo" : "legislacao"
+    }
+]
