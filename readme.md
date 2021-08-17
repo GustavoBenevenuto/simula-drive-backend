@@ -38,7 +38,7 @@
     
     4.4 Criar migration manualmente: ```yarn typeorm migration:create -n PopulandoTabelaNova_NOME_TABELA```
 
-5. Rodar o servidor: ```yarn dev:server```
+5. Rodar o servidor: ```yarn server```
 
 ## Tarefas
 - [x] Criação das Rotas
