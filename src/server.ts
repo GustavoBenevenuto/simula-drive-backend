@@ -32,7 +32,7 @@ app.use((erro: AppError, request : Request,  response : Response, next : NextFun
     })
 });
 
-app.listen(3333, () => {
+app.listen(process.env.PORT || 3333, () => {
     console.log(' ');
     console.log('Servidor rodando... 🚀');
     console.log('http://localhost:3333/');

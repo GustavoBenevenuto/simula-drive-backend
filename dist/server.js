@@ -29,7 +29,7 @@ app.use(function (erro, request, response, next) {
         message: 'Erro interno no serviror',
     });
 });
-app.listen(3333, function () {
+app.listen(process.env.PORT || 3333, function () {
     console.log(' ');
     console.log('Servidor rodando... 🚀');
     console.log('http://localhost:3333/');
