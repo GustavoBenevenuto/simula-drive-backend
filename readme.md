@@ -39,3 +39,17 @@
     4.4 Criar migration manualmente: ```yarn typeorm migration:create -n PopulandoTabelaNova_NOME_TABELA```
 
 5. Rodar o servidor: ```yarn dev:server```
+
+## Tarefas
+- [x] Criação das Rotas
+    - [x] Criação da rota de _questao_ 
+- [x] Criação do Database
+    - [x] Migrations de criação de tabela
+    - [x] Migrations de inserção de todas as questões no banco
+- [x] Criação do Model
+- [x] Criação do Repository
+- [x] Criação do Service
+- [x] Generalização dos erros
+- [x] Limite mámixo e embaralhamento das questões
+- [ ] Publicar banck-end
+- [ ] Adicionar uma rota que retorne todas categorias juntas
