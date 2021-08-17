@@ -26,7 +26,7 @@
 
 2. Baixar um SGBD como o **PG Admin 4**
 
-3. Criar o banco **driver_license** pelo SGBD
+3. Criar o banco **simula_drive** pelo SGBD
 
 4. Migrations 
     
