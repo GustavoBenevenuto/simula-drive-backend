@@ -7,12 +7,12 @@ module.exports = {
     //   "username": "postgres",
     //   "password": "postgres",
     //   "database": "simula_drive",
-    "dialectOptions": {
-        "ssl": {
-            require: true,
-            rejectUnauthorized: false
-        }
-    },
+    // "dialectOptions": {
+    //     "ssl": {
+    //         require: true,
+    //         rejectUnauthorized: false
+    //     }
+    // },
     "entities": [
         "./dist/models/*.js"
     ],
