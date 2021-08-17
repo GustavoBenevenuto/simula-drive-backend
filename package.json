@@ -1,5 +1,5 @@
 {
-  "name": "backend-simulados-transito",
+  "name": "simula-drive",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -18,6 +18,8 @@
   },
   "scripts": {
     "server": "ts-node-dev --inspect --no-deps src/server.ts",
-    "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js"
+    "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js",
+    "build" : "tsc",
+    "start": "node dist/server.js"
   }
 }
