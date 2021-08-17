@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "pg": "^8.7.1",
@@ -19,7 +20,7 @@
   "scripts": {
     "server": "ts-node-dev --inspect --no-deps src/server.ts",
     "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js",
-    "build" : "tsc",
+    "build": "tsc",
     "start": "node dist/server.js"
   }
 }

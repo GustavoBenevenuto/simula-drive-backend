@@ -1,3 +1,4 @@
+import dotenv from 'dotenv';
 import 'reflect-metadata'; // Usa por causa dos decorators
 import express,{Request, Response, NextFunction} from 'express';
 import 'express-async-errors';
@@ -5,11 +6,7 @@ import routes from './routes';
 import './database';
 import AppError from './errors/AppError';
 
-// function myMiddleware(req, res, next) {
-//     req.myField : String;
-//     next();
-//   }
-  
+dotenv.config();
 
 const app = express();
 
