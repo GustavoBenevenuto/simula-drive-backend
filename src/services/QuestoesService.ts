@@ -11,12 +11,20 @@ export default class QuestoesService {
     static async execute(modulo: string): Promise<Questoes[]> {
         const questoesRepository = getCustomRepository(QuestoesRepository);
 
-        const existeModulo = this.TODOS_MODULOS.includes(modulo);
+        const modulos = modulo.split(',');
+
+        let existeModulo = true;
+
+        for(let modulo of modulos){
+            if(existeModulo)
+                existeModulo = this.TODOS_MODULOS.includes(modulo);
+        }
+
 
         if (!existeModulo)
             throw new AppError('Módulo incorreto ou inexistente.', 400);
 
-        const questoes = await questoesRepository.buscaPorModulo(modulo);
+        const questoes = await questoesRepository.buscaPorModulo(modulos);
 
         if (questoes == null)
             throw new AppError('Não existe questões.', 400);
