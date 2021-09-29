@@ -1,8 +1,8 @@
-console.log("✨DOTENV >>> " + process.env.DATABASE_URL);
-console.log("🎇 NODE_ENV >>> " + process.env.NODE_ENV);
-console.log("🎇 FOLDER_ORM >>> " + process.env.FOLDER_ORM);
-console.log("🎇 FILE_EXTENSION >>> " + process.env.FILE_EXTENSION);
-console.log("🎇 ENVIRONMENT >>> " + process.env.ENVIRONMENT);
+// console.log("✨DOTENV >>> " + process.env.DATABASE_URL);
+// console.log("🎇 NODE_ENV >>> " + process.env.NODE_ENV);
+// console.log("🎇 FOLDER_ORM >>> " + process.env.FOLDER_ORM);
+// console.log("🎇 FILE_EXTENSION >>> " + process.env.FILE_EXTENSION);
+// console.log("🎇 ENVIRONMENT >>> " + process.env.ENVIRONMENT);
 
 const orm = {
     "type": "postgres",
