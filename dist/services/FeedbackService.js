@@ -1,25 +1,4 @@
 "use strict";
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = function (d, b) {
-        extendStatics = Object.setPrototypeOf ||
-            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-            function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
-        return extendStatics(d, b);
-    };
-    return function (d, b) {
-        if (typeof b !== "function" && b !== null)
-            throw new TypeError("Class extends value " + String(b) + " is not a constructor or null");
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -61,32 +40,27 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var typeorm_1 = require("typeorm");
-var Questoes_1 = __importDefault(require("../models/Questoes"));
-var QuestoesRepository = /** @class */ (function (_super) {
-    __extends(QuestoesRepository, _super);
-    function QuestoesRepository() {
-        return _super !== null && _super.apply(this, arguments) || this;
+var AppError_1 = __importDefault(require("../errors/AppError"));
+var Feedback_1 = __importDefault(require("../models/Feedback"));
+var FeedbackService = /** @class */ (function () {
+    function FeedbackService() {
     }
-    QuestoesRepository.prototype.buscaPorModulo = function (modulos) {
+    FeedbackService.prototype.execute = function (feedback) {
         return __awaiter(this, void 0, void 0, function () {
-            var questoes;
+            var feedbackRepository, feedbackSalvo;
             return __generator(this, function (_a) {
-                switch (_a.label) {
-                    case 0: return [4 /*yield*/, this.find({
-                            where: {
-                                modulo: typeorm_1.Any(modulos)
-                            }
-                        })];
-                    case 1:
-                        questoes = _a.sent();
-                        return [2 /*return*/, questoes];
-                }
+                feedbackRepository = typeorm_1.getRepository(Feedback_1.default);
+                if (feedback.tipo_feedback == null || feedback.tipo_feedback != 'avaliacao' && feedback.tipo_feedback != 'report')
+                    throw new AppError_1.default('Deve informar o tipo do feedback [avaliacao | report].', 400);
+                if (feedback.tipo_feedback == 'report' && feedback.id_questao == null)
+                    throw new AppError_1.default('Em caso de [tipo_feedback=report], deve-se informar o ID da questão.', 400);
+                if (feedback.tipo_feedback == 'avaliacao' && feedback.avaliacao == null)
+                    throw new AppError_1.default('Em caso de [tipo_feedback=avaliacao], deve-se informar o valor da AVALIACAO.', 400);
+                feedbackSalvo = feedbackRepository.save(feedback);
+                return [2 /*return*/, feedbackSalvo];
             });
         });
     };
-    QuestoesRepository = __decorate([
-        typeorm_1.EntityRepository(Questoes_1.default)
-    ], QuestoesRepository);
-    return QuestoesRepository;
-}(typeorm_1.Repository));
-exports.default = QuestoesRepository;
+    return FeedbackService;
+}());
+exports.default = FeedbackService;

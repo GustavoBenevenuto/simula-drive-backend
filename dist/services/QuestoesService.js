@@ -58,15 +58,21 @@ var QuestoesService = /** @class */ (function () {
     }
     QuestoesService.execute = function (modulo) {
         return __awaiter(this, void 0, void 0, function () {
-            var questoesRepository, existeModulo, questoes, questoesService, questoesAleatorias, resultado;
+            var questoesRepository, modulos, existeModulo, _i, modulos_1, modulo_1, questoes, questoesService, questoesAleatorias, resultado;
             return __generator(this, function (_a) {
                 switch (_a.label) {
                     case 0:
                         questoesRepository = typeorm_1.getCustomRepository(QuestoesRepository_1.default);
-                        existeModulo = this.TODOS_MODULOS.includes(modulo);
+                        modulos = modulo.split(',');
+                        existeModulo = true;
+                        for (_i = 0, modulos_1 = modulos; _i < modulos_1.length; _i++) {
+                            modulo_1 = modulos_1[_i];
+                            if (existeModulo)
+                                existeModulo = this.TODOS_MODULOS.includes(modulo_1);
+                        }
                         if (!existeModulo)
                             throw new AppError_1.default('Módulo incorreto ou inexistente.', 400);
-                        return [4 /*yield*/, questoesRepository.buscaPorModulo(modulo)];
+                        return [4 /*yield*/, questoesRepository.buscaPorModulo(modulos)];
                     case 1:
                         questoes = _a.sent();
                         if (questoes == null)

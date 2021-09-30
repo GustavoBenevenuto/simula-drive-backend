@@ -1,25 +1,4 @@
 "use strict";
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = function (d, b) {
-        extendStatics = Object.setPrototypeOf ||
-            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-            function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
-        return extendStatics(d, b);
-    };
-    return function (d, b) {
-        if (typeof b !== "function" && b !== null)
-            throw new TypeError("Class extends value " + String(b) + " is not a constructor or null");
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -60,33 +39,25 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var typeorm_1 = require("typeorm");
-var Questoes_1 = __importDefault(require("../models/Questoes"));
-var QuestoesRepository = /** @class */ (function (_super) {
-    __extends(QuestoesRepository, _super);
-    function QuestoesRepository() {
-        return _super !== null && _super.apply(this, arguments) || this;
-    }
-    QuestoesRepository.prototype.buscaPorModulo = function (modulos) {
-        return __awaiter(this, void 0, void 0, function () {
-            var questoes;
-            return __generator(this, function (_a) {
-                switch (_a.label) {
-                    case 0: return [4 /*yield*/, this.find({
-                            where: {
-                                modulo: typeorm_1.Any(modulos)
-                            }
-                        })];
-                    case 1:
-                        questoes = _a.sent();
-                        return [2 /*return*/, questoes];
-                }
-            });
-        });
-    };
-    QuestoesRepository = __decorate([
-        typeorm_1.EntityRepository(Questoes_1.default)
-    ], QuestoesRepository);
-    return QuestoesRepository;
-}(typeorm_1.Repository));
-exports.default = QuestoesRepository;
+var express_1 = require("express");
+var AppError_1 = __importDefault(require("../errors/AppError"));
+var FeedbackService_1 = __importDefault(require("../services/FeedbackService"));
+var feedbackRouter = express_1.Router();
+feedbackRouter.post('/', function (request, response) { return __awaiter(void 0, void 0, void 0, function () {
+    var _a, tipo_feedback, mensagem, avaliacao, id_questao, feedback, feedbackService, resultado;
+    return __generator(this, function (_b) {
+        switch (_b.label) {
+            case 0:
+                _a = request.body, tipo_feedback = _a.tipo_feedback, mensagem = _a.mensagem, avaliacao = _a.avaliacao, id_questao = _a.id_questao;
+                if (tipo_feedback == undefined && mensagem == undefined && avaliacao == undefined && id_questao == undefined)
+                    throw new AppError_1.default('O corpo da requisição está incorreto.', 400);
+                feedback = { tipo_feedback: tipo_feedback, mensagem: mensagem, avaliacao: avaliacao, id_questao: id_questao };
+                feedbackService = new FeedbackService_1.default();
+                return [4 /*yield*/, feedbackService.execute(feedback)];
+            case 1:
+                resultado = _b.sent();
+                return [2 /*return*/, response.json(resultado)];
+        }
+    });
+}); });
+exports.default = feedbackRouter;

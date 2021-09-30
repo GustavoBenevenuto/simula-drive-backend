@@ -10,8 +10,10 @@ require("express-async-errors");
 var routes_1 = __importDefault(require("./routes"));
 require("./database");
 var AppError_1 = __importDefault(require("./errors/AppError"));
+var cors_1 = __importDefault(require("cors"));
 dotenv_1.default.config();
 var app = express_1.default();
+app.use(cors_1.default());
 app.use(express_1.default.json());
 app.use(routes_1.default);
 app.use(function (erro, request, response, next) {
@@ -23,6 +25,7 @@ app.use(function (erro, request, response, next) {
         });
     }
     // A partir daqui é um erro desconhecido, que será necessário o uso do console para poder identificar
+    console.error('💣💣 ERRO 💣💣');
     console.error(erro);
     return response.status(500).json({
         status: 'Erro',
