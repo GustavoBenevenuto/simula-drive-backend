@@ -40,16 +40,15 @@
 
 5. Rodar o servidor: ```yarn server```
 
-## Tarefas
-- [x] Criação das Rotas
-    - [x] Criação da rota de _questao_ 
-- [x] Criação do Database
-    - [x] Migrations de criação de tabela
-    - [x] Migrations de inserção de todas as questões no banco
-- [x] Criação do Model
-- [x] Criação do Repository
-- [x] Criação do Service
-- [x] Generalização dos erros
-- [x] Limite mámixo e embaralhamento das questões
-- [ ] Publicar banck-end
-- [ ] Adicionar uma rota que retorne todas categorias juntas
+## Guia Produção
+1. Rodar migrations em produção atráves do terminal
+    
+    1.1 Entrar no servidor node em produção ```heroku run bash```
+
+    1.2 Realizar o login
+    
+    1.3 Rodar as migrations ```npx typeorm migration:run```
+
+2. Acessar o Banco de produção
+
+    2.0 ```heroku pg:psql```
