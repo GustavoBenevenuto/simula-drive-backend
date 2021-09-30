@@ -14,17 +14,17 @@ export default class FeedbackService {
 
         const feedbackRepository = getRepository(Feedback);
         
-        if (feedback.tipo_feedback == null || feedback.tipo_feedback != 'avaliacao' && feedback.tipo_feedback != 'report')
-            throw new AppError('Deve informar o tipo do feedback [avaliacao | report].', 400);
+        if (feedback.tipo_feedback == null || feedback.tipo_feedback != 'AVALIACAO' && feedback.tipo_feedback != 'REPORT')
+            throw new AppError('Deve informar o tipo do feedback [AVALIACAO | REPORT].', 400);
 
-        if (feedback.tipo_feedback == 'report' && feedback.id_questao == null)
-            throw new AppError('Em caso de [tipo_feedback=report], deve-se informar o ID da questão.', 400);
+        if (feedback.tipo_feedback == 'REPORT' && feedback.id_questao == null)
+            throw new AppError('Em caso de [tipo_feedback=REPORT], deve-se informar o ID da questão.', 400);
 
-        if (feedback.tipo_feedback == 'avaliacao' && feedback.avaliacao == null)
-            throw new AppError('Em caso de [tipo_feedback=avaliacao], deve-se informar o valor da AVALIACAO.', 400);
+        if (feedback.tipo_feedback == 'AVALIACAO' && feedback.avaliacao == null)
+            throw new AppError('Em caso de [tipo_feedback=AVALIACAO], deve-se informar o valor da AVALIACAO.', 400);
 
-        const feedbackSalvo = feedbackRepository.save(feedback);
-
+        const feedbackSalvo = await feedbackRepository.save(feedback);
+        
         return feedbackSalvo;
     }
 }

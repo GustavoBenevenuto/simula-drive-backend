@@ -12,7 +12,7 @@ export default class Feedback {
     @Column({nullable: true})
     mensagem: string;
     
-    @Column({nullable: true, default: 0})
+    @Column({type:'decimal', nullable: true, default: 0})
     avaliacao: number;
     
     @ManyToOne(type => Questoes, feedback => Feedback)
