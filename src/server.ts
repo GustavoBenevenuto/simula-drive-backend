@@ -27,6 +27,7 @@ app.use((erro: AppError, request : Request,  response : Response, next : NextFun
     }
     
     // A partir daqui é um erro desconhecido, que será necessário o uso do console para poder identificar
+    console.error('💣💣 ERRO 💣💣');
     console.error(erro);
     
     return response.status(500).json({
