@@ -32,7 +32,7 @@ var Feedback = /** @class */ (function () {
         __metadata("design:type", String)
     ], Feedback.prototype, "mensagem", void 0);
     __decorate([
-        typeorm_1.Column({ nullable: true, default: 0 }),
+        typeorm_1.Column({ type: 'decimal', nullable: true, default: 0 }),
         __metadata("design:type", Number)
     ], Feedback.prototype, "avaliacao", void 0);
     __decorate([

@@ -49,15 +49,20 @@ var FeedbackService = /** @class */ (function () {
         return __awaiter(this, void 0, void 0, function () {
             var feedbackRepository, feedbackSalvo;
             return __generator(this, function (_a) {
-                feedbackRepository = typeorm_1.getRepository(Feedback_1.default);
-                if (feedback.tipo_feedback == null || feedback.tipo_feedback != 'avaliacao' && feedback.tipo_feedback != 'report')
-                    throw new AppError_1.default('Deve informar o tipo do feedback [avaliacao | report].', 400);
-                if (feedback.tipo_feedback == 'report' && feedback.id_questao == null)
-                    throw new AppError_1.default('Em caso de [tipo_feedback=report], deve-se informar o ID da questão.', 400);
-                if (feedback.tipo_feedback == 'avaliacao' && feedback.avaliacao == null)
-                    throw new AppError_1.default('Em caso de [tipo_feedback=avaliacao], deve-se informar o valor da AVALIACAO.', 400);
-                feedbackSalvo = feedbackRepository.save(feedback);
-                return [2 /*return*/, feedbackSalvo];
+                switch (_a.label) {
+                    case 0:
+                        feedbackRepository = typeorm_1.getRepository(Feedback_1.default);
+                        if (feedback.tipo_feedback == null || feedback.tipo_feedback != 'AVALIACAO' && feedback.tipo_feedback != 'REPORT')
+                            throw new AppError_1.default('Deve informar o tipo do feedback [AVALIACAO | REPORT].', 400);
+                        if (feedback.tipo_feedback == 'REPORT' && feedback.id_questao == null)
+                            throw new AppError_1.default('Em caso de [tipo_feedback=REPORT], deve-se informar o ID da questão.', 400);
+                        if (feedback.tipo_feedback == 'AVALIACAO' && feedback.avaliacao == null)
+                            throw new AppError_1.default('Em caso de [tipo_feedback=AVALIACAO], deve-se informar o valor da AVALIACAO.', 400);
+                        return [4 /*yield*/, feedbackRepository.save(feedback)];
+                    case 1:
+                        feedbackSalvo = _a.sent();
+                        return [2 /*return*/, feedbackSalvo];
+                }
             });
         });
     };

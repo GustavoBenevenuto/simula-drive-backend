@@ -1,25 +1,4 @@
 "use strict";
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = function (d, b) {
-        extendStatics = Object.setPrototypeOf ||
-            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-            function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
-        return extendStatics(d, b);
-    };
-    return function (d, b) {
-        if (typeof b !== "function" && b !== null)
-            throw new TypeError("Class extends value " + String(b) + " is not a constructor or null");
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -56,38 +35,42 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
 Object.defineProperty(exports, "__esModule", { value: true });
-var typeorm_1 = require("typeorm");
-var Questoes_1 = __importDefault(require("../models/Questoes"));
-var QuestoesRepository = /** @class */ (function (_super) {
-    __extends(QuestoesRepository, _super);
-    function QuestoesRepository() {
-        return _super !== null && _super.apply(this, arguments) || this;
+exports.AjusteTabelaFeedback1633045120503 = void 0;
+var AjusteTabelaFeedback1633045120503 = /** @class */ (function () {
+    function AjusteTabelaFeedback1633045120503() {
+        this.name = 'AjusteTabelaFeedback1633045120503';
     }
-    QuestoesRepository.prototype.buscaPorModulo = function (modulos) {
+    AjusteTabelaFeedback1633045120503.prototype.up = function (queryRunner) {
         return __awaiter(this, void 0, void 0, function () {
-            var questoes;
             return __generator(this, function (_a) {
                 switch (_a.label) {
-                    case 0: return [4 /*yield*/, this.find({
-                            where: {
-                                modulo: typeorm_1.Any(modulos),
-                                imagem: null
-                            }
-                        })];
+                    case 0: return [4 /*yield*/, queryRunner.query("ALTER TABLE \"feedback\" DROP COLUMN \"avaliacao\"")];
                     case 1:
-                        questoes = _a.sent();
-                        return [2 /*return*/, questoes];
+                        _a.sent();
+                        return [4 /*yield*/, queryRunner.query("ALTER TABLE \"feedback\" ADD \"avaliacao\" numeric DEFAULT '0'")];
+                    case 2:
+                        _a.sent();
+                        return [2 /*return*/];
                 }
             });
         });
     };
-    QuestoesRepository = __decorate([
-        typeorm_1.EntityRepository(Questoes_1.default)
-    ], QuestoesRepository);
-    return QuestoesRepository;
-}(typeorm_1.Repository));
-exports.default = QuestoesRepository;
+    AjusteTabelaFeedback1633045120503.prototype.down = function (queryRunner) {
+        return __awaiter(this, void 0, void 0, function () {
+            return __generator(this, function (_a) {
+                switch (_a.label) {
+                    case 0: return [4 /*yield*/, queryRunner.query("ALTER TABLE \"feedback\" DROP COLUMN \"avaliacao\"")];
+                    case 1:
+                        _a.sent();
+                        return [4 /*yield*/, queryRunner.query("ALTER TABLE \"feedback\" ADD \"avaliacao\" integer DEFAULT '0'")];
+                    case 2:
+                        _a.sent();
+                        return [2 /*return*/];
+                }
+            });
+        });
+    };
+    return AjusteTabelaFeedback1633045120503;
+}());
+exports.AjusteTabelaFeedback1633045120503 = AjusteTabelaFeedback1633045120503;
