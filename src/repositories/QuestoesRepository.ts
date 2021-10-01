@@ -6,7 +6,8 @@ export default class QuestoesRepository extends Repository<Questoes> {
     public async buscaPorModulo(modulos: string[]): Promise<Questoes[] | null>{
         const questoes = await this.find({
             where:{
-                modulo: Any(modulos) 
+                modulo: Any(modulos),
+                imagem: null
             }
         });
 
